@@ -293,8 +293,37 @@ document.addEventListener("DOMContentLoaded", function() {
       window.history.replaceState({}, '', url);
     });
   }
+  
+  // Check if running as a web app and article is open
+  if (window.navigator.standalone && document.getElementById("share-button")) {
+      document.getElementById("share-button").style.display = "inline-block";
+  }
 });
 
+function shareArticle() {
+    const url = window.location.href;
+
+    // Check if Web Share API is supported
+    if (navigator.share) {
+        navigator.share({
+            title: document.title,
+            url: url
+        }).then(() => {
+            console.log("Successfully shared.");
+        }).catch((error) => {
+            console.log("Error sharing:", error);
+        });
+    } else {
+      // Fallback to copying URL to clipboard
+      const textArea = document.createElement("textarea");
+      textArea.value = text;
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand("Copy");
+      textArea.remove();
+      alert("URL copied to clipboard.");
+    }
+}
 
 // Open or create the database
 let db;
@@ -360,6 +389,8 @@ function retrieveAllData(callback) {
     if (request.result && request.result.expireTime > currentTime) {
       callback(request.result.content);
     } else {
+      const delTransaction = db.transaction(["myData"], "readwrite");
+    delTransaction.objectStore("myData").delete("allData");
       callback(null);
     }
   };

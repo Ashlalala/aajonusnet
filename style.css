@@ -106,6 +106,16 @@ h1, .header {
     background-color: #DDD;
 }
 
+#share-button {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#share-button:hover path {
+    fill: #DDD;
+}
+
 .read-more {
     color: #fff;
     text-decoration: underline;

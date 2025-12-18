@@ -19,12 +19,14 @@ function populateArticleMap() {
     global $articleMap, $categoryMap;
     $mdFolder = 'md';
     $mdFolderLength = strlen($mdFolder) + 1;
-    $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder));
+    $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder,  FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::SELF_FIRST);
     foreach ($files as $file) {
         $filePath = $file->getPathname();
         if ($file->isDir()) {
-            $category = str_replace('md/', '', $filePath);
-            $category = rtrim($category, '/..');
+            $category = str_replace($mdFolder . '/', '', $filePath);
+             if ($category === '..' || $category === '.') {
+                continue; // skip parent and current directory markers
+            }
             $sanitizedCategory = sanitizeFileName($category);
             $categoryMap[$sanitizedCategory] = $category;
             continue;
@@ -56,7 +58,7 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=1">
+    <link rel="stylesheet" href="style.css?v=6">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <meta name="title" content="News">
@@ -78,6 +80,11 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
                 <button class="back-button" onclick="goBack()">←</button>
             <?php } ?>
             <a class="title" href="/"><h1><?php echo $dynamicTitle; ?></h1></a>
+        <?php if ($originalFile) { ?>
+<div id="share-button" onclick="shareArticle()" style="display: none;" role="button" tabindex="0">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"></path></svg>
+</div>
+        <?php } ?>
         </div>
     </div>
     <?php 
@@ -217,7 +224,7 @@ usort($articles, function ($a, $b) use ($prioritizeCategories) {
                 ?>
                 
                 <div class="card-md" 
-                <?php if (strpos(strtolower($filePath), $lowerFolderName) === false) 
+                <?php if (strpos(strtolower($category), $lowerFolderName) === false) 
                 echo ' style="display: none;"'; 
                    $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName; ?>>
                     <span class="category"><?php echo $category;?></span>
@@ -291,6 +298,7 @@ if (isset($_GET['pos'])) {
 $content = str_replace($scrollToThisPlaceholder, '<span id="scrollToThis"></span>', $content);
      //$category = basename(dirname($file));
 
+         $content = preg_replace('/!\[\[(.*?) \| (\d+)\]\]/', '<img src="imgs/$1" alt="$1" width="$2">', $content);
          $content = preg_replace('/!\[(.*?)\]\((.*?)\)/', '![$1](imgs/$2)', $content);
          $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](imgs/$1 "Title")', $content);
          $htmlContent = $Parsedown->text($content);
@@ -326,6 +334,6 @@ if (isset($_GET['s'])) {
 </div>  
     <?php } ?>
     <div class="results"></div>
-    <script src="index.js?v=191"></script>
+    <script src="index.js?v=194"></script>
 </body>
 </html>
