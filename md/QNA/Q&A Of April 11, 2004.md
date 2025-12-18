@@ -538,11 +538,11 @@ A: Pardon?
 
 Q: Is that more than a desktop?
 
-A: No, a desktop is worse. A tower is worse. You have to keep that three feet away. So he said, and he took the meter and he went from the laptop and he says, you need to get yourself a separate keyboard. And here's how far you need to keep it. And when the needle went down to .5 to zero is where I keep the keyboard from my, plug it into my laptop. Next day, after that, all the pain went. Completely. So all this carpel tunnel syndrome is all bullshit.
+A: No, a desktop is worse. A tower is worse. You have to keep that three feet away. So he said, and he took the meter and he went from the laptop and he says, you need to get yourself a separate keyboard. And here's how far you need to keep it. And when the needle went down to .5 to zero is where I keep the keyboard from my, plug it into my laptop. Next day, after that, all the pain went. Completely. So all this carpal tunnel syndrome is all bullshit.
 
 Q: I have it.
 
-A: But I mean, it's not from being physicians. It's not from ergonomics. It's from the electricity coming from these machines. People used to have these old fashioned typewriters where you had to pound. Can you imagine how much energy went into it? No carpel tunnel. Electric typewriters came in. And then computers. And everybody's got these electrical fields hitting them all over their hands while they're working.
+A: But I mean, it's not from being physicians. It's not from ergonomics. It's from the electricity coming from these machines. People used to have these old fashioned typewriters where you had to pound. Can you imagine how much energy went into it? No carpal tunnel. Electric typewriters came in. And then computers. And everybody's got these electrical fields hitting them all over their hands while they're working.
 
 Q: So you get the tower too?
 

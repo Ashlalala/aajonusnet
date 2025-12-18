@@ -2087,7 +2087,7 @@ Decay’ – I mean I have that book and he basically talks about the diet –
 and if you’re on this diet that it will fill up naturally; it will heal itself
 naturally – cavities.
 
-Yeah, but it takes years – I had to be on the diet 15 years before it started
+A: Yeah, but it takes years – I had to be on the diet 15 years before it started
 making a difference in my teeth.
 
 G: Yeah?

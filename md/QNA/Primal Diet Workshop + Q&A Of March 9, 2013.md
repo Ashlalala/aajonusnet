@@ -820,11 +820,11 @@ A: Yeah, I do now.
 
 Q: Okay. 
 
-A: Yeah, I leave mine open. I've had about six facials gone from these teeth, and you see none of them are black.
+A: Yeah, I leave mine open. I've had about six fissures gone from these teeth, and you see none of them are black.
 
 Q: Yeah, yeah.
 
-A: Most people's will turn black. I got to the point where my facials were growing outward. My body was pushing it outwards as new tooth was growing under. So then that facial would pop out. And then I go to the dentist and he'd drill down and put it right back where it was before. So I said, you cannot drill the tooth anymore. You just scrape some of the epoxy off from the last time, and you go over to the same place. So I can keep adding tooth. So that's what I've been doing for five years. And it is slowly. But this tooth right here was two-thirds capped. And it's one-fourth filled back in. But it took me 28 years to get to that point where my body started filling in tooth again without decaying. It's exposed to acids and everything. But they're the natural acids, there's not a lot of contamination. I did have some problem after the injections for a while. But that is toned again. My teeth seem to be recovering better again. 
+A: Most people's will turn black. I got to the point where my fissures were growing outward. My body was pushing it outwards as new tooth was growing under. So then that fissure would pop out. And then I go to the dentist and he'd drill down and put it right back where it was before. So I said, you cannot drill the tooth anymore. You just scrape some of the epoxy off from the last time, and you go over to the same place. So I can keep adding tooth. So that's what I've been doing for five years. And it is slowly. But this tooth right here was two-thirds capped. And it's one-fourth filled back in. But it took me 28 years to get to that point where my body started filling in tooth again without decaying. It's exposed to acids and everything. But they're the natural acids, there's not a lot of contamination. I did have some problem after the injections for a while. But that is toned again. My teeth seem to be recovering better again. 
 
 Q: What do you recommend for people with root...
 

@@ -186,7 +186,7 @@ A: Gold? No. No. Tinnitus is from swelling in the ear canal. You've got some kin
 
 Q: [unintelligible]
 
-A: Mercury out? No. I say, if somebody has cancer, you can wait until you get through with the cancer first. Laurie had 30 tumors, 20 to 30 tumors in her right breast. Her right breast was a third larger than the left. Hard as rock. She had cancer in the right hip bone, and on the right kidney attached to the adrenal gland. She had a mouth full of amalgams. And I suggested that she wait until she stabilized. And it took her two years to get rid of all the cancer in the breast. She couldn't get rid of the ones in the hip or the kidney, and the adrenal gland. So I suggested after three and a half years on the diet, eat some fecal matter. Because the University of Toronto was using the verotoxin, the by-product that you caught, to completely dissolve human brain tumors in two to seven days, including the vessels going to it. And they've been doing that now, they've been doing that for 29 years. Why isn't that out there? Why isn't that information out there?
+A: Mercury out? No. I say, if somebody has cancer, you can wait until you get through with the cancer first. Lori had 30 tumors, 20 to 30 tumors in her right breast. Her right breast was a third larger than the left. Hard as rock. She had cancer in the right hip bone, and on the right kidney attached to the adrenal gland. She had a mouth full of amalgams. And I suggested that she wait until she stabilized. And it took her two years to get rid of all the cancer in the breast. She couldn't get rid of the ones in the hip or the kidney, and the adrenal gland. So I suggested after three and a half years on the diet, eat some fecal matter. Because the University of Toronto was using the verotoxin, the by-product that you caught, to completely dissolve human brain tumors in two to seven days, including the vessels going to it. And they've been doing that now, they've been doing that for 29 years. Why isn't that out there? Why isn't that information out there?
 
 Q: [unintelligible]
 
@@ -206,7 +206,7 @@ A: No, that was the test that they've been doing at the University of Toronto fo
 
 Q: [unintelligible]
 
-A: Well, Laurie ate a lot of high meat and it didn't remove those tumors. The breast tumor it did, but the tumor of the kidney, the adrenaline, the hip bone, it didn't remove that. The fecal matter did quite fast. Okay, in that meat you just let meat oxidize with a lot of bacteria and it stinks like beef.
+A: Well, Lori ate a lot of high meat and it didn't remove those tumors. The breast tumor it did, but the tumor of the kidney, the adrenaline, the hip bone, it didn't remove that. The fecal matter did quite fast. Okay, in that meat you just let meat oxidize with a lot of bacteria and it stinks like beef.
 
 Q: [unintelligible].
 

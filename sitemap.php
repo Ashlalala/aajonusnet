@@ -14,30 +14,31 @@ function sanitizeFileName($string) {
     return $string;
 }
 
-echo '<?xml version="1.0" encoding="UTF-8"?>';
-echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+$xml = '<?xml version="1.0" encoding="UTF-8"?>';
+$xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
 
 // Home Page
-echo '<url>';
-echo '<loc>' . $url . '</loc>';
-echo '<changefreq>daily</changefreq>';
-echo '<priority>1.0</priority>';
-echo '</url>';
+$xml .= '<url>';
+$xml .= '<loc>' . $url . '</loc>';
+$xml .= '<changefreq>daily</changefreq>';
+$xml .= '<priority>1.0</priority>';
+$xml .= '</url>';
 
 // Categories
 $directories = glob($mdFolder . '/*', GLOB_ONLYDIR);
 foreach ($directories as $dir) {
     $category = str_replace($mdFolder . '/', '', $dir);
     $category = sanitizeFileName($category);
-    echo '<url>';
-    echo '<loc>' . $url . $category . '</loc>';
-    echo '<changefreq>daily</changefreq>';
-    echo '<priority>0.8</priority>';
-    echo '</url>';
+    $xml .= '<url>';
+    $xml .= '<loc>' . $url . $category . '</loc>';
+    $xml .= '<changefreq>daily</changefreq>';
+    $xml .= '<priority>0.8</priority>';
+    $xml .= '</url>';
 }
 
 // Articles
 $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS | FilesystemIterator::UNIX_PATHS));
+
 foreach ($files as $file) {
     if ($file->isDir()) {
         continue;
@@ -45,12 +46,14 @@ foreach ($files as $file) {
     $filename = $file->getBasename('.' . $file->getExtension());
     $sanitizedFileName = sanitizeFileName($filename);
 
-    echo '<url>';
-    echo '<loc>' . $url . $sanitizedFileName . '</loc>';
-    echo '<changefreq>weekly</changefreq>';
-    echo '<priority>0.7</priority>';
-    echo '</url>';
+    $xml .= '<url>';
+    $xml .= '<loc>' . $url . $sanitizedFileName . '</loc>';
+    $xml .= '<changefreq>weekly</changefreq>';
+    $xml .= '<priority>0.7</priority>';
+    $xml .= '</url>';
 }
 
-echo '</urlset>';
+$xml .= '</urlset>';
+
+echo $xml;
 ?>

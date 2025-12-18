@@ -438,7 +438,7 @@ A: No, it's never permanent. But mine wasn't advancing as much as... Mine got to
 
 Q: How long did it last?
 
-A: I would say I had the effects for about six weeks, from minor to major to minor again until it was over. Severe pain lasted for about ten days, where it peaked about three days where Laurie was lifting my legs onto the couch because I just couldn't move anything from the waist down without severe pain. And sleeping in the bathtub, and that lasted probably six days. The three days where I couldn't even move myself.
+A: I would say I had the effects for about six weeks, from minor to major to minor again until it was over. Severe pain lasted for about ten days, where it peaked about three days where Lori was lifting my legs onto the couch because I just couldn't move anything from the waist down without severe pain. And sleeping in the bathtub, and that lasted probably six days. The three days where I couldn't even move myself.
 
 Q: [unintelligible]
 
