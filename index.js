@@ -231,7 +231,7 @@ document.body.addEventListener('click', function(e) {
     }
 });
 
-function filterCategory(category, element) {
+function filterCategory(category, sanitizedCategory, element) {
   // Deselect all categories
   event.preventDefault();
   var links = document.querySelectorAll('.links a');
@@ -265,13 +265,11 @@ function filterCategory(category, element) {
     notFoundMessage.style.display = 'none';
   }
 
-  var lowerCategory = category.toLowerCase();
-
   // Update URL without reloading the page
   if (category === 'All') {
     window.history.replaceState({}, '', '/');
   } else {
-    window.history.replaceState({}, '', `/${lowerCategory}/`);
+    window.history.replaceState({}, '', `/${sanitizedCategory}/`);
   }
 }
 

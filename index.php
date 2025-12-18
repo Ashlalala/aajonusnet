@@ -1,5 +1,8 @@
 <?php
 $title = "Aajonus.net";
+$description = "Raw Primal Diet: Aajonus Online Database by Aajonus Vonderplanitz";
+$url = "https://aajonus.net/";
+$sitename = "Aajonus Net";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,17 +10,17 @@ $title = "Aajonus.net";
     <meta charset="UTF-8">
     <title><?php echo $title; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://aajonus.net/">
+    <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=85">
+    <link rel="stylesheet" href="style.css?v=1">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <meta name="title" content="News">
-    <meta name="description" content="Raw Primal Diet: Aajonus Online Database by Aajonus Vonderplanitz">
+    <meta name="description" content="<?php echo $description; ?>">
     <meta property="og:title" content="News">
-    <meta property="og:description" content="Raw Primal Diet: Aajonus Online Database by Aajonus Vonderplanitz">
-    <meta property="og:url" content="https://aajonus.net/">
-    <meta property="og:site_name" content="Aajonus Net">
+    <meta property="og:description" content="<?php echo $description; ?>">
+    <meta property="og:url" content="<?php echo $url; ?>">
+    <meta property="og:site_name" content="<?php echo $sitename; ?>">
     <meta property="og:type" content="website">
     <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
@@ -33,27 +36,31 @@ function sanitizeFileName($string) {
     return $string;
 }
 $articleMap = [];
+$categoryMap = [];
 function populateArticleMap() {
-    global $articleMap;
+    global $articleMap, $categoryMap;
     $mdFolder = 'md';
     $mdFolderLength = strlen($mdFolder) + 1;
     $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder));
     foreach ($files as $file) {
+        $filePath = $file->getPathname();
         if ($file->isDir()) {
+            $category = str_replace('md/', '', $filePath);
+            $category = rtrim($category, '/..');
+            $sanitizedCategory = sanitizeFileName($category);
+            $categoryMap[$sanitizedCategory] = $category;
             continue;
         }
-        $filePath = $file->getPathname();
         $filename = $file->getBasename('.md');
         $sanitizedName = sanitizeFileName($filename);
         $relativePath = substr($filePath, $mdFolderLength, -3);  // Remove 'md/' and '.md' from the path
         $articleMap[$sanitizedName] = $relativePath;
     }
 }
-
 populateArticleMap();
 function findOriginalFileName($sanitizedName) {
     global $articleMap;
-    $sanitizedName = strtolower($sanitizedName); // Convert to lowercase before lookup
+    $sanitizedName = strtolower($sanitizedName);
     return $articleMap[$sanitizedName] ?? null;
 }
 $uri = parse_url(strtok($_SERVER['REQUEST_URI'], '&'), PHP_URL_PATH);
@@ -79,22 +86,24 @@ if (!$originalFile) { ?>
         </div>
         <!-- Links -->
 	    <div class="links">
-    		    <a href="#" onclick="filterCategory('All', this)">All</a>
+    		    <a href="#" onclick="filterCategory('All', 'All', this)">All</a>
     		    <?php 
    		    $mdFolder = 'md';
     		    $directories = glob($mdFolder . '/*', GLOB_ONLYDIR);
             $folderName = '';
             if (isset($_GET['category'])) {
                 $folderName = str_replace("/index.php", "", $_GET['category']);
+                $folderName = $categoryMap[$folderName] ?? null;
             }
     		    foreach ($directories as $dir) {
        		    $category = str_replace('md', '', basename($dir));
+                 $sanitizedCategory = sanitizeFileName($category);
                   $selectedClass = '';
 
                   if (isset($folderName) && strtolower($category) === strtolower($folderName)) {
                      $selectedClass = 'chosen-link';
                   }
-        		    echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', this)">' . $category . '</a><br>';
+        		    echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
    		    }
    		    ?>
 	    </div>
@@ -144,7 +153,8 @@ if (!$originalFile) { ?>
                     }
                     $category = ltrim($category, '/');
                 }
-
+                
+                $sanitizedCategory = sanitizeFileName($category);
                 $filename = $file->getBasename('.md');
                 $sanitizedName = sanitizeFileName($filename);
                 $articleMap[$sanitizedName] = $filename;
@@ -153,7 +163,7 @@ if (!$originalFile) { ?>
                 <div class="card-md" 
                 <?php if (strpos(strtolower($filePath), $lowerFolderName) === false) 
                 echo ' style="display: none;"'; 
-                   $fullUrl = strtolower($category) . '/' . $sanitizedName; ?>>
+                   $fullUrl = $sanitizedCategory . '/' . $sanitizedName; ?>>
                     <span class="category"><?php echo $category;?></span>
                     <h2><a class="read-more" href="/<?php echo $fullUrl; ?>"><?php echo $filename; ?></a></h2>
                     <?php 
@@ -223,12 +233,7 @@ if (isset($_GET['pos'])) {
     }
 
 $content = str_replace($scrollToThisPlaceholder, '<span id="scrollToThis"></span>', $content);
-     
-     $category = basename(dirname($file));
-
-if ($category == 'Workshops') {
-    $content = str_replace("\n", "\n\n", $content);
-}
+     //$category = basename(dirname($file));
 
          $content = preg_replace('/!\[(.*?)\]\((.*?)\)/', '![$1](imgs/$2)', $content);
          $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](imgs/$1 "Title")', $content);
@@ -240,13 +245,14 @@ preg_match_all('/\[\^(\d+)\]: (.*)/', $htmlContent, $notes);
 
 $footnoteRefs = $refs[1];
 $footnoteNotes = array_combine($notes[1], $notes[2]);
+$currentURL = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 foreach ($footnoteRefs as $ref) {
     $occurrences = substr_count($htmlContent, "[^$ref]");
     $counter = 0;
-    $htmlContent = preg_replace_callback("/\[\^{$ref}\]/", function ($matches) use (&$counter, $occurrences, $ref) {
+    $htmlContent = preg_replace_callback("/\[\^{$ref}\]/", function ($matches) use (&$counter, $occurrences, $ref, $currentURL) {
         $counter += 1;
         if ($counter < $occurrences) {
-            return "<a href=\"#fn{$ref}\">[{$ref}]</a>";
+            return "<a href=\"{$currentURL}#fn{$ref}\">[{$ref}]</a>";
         } else {
             return "<a id=\"fn{$ref}\">[{$ref}]</a>";
         }
@@ -256,7 +262,6 @@ foreach ($footnoteRefs as $ref) {
 if (isset($_GET['s'])) {
             echo '<button id="removeHighlights">&#10005; Highlights</button>';
         }
-                    // echo $content;
                 } else {
                     echo '<p>File not found.</p>';
                 }
@@ -265,6 +270,6 @@ if (isset($_GET['s'])) {
 </div>  
     <?php } ?>
     <div class="results"></div>
-    <script src="index.js?v=187"></script>
+    <script src="index.js?v=188"></script>
 </body>
 </html>

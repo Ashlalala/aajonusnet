@@ -72,6 +72,10 @@ h1, .header {
     margin: 0;
 }
 
+.content ol, .content ul {
+    padding-left: 15px;
+}
+
 .content ol ol {
     padding-left: 20px;
 }

@@ -24,7 +24,7 @@ echo '</url>';
 $directories = glob('md/*', GLOB_ONLYDIR);
 foreach ($directories as $dir) {
     $category = str_replace('md/', '', $dir);
-    $category = strtolower($category);
+    $category = sanitizeFileName($category);
     echo '<url>';
     echo '<loc>https://aajonus.net/' . urlencode($category) . '</loc>';
     echo '<changefreq>daily</changefreq>';

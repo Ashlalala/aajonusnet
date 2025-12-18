@@ -1,0 +1,2 @@
+The Beijing News and China Daily news reported this month that villager Jiang Musheng eats live tree frogs and rats to boost health. Sixty-six-years young Mr. Musheng stated that 40 years of eating live tree frogs and rats helped him avoid intestinal complaints and made him strong. He had suffered frequent
+abdominal pains and coughing until age 26 when an old man suggested raw tree frogs as remedy. After only one month of eating live baby rats, up to 20 daily, and tree frogs, his stomach pains and cough were completely eliminated.

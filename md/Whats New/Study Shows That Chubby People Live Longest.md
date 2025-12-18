@@ -1,0 +1,11 @@
+## Japanese Study Shows That Chubby People Live Longest
+
+Health experts have long warned of the risks of obesity. However, a new study warns that being skinny is more dangerous and that chubby people live longer.
+
+People who are a little overweight at age 40 live six to seven years longer than very thin people, whose average life expectancy was shorter by some five years than that of obese people, the study found.
+
+"We found skinny people run the highest risk," said associate professor Shinichi Kuriyama of Tohoku University's Graduate School of Medicine who worked on the long-term study of middle-aged and elderly people. The 12-years study was conducted by a health ministry team led by Professor Ichiro Tsuji and covered 50,000 people between the ages of 40 and 79 in the northern Japanese prefecture of Miyagi. "There had been an argument that thin people's lives are short because many of them are sick or smoke. But the difference was almost unchanged even when we eliminated these factors," Kuriyama said.
+
+Researchers of the team believed the main reasons for the shorter lifespans of skinny people were heightened vulnerability to diseases such as pneumonia and the fragility of their blood vessels. However, in my experience it is simply lack of fats that bind with toxins. Consider the Masai tribal communities are the skinniest, tallest people on earth. They live considerably long lives, as much as 145 years. Since Masai had not been subjected to industrial toxicity, they did not need excess fat to contain toxins and prevent bodily harm and damage. Therefore, their lifespans were unaffected.
+
+The study divided people into four weight classes at age 40 according to their body mass index (BMI), calculated by dividing a person's weight in kilograms by their squared height in meters. Normal range is 18.5 to 25. Thinness was defined as under 18.5. BMI, 25-30 was classed as slightly overweight and BMI above 30 was classed as obese. and longevity. As I have been saying for decades, in our toxic societies, raw fat is of utmost importance for health.
