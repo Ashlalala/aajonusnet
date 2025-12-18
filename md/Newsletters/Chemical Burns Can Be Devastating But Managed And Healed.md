@@ -4,6 +4,10 @@ to her lower back. I have changed her name for obvious reasons. I
 substituted my mother's name Doris to honor my mother's passing from this
 world on February 23, 2011 in her 92nd year.
 
+[Show photo 1](/imgs/pdn25_burn-1.jpg)
+
+Photo taken 7 days after chemical-detoxification burn appeared with no signs of improvement.
+
 ===
 
 Q: Hi Aajonus, I attached 4 photos of my back taken 2 days ago. The
@@ -261,6 +265,14 @@ burn better than raw thin slices of beef?
 A: I have utilized both on myself and others but did not find any
 difference as long as they were both organic.
 
+Q: I attached some pictures I took this morning of how the burn looks 16 days later. Let me know what you think. The black spots from the initial burn have turned to a light brown while the outer rim of burn is still pretty red.
+
+[Show photo 2](/imgs/pdn25_burn-2.jpg)
+
+Photo taken 15 days after burn, treated as indicated for 8 days, showing many indications of chemical detoxification and progress toward healing.
+
+A: Wonderful, it looks the way it should after 6-7 days of applications.
+
 Q: Also, do I rinse the burn with water after the honey has been on the
 wound for 8 hours? I know I rinse after the clay, but do I rinse after the
 honey and meat?
@@ -342,11 +354,12 @@ for another 24 hours is okay? How long do I do this for?
 
 A: Until you see the skin is pink without seepage that causes scabs.
 
-Q: Hi Aajonus, It looks like it's getting ready to peel off because it's
-loose and very gooey-looking in person. The clay is amazing I think in
-healing it.
+[Show photo 3](/imgs/pdn25_burn-3.jpg)
 
-Do I continue to put clay on it? What is my next move?
+Photo taken 21 days after burn, treated as indicated for 14 days, showing faster progress toward completing detoxification and healing.
+
+Q: Hi Aajonus, I just took recent photos of my burn. I decided to wash off the clay this evening and not wait until morning. Photos are attached. The lighting seemed to be a little off in the bathroom. The middle photo is probably the most accurate for color but not as clear as it could be. It did sting when the water hit the burn, but when I re-applied the clay tonight, surprisingly, it did not sting at all like it did this morning. Cannot explain it.It was almost uneventful putting the clay on tonight. Overall it looks better, even the kids think so. It's a lot smaller than it was. It's receded quite a bit. Still very tender and sore. The brown spot in the middle used to be the big black spot that you said had mercury in it. It looks like it's getting ready to peel off because it's loose and very gooey-looking in person. If you look at the original photos I sent you, the burn has changed a lot. The clay is amazing I think in healing it.
+Do I continue to put clay on it based on what you see? What is my next move?
 
 A: Hi, Doris, I suggest that you apply the clay for 24 hours more and then
 proceed to what I stated in my last email, applying honey and then a thin

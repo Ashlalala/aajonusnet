@@ -38,11 +38,8 @@
 
 
 _"I will have all the information in books. They won't need me when I_
-
 _have all the information; that's what I'm working on. Everybody will_
-
 _be able to take care of themselves if I give everybody enough_
-
 _information."_
 
 ```
@@ -1845,9 +1842,7 @@ Aajonus had high standards for foods that are good for your health, such as:
     your market. Most farmers markets do not sell waxed produce.
 
 
-## Checklist for Pure, Organic Dairy Practices &
-
-## Products for Primal Dieters
+## Checklist for Pure, Organic Dairy Practices & Products for Primal Dieters
 
 ✓ Cattle are grazed on **open, organic pasture**.
 

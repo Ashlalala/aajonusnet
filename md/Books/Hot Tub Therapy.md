@@ -1,100 +1,115 @@
 ## Table of Contents
 
-   - PREFACE...........................................................................
-- BOOK ONE................................................
-   - HOT WATER THERAPY REDEVELOPED..........................
-- CHAPTER ONE............................................
-   - THE HOT TUB IS THE BEST SOLUTION...........................
-      - The Body and Bad Fat.........................................................
-      - Hot Tub Use to Get Rid of the Bad Fat..........................
-      - After the hot tub soak..........................................................
-      - Note regarding the spleen.................................................
-      - Warning regarding being underweight......................
-      - Do not be concerned about the high heat levels......
-      - What the hot tub properly done can do.......................
-- CHAPTER TWO...........................................
-   - HOT TUB WATER ADDITIVES..........................................
-      - Suggested additives to the water...................................
-      - How to measure the amount of water in a hot tub.
-- CHAPTER THREE.........................................
-   - HOT TUB VERSUS HOT BATH.........................................
-      - Special benefits of a hot tub..............................................
-- CHAPTER FOUR..........................................
-   - HOT AND COLD THERAPY AND COOLING OFF.................
-      - Cooling off.................................................................................
-      - Hot and cold therapy...........................................................
-- CHAPTER FIVE...........................................
-   - USING A HOT TUB.......................................................... DIET SUGGESTIONS TO FACILITATE DETOXIFICATION
-      - Diet Suggestions.....................................................................
-      - Note on raw milk and raw dairy.....................................
-      - Water..........................................................................................
-- BOOK TWO...............................................
-   - TUB................................................................................ HOW TO BUILD AND MAINTAIN YOUR OWN WOOD HOT
-- CHAPTER ONE............................................
-   - CLEANEST POSSIBLE WATER TO SOAK IN....................... WATER FILTERS AND FILTER MEDIA. HOW TO GET THE
-      - How to get clean water from city water......................
-      - Ozone..........................................................................................
-      - Pool Salt Chlorinators.........................................................
-      - water........................................................................................... More on pool filtration and clean pool / hot tub
-      - Activated Carbon...................................................................
-      - Sand.............................................................................................
-      - Zeolite.........................................................................................
-      - Diatomaceous Earth............................................................
-      - Water Filter Housings.........................................................
-      - Backwashing...........................................................................
-      - Suggested filter system design.........................................
-- CHAPTER TWO...........................................
-   - HEATERS........................................................................ TYPES OF HOT TUBS, SOAKING BATHS, PUMPS AND
-      - Traditional Wood..................................................................
-      - Ofuro...........................................................................................
-      - Acrylic Spa................................................................................
-      - Blow up plastic hot tubs & metal soaking tubs........
-      - Free hot tubs............................................................................
-      - Types of pumps and heaters.............................................
-- CHAPTER THREE.........................................
-   - BUILDING A WOOD HOT TUB..........................................
-   - INTRODUCTION...............................................................
-      - Wood Selection.......................................................................
-      - Foundation...............................................................................
-      - Concrete foundation alternatives...................................
-      - Wood hot tub kits and data on brands and bands..
-- CHAPTER FOUR..........................................
-   - BUILDING A WOOD HOT TUB FROM SCRATCH................
-      - Tools needed............................................................................
-      - Materials required................................................................
-      - Hot tub size and selecting number of staves.............
-      - Base support of tub...............................................................
-      - Ring Installation....................................................................
-      - Plumbing and plumbing cuts...........................................
-      - Benches......................................................................................
-      - Sanding......................................................................................
-      - Stairs...........................................................................................
-      - Shelves........................................................................................
-- CHAPTER FIVE...........................................
-   - HOT TUB COMPONENT SET UP......................................
-      - Sequence of components for plumbing........................
-      - Jets...............................................................................................
-      - tight............................................................................................. Swelling processing and sealing the hot tub to water
-      - tub............................................................................................. How to extract tannin from the wood of a new hot
-- CHAPTER SIX...........................................
-   - OTHER INFORMATION ON HOT TUBS............................
-      - Hot Tub Transportation..................................................
-      - Cleaning..................................................................................
-      - Winterizing...........................................................................
-      - Safety.......................................................................................
-      - Insulating your wood hot tub........................................
-      - How to test the accuracy of a thermometer............
-      - Assistance...............................................................................
-- GLOSSARY:..............................................
-- ABOUT THE AUTHOR..................................
-- REFERENCES............................................
+   - PREFACE
+
+**BOOK ONE**: HOT WATER THERAPY REDEVELOPED
+
+CHAPTER ONE
+   - THE HOT TUB IS THE BEST SOLUTION
+      - The Body and Bad Fat
+      - Hot Tub Use to Get Rid of the Bad Fat
+      - After the hot tub soak
+      - Note regarding the spleen
+      - Warning regarding being underweight
+      - Do not be concerned about the high heat levels
+      - What the hot tub properly done can do
+
+CHAPTER TWO
+   - HOT TUB WATER ADDITIVES
+      - Suggested additives to the water
+      - How to measure the amount of water in a hot tub
+
+CHAPTER THREE
+   - HOT TUB VERSUS HOT BATH
+      - Special benefits of a hot tub
+
+CHAPTER FOUR
+   - HOT AND COLD THERAPY AND COOLING OFF
+      - Cooling off
+      - Hot and cold therapy
+
+CHAPTER FIVE
+   - DIET SUGGESTIONS TO FACILITATE DETOXIFICATION USING A HOT TUB
+      - Diet Suggestions
+      - Note on raw milk and raw dairy
+      - Water
+
+**BOOK TWO**: HOW TO BUILD AND MAINTAIN YOUR OWN WOOD HOT TUB
+
+CHAPTER ONE
+   - WATER FILTERS AND FILTER MEDIA HOW TO GET THE CLEANEST POSSIBLE WATER TO SOAK IN
+      - How to get clean water from city water
+      - Ozone
+      - Pool Salt Chlorinators
+      - More on pool filtration and clean pool / hot tub water
+      - Activated Carbon
+      - Sand
+      - Zeolite
+      - Diatomaceous Earth
+      - Water Filter Housings
+      - Backwashing
+      - Suggested filter system design
+
+CHAPTER TWO
+   - TYPES OF HOT TUBS, SOAKING BATHS, PUMPS AND HEATERS
+      - Traditional Wood
+      - Ofuro
+      - Acrylic Spa
+      - Blow up plastic hot tubs & metal soaking tubs
+      - Free hot tubs
+      - Types of pumps and heaters
+
+CHAPTER THREE
+   - BUILDING A WOOD HOT TUB
+   - INTRODUCTION
+      - Wood Selection
+      - Foundation
+      - Concrete foundation alternatives
+      - Wood hot tub kits and data on brands and bands
+
+CHAPTER FOUR
+   - BUILDING A WOOD HOT TUB FROM SCRATCH
+      - Tools needed
+      - Materials required
+      - Hot tub size and selecting number of staves
+      - Base support of tub
+      - Ring Installation
+      - Plumbing and plumbing cuts
+      - Benches
+      - Sanding
+      - Stairs
+      - Shelves
+
+CHAPTER FIVE
+   - HOT TUB COMPONENT SET UP
+      - Sequence of components for plumbing
+      - Jets
+      - Swelling processing and sealing the hot tub to water tight
+      - How to extract tannin from the wood of a new hot tub 
+
+CHAPTER SIX
+   - OTHER INFORMATION ON HOT TUBS
+      - Hot Tub Transportation
+      - Cleaning
+      - Winterizing
+      - Safety
+      - Insulating your wood hot tub
+      - How to test the accuracy of a thermometer
+      - Assistance
+
+GLOSSARY
+
+ABOUT THE AUTHOR
+
+REFERENCES
+
+---
 
 
-### PREFACE...........................................................................
 
-**Ancient Chinese medicine said: “Sickness is due**
+### PREFACE
 
-**to stagnation or blockage”.**
+**Ancient Chinese medicine said: “Sickness is due to stagnation or blockage”.**
 
 It has been stated that all mammals in nature live 7
 times their growth rate. That is 7 times the time it takes
@@ -220,8 +235,6 @@ oils, trans-fatty acids, deep fried foods, etc., such oils
 are not soluble in the body at the body’s ordinary
 temperatures. Such oils crystalize and harden in the
 body. They become stored in the body’s veins, arteries,
-
-
 lymph system and other areas causing many body
 problems such as illnesses, diseases and lymphatic
 congestion.
@@ -253,8 +266,6 @@ and/or pool, there is specific technology contained
 herein on how to obtain the purest water available to
 soak and swim in. Such a water filter system brings the
 water to a level of drinking water purity or as close to
-
-
 that as one can get. This has been proven to be very
 beneficial in many cases.
 
@@ -268,17 +279,14 @@ information as presented in this book. To keep things
 simple, it is being presented in layman’s terms.
 
 
-## BOOK ONE................................................
-
-### HOT WATER THERAPY REDEVELOPED..........................
+## BOOK ONE: HOT WATER THERAPY REDEVELOPED
 
 
+## CHAPTER ONE
 
-## CHAPTER ONE............................................
+### THE HOT TUB IS THE BEST SOLUTION
 
-### THE HOT TUB IS THE BEST SOLUTION...........................
-
-#### The Body and Bad Fat.........................................................
+#### The Body and Bad Fat
 
 Growing up in the world today one is bombarded with
 chemicals and toxic oils (heated well above body
@@ -329,8 +337,6 @@ for shelf life well above 112 degrees F which kills the
 natural bacteria and enzymes necessary for proper
 digestion. (112 is noted as the highest temperature
 coconut oil can still be considered raw due to SE Asia
-
-
 coconut trees living abundantly at such peak
 temperatures.)
 
@@ -347,7 +353,7 @@ if you perspire. The hottest the body can get with
 extreme exercise is 100.1 degrees Fahrenheit and this
 is not hot enough to deal with the trans-fatty acids.
 
-#### Hot Tub Use to Get Rid of the Bad Fat..........................
+#### Hot Tub Use to Get Rid of the Bad Fat
 
 Research has shown that lymphatic congestion has
 been caused by hydrogenated oils such as margarine,
@@ -381,9 +387,8 @@ benefits.
 It is vitally important that the water that is used for the
 hot tub soaking is as clean of toxic chemicals as
 possible. It needs to be as close to drinking water
-quality as it can be. Like soaking in a natural hot spring
-
-- totally clean fresh water. Our city tap water abounds
+quality as it can be. Like soaking in a natural hot spring,
+totally clean fresh water. Our city tap water abounds
 in chemical toxicity. This toxic water can be made clean
 through filtration. This is explained in detail later in the
 book.
@@ -394,8 +399,6 @@ eating good fats as part of this process, it will help
 speed the procedure. Some toxins that migrate to the
 digestive system are absorbed or bind molecularly with
 those fats and are escorted out of the body via the
-
-
 digestive system.
 
 Sauna, infrared sauna and steam baths do promote
@@ -457,12 +460,10 @@ for short periods, use good clean mineral water to
 produce the steam. Do not use municipal water which
 contains chlorine, fluoride, etc.
 
-#### After the hot tub soak..........................................................
+#### After the hot tub soak
 
 Do not just rest or go to bed or be sedentary after your
 hot tub soak. Be active so that what has been melted
-
-
 that has not already gotten out of the pores fully but is
 still in a melted state can get circulated and pushed out
 of the body more. This is a critical time for best results.
@@ -471,7 +472,7 @@ Dress in warm comfortable clothes and take a walk or
 do some light exercises or stretches if you so desire for
 at least 30 to 45 minutes after the soak.
 
-#### Note regarding the spleen.................................................
+#### Note regarding the spleen
 
 One of the jobs of the spleen is to regulate the body’s
 adaptability to cold and hot temperatures. It removes
@@ -482,7 +483,7 @@ who do not have spleens should ease into hot bath or
 hot tub and drink more fluids immediately prior to
 entering the hot water.
 
-#### Warning regarding being underweight......................
+#### Warning regarding being underweight
 
 A person who engages with this hot tub cleansing
 program as suggested should be about 10 to 15 pounds
@@ -490,14 +491,12 @@ overweight or have a 20 to 25 percent minimum body
 fat (which is normal for most people). It has been found
 that those that have less body fat than this do not have
 the necessary fat to absorb excess toxicity that is being
-
-
 extracted. Metal toxicity that is released such as
 mercury, thallium, cadmium or lead, etc. can circulate
 and damage tissues without the fat there. With the
 body fat in place there is no problem at all.
 
-#### Do not be concerned about the high heat levels......
+#### Do not be concerned about the high heat levels
 
 The body has its own cooling system. It cools the body
 by 3 degrees Fahrenheit minimum. Even in the hot
@@ -512,14 +511,12 @@ it may read as high as 102. One does need to know
 one’s own limitations and listen to the body and
 approach these temperatures on a gradient.
 
-#### What the hot tub properly done can do.......................
+#### What the hot tub properly done can do
 
 The body has collected the bad fats and lymphatic
 congestion over a period of about 5 to 20 years or
 more. Proper hot tubbing over a period of time can
 detoxify and purify the lymphatic system of the bad fats
-
-
 and other toxicity (such as salt and metals) that are
 clogging it and causing it not to function properly.
 
@@ -552,8 +549,6 @@ reduce inflammation, the heat relieves cold and flu
 symptoms, helps to fight off viruses, steam from a hot
 bath can help relieve stuffy noses and congestion, it
 helps your breathing, stimulates metabolism, reduces
-
-
 menstrual cramps by bringing blood to the area, burns
 calories and can boost self-confidence.
 
@@ -577,17 +572,13 @@ Examples of detoxification / testimonials
 2. “It has been a year and a half since finishing
     treatment for Hodgkin’s Lymphoma. I have
     remained cancer free since.
-
-```
-“My routine, almost daily, includes 15 to 60
+My routine, almost daily, includes 15 to 60
 minutes soaking in my glorious hot tub. I climb
 the stairs, flip the top open that covers and
 protects the tub, swing my legs onto the bench,
 and lower my body into the water. Initially my
 experience is to think, ‘Oh my, this is hot.’ And
 then as I immediately acclimate, I experience a
-```
-
 ‘high’ that is truly ineffable. In the hot tub, my
 nervous system remains calm while I treasure
 each moment listening to the sounds of nature
@@ -596,29 +587,22 @@ longevity by being aware of the benefits of healing
 modalities to help the nervous system remain in a
 calm state. The hot tub is one of these methods
 for me.
-
-“I know my hot tub ritual has played an important
+I know my hot tub ritual has played an important
 role in my recovery and continues to improve the
 quality of my life in many other ways. My energy,
 organs, digestion, heart, mobility, and cognitive
 functions have all continued healing and been
 strengthened from this self-care I gift myself.
-
-“This life-affirming hot tub system has
+This life-affirming hot tub system has
 contributed to improving and enlivening my spirit
 emotionally, physically and spiritually.
-
-“I am forever grateful to John Reed for his
+I am forever grateful to John Reed for his
 wisdom, support and expertise knowing how to
 build a hot tub system with the proper filters that
-eliminate the use of toxic chemicals.”
-
+eliminate the use of toxic chemicals.
 Thank you, John.
-
 Lovingly,
-
-Bonnie
-
+Bonnie"
 
 3. A man age 50 had muscle soreness and chronic
     fatigue but not severely. He experienced chronic
@@ -634,11 +618,11 @@ Bonnie
     normally through his nostrils.
 
 
-## CHAPTER TWO...........................................
+## CHAPTER TWO
 
-### HOT TUB WATER ADDITIVES..........................................
+### HOT TUB WATER ADDITIVES
 
-#### Suggested additives to the water...................................
+#### Suggested additives to the water
 
 To improve the hot tub experience some additives can
 be put into the water.
@@ -690,9 +674,6 @@ For example:
 ```
 You can get info on this clay and purchase it from
 California Earth Minerals. It is also sold on
-```
-
-```
 Amazon.
 ```
 3. About one quarter to one half cup of Celtic Sea
@@ -710,11 +691,11 @@ For a round hot tub, the formula is radius squared x pi
 
 
 
-## CHAPTER THREE.........................................
+## CHAPTER THREE
 
-### HOT TUB VERSUS HOT BATH.........................................
+### HOT TUB VERSUS HOT BATH
 
-#### Special benefits of a hot tub..............................................
+#### Special benefits of a hot tub
 
 Anyone interested in this program can use a hot bath or
 start with a hot bath. They are readily available to most
@@ -800,11 +781,11 @@ effective and worth the investment.
 
 
 
-## CHAPTER FOUR..........................................
+## CHAPTER FOUR
 
-#### Cooling off.................................................................................
+#### Cooling off
 
-### HOT AND COLD THERAPY AND COOLING OFF.................
+### HOT AND COLD THERAPY AND COOLING OFF
 
 **COOLING OFF**
 
@@ -822,8 +803,6 @@ for me. There are several options for this. One is having
 an ordinary pool near your hot tub. Or another “hot
 tub” that is a dedicated cold dip pool. Or having a
 bathtub available with cold water in it waiting for you
-
-
 when you want a break.
 
 One can use the ambient temperature for the cold
@@ -855,8 +834,6 @@ or chilling to the brain and then your bones. This is a
 manifestation of sudden increased circulation and is
 nothing to be concerned about. Store bought ice packs
 designed to be on the skin can work in this way too like
-
-
 the ice water towels. However they start warming
 quickly and need to go back into the freezer to be able
 to be used again.
@@ -889,8 +866,6 @@ body via the pores.
 
 Once you do the cold treatment a few times, your body
 will acclimate to the heat better. Then you will be able
-
-
 to stay in the hot water for longer periods.
 
 When one is soaking in the hot water, it can cause one
@@ -902,7 +877,7 @@ perhaps. Many things can be used to do work and keep
 one’s attention off the hot water and increased body
 heat.
 
-#### Hot and cold therapy...........................................................
+#### Hot and cold therapy
 
 This set up of a hot tub and cold dip pool highly
 facilitates the ability to go back and forth many times
@@ -921,8 +896,6 @@ doing it for hundreds of years up to temperatures of
 Contrast therapy is a powerful form of hydrotherapy
 often used by Athletes. One immerses a limb or the
 whole body into hot water for a time and then
-
-
 immediately into ice cold water. Contrast therapy can
 help move the lymph fluid quickly and efficiently
 throughout the body and reduce inflammation. This
@@ -959,13 +932,11 @@ the POWER of Hydrotherapy!!"
 ```
 
 
-## CHAPTER FIVE...........................................
+## CHAPTER FIVE
 
-### DIET SUGGESTIONS TO FACILITATE
+### DIET SUGGESTIONS TO FACILITATE DETOXIFICATION USING A HOT TUB
 
-### DETOXIFICATION USING A HOT TUB
-
-#### Diet Suggestions.....................................................................
+#### Diet Suggestions
 
 Pineapple contains a high level of bromelain that will
 help break down dead cells and it eats away at and
@@ -1013,8 +984,6 @@ address is https://www.westonaprice.org.
 
 Hydration drinks that are very good during and after
 the hot tub soak can be made in a blender containing
-
-
 any of the following:
 
 cucumber; tomato; watermelon; whole raw milk; fresh
@@ -1044,7 +1013,7 @@ vegetable juicer is:
 10% Parsley
 ```
 
-#### Note on raw milk and raw dairy.....................................
+#### Note on raw milk and raw dairy
 
 Whole raw milk is a food from nature that contains all
 the necessary enzymes and good natural bacteria for
@@ -1075,8 +1044,6 @@ common and abundant. Goat milk is next in line for
 availability. Cow milk takes the longest to digest. Goat
 milk digests faster and sheep milk even faster. Sheep
 milk is high in vitamin C. Camel milk is a better milk to
-
-
 consume if you are in a dry , arid climate.
 
 There are claims that raw milk cause sickness. This has
@@ -1089,7 +1056,7 @@ The fats in pasteurized milk become lipid oxides which
 are known carcinogens. Only pasteurized milk
 putrefies.
 
-#### Water..........................................................................................
+#### Water
 
 Quality water suggestions are spring water brands
 provided in glass. It can be obtained sparkling or not.
@@ -1131,23 +1098,16 @@ yearly to ensure such items are being properly filtered
 out.
 
 
-## BOOK TWO...............................................
+## BOOK TWO
 
-### HOW TO BUILD AND MAINTAIN
-
-### YOUR OWN WOOD HOT TUB
+### HOW TO BUILD AND MAINTAIN YOUR OWN WOOD HOT TUB
 
 
+## CHAPTER ONE
 
-## CHAPTER ONE............................................
+### WATER FILTERS AND FILTER MEDIA. HOW TO GET THE CLEANEST POSSIBLE WATER TO SOAK IN
 
-### WATER FILTERS AND FILTER MEDIA.
-
-### HOW TO GET THE CLEANEST POSSIBLE
-
-### WATER TO SOAK IN
-
-#### How to get clean water from city water......................
+#### How to get clean water from city water
 
 The whole point of having the cleanest possible water
 to soak in is that soaking the body in water that
@@ -1159,8 +1119,6 @@ water in the shower and public pools, the vapors can
 get into the body via the sinuses and lungs when
 breathed. These chemicals once inside the body can
 cause damage to cells, kill cells, create dead and toxic
-
-
 cells that store in the body creating a toxic
 environment. This condition is one where healthy
 circulation is inhibited and such growths as cancer
@@ -1192,8 +1150,6 @@ answer.
 In 2007 I worked with Aajonus Vonderplantiz to
 develop a filtering system that would provide drinking
 quality water (or as close to that as one can get) for hot
-
-
 tubbing. The filter system is designed to eliminate toxic
 chemicals from the city water supply so proper hot
 tubbing (detoxification and purifying the body and
@@ -1227,8 +1183,6 @@ It is really as simple as that. This is the 2007
 technology.
 
 In recent times other filter media have been developed
-
-
 that gets down to 1 micron of filtration. This is
 Activated Filter Media (AFM) which is defined later in
 this chapter.
@@ -1261,7 +1215,7 @@ saves on having to change the paper filter about every
 this is done.
 
 
-#### Ozone..........................................................................................
+#### Ozone
 
 Ozone is a gas. Ozone molecules have 3 oxygen atoms
 unlike the oxygen in the air that gives life to the planet
@@ -1298,7 +1252,7 @@ recommended. Nor are ionizers. They create the
 situation of dissolving tissue when you bathe or soak in
 the water as well as the other factors as noted above.
 
-#### Pool Salt Chlorinators.........................................................
+#### Pool Salt Chlorinators
 
 Salt chlorinators for pools provide a way to get
 nontoxic chlorine in the pool. These are electrical
@@ -1323,8 +1277,6 @@ which is called “shocking” the pool.
 Needless to say shocking the pool is toxic and ruins
 your salt chlorinated pool water. The pool service
 companies have standards they are ordered to follow
-
-
 to kill bacteria and keep algae from growing. They have
 insurance liabilities and are not concerned about a
 healthy pool per se or a 100% salt chlorinated pool
@@ -1344,9 +1296,7 @@ tub or pool you can get lab tests done to determine the
 chemical toxicity of the water by testing for each
 chemical one at a time.
 
-**MORE ON POOL FILTRATION AND CLEAN POOL**
-
-**/ HOT TUB WATER**
+**MORE ON POOL FILTRATION AND CLEAN POOL/ HOT TUB WATER**
 
 Recently a new filter media came on the market called
 Activated Filter Media (AFM) which is 3 stages (fine,
@@ -1355,8 +1305,6 @@ an ordinary sand filter housing. It filters down to 1
 micron. AFM is currently being used with other
 products and the combination is promoted to be an
 excellent product for clean fresh non chlorine pool
-
-
 water and whole house water filtration systems.
 
 AFM can be used by itself with salt chlorinated pools or
@@ -1389,8 +1337,6 @@ comment on KDF as a valid filter media as it reduces or
 removes many heavy metals out of the water.
 
 One key factor with KDF is that when used in a
-
-
 sequence of filtering _before_ granular activated carbon,
 it can extend the life of the activated carbon
 significantly. This is important as the normal life span
@@ -1423,7 +1369,7 @@ but are for designed for applications that do not apply
 to hot tub and pool filtration.
 
 
-#### Activated Carbon...................................................................
+#### Activated Carbon
 
 Activated carbon is also called activated charcoal which
 is misleading and confusing. They are not the same
@@ -1449,16 +1395,14 @@ depending on usage. If KDF is used before activated
 carbon in sequence the KDF will extend the life of the
 activated carbon.
 
-#### Sand.............................................................................................
+#### Sand
 
 There are many types of sand on the market for sand
 filters. What is not recommended to use is sand from
-
-
 the beach or child’s play sand as this sand is not filtered
 or designed to be used in a filter.
 
-#20 Grade Silica Sand is effective at filtering out debris
+20 Grade Silica Sand is effective at filtering out debris
 as small as 20-40 microns.
 
 Aqua Quartz and Palmetto are brand names of silica
@@ -1466,7 +1410,7 @@ sand. There are other brands on the market.
 
 Sand filter media is said to last 5 to 7 years.
 
-#### Zeolite.........................................................................................
+#### Zeolite
 
 Natural zeolite occurs in volcanic rock. Zeolite is
 widely used in domestic and commercial water
@@ -1481,11 +1425,9 @@ microns.
 Zeo Sand is a brand using Zeolite. Its life span is the
 same as silica sand which is 5 to 7 years.
 
-#### Diatomaceous Earth............................................................
+#### Diatomaceous Earth
 
 Diatomaceous earth pool filters and filter media are not
-
-
 recommended. DE has a use in killing insects. Once
 eaten by the insect, it cuts insects apart and shreds
 them from the inside out. DE is not recommended to
@@ -1494,7 +1436,7 @@ type is high in crystalline silica and toxic to humans.
 Thus dealing with the filter media can be dangerous
 without personal protective equipment.
 
-#### Water Filter Housings.........................................................
+#### Water Filter Housings
 
 A sand filter housing can contain just about any type of
 filter media. Hayward sand filters have served me well
@@ -1513,7 +1455,7 @@ The larger filters do not require changing the filter
 media as often.
 
 
-#### Backwashing...........................................................................
+#### Backwashing
 
 Backwashing is flowing the water in reverse to clean
 the filter media and purge out sediment collected in the
@@ -1545,12 +1487,10 @@ tub to get each filter fully backwashed.
 
 The owner’s manuals of the filters have backwash
 instructions. They also have instructions for installing
-
-
 the filter media. The procedure for adding filter media
 to the filter is reversed for changing the filter media.
 
-#### Suggested filter system design.........................................
+#### Suggested filter system design
 
 Considering all the info contained herein, I recommend
 the following sequence of filtration:
@@ -1577,13 +1517,11 @@ every 5 to 7 years, the KDF every 5 to 6 years and the
 AFM every 8 to 10 years.
 
 
-## CHAPTER TWO...........................................
+## CHAPTER TWO
 
-### TYPES OF HOT TUBS, SOAKING BATHS,
+### TYPES OF HOT TUBS, SOAKING BATHS, PUMPS AND HEATERS
 
-### PUMPS AND HEATERS
-
-#### Traditional Wood..................................................................
+#### Traditional Wood
 
 A wood hot tub is a large round tub usually 4 feet deep
 or more used for hydrotherapy, relaxation or pleasure.
@@ -1606,7 +1544,7 @@ hot tub patented insulation installed.
 back yard in a city environment.
 
 
-#### Ofuro...........................................................................................
+#### Ofuro
 
 A Japanese style ofuro tub ( _ofuro_ [oh- **foor** -oh]) is for 1
 or 2 persons. These bath tubs are found all over Japan
@@ -1623,7 +1561,7 @@ One can customize one as a hot tub if desired,
 A Japanese style _ofuro_ tub for 1 or 2 persons.
 
 
-#### Acrylic Spa................................................................................
+#### Acrylic Spa
 
 Acrylic spas (also made from fiberglass) came about in
 the 1960s. In the mid 70's, spa shell manufacturers
@@ -1653,8 +1591,6 @@ leaking.
 
 Most are designed for ease of use, just buy it – the
 company that sells it to you will deliver it – get it placed
-
-
 and plug it in to 110 volt mains. But as mentioned
 above, the pump and heater need to be re-located due
 to the EMF. There is a trade off with using 110 volts. It
@@ -1679,13 +1615,13 @@ last almost forever unless damaged.
 An acrylic spa (this example made from fiberglass).
 
 
-#### Blow up plastic hot tubs & metal soaking tubs........
+#### Blow up plastic hot tubs & metal soaking tubs
 
 These types are not recommended. The plastic tubs
 would leach into the water. The metal tubs would have
 tiny metal particles or metal ions leach into the water.
 
-#### Free hot tubs............................................................................
+#### Free hot tubs
 
 It is common for these acrylic hot tubs to get used up or
 someone bought it for a fad or on impulse and they no
@@ -1738,8 +1674,6 @@ hot tub use.
 The money savings with natural gas is worth the
 installation time and cost. Electric heaters are the
 easiest to install but the cost of running them can be 5
-
-
 times or more than a natural gas heater.
 
 When gas heaters are not in use, carbon deposits can
@@ -1767,13 +1701,13 @@ any other part of the system.
 
 
 
-## CHAPTER THREE.........................................
+## CHAPTER THREE
 
-### BUILDING A WOOD HOT TUB..........................................
+### BUILDING A WOOD HOT TUB
 
-### INTRODUCTION...............................................................
+### INTRODUCTION
 
-#### Wood Selection.......................................................................
+#### Wood Selection
 
 Most companies that sell hot tubs also sell hot tub kits
 that you assemble yourself. Most are made from
@@ -1823,8 +1757,6 @@ the wood to expand out fully and become water tight.
 Leaking is normal until this process is complete.
 
 Knotty wood should not be selected for a hot tub. It can
-
-
 be used if the knot is only partly on the surface of the
 wood and does not go all the way through the board. If
 the knot goes all the way through you will get trouble.
@@ -1836,7 +1768,7 @@ Perhaps the stave can be replaced. It is better and
 easier to just pay the extra money and get wood with
 no knots.
 
-#### Foundation...............................................................................
+#### Foundation
 
 Concrete is best. The foundation needs to be level and
 solid. A 4 inch pad of concrete is standard and
@@ -1852,7 +1784,7 @@ bearing capabilities would need to be evaluated to see
 if reinforcement is needed.
 
 
-#### Concrete foundation alternatives...................................
+#### Concrete foundation alternatives
 
 If you do not have or do not want to build a concrete
 slab for your hot tub there are other options. One is
@@ -1872,7 +1804,7 @@ This causes the wood to rot out much faster than its
 usual life.
 
 
-#### Wood hot tub kits and data on brands and bands..
+#### Wood hot tub kits and data on brands and bands
 
 Each hot tub manufacturer that sells pre-built hot tubs
 or hot tub kits to assemble has their own proprietary
@@ -1915,11 +1847,11 @@ the turnbuckles to protect the wood while tightening.
 There are many varying designs.
 
 
-## CHAPTER FOUR..........................................
+## CHAPTER FOUR
 
-### BUILDING A WOOD HOT TUB FROM SCRATCH................
+### BUILDING A WOOD HOT TUB FROM SCRATCH
 
-#### Tools needed............................................................................
+#### Tools needed
 
 ```
  Table saw with sharp blade
@@ -1949,7 +1881,7 @@ holes
  Reciprocating saw or chop saw for cutting PVC
 piping.
 ```
-#### Materials required................................................................
+#### Materials required
 
 - Staves 2 x 6. Floor boards 2 x 12. Benches 2 x 8 or
     2 x 10. The amount of wood and lengths of each
@@ -1968,7 +1900,7 @@ piping.
 - Hot tub cover.
 
 
-#### Hot tub size and selecting number of staves.............
+#### Hot tub size and selecting number of staves
 
 The wood for the staves is to be 2 x 6 nominal wood.
 
@@ -1986,7 +1918,7 @@ tub. If you wish a 5 foot tall hot tub, the angle is the
 same but the stave is longer of course and it will hold
 more water.
 
-#### Base support of tub...............................................................
+#### Base support of tub
 
 They can be simply 6x6 or 4x6 pressure treated beams.
 This supports the floor of the hot tub and they rest on
@@ -1997,20 +1929,19 @@ Procedure
 Decide on size of the hot tub you want to build
 
 ```
-1.Procure the materials and tools
-```
+1. Procure the materials and tools
 
-2.Get the angle for the staves from the grid that you
+2. Get the angle for the staves from the grid that you
 will use for the cuts
 
-3.Set up your table saw using the protractor so you
+3. Set up your table saw using the protractor so you
 can cut the staves to the correct angle
 
 4.Use less expensive wood for a test cut. Adjust the
 angle as needed so it is exact as per the angle laid
 out in the grid
 
-5.Bevel cut all the staves using the table saw and
+5. Bevel cut all the staves using the table saw and
 the angle of the staves per the grid except for 1
 stave which you will cut last. You are cutting this
 bevel on both sides of the stave.
@@ -2019,36 +1950,30 @@ this angle that forms the round tub by putting all
 the pieces (staves) together.
 Trapezoid:
 
-6.Using the table saw and dado blade, notch all the
+6. Using the table saw and dado blade, notch all the
 staves to accept the floor. Measure 3 inches up
-
-
-```
 from the bottom of the stave and make the notch
 there. The notch is to be 5/8th of an inch deep.
 Make the width of the notch 1/ 16 th to 1 / 8 th less
 than the width of the floorboard so it can fit
 tightly around the floor.
-```
-7.Clean any burs and edges off the staves and keep
+
+7. Clean any burs and edges off the staves and keep
 them dry.
 
-
-```
-8.Collect up the floor boards and square them off
+8. Collect up the floor boards and square them off
 with the table saw so they fit very tightly
 together. Just trim off like 1/16th of an inch or a
 saw blade width on the edges to do this. You
 want these boards totally flush with no gaps.
-```
-```
-9.Set up your drill with the jig to drill holes in the
+
+9. Set up your drill with the jig to drill holes in the
 ends of the floor boards to accept the dowels. The
 jig is used to ensure a square hole is drilled. Set it
 up to drill a hole in the center of the floorboard
 edge.
-```
-10.Drill the one dowel hole 3 inches from each end
+
+10. Drill the one dowel hole 3 inches from each end
 and two others spaced in between so there are 4
 dowels total. You will need to measure accurately
 both sides of each of the floorboards which are to
@@ -2059,29 +1984,25 @@ hanging jaggedly off at the _end_ of the board that
 is okay. The ends will be cut with the jig saw to
 form the circular floor.
 
-11.Lay out the floor boards.
+11. Lay out the floor boards.
 
-12.Drill each dowel hole 1 & 1/8th deep in each floor
+12. Drill each dowel hole 1 & 1/8th deep in each floor
 board that will be connecting to each other.
 
-13.Insert the dowels and using a rubber hammer,
+13. Insert the dowels and using a rubber hammer,
 gently drive the floor boards together.
 
-14.Once the floor boards are tightly together, using
-
-
-```
+14. Once the floor boards are tightly together, using
 the 1 x 3 nominal wood, secure the floorboards to
 themselves using 1 & 5/8th inch screws. You will
 need to cut the 1 x 3 to size. Space these evenly
 across the floorboards. Be careful to not drill
 through the whole floor board, (but you should
 not be able to with that size wood and screw.)
-```
-15.This will be the bottom of the floor.
 
-```
-16.Draw the circle for the circumference cut. For a 6
+15. This will be the bottom of the floor.
+
+16. Draw the circle for the circumference cut. For a 6
 foot tub, measure 3 feet into the floor boards
 now assembled and find the center. Take a nail
 and put it into this center just enough to hold it
@@ -2095,22 +2016,22 @@ string. Then draw your line. This is for a 6 foot in
 diameter hot tub. A larger or shorter diameter
 would have a different measurement
 accordingly.
-```
-17.Now that the line is drawn, carefully make your
+
+17. Now that the line is drawn, carefully make your
 circumference cut with a jig saw. Make sure your
 jig saw is properly set for a 90 degree cut.
 
-18.With a light sander such as an orbital sander or
+18. With a light sander such as an orbital sander or
 by hand, chamfer both edges of the floor to aid in
 the attachment of the staves.
 
-19.Flip over the floor and place it on the support
+19. Flip over the floor and place it on the support
 4x4 or 4x6 beams and get it even and supported.
 The floor should have about 2 inches of working
 room on the sides to allow for the stave
 installation.
 
-20.Install the staves one at a time using the rubber
+20. Install the staves one at a time using the rubber
 hammer to secure them in place. Use the blue
 masking tape to hold them together as you go
 along. You may also need some kind of brace. Do
@@ -2122,9 +2043,7 @@ them in completely. Make sure you pound the
 staves in sideways as you go along. Repeat these
 steps as you go along.
 
-
-```
-21.The final stave is a custom cut as the angle is
+21. The final stave is a custom cut as the angle is
 dictated by the width and it is bound to be
 different. Measure at the bottom both inner and
 outer angle with a protractor. Re-measure and
@@ -2133,10 +2052,10 @@ and if the angle and width are correct, then cut
 the final stave with the proper wood. If not, re-
 measure and adjust until you have the correct fit
 for the final stave. Then install.
-```
-```
-22.Make your cut for a drain in the floor if you are
+
+22. Make your cut for a drain in the floor if you are
 going to install a drain.
+
 ```
 **RING INSTALLATION**
 
@@ -2167,7 +2086,7 @@ Continue on up without the mallet on the upper rings.
 Then start again at the bottom until the rings are about
 as tight as you can get.
 
-#### Plumbing and plumbing cuts...........................................
+#### Plumbing and plumbing cuts
 
 Once the rings are installed on the hot tub, now is a
 good time to measure for the plumbing holes and cut
@@ -2175,8 +2094,6 @@ them. You will have 2 intake holes a minimum of 3 feet
 apart and about 3 inches up from the floor. If they are
 closer than 3 feet apart it is a safety hazard as the
 suction can potentially drown someone. The water
-
-
 inflow hole should be higher on the wall of the tub
 about 3 feet up from the floor for a 4 feet tall hot tub.
 Cut the plumbing holes so it is tight fit for the fitting
@@ -2184,8 +2101,6 @@ and secure with silicone waterproof sealant.
 
 If you desire to install jets, more holes will need to be
 cut for this additional plumbing. You will need to obtain
-
-
 a design or plan for the jets and work out where the
 holes for the jets will go. If you get a hot tub kit from a
 hot tub company, they can provide installation
@@ -2212,13 +2127,11 @@ ground PVC pipe installations. The easiest way to do
 this is by painting the pipe. A water-based paint
 designed for exterior use is best.
 
-#### Benches......................................................................................
+#### Benches
 
 To measure for the bench, take the wood to be used
 and lay it on top of the tub. Go under it and scribe the
 angle along the inner edge. Cut the marked line with a
-
-
 jig saw. Save the pieces. Measure and get the height
 you want for the bench. Then make blocks or ledger
 pieces to support the bench from the scrap pieces you
@@ -2248,12 +2161,12 @@ feet long. This allows for space with no benches so
 there is more leg room.
 
 
-#### Sanding......................................................................................
+#### Sanding
 
 Sand along the top lip of the tub very well so there is no
 chance of splinters. Sand all around the tub as needed.
 
-#### Stairs...........................................................................................
+#### Stairs
 
 There are a variety of ways to get in and out of the hot
 tub. Simple wood stairs are good. There are a few
@@ -2262,7 +2175,7 @@ decision as well. Pre-made stairs are available from
 most companies that sell hot tubs which are easy to
 assemble or you can design and build them yourself.
 
-#### Shelves........................................................................................
+#### Shelves
 
 Many hot tub companies sell shelves to attach to the
 outside of the hot tub. These come in very handy for
@@ -2275,11 +2188,11 @@ water.
 
 
 
-## CHAPTER FIVE...........................................
+## CHAPTER FIVE
 
-### HOT TUB COMPONENT SET UP......................................
+### HOT TUB COMPONENT SET UP
 
-#### Sequence of components for plumbing........................
+#### Sequence of components for plumbing
 
 The plumbing sequence is: pump to filter system to
 heater to hot tub and return to pump.
@@ -2296,8 +2209,6 @@ soaking. You can check this with an EMF meter. Being
 near EMF above 3 milligauss for extended periods of
 time is not healthy for the body. The other side of this is
 that the shortest distance from the pump and the least
-
-
 amount of piping twists and turns makes the pump's
 job easier and is less expensive to operate. The length
 of the piping should be as short as possible.
@@ -2311,7 +2222,7 @@ designed to handle up to 140 degrees F and works fine.
 Be sure to install check valves in the plumbing so water
 is not allowed to backflow into the hot tub.
 
-#### Jets...............................................................................................
+#### Jets
 
 The jet bubbles in a hot tub are fun and have a
 massaging effect but they are not necessary for the
@@ -2321,14 +2232,10 @@ labor and they are noisy. If you want to watch a movie
 or relax reading, etc., they can be a distraction due to
 the noise and water agitation.
 
-**SWELLING PROCESSING AND SEALING THE**
-
-**HOT TUB TO WATER TIGHT**
+**SWELLING PROCESSING AND SEALING THE HOT TUB TO WATER TIGHT**
 
 When starting out the swelling process to water seal
 your tub, use about 6 to 8 inches of water (hot water if
-
-
 possible) and let it sit for a few days. Fill it back up to 6
 to 8 inches if it leaks too low during this period. Keep at
 this until it no longer leaks out and the wood is swelled
@@ -2360,8 +2267,6 @@ hot tub daily.
 
 NEVER apply any type of wood sealer or wood
 preservative to the inside or outside of your tub. Leave
-
-
 it unfinished and natural. These products may by
 harmful to your health. They may also keep your tub
 from sealing properly. The wood is best preserved by
@@ -2386,14 +2291,10 @@ recommend this and it is included in their assembly
 instructions. I have always been able to seal a hot tub
 when properly built using only sawdust as needed.
 
-**HOW TO EXTRACT TANNIN FROM THE WOOD**
-
-**OF A NEW HOT TUB**
+**HOW TO EXTRACT TANNIN FROM THE WOOD OF A NEW HOT TUB**
 
 Newly harvested wood soaking in water will expel
 tannin into the water. The water looks like dark tea. If
-
-
 you soak in it, your skin takes on the color somewhat
 and it gets into your body via the pores. This is not
 recommended. Some wood has this issue more than
@@ -2410,11 +2311,11 @@ completed, fill the hot tub with fresh water.
 
 
 
-## CHAPTER SIX...........................................
+## CHAPTER SIX
 
-### OTHER INFORMATION ON HOT TUBS............................
+### OTHER INFORMATION ON HOT TUBS
 
-#### Hot Tub Transportation..................................................
+#### Hot Tub Transportation
 
 To move your built hot tub you would first (obviously)
 drain out all the water. Then get about 5 or 6 guys to lift
@@ -2437,7 +2338,7 @@ When you have the hot tub into its new position, you
 will need to re-tighten the bands and re-seal it as the
 staves will shift during moving.
 
-#### Cleaning..................................................................................
+#### Cleaning
 
 Empty the tub of water. Use organic apple cider vinegar
 as a cleaning solvent. Pour it on the inside walls of the
@@ -2447,7 +2348,7 @@ installed a drain in your tub and rinse it out. You can do
 this a few times if necessary. Ordinarily it is done once
 every time you change the water.
 
-#### Winterizing...........................................................................
+#### Winterizing
 
 If you live in a climate where it gets below freezing for
 any length of time you need to ensure your hot tub is
@@ -2461,8 +2362,6 @@ the filters to “winterize”.
 
 If your climate is below freezing and power goes off or
 the pump shuts down, you have about 2 hours to get
-
-
 the pump and heater working before the cold will
 freeze and damage your system. If you can’t heat the
 system in about 2 hours then you must drain the
@@ -2478,7 +2377,7 @@ unexpectedly.
 During the winter, the water must stay at 65 to 70
 degrees F minimum to avoid freezing.
 
-#### Safety.......................................................................................
+#### Safety
 
 There are rules and regulations regarding pool safety
 which also apply to hot tubs. It is best to simply know
@@ -2526,8 +2425,6 @@ occurred as a direct result of soaking in hot water at
 106 degrees F or higher temperatures. A heat stroke is
 a very extreme condition and no one I know doing hot
 tubbing as suggested in this book has ever come close
-
-
 to such.
 
 Such regulatory groups also state that there is a
@@ -2559,8 +2456,6 @@ mechanical contractor or HVAC contractor is trained on
 how to replace or install a thermostat in a pool heater.
 
 Anyone can get 110 Degrees F hot water in a bathtub
-
-
 from the home hot water supply. Hot water heaters for
 the home can go as high as 150 degrees F. Most home
 tap water is set at about 115 degrees F.
@@ -2593,8 +2488,6 @@ you.
 
 An unhealthy person may have issues with their body’s
 ability to regulate temperature. This also applies to
-
-
 children. High body temperature can affect people
 differently. Too much heat may result in nausea,
 dizziness or fainting. Just as if you were out in the sun
@@ -2621,19 +2514,17 @@ lines as well should be installed by a licensed person
 who knows the local codes and requirements to do a
 standard and safe gas line installation.
 
-#### Insulating your wood hot tub........................................
+#### Insulating your wood hot tub
 
 If you would like to insulate your wood hot tub to save
 energy costs please go to lifegivinghottub.com and fill
-
-
 out the contact form. This is a patented design that is
 sold separately. It is something that you have to build
 yourself or hire a carpenter to build around your wood
 hot tub. It will help save on energy costs for operating
 your hot tub by an estimated 10% to 20%.
 
-#### How to test the accuracy of a thermometer............
+#### How to test the accuracy of a thermometer
 
 Many thermometers do not register a totally accurate
 temperature. They can be off by a 10th of a degree to as
@@ -2646,7 +2537,7 @@ reading should get pretty close to that. If your
 thermometer is too far off, you should get a more
 accurate one as desired.
 
-#### Assistance...............................................................................
+#### Assistance
 
 Hot tubs deal with water, plumbing, electricity and
 natural gas or propane. A pool contractor should have
@@ -2665,7 +2556,7 @@ Happy hot tubbing!
 
 
 
-## GLOSSARY:..............................................
+## GLOSSARY:
 
 **Appendix:** the appendix acts like a library for any
 poison that has ever entered your body and is a record
@@ -2685,8 +2576,6 @@ newly to respond and this process can take up to 36 to
 
 **Aquifer:** an underground layer of water-bearing
 permeable rock, rock fractures or unconsolidated
-
-
 materials. Groundwater can be extracted from an
 aquifer using a water well.
 
@@ -2746,8 +2635,6 @@ contrails in this glossary.)
 
 Laboratory examination of chemicals found that they
 are sourced manufacturing wastes from military
-
-
 industry and bio-warfare substances. Several
 laboratory analyses revealed the composition of
 chemtrails as:
@@ -2762,14 +2649,16 @@ chemtrails as:
 8. Human white blood cells - A restrictor enzyme
     used in research labs to snip and combine DNA
 9. Bacilli Amyloliquefaciens
-10.Desiccated (dried out) blood cells
-11.Enterobacter Cloacal
-12.Enterobacteriaceae
-13.Carcinogen Zinc Cadmium Sulfide
-14.Other Bacilli and other toxic molds capable of
+10. Desiccated (dried out) blood cells
+11. Enterobacter Cloacal
+12. Enterobacteriaceae
+13. Carcinogen Zinc Cadmium Sulfide
+14. Other Bacilli and other toxic molds capable of
     producing heart disease and meningitis as well
     as acute upper respiratory and gastrointestinal
     distress.
+
+=
 
 Chemtrail researcher Cliff Carnicom concludes
 that crimes of the highest order are being perpetrated
@@ -2787,7 +2676,7 @@ chlorine atom bonded to nitrogen used for antiseptics,
 disinfectant and treating water. It is formed when
 ammonia is added to chlorine to treat drinking water.
 
-**Coconut Cream / Coconut Milk** : an opaque, milky-
+**Coconut Cream / Coconut Milk**: an opaque, milky-
 white liquid extracted from the grated pulp of mature
 coconuts. It is a traditional food ingredient used in
 Southeast Asia, south Asia, Oceania, and east Africa.
@@ -2923,8 +2812,6 @@ amount of nutrient-rich blood circulating around the
 body and can help you feel invigorated and alert. The
 time spent in the hot and cold water can vary
 depending upon the doctor’s or physical therapist’s
-
-
 recommendations. Athletes often use contrast therapy
 for minor sprains, sore muscles and inflammation from
 injuries.
@@ -3013,8 +2900,6 @@ passenger in the front seat to approximately 35-100
 milligauss of EMF when the engine is on. This has
 shown to create hyper-activity or fatigue. Some have
 experienced soreness in their legs where the EMF is
-
-
 highest. Pilots are exposed to EMF from 100-200
 milligauss during their flight. Many pilots have
 reported that they fly only a limited amount due to the
@@ -3071,8 +2956,6 @@ slows down the growth of bacteria and molds that
 would otherwise grow rapidly in a sugar-rich beverage.
 Phosphoric acid uses in food and drink are legal in the
 US as approved by the FDA and it is allowed in
-
-
 processed cheeses and other dairy products to adjust
 their pH levels. Scientific research suggests the
 following health dangers from phosphoric acid: Lowers
@@ -3101,8 +2984,6 @@ span of time would probably kill you.
 poisoning remain in the body, they can kill cells, inhibit
 cell growth and cell reproduction. They cause the body
 to slowly die. After years of such contamination with
-
-
 little to no detoxification the organs don’t work well.
 Some parts of the body’s functions shut down. The
 wrong thing to do is treat symptoms with medication
@@ -3122,7 +3003,7 @@ Detoxification and a healthy diet of no chemicals is vital
 for such a life span.
 
 **PFAS / PFOAs** / **PFOSs: Per- and polyfluoroalkyl
-substances** : a family of man-made chemicals that
+substances**: a family of man-made chemicals that
 contain fluorine, carbon, and other elements. These
 chemicals have been used since the 1940s and are
 found in a variety of products including firefighting
@@ -3132,8 +3013,6 @@ repellants, carpets, liners in canned foods, upholstery,
 etc.. Two of the most studied PFAS chemicals are
 perfluorooctanoic acid (PFOA) and perfluorooctane
 sulfonate (PFOS); some of these chemicals were phased
-
-
 out of production in the USA. Yet, as many as 3,000
 other PFAS chemicals still are used in a wide variety of
 applications. These chemicals resist degradation
@@ -3148,7 +3027,7 @@ diet rich in raw fats and proteins. For a person who
 eats a poor diet these chemicals can store in the body
 for their lifetime.
 
-**Pyrotechnics** : the craft and science of creating things
+**Pyrotechnics**: the craft and science of creating things
 such as fireworks, safety matches, oxygen candles,
 explosive bolts, parts of automotive airbags as well as
 gas-pressure blasting in mining, quarrying, and
@@ -3162,8 +3041,6 @@ sides.
 - X-Rays
 - fluorescent lights
 - cathode ray tubes
-
-
 - certain medications
 - medical testing such as MRI and CAT Scan
 - computer monitors
@@ -3193,8 +3070,6 @@ avocados with oranges and/or melons; coconut cream
 with berries such as blueberries, blackberries,
 boysenberries or raspberries; raw milk with unheated
 honey. A good ratio is about 3 ounces of coconut cream
-
-
 to 2/3rds a cup of berries or as desired. Raw meat and
 the raw fat from raw meat also aid in detoxifying
 radiation poisoning. An active circulator system
@@ -3227,14 +3102,14 @@ substance present in some barks, wood, leaves, roots
 and seeds. It is used in leather production and ink
 manufacture.
 
-**Tonsillitis** : reddened and swollen tonsils and throat,
+**Tonsillitis**: reddened and swollen tonsils and throat,
 with some or all of these symptoms: difficulty
 swallowing, coughing, hoarseness, headache, fever,
 earache, nausea, vomiting, sinus congestion, discharge
 and swollen lymphatic glands throughout the body.
 See “Tonsils” in this glossary.
 
-**Tonsils** : two oval-shaped pads of lymph tissue at the
+**Tonsils**: two oval-shaped pads of lymph tissue at the
 back of the throat above and behind the tongue. One on
 each side. The tonsils are the extension of the
 lymphatic system which cleans the body. They are very
@@ -3250,8 +3125,6 @@ discard the toxins and they help fight body infection. It
 is preferable to keep your tonsils. When damage to
 tonsil tissue occurs, discharge of toxins throughout the
 surrounding tissues results, causing throat and mouth
-
-
 rashes and swelling.
 
 **Toxic:** involving something poisonous relating to or
@@ -3291,7 +3164,7 @@ and dehydrating.
 
 
 
-## ABOUT THE AUTHOR..................................
+## ABOUT THE AUTHOR
 
 **John P. Reed** , severely affected by leukemia and
 dying, sought out natural remedies to cure himself
@@ -3310,8 +3183,6 @@ of the newly discovered hot water therapy, John was
 fully cured of his "incurable" disease.
 
 Being trained in carpentry and as an electrician, John
-
-
 designed and built his own wood hot tub system. John
 then designed and built hot tubs for others. John's
 valuable experiences and the _new discovery_ of healing
@@ -3319,7 +3190,7 @@ using specific hot water temperatures are revealed in
 this book.
 
 
-## REFERENCES............................................
+## REFERENCES
 
 **Recommended reading:**
 
@@ -3350,11 +3221,8 @@ Foundation
 
 **Book:** _We Want to Live_ – By Aajonus Vonderplantiz
 
-**Book:** _Pottenger's Cats: A Study in Nutrition – b_ y Francis
+**Book:** _Pottenger's Cats: A Study in Nutrition_ – by Francis
 Marion Pottenger Jr.
 
 ```
-20210714R26
-```
-
 

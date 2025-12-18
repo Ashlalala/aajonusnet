@@ -43,9 +43,12 @@ about a superfood such as amaranth "grain of Egyptian gods", I consumed it.
 However, all such promises of superfoods resulted in my slow but steady
 deterioration to 96 pounds at 5'8".
 
-Primal-Diet-eating athlete Scott Wheeler of Australia for example won the
-race at the Raw Games in Hawaii November 2008. All of the other runners
-were vegetarians or vegans, some mostly raw and some not.
+In photograph below, it is easy to spot the Primal-Diet-eating athlete Scott Wheeler
+of Australia with all of his muscles and stable constitution. All of the other runners
+are vegetarians or vegans, some mostly raw and some not. Scott won that race at the 
+Raw Games in Hawaii November 2008.
+
+![[pdn14_hawaii-1.jpg]]
 
 Ninety percent or more of all of currently purported superfoods are
 processed and not truly raw. They are not fresh so they lack enzymes.

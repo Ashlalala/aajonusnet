@@ -28,6 +28,10 @@ The first photo was taken 3 days after inflicted wound.
 
 [Show photo 1](/imgs/pdn15_lacerations-1.jpg)
 
+About 2 weeks after inflicted wound. Note that the whitish areas are not puss but caked coconut cream that prevents the skin from drying, scabbing and massive scarring:
+
+[Show photo 2](/imgs/pdn15_lacerations-2.jpg)
+
 A naturopath panicked when he saw Sandra's arm and told her that her arm
 was terribly infected. He was adamant that she would lose her arm and
 possibly her life if she did not get medical help with antibiotics. He
@@ -36,24 +40,33 @@ problems, including parasites and gangrene, although he had no experience
 with this treatment. I assured Sandra and her son that he was speaking
 from inexperience and ignorance rather than wisdom.
 
-The second photo was taken several days later, about one hour after soaking the
-wound in clean water to remove old coconut cream and honey. Note how dry the
-wound is getting. The coconut cream and honey had to be immediately applied to
-prevent dry scabs forming. 2 days after, soak and remove old coconut cream
-honey mixture and apply fresh.
+Several days later after photo 2, after soaking the
+wound in clean water to remove old coconut cream and honey:
 
-[Show photo 2](/imgs/pdn15_lacerations-2.jpg)
+[Show photo 3](/imgs/pdn15_lacerations-3.jpg)
 
-Next photo was taken about 10 weeks later after soaking and cleaning old
+About one hour after photo 3. Note how dry the wound is getting. The coconut cream and honey had to be immediately applied to prevent dry scabs forming:
+
+[Show photo 4](/imgs/pdn15_lacerations-4.jpg)
+
+2 days after photo 3 and 4 before soaking and removing old coconut cream honey mixture and apply fresh:
+
+[Show photo 5](/imgs/pdn15_lacerations-5.jpg)
+
+Several weeks later:
+
+[Show photo 6](/imgs/pdn15_lacerations-6.jpg)
+
+Next photo was taken about 6 weeks later after soaking and cleaning old
 coconut cream and honey. I suggest that she continue to apply coconut cream
 and honey until the wound looked completely smooth. That occurred 2 weeks
 after this photo.
 
-[Show photo 3](/imgs/pdn15_lacerations-3.jpg)
+[Show photo 7](/imgs/pdn15_lacerations-7.jpg)
 
 Next photo was taken several months later.
 
-[Show photo 4](/imgs/pdn15_lacerations-4.jpg)
+[Show photo 8](/imgs/pdn15_lacerations-8.jpg)
 
 If Sandra had skin grafted, her scars would look like burns with
 tightly constricted tissue. Such scarring is usually painful throughout

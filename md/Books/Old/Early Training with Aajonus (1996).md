@@ -56,15 +56,16 @@ clarify many subjects of interest to anyone seeking health.
 
 In this 3-day class, in simple terms he clarifies where other dietary
 approaches to health fall short. He gives remedies and recipes by
-
-2 Introduction
-
 which to recover health. He covers a tremendous variety of subjects.
+
 Find out:
+
  Why eat meat?
+
  How to be able to concentrate your attention
- What fruits and what meats are best for an overly anxious
-person
+
+ What fruits and what meats are best for an overly anxious person
+
  Advice to bodybuilders
 
 and more and more.
@@ -143,10 +144,6 @@ _— And what about addressing the actual viral element?_
 Aajonus: The virus is never the problem. The virus is there to break
 down, to dissolve the matter. So the virus is your friend. And I
 always tell my female clients this – do not stop a cold. It is your
-
-
-```
-```
 natural face lift. And it’s a cheap one. Of course it won’t last as long
 as if you go for a face lift.
 
@@ -219,10 +216,6 @@ the fat down into a water soluble substance. It doesn’t have to bind it
 with lecithin or any other of the emulsifying compounds to get it into
 a cell. It’s already emulsified. It’s already broken down into that
 vehicle. But once you make it into butter, you’ve changed it from that
-
-
-```
-```
 and the body has to... it doesn’t have to do a lot with it, but it still has
 to put it through a process. And when you are healing somebody,
 you want to give them stuff that is most easily utilizable and
@@ -331,9 +324,6 @@ especially pineapple and I also include papaya in that. Papaya isn’t as
 necessary. That’s more of a protein digestant. But I will include a lot
 of pineapple. Maybe have a slice of pineapple a day. A circular slice
 this thin and I always tell them to wash it off first. Take a bottle
-
-
-
 brush and brush and rinse it off, because the worse pesticide is on
 pineapple. The deadliest and worst.
 
@@ -369,10 +359,6 @@ helps break it down, of course, through enzymatic activity. Eating fat
 with fruit is beneficial. Vegetable juices are a high source of enzymes.
 But I like people to take vegetable juices with protein. The enzymes,
 vitamins and minerals in vegetable juice help digest protein in
-
-
-```
-```
 meats. Not many people can eat the beef with fruit. Fish and fruit are
 fine together.
 
@@ -442,10 +428,6 @@ challenge and we’ll do it." So she went through it, and she saw
 herself getting stronger, feeling better, being more positive, but she
 could tell that it was going to be a long road. She said, "You know
 something, I think I’m going to leave." She died four days later, in her
-
-
-```
-```
 sleep. Very nice. And the hospice coordinator asked her "What are
 the things you want to clear up since you’ve decided to go?" She said
 the first thing on her list was to call me, telling me thank you for
@@ -587,10 +569,6 @@ difference between a dead cell and a cancerous cell that is multiplying?_
 Aajonus: Well, the cancerous cell is the cell which can be surrounded
 by death. It is like a hermit or an ascetic who can go out and be by
 himself without communication with anybody else. Because a cell
-
-
-```
-```
 that is surrounded by fifty dead cells is isolated. Where does it get its
 nutrients?
 
@@ -794,10 +772,6 @@ _— Doesn't the honey affect blood sugar levels?_
 
 Aajonus: No. The honey, if it’s unheated honey, is mostly utilized as
 enzymes. It doesn’t raise the blood sugar much at all. Usually the
-
-
-```
-```
 body transforms unheated honey into enzymes for practically
 everything – 90% percent of it is utilized that way. Honey helps
 break down fat. And as far as fruit is concerned, when you eat fruit
@@ -871,10 +845,6 @@ they have been leached out of your body. That’s why the body has
 deteriorated in the first place. It lacks the enzymes because they
 have been leached out of the body. You don’t’ get many enzymes
 from the fat. You get them from vegetable juices and fruits. That’s
-
-
-```
-```
 why I suggest that anybody who adopts this diet drink vegetable
 juice twice a day.
 
@@ -946,10 +916,6 @@ Aajonus: So I don’t say, "Stop smoking." I just say, when you want a
 cigarette, have some honey or a date. Go do that first. They will get
 through a third of the cigarette and then throw it out. And they keep
 doing that and soon they are not smoking at all. So, they do it on
-
-
-```
-```
 their own. I am not telling them not to smoke. I am just telling them
 to do something before they do it.
 
@@ -1022,10 +988,6 @@ it’s mainly out to burn fat – that is the principle.
 
 The vegetable juices have soothing tonality to them. They don’t
 necessarily burn fats like the fruit does. That’s why the fruit is more
-
-
-```
-```
 cleansing in that way. Fruit tears things down by burning it up or
 cleaning it out. With vegetables, unless you are dealing with a lot of
 starchy vegetable matter like carrot juice with a high sugar content,
@@ -1173,10 +1135,6 @@ _— And what about drying fruit?_
 Aajonus: I used to have a philosophy where, again, if it’s dehydrated
 it’s not as good, it’s not as healthy. That’s still true. However, in the
 winter, I find that I crave dried fruits over fresh fruits. And I prefer
-
-
-```
-```
 dried fruits over fresh fruits some of the timeif I’m in a colder
 climate, I don’t even want to eat fresh fruits. If I’m in the snow, I
 want to eat dried fruits with butter or cream or something. So I just
@@ -1248,10 +1206,6 @@ dehydrate them in dehydrators. They are steamed and dehydrated.
 If I am going to make a pie, the dates are always my binder and
 sweetener. But I also use honey, just in the pie crust. I put one
 tablespoon of honey only in the crust to preserve it, to keep the nuts
-
-
-```
-```
 from becoming rancid. I will also put a tablespoon or two of honey in
 the fill.
 
@@ -1579,10 +1533,6 @@ Aajonus: Yes. You can take them so far. But you can’t heal them
 completely, unless they are an individual who doesn’t need meat.
 And there are very few of those. The meats help to regenerate cells,
 to rebuild the systems. It’s like a baby growing – if you don’t feed a
-
-
-```
-```
 child proteins, it just will not develop right. It will be very small with
 weak bones, etc.
 
@@ -1944,10 +1894,6 @@ it speeds it up by almost two-thirds. But it has to be organic liver.
 _— When you say organic – what I’ve found so far is "natural", meaning
 no hormones, no antibiotics. Even Coleman meats, they are working
 with their farmers, their ranchers, but whether the cattle are being_
-
-
-```
-```
 _feed exclusively certified organic feed, the industry hasn’t evolved
 altogether to that point._
 
@@ -2162,10 +2108,6 @@ _— Okay. And you were saying that any of that means negative acidity._
 
 Aajonus: Right. Any brown or yellow. And in a hazel eye, you will see
 blue coming through in a few areas, and the rest of it they have
-
-
-```
-```
 negative acidity in the tissue. It’s like bile. It has settled actually in
 their tissue with toxins that it has bound with.
 
@@ -2363,10 +2305,6 @@ Aajonus: No. When I look at this, I don’t consider that. But once I
 know what they are supposed to be eating, then I look here and I say,
 okay, he needs to eat fish and chicken and lots of fowl. White meats.
 Whatever it might be. Even lamb. That’s a lighter red meat and it
-
-
-```
-```
 isn’t as acidic as beef. But I see that his intestinal tract has a
 collection of toxic acidity throughout it. And it’s even bleeding. You
 will see that the brown bleeds into the blood. So, I say, I’ve got to
@@ -2588,10 +2526,6 @@ _— Well, maybe he thinks low heat is still quasi-raw._
 
 Aajonus: But he knows that even pasteurization, which is one
 hundred and seventy degrees, is a problem. And he’s talking about
-
-
-```
-```
 cooking something, lightly boiling it. I don’t know how that
 translates. It just doesn’t make any sense to me. But he comes
 through with that conclusion – or the people who took over, his
@@ -2897,9 +2831,6 @@ I used to panic. I would say, "Oh, I’ve got to fix this to fix that." I was
 always taught that everything comes from the mind. And experience
 has taught me that that is not true. It happens together. Nothing
 manifests without emotion. It’s like the female principle. And the
-
-
-
 female principle exists alongside the mind. The mind didn’t come
 first. It’s like they happen together. And the masters always gave me
 that, so I thought I had to fix this before I could fix that. Those are
@@ -3002,10 +2933,6 @@ myelin?_
 
 Aajonus: Like in most animals, you’ll flee. If there’s not enough blood
 fat in there, you will make wrong choices. And you will go to
-
-
-```
-```
 extremes. And you might find yourself in a physical fight getting
 killed, hurt. Very few animals get that way. And usually animals will
 only fight like that, like the elk is at the end of a winter season when
@@ -3041,9 +2968,6 @@ like the result of having about eleven cups of coffee, and there are a
 lot of toxins that need to be removed and taken care of. So anybody
 that has gone through an emotional crisis that you are working with,
 you need to treat them a little differently. A lot more protein during
-
-
-
 those times, because a lot of tissue will be damaged. You need to get
 them to calm down.
 
@@ -3227,10 +3151,6 @@ _— And that’s the trachea?_
 
 Aajonus: Well, on you, it’s probably the thyroid. Yours is a little
 lower. I think your whole diagram is turned a little bit. Now look at
-
-
-```
-```
 3:00. You are on the right eye, so it’s right here. Right in the half of
 the eye. That’s a lesion.
 
@@ -3308,10 +3228,6 @@ _— So you have to take the whole picture into account._
 Aajonus: Yes. Now really all you are doing is getting a good picture of
 how long it’s going to take. If you’ve got damaged glands, it takes two
 to two and a half years to get somebody’s glands in shape, to rebuilt
-
-
-```
-```
 the glands before they are really going to make a lot of momentum.
 Then you figure after you get that glandular activity balanced, then
 each year they can gain from one and half to two percent of cellular
@@ -3377,10 +3293,6 @@ time.
 
 _— Well, do you feel, then, that if you approach it gradually then with
 this approach to the diet and the healing altogether, do you feel that_
-
-
-```
-```
 _people who are really seriously sick, you know, terminally ill and close
 to death, how do you feel about taking them on?_
 
@@ -3417,9 +3329,6 @@ Aajonus: No. I told one woman, "Listen, you’ve got a good chance of
 getting well, even though you had had a lot of radiation therapy, but
 it’s going to be difficult because the symptoms of radiation poisoning
 are mass vomiting, nauseousness, and irritability. You hate
-
-
-
 everybody." And she said, "Yeah. I go through that." And I told her
 that when it is actually cleaning out of your body, it’s actually going
 to purge out of you and you are going to find yourself vomiting
@@ -3490,9 +3399,6 @@ could be indicated by red?_
 Aajonus: The woman who died about three weeks ago had in her
 intestinal area... this intestinal area. You see this little circular area
 that spikes out around. Now hers was a little thicker, very brown,
-
-
-
 and see this spot here. It has to be a bright red. That’s a dark red.
 This could be rust right here. Metals that are actually rusting. Iron
 deposits or something that are actually rusting in the body.
@@ -3525,10 +3431,6 @@ and some people are dark. Those I call worry circles. There is a line
 that comes here, and then there is a brown one here, and then a
 darker one. Some people have light ones, and they are usually on the
 underside circulating around. Those are worry circles. Those people
-
-
-```
-```
 take worry deeply about things. They’ve got all this tension. And it
 causes actual breaks, like waves in the eyes.
 
@@ -3787,9 +3689,6 @@ at this person. Now this person probably has a blue eye because of
 the grayness in there. I can’t really tell, because this looks purple so
 the coloring isn’t great. See this person’s intestine? Distended all the
 way out. Very distended intestine. See how far out it comes. Look at
-
-
-
 the ridge all along here. That ridge shows the intestine. Over here it
 goes way out to here. That pattern. It’s the ridge of the intestines.
 
@@ -4126,9 +4025,6 @@ So, anyway, when it clouds over, you will see a cloud like this over
 the whole thing and you really can’t see fibers and you can’t see
 lesions, it’s just a fog, a blurred fog that will come down. In
 Parkinson’s it’s usually down here like this, all the way down here. In
-
-
-
 Alzheimer’s the whole thing will be clouded. That’s in very advanced
 cases.
 
@@ -4202,9 +4098,6 @@ _— What about citrus?_
 
 Aajonus: Doesn’t pull out the minerals. Pulls out fat storages, dead
 cells and stuff like that, but not minerals. Got to have a berry that’s
-
-
-
 heavy in minerals. Blackberries, mostly raspberries will pull out
 mineral deposits, drug deposits.
 
@@ -5004,9 +4897,6 @@ awhile. Usually after somebody eats their protein, that’s when they
 are least hungry unless they are really starving for it. And then if
 they eat protein by itself, they can be hungry in an hour if it’s fish.
 But usually if somebody is eating beef it will be the longest period
-
-
-
 they will go without eating something else besides honey
 afterwards.
 
@@ -5124,10 +5014,6 @@ Aajonus: Sally and Rose, bring them both.
 
 _— Just Sally. Rose is not ready to change her diet. And then I’d like to
 get you to talk for as long as you want, just recipes. I had a question_
-
-
-```
-```
 _about male and female problems, menopause, prostate. That area.
 Then the difficulty of candida, how difficult it can be to reverse. Epstein
 Bar and chronic fatigue. Here is one you can answer right now. The
@@ -5220,9 +5106,6 @@ constantly had digestive problems. And when he would eat the
 germinated grains, he would mix the basmati rice, the short, sweet
 rice (pearl rice), the rye, and then I would have him put raw egg after
 he would germinate that altogether overnight. And he would use it
-
-
-
 the next day. Pour it off and rinse it, and then drain it again. Then he
 would mix raw egg, avocado and a little bee pollen and a little royal
 jelly. That’s the mix that I perceived for him. And it worked.
@@ -5426,10 +5309,6 @@ _— And the butter, the same._
 
 Aajonus: Yes. But most people who go on this diet pig out for thirty
 days. They just eat and eat and eat. And then after the thirty days,
-
-
-```
-```
 when their body is saying, "Oh my God, thank God for all of that!"
 And it’s done its basic getting the body leveled out to where it can
 say, "Hey, okay, now I don’t have to... " (and Aajonus pants.) I wonder
@@ -5543,9 +5422,6 @@ Aajonus: You can make it though. Ginger is great for digestive
 problems. Any time I have, like that guy with indigestion... Ginger
 had a tendency to burn him though, because he has an acid system.
 But I have a lot of people with digestive problems. And I say, "When
-
-
-
 you have the liver, to make sure you digest it well, blend some ginger
 in with the liver.
 
@@ -5581,10 +5457,6 @@ _— They just (Inaudible.) the Mexicans._
 Aajonus: Yes. But still, it searches for it. Vegetarians don’t get very
 much fat and they don’t have any meat at all, so what happens is that
 dried jalapeno pepper goes in there and burns the intestines, and
-
-
-```
-```
 what happens is the villi shrink up over the years. Just like teeth
 grinding down.
 
@@ -5618,9 +5490,6 @@ honey in there. And then I took the whole corn and mixed in on
 through. And boy, we sat down and it blew both of our minds. (Aajonus
 laughs.) One of the great gourmet dishes of all time. And I took the
 meat and made a pate out of the steak and made meat balls out of it,_
-
-
-
 _and just surrounded the plate with meat balls and put the salsa in the
 middle.
 What would you season it with if you wanted to make steak tartar. You
@@ -5691,9 +5560,6 @@ like I am having chili. Fresh raw pumpkin seeds. So I will pour some
 melted butter down with it. And the hot pepper together with some
 tomato in it and blend that up, so I’ve got like a chili sauce and either
 put onion or garlic in it or just dice the onion up and put that with
-
-
-
 the meat. Then I’ll mix the whole sauce together and put it on top of
 spaghetti.
 
@@ -5730,10 +5596,6 @@ _— And just throw all of that in the blender._
 Aajonus: Yes. You put it in small canning jars, the four ounce canning
 jar and you blend it and then you can put it in the refrigerator for a
 little bit because if you do that it will solidify it a bit, or you just use
-
-
-```
-```
 not the room temperature butter. You use a more hardened butter,
 not solid, but so it blends with the egg and it will be thick pretty
 quickly. Butter, egg, vinegar, lemon juice or lime.
@@ -5991,9 +5853,6 @@ you put your hand on it and let it blend until it gets very warm, but
 not hot to where it makes your hand uncomfortable. Then you take
 the blades off and you rinse those off, and you put a cap on it and let
 it sit on the counter for four or five or eight hours. And then you
-
-
-
 blend it again. And you do that five times in a forty-eight-hour period
 and it completely breaks it down. Releases the THC and everything.
 
@@ -6071,9 +5930,6 @@ Aajonus: Well, the kefir, if you have the proper kefir that has the
 bulgaricus, coccus and the acidophilus, you have the three different
 strains of bacteria which break down protein, the fats, and the
 carbohydrates and sugars. All. So everything is predigested and
-
-
-
 easier to utilize. So if anybody has digestive problems, acid stomach,
 is elderly and doesn’t absorb nutrients well, it’s best that they have
 that.
@@ -6146,9 +6002,6 @@ nurture the body, to soothe the body..._
 
 Aajonus: And people who have digestive problems, though, you don’t
 want them to have it every day. Every other day is better because it
-
-
-
 makes their intestines very sluggish. It’s so hard to digest in
 somebody that doesn’t break it down.
 
@@ -6270,9 +6123,6 @@ _— Do you know Gabriel Cousins? He is a holistic M.D. He wrote the
 book called The Rainbow Diet, and he makes a point in there about
 people who are strict vegetarians or fruitarians. He talks about the
 fact that the cell walls get very thin and that therefore, depending_
-
-
-
 _upon the environment that you live in and the kind of lifestyle you lead,
 you really can’t get too clean, too pure. Sally brought that up to me,
 and I said that from what I had learned so far is that the raw fats
@@ -6306,10 +6156,6 @@ and you keep utilizing the fats more than any other nutrients. There
 is never enough unless you lived on fats. But if you are a raw food
 vegetarian or raw food fruitarian you are eating a tremendous
 amount of fats: coconuts, avocados, cold-pressed nut oils, your cells
-
-
-```
-```
 can stay pretty protected, but you would have to eat a tremendous
 amount.
 
@@ -6345,9 +6191,6 @@ Aajonus: It is still processed. It still becomes chemicals because all
 the enzymes are dead. If they want a natural type complexion that
 the ... whatever natural so-called cosmetic that they are using, if they
 will put some butter on their face first, or peanut oil or olive oil,
-
-
-
 depending upon their skin. If their skin is very sensitive and very
 light, do not use olive oil, because it will have a tendency to break
 them out in blemishes or little sore or even rashes, like a heat rash.
@@ -6381,10 +6224,6 @@ Aajonus: Nope. There is a pyruvate made from protein. That’s just
 one of the types. I forgot who discovered that. Can’t remember. That
 was back in the early seventies. He showed the burning cycle of fats,
 the normal energy burning cycles, and pyruvate was a substance
-
-
-```
-```
 made from proteins that combined with citric acid to ignite to burn
 the fat.
 
@@ -6421,9 +6260,6 @@ Aajonus: That was to get the fat in there to clean everything out and
 soothe it so the brain damage could be fixed. It wasn’t to get his
 brain working. As long as his brain got soothed and everything
 started healing, the enzymes in the honey will be used to heal the
-
-
-
 brain. So it’s like that doctor that was down in Central America
 during the Nicaraguan War. He went down there and the natives
 were taking unheated honey and rubbing it on wounds and they
@@ -6534,10 +6370,6 @@ can be so many different things. To me it is not even a category. But
 you know the chronic fatigue/candida syndrome. Because a lot of
 those people that say they have chronic fatigue and some have been
 tested candida and either they don’t have candida or they have_
-
-
-```
-```
 _antibodies in their blood that show they did have candida but maybe
 don’t now. But basically they are lethargic. Some people can’t even
 work. I am sure you have had some of those clients._
@@ -6761,10 +6593,6 @@ have periods where they just think everything is back the way it was,
 thing. And I just stay very calm and I say, "Think back. What’s
 happening is you have got some of that stuff coming out into the
 blood again, and you are reacting as if you are in that state again. Just
-
-
-```
-```
 eat more of the cream. Eat more of the fats, more of the fish. You will
 get through this. It’s cleaning out. You are going to get better each
 time." Just figure it as a detoxification, because that’s exactly what it
@@ -6838,10 +6666,6 @@ with the coloring. It moves in and out of colors, but I don’t have any
 of the splotches today. A few of them. When somebody has a lot of
 white splotches, it means they have a lot of white blood cells. More
 than red. And it shows that the red isn’t transporting the oxygen
-
-
-```
-```
 very well. And there is an excess of red blood cells, because there are
 more toxins in the body that the white blood cells have to take care
 of. And usually somebody will have to eat red meat.
@@ -7333,9 +7157,6 @@ extract. If you can’t get the actual fresh, raw gland and eat it, and you
 can in some places. Like around the Amish you can order any gland
 you want. You get the tissue, ovary tissue, and you get it freeze dried.
 Preferable to chew, but if you don’t chew that’s fine. You eat it with
-
-
-
 liver or fish or some kind of meat, and, a woman would take it, or a
 man takes the testes tissue (or prostate tissue) and eats that with
 some kind of meat.
@@ -7369,10 +7190,6 @@ or active at all. It’s just that the body can analyze it and say, "Oh, yes.
 That’s how we make that." Then it remembers how to make it
 because it’s been introduced. It’s like handing them the blue print.
 The blue print is not the building. But it is handing them the blue
-
-
-```
-```
 print. However, if you did eat the fresh tissue then that would
 directly go to that site and build that area.
 
@@ -7516,10 +7333,6 @@ nerves throughout.
 So if you were to put a food grade peroxide, it would actually bleach
 the color out of it and then you would find all of these nerve strands
 going throughout. So you know that you have a massive amount of
-
-
-```
-```
 nerve fibers that have to be replaced too. So you need to eat fish as
 well as beef for the glands to be properly regenerated, because the
 nerves have to be rebuilt as well as the...
@@ -7556,9 +7369,6 @@ _— Man._
 Aajonus: Lots of shellfish. Oysters. Scallops are excellent. For the
 minerals. Because usually an individual who isn’t potent is not,
 unless they are vegetarian, it’s because of the mineral toxicity going
-
-
-
 to those glands. The other glands are already probably too full, can’t
 take anymore, so now they are going down there.
 
@@ -7593,10 +7403,6 @@ Aajonus: Right, because they need those nutrients. That’s also
 basically where drinking your own urine came from, because you
 have to keep drinking your own proteins because you can’t afford to
 lose them because you don’t eat them. So, it’s a starving community
-
-
-```
-```
 for those things to have evolved, but it’s not necessary if you are
 eating properly.
 
@@ -7667,10 +7473,6 @@ _— My father used to say you get up in the morning with... you wake up
 with your friend Charlie Horse. I have lunch with Arthur Itis. Then I go
 the movies with Ben Gay. (Aajonus laughs.) Heart conditions, diabetes,
 lung cancer, arthritis. Those are the last four. I have somebody I am_
-
-
-```
-```
 _working with a lung tumor right now. You want to talk about lung
 cancer. Anything to say about that?_
 
@@ -7815,10 +7617,6 @@ _— This was a breast tumor._
 Aajonus: Yes. It was on the left actually. So it started there and then
 when it started growing, it just grew a whole mass. And just like, a
 squamous cell, so it looked like it was full of warts. Scaly looking. It
-
-
-```
-```
 stunk terribly. And the great constituent of that tissue had the
 properties of aspirin all throughout it.
 
@@ -8174,10 +7972,6 @@ it or buy one. If you are going to buy one, it’s usually made from
 fortified and bleached flour. You can make your own bread and go
 ahead and toast that or bake it.You can make it with fish. There are
 all different kinds of things you can make it with. You can take slices,
-
-
-```
-```
 very thin slices of filet mignon. That will break up easily and put
 little strips of them on there. Sometimes somebody will take ground
 beef and just spread it around.
@@ -8283,9 +8077,6 @@ you will be making two bowls of strudel — for two people. Take one
 pear and two apples. Don’t peel them. Blend all of it together. Just
 core them and blend the peel and the meat. Blend it with about ten
 dates and a little block of cheese about and inch by three inches.
-
-
-
 Slice it up into thin slices (the cheese). Blend that all together with
 about two tablespoons of your Canadian clover white honey to give
 it a powdered sugar taste. Blend that all together until it is very, very
@@ -8797,9 +8588,6 @@ _— Do you ever drink lemon water or lime water?_
 
 Aajonus: Yes. I did last night. I will squeeze a lime in a little four
 ounce, six ounce canning jar or eight ounce and then I will add an
-
-
-
 equal amount of honey so if the juice comes out to two ounces, with
 the honey in there it’s four ounces, and then I will put a little cream
 in there or I will wait and I will hold out the cream and I will blend
@@ -8916,10 +8704,6 @@ polluted and unhealthy bodies, up to eighty percent can be used as
 chelation to bind with toxins, and the rest for lubrication and still
 may not have enough to have fuel. That’s why I say eat a lot of fat, so
 you can take care of that. Well, when you pasteurize the milk or cook
-
-
-```
-```
 it even, you have destroyed the fat. You have made it a substance
 that is no longer live, has no enzyme activity. So the body tries to
 form it into a chelation fat. And when it chelates, it doesn’t chelate
@@ -8993,10 +8777,6 @@ hydrochloric acid, is fed it. And the beet is high in that. And so is
 corn. Raw corn. The starchier the better too. I remember when I
 would go travel outdoors, I would go pick the feed corn instead of
 the regular human corn. (Aajonus laughs.) I would eat the corn that
-
-
-```
-```
 the cows ate, but when it’s fresh on the stalk, it’s not like rock hard.
 And it’s very starchy and very delicious and very filling. It’s even
 higher in the hydrochloric acid. So I would use the beet juice to
@@ -10301,10 +10081,6 @@ mutations for cooked red foods?_
 
 Aajonus: No. You can have different allergies for different cooked
 colors of food. But the acne usually appears from allergy to cooked
-
-
-```
-```
 red. That means even if you have cooked carrots because there is red
 in it.
 
@@ -10374,10 +10150,6 @@ Aajonus: Well, the one adrenal gland is dead. So, it’s just a matter of
 building, and that’s the meat. She just has to eat... you are going to be
 the opposite of a vegetarian. That’s all there is to it. If you broke it
 down into three meat meals a day, you would do very well. Don’t eat
-
-
-```
-```
 it all at once. Eat it three times a day. Three to four ounces three
 times a day.
 
@@ -10414,8 +10186,6 @@ Remember that one we saw in the book where the intestine went all
 over the place. Sometimes those people are allergic to dairy, even
 raw dairy. It’s very few people, but sometimes that happens. So I just
 tell them not to eat the fresh dairy.
-
-
 
 They can still eat the cheese and the cream. But any milk, they are
 allergic to the lactate usually. There is hardly any in the cheese and

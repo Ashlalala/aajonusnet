@@ -75,9 +75,7 @@ Aajonus’s continuing research, this information fits.
 
 #### Eggs
 
-### Chapter 4: Updates to Aajonus’s recommended daily
-
-### plan
+### Chapter 4: Updates to Aajonus’s recommended daily plan
 
 #### 4A. Sequence
 
@@ -91,8 +89,9 @@ Aajonus’s continuing research, this information fits.
 
 #### 4F. Weight loss and/or gain
 
-**weight loss
-weight gain**
+**weight loss**
+
+**weight gain**
 
 #### 4G. Special cases
 
@@ -109,9 +108,7 @@ weight gain**
 #### C. Recipes with eggs and/or cheese
 
 
-# Chapter 1: How did Aajonus start on this
-
-# path?
+# Chapter 1: How did Aajonus start on this path?
 
 “I got on my bicycle and went around to the farms. Around there was a farming
 community. I made deals to shovel manure, to milk goats and cows, slaughter - to do
@@ -149,8 +146,6 @@ a few people doing it. But 3 years ago I started doing it because the success wa
 with 50 people, I tried it with probably 200 people. I said ‘When you get up in the
 morning, you eat a tablespoon or 2 tablespoons. If you are a guy this big, you eat three
 tablespoons of cheese. First thing in the morning absorb all the poisons that have
-
-
 dumped into the stomach and intestines. It will go through like a train and just pick it up.
 And it does! Then after then, suck some eggs; get the brain fuel going. June 22, 2013
 
@@ -175,7 +170,7 @@ and going into the intestinal tract to remove it. June 16, 2013
 
 Since I’ve had people doing it [ _lymphatic bath_ ] at least five days a week, 90 minutes a day,
 plus eating the cheese every day – anywhere from 15 to 45 minutes daily – the increase
-in lymphatic activity and cleansing and healing has tripled. May 27, 2012 -
+in lymphatic activity and cleansing and healing has tripled. May 27, 2012
 
 - - - - - - - - -
 
@@ -267,6 +262,7 @@ Yes, you can eat moldy cheese; just scrape the white top off. September 9, 2007
 - - - - - - - - -
 
 **Spores on cheese**
+
 Cheese, though, grows white spores off the top. The spores are aerobically incited like
 tiny microscopic mushrooms that let out all these spores for mycelium. Mycelium is like
 the mother... like salmonella on the body. It goes into the ground and eats dead roots –
@@ -346,7 +342,7 @@ more than a thin shaving like this, about as wide as the brick is, and no more t
 long, per week. May 6, 2000
 
 
-##### - - - - - - - - - -
+- - - - - - - - - -
 
 _Should I stay away from cheese because of all the mold?_
 Let me tell you, these therapists don’t know their butt from a hole in the ground. All they
@@ -391,8 +387,6 @@ cottage cheese, put a little honey or some fruit in it, February 3, 2013
 
 I recommend that people eat small amounts of cheese to absorb the poisons that are
 constantly dumping into the stomach and intestines. That’s not the normal route; that’s
-
-
 not the healthy route for toxins to leave the body – 90% of toxins are supposed to leave
 through the skin. October 14, 2012
 
@@ -417,6 +411,7 @@ cheese, and that’s all from mold. February 22, 2009
 - - - - - - - - -
 
 **A good cheese**
+
 is one that’s been predigested with molds. Germans love those stinky old cheeses that
 have been broken down with the raunchiest molds in the world. Look at their strength
 when they used to eat so much of it. Look at the 1800s and 1900s when they thought
@@ -432,14 +427,13 @@ Yeah, the dryer it is the more it will be absorbent. September 9, 2007
 - - - - - - - - -
 
 **Importance of cheese**
+
 He was one of those skinny, skinny individuals that absorbed all those poisons and
 couldn’t throw them off because he had no fat to throw them off. So here he walked up, I
 photographed his eyes. I can see his entire digestive tract. 90 percent of the metal is
 gone. And he looks it. And I said what planet are you from? This isn’t natural or normal.
 He said I am doing better. I’m feeling good and he said I don’t see the difference but I feel
 the difference, I feel happy now, I feel energy. He went from bone thin like Jim was and a
-
-
 lot of other people, several other people who are here, bone thin, thinner than he. So he
 was big, his waist... he probably went from a..., he is about 6 feet 2 inches. He probably
 went from a 31 waist to 42. But he was strong; he had red skin, not all gray except around
@@ -477,7 +471,7 @@ Uh-huh.
 Yeah, right.
 _Is that okay?_
 Yeah, you’re talking probably about a very small amount. July 20, 2008
-**-** - - - - - - - -
+- - - - - - - -
 
 #### Eggs
 
@@ -519,17 +513,16 @@ It doesn't make any difference because those particles lag. May 26, 2013
 - - - - - - - - -
 
 **Happy chickens**
+
 These Amish chickens that are fed my way -
 
 [ _Aajonus’s way:_ Feeding a chicken a vegetarian diet is the worst thing you can do. Chickens
 are not vegetarian. They’re mainly scavengers and eat rotten meat and bugs. If they eat
-
-
 rotten meat – which they prefer, they won’t eat bugs. They eat carcasses like vultures.
 That’s why I have Amish farmers butchering their animals and leaving what they don’t
 use for the chickens who eat it as it rots as well as the ensuing maggots.]
 
-- are walking around rubbing against your leg like a cat and never pecking each other –
+are walking around rubbing against your leg like a cat and never pecking each other –
 none of that... You are going to get very excellent eggs from Amish farmers.
 January 27, 2013
 - - - - - - - - -
@@ -613,8 +606,6 @@ means it’s all completely digested.
 That’s the century egg. The Chinese let it go up to 25 years. It’s all black or white
 inside. Sometimes it can be hard, depending on the egg and the soil they put it in. The
 bacteria in the egg start the pre-digestion and the fungus [ _in the soil_ ] will finish it. That’s
-
-
 why when you open it you have powder – it’s a fungal powder – whether black or
 white. It’s an aphrodisiac and these 25-year-old eggs cost about $1000 apiece. It’s like
 Viagra for 30 days. There are a lot of elderly people in Japan and China and Taiwan and
@@ -660,8 +651,6 @@ egg. 1999
 The Chinese successfully used “century” eggs, rotten eggs aged up to 25 years with high-
 bacteria and molds, for remedies and disease-prevention, and as an aphrodisiac.
 The conclusion that the elderly, infants and the ill are more susceptible to harm (at-risk)
-
-
 from “pathogens” is speculation and false. I have observed many cases in which so-called
 at-risk individuals ate bacterial rich, aged and decaying raw food. They regained health of
 bowels, digestion, glands, sanity, and in many cases reversed disease. It worked
@@ -677,8 +666,7 @@ within the body, reversing or preventing more serious disease. They appear as vu
 and crows do; they find the dying and carcasses and eat them to prevent the
 atmosphere from becoming a toxic gaseous environment. Eliminating them is dangerous
 to the environment. Eliminating microbes - such as, E.coli, salmonella, and campylobacter
-
-- forces decaying tissue to remain in the body, endangering the inner-body environment.
+forces decaying tissue to remain in the body, endangering the inner-body environment.
 As a result, the body gets sicker over time. Article: Recipe for a Health-giving Paradigm
 - - - - - - - - -
 I _happen to have this really good egg supplier for five or six years. He gives the unwashed eggs,
@@ -761,9 +749,7 @@ they’re all absorbed. Feb 3, 2013
 - - - - - - - - -
 
 
-# Chapter 4: Updates to Aajonus’s
-
-# recommended daily plan
+# Chapter 4: Updates to Aajonus’s recommended daily plan
 
 ## 4A. Sequence
 
@@ -797,6 +783,7 @@ September 26, 2010
 - - - - - - - - -
 
 **Fat after protein**
+
 _Should fat - butter and cheese - be eaten simultaneously with meat?_
 It depends on quantity. If you're a weight-lifter or body builder and want to develop big
 fast, have a full lubrication formula: 3-4 tbl with the meat and the rest 10-15 minutes
@@ -817,7 +804,7 @@ suggest that people do eating schedule #2, which has three meat meals instead of
 Thirty-five minutes after you finish the meat meal you have your cheese and honey
 together. September 13, 2009
 
-**-** - - - - - - - -
+- - - - - - - -
 
 If you’re having the lube formula you might want to wait to have the lube formula after
 you’ve finished the meat meal.
@@ -828,9 +815,10 @@ the meat have a little sugar-cubed size amount of cheese; 10 minutes after that 
 your cheese and honey ... because I don’t want any poisons getting into the honey and
 cheese. May 27, 2012
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Importance of cheese**
+
 Yeah. And let’s say I’ve got construction workers who are heavily toxic and laboratory
 personal who deal with a lot of formaldehyde and mercury – I have them eat a cube
 every 15 minutes. So, they’ll take that and wait seven minutes, drink some sport formula
@@ -843,8 +831,6 @@ do not digest the cheese; there are no enzymes in dehydrated food, no matter wha
 So, you have to have honey or some kind of fruit – like an acidic fruit – like pineapple or
 papaya – to provide the enzymes to digest that cheese. So, twice a day I recommend that
 25 minutes after your meal you have a little piece of cheese, 10 minutes after that you
-
-
 have your cheese with honey and that’s your mineral supplement. Ok?
 I’ve seen women with 32% bone loss and osteoporosis reverse that in nine months by
 doing that, in nine months. October 14, 2012
@@ -879,7 +865,7 @@ Ten minutes, you have a sip, five minutes you can have cheese again.
 _OK._
 **...** But it's sipping the milk, it's not guzzling it. June 16, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 _Do you eat the cheese and honey 10 minutes before a cheese?_
 You eat the cheese – it’s always the cheese 10 minutes before you have the cheese and
@@ -893,16 +879,17 @@ honey it should be about a three to one ratio – maximum. So, let’s say you�
 tbsp. of cheese, you have a tsp. of honey only; you have three tbsp. of cheese, you can
 have two a half to three tsp. of honey. October 14, 2012
 
-**-** - - - - - - - -
+- - - - - - - -
 
 _Okay so I switch over to the eggs, so I can drink milk in between the eggs, I drink about a
 gallon of milk day, especially in the summer - I get so thirsty._
 You need the cheese to absorb the toxins. If you’re having burning, you need something
 to absorb the toxins so do the cheese before you have the eggs. September 13, 2009
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Cheese before juice**
+
 _I was on the diet before, was really a lot of juice, maybe I just got a little bit tired of it._
 I'd like you to have 60% celery, 20% carrot, and 20% green cabbage. What might help you
 enjoy that juice a little bit is to have a little cheese before you drink the juice.
@@ -923,7 +910,7 @@ _So, if you have the fruit meal – it’s the same thing again: 10 minutes befo
 cheese?_
 You have the piece of cheese – yeah. May 27, 2012
 
-# - - - - - - - - -
+- - - - - - - - -
 
 _cheese during bath?_
 I do, absolutely. It’s a good idea, even if you’re not waiting to drink, to have some cheese.
@@ -981,8 +968,6 @@ meat meal. You have your vegetable juice you're going to have to wait for at lea
 minutes to have your meat meal after that from the first time. At least 45 minutes. So I
 say after you have your vegetable Juice after you finish it 15 - 20 minutes later you have a
 cube of cheese. 10 minutes after that another cube of cheese --- I mean 20 minutes after
-
-
 that another cube of cheese, and then 10 minutes after that your meat meal. So you’ve
 gone 50 minutes after you finished your vegetable juice to have your meat meal. If you
 go right into your meat meal you can go about 20 to 25 minutes after you finish the meat
@@ -1008,7 +993,7 @@ It will help, but make sure you’re constantly eating the cheese.
 _Ten minutes before._
 
 _._ .. but also every twenty or thirty minutes in between. March 26, 2013
-**-** - - - - - - - -
+- - - - - - - -
 
 So then you know you have the coconut cream to put with it, you have to squeeze some
 lime juice with it -- and that fruit meal is coming up next. Some people can have their
@@ -1017,16 +1002,13 @@ milk or milkshakes in between. Let's say you're doing the cheese every 20 minute
 the top of the hour you have the cheese and 10 minutes after that you sip ounce or 2
 ounces of fluid, either the milk, milkshake or sport formula -- 10 minutes after that
 cheese again -- 10 minutes after that, sipping again -- 10 minutes after that cheese again -
-
-- 10 minutes after that sipping again. So that’s an hour, if you're doing sipping 3 times an
+10 minutes after that sipping again. So that’s an hour, if you're doing sipping 3 times an
 hour and you're having your cheese 3 times an hour.
 If it’s every twice an hour - every 30 minutes - then take the cheese - 10 minutes after
 sip -- it's 20 minutes after cheese -- 10 minutes after sip -- 20 minutes after cheese
 again, so that's the way you rotate it. How much toxicity in your ring around your pupil --
 how dark it looks the less time you take between cheeses. That's how you determine it --
 how many poisons are in your stomach and intestines. So you make the choice. Some
-
-
 people have it every once an hour. That’s up to you. The people in this last year which
 I've seen now more people doing it. June 22, 2013
 
@@ -1079,7 +1061,7 @@ I wouldn’t eat eggs and meat if I go to sleep with it. Cheese with honey, migh
 because you’ll digest some of the protein, but probably I wouldn’t do that. I would eat
 cheese and an egg, cheese in a milkshake, or cheese and meat. February 22, 2009
 
-# - - - - - - - - -
+- - - - - - - - -
 
 You can eat cheese, butter and honey together and go back to sleep. Cheese on its own
 won’t be digested. Vegetable juice is fine and you can have cheese first. If you’re really
@@ -1121,8 +1103,6 @@ No, if you want to blend them in something, then add a little bit of cream or mi
 something that will coat the egg white so it doesn't oxidize.
 _Is it better to have the whites and the yolks separately in separate meals?_
 No. It's better to have them together, except for one person I suggested to have them
-
-
 separate. May 6, 2000
 
 - - - - - - - - -
@@ -1159,7 +1139,7 @@ _So, that all day long?_
 No, you can just have that twice a day. Let’s say after a meat meal. You just need a small
 amount to do that. July 20, 2008
 
-# - - - - - - - - -
+- - - - - - - - -
 
 It is always one third honey to the cheese. So it’s one tablespoon of cheese to one
 teaspoon of honey. Sometimes I tell people they can use even less honey. But that’s the
@@ -1171,8 +1151,6 @@ highest ration, three to one. February 22, 2009
 _Fresh grapefruit juice gave me sharp pains. I took cream and that helped but still hurts_.
 You just stripped the nerves of fat around the kidneys. That’s why I say never drink fruit
 juices. Put hot water bottle on the area and sip at least a tablespoon of cream every
-
-
 hour. Clay won’t help that. Cheese and honey will help. ... a tablespoon of cheese with
 half a teaspoon of honey every hour. You could alternate with cream. Cream with the
 juice would have avoided the problem. You were a vegetarian for a very long time – why
@@ -1221,6 +1199,7 @@ something to really slow it down. November 7, 1999
 
 
 **Cheese with meat**
+
 I would feed animals toxic substances with and without...that was in food. I wouldn’t
 purposefully poison them right off. I would take foods from a regular supermarket like
 meats that had hormones and other toxins injected into them for growth and for so-
@@ -1232,6 +1211,7 @@ discarded most of those toxins out the feces. Interview: Joanne Unleashed
 - - - - - - - - -
 
 **Eggs and milk**
+
 Eggs and milk act together as the best [ _way of_ ] mucus forming, because you can make
 lots of mucus. But it would have a short fiber. May 21, 2000
 
@@ -1243,7 +1223,7 @@ _Doesn’t the fat in egg yolks make the bile? Can you just eat yolk by itself?_
 Not a good idea. You won’t digest much of the fat as it takes protein to digest fat. Your
 liver makes bile to digest fat...and vice versa.
 
-# - - - - - - - - -
+- - - - - - - - -
 
 **Eggs with Honey or Meat**
 
@@ -1259,6 +1239,7 @@ Cheese, dates and butter together will pull out poison even better. September 26
 - - - - - - - - -
 
 **Butter with cheese**
+
 _Could you add butter with the cheese?_
 Adding butter to the cheese is ok. You should do it since you’re so thin. So, that will
 absorb the toxins. October 14, 2012
@@ -1266,9 +1247,8 @@ absorb the toxins. October 14, 2012
 - - - - - - - - -
 
 **Figs with cheese**
+
 Figs are the highest alkalinizing fruit. And if dry, won’t have enough water to incite
-
-
 detoxification. A fig will act like a date as long as you’re eating with cheese and/or butter
 again... So dates can be used as milk as long as eaten with cheese and/or butter.
 May 20, 2012
@@ -1318,7 +1298,9 @@ any swelling is going to cause rupturing. May 6, 2000
 
 
 [ _Reminders from The Recipe for Living Without Disease_ :]
+
 **Fruit with fat**
+
 As I stated, high-carbohydrate fruit should always be eaten with a raw fat, such as raw
 cream, raw coconut cream, unsalted raw butter, avocado, or a combination of unsalted
 raw butter and no-salt-added raw cheese. The Recipe for Living Without Disease
@@ -1326,6 +1308,7 @@ raw butter and no-salt-added raw cheese. The Recipe for Living Without Disease
 - - - - - - - - -
 
 **Alkaline fruits**
+
 such as bananas, peaches and figs, should not be consumed more than once a day, and
 should not be consumed with meat. They should be eaten with coconut cream, coconut,
 avocado, unsalted raw butter, raw cream, no-salt-added raw cheese or occasionally raw
@@ -1333,6 +1316,7 @@ eggs. The Recipe for Living Without Disease
 
 - - - - - - - - -
 **Acidic fruits**
+
 such as lemon, lime, pineapple and tangerine, may be consumed with fowl or fish when
 in combination with an added fat, such as raw cream, unsalted raw butter, no-salt-
 added raw cheese, coconut cream, coconut or avocado.
@@ -1340,6 +1324,7 @@ The Recipe for Living Without Disease
 - - - - - - - - -
 
 **Cheese with honeycomb**
+
 Yeah. And if it becomes too dry if you're chewing it, put a little cheese in your mouth to
 eat with it, or any food. And it'll chew, and it'll go down. November 7, 1999
 
@@ -1403,17 +1388,14 @@ are constantly dumping into the stomach and intestines. That’s not the normal 
 that’s not the healthy route for toxins to leave the body – 90% of toxins are supposed to
 leave through the skin. Because the lymph systems are so blocked – the connective
 tissue is so jammed with trans-fatty acids which are plastic fats that you’ve all been raised
-
-
 on – donuts, chips, french fries – anything that’s been fried and heavy with carbohydrates
 then fried in a trans-fatty oil. Trans-fatty oil means the oils that have been hydrogenated
-and hydrogenation is a process of making into plastic. So, trans-fatty acids are plastic fats
-
-- plastic oils. 99% of all oils used to fry foods – no matter what they are – are trans-fatty
+and hydrogenation is a process of making into plastic. So, trans-fatty acids are plastic fats,
+plastic oils. 99% of all oils used to fry foods – no matter what they are – are trans-fatty
 acids because they have an indefinite shelf life – 100 years – they’re dead. That’s why they
 are plastic – they are not alive anymore. They will not help you – they will jam your
 lymphatic system – jam everything in your body. October 14, 2012
-**-** - - - - - - - -
+- - - - - - - -
 
 Just cheese to absorb, so you’re using the cheese without honey to absorb the toxins,
 February 22, 2009
@@ -1448,8 +1430,6 @@ casein and lactate that was cauterized from pasteurization is still in their bod
 the liver or in the pancreas.
 _Joanne: So just go for it, huh?_
 Eat cheese often, so your body is not using your key minerals to bind with the
-
-
 poisons. When you’re eating the cheese and honey together, you’re filling your body with
 tremendous amounts of ... If you’ve got a real serious problem at any particular time, you
 do that three times a day: twice after a meat meal because you’re only having one meat
@@ -1457,7 +1437,7 @@ meal a day – that means you have to take it two other times – and the middle
 is the one time in the middle of the night that is best. And that’ll help if you stick with it.
 October 14, 2012
 
-# - - - - - - - - -
+- - - - - - - - -
 
 _How do you remove the bodily burden of toxins?_
 Aajonus: Loooooonnnnggg process. Cheese will act as an attractor. So let’s say you put
@@ -1472,7 +1452,7 @@ size amount like a half a teaspoon. For some people who are larger, of course, t
 need up to a teaspoon or more every hour—it will help pull these toxins out of those
 fluid systems. Interview: Joanne Unleashed
 
-# - - - - - - - - -
+- - - - - - - - -
 
 I have a client - another one in Massachusetts - who is a very wealthy, influential woman,
 and both a public nature, and she's on the diet, and I was telling to eat the raw eggs, and
@@ -1485,7 +1465,7 @@ whipping it, it won't be destroyed by the oxygen. If you blend it with cream or 
 something like that, that'll prevent it from oxidizing. But when you have it alone, you
 should not whip it. Article on emphysema
 
-# - - - - - - - - -
+- - - - - - - - -
 
 I’d say 87% of the people I see have that chemical soup in their stomach lining. Every
 time you eat, your body is going to get rid of a little bit of that at a time and it’s going to
@@ -1525,7 +1505,7 @@ with honey in it and eating the cheese with it will not help the cheese digest. 
 the honey have to be together in your mouth at the same time then you will digest the
 minerals in the cheese and it will be a concentrated mineral supplement. Sept 9, 2007
 
-# - - - - - - - - -
+- - - - - - - - -
 
 Remember, when you’re detoxing cheese it is not to be digested; it’s to absorb the
 poisons and move out. So, if you’re using raw no-salt raw cheese you won’t digest it –
@@ -1536,8 +1516,6 @@ detoxification it’s without fruit or honey.
 _With that volume of cheese that you’ve been talking about for a couple of hours here – I’ve
 tried eating cheese with butter; it doesn’t seem to do anything. Cheese just creates a kind of..._
 Jim, you were one of the most fat-deficient persons I’ve ever met. It’s going to take you
-
-
 another 10 years to catch up on getting the fats that – the butter in your system – the fats
 that you need. October 14, 2012
 
@@ -1577,8 +1555,6 @@ and third in lymph. Lymph is very slow. And all of those get sticky and slow eve
 and in the neurological system, the synapse fire and they skid because they keep sticking
 to the axon or ganglia walls so the thought process isn’t good. Suck a few eggs! ... My size,
 I will have 3 – 4 in the morning. I could have 5 – 6 in the morning just to make sure that
-
-
 you have all that brain fuel that has no stickiness to it. And the most concentrated and
 best nutrients for the whole body are in eggs. So it does perfectly. That is what we want
 to do: get the brain and nervous system going and focused. That will all take care of your
@@ -1586,8 +1562,7 @@ energy level too. You’ll see that it goes up. You don’t need coffee, you don
 like that. If you do, just have some vegetable juice after you have your eggs. If you are
 highly toxic, you will need vegetable juice. If you feel blah..., lackadaisical – the have some
 vegetable juice. About 20 minutes after you finish your eggs, have a little piece of cheese
-
-- one or two cubes of cheese. I call a cube of cheese the size of a sugar cube which is a
+one or two cubes of cheese. I call a cube of cheese the size of a sugar cube which is a
 half a teaspoon.
 2 cubes would be a teaspoon worth of cheese. So you have this going in and again you
 can have it with butter, a little bit of butter - half the butter to cheese. If you have
@@ -1601,7 +1576,7 @@ _You said when you started - I thought you said cheese first._
 Yeah, you’re doing the cheese, then you have the eggs, cheese again -- okay, and then we
 go for either vegetable juice or meat. June 22, 2013
 
-# - - - - - - - - - -
+- - - - - - - - - -
 
 _What I don’t understand stand is we have toxins that are distributed throughout our body,
 right, because they get past the intestinal wall into the bloodstream or whatever. So how does
@@ -1614,12 +1589,12 @@ phagocytes. Phago means “to eat,” and they eat toxicity. They consume it. So
 Also, your body uses fat molecules to attract and bind or capture toxins and hold them.
 Interview: Joanne Unleashed
 
-# - - - - - - - - -
+- - - - - - - - -
 
 Your body secretes hydrochloric acid that’s to dissolve larger pieces of protein meats, so
 you’re eating cheese to help you break down clumps of protein. May 27, 2012
 
-# - - - - - - - - -
+- - - - - - - - -
 
 
 ...like I did in autopsies – I put the hydrochloric acid from the stomachs of 32 cadavers
@@ -1640,15 +1615,14 @@ clear it all.
 _Oh, really? Oh._
 ...cheese and butter; cheese and cream. October 14, 2012
 
-# - - - - - - - - -
+- - - - - - - - -
 
 **RAW EGGS, Free-Range,** are one of the best compact foods in nature. Eggs are the
 ultimate complete fast-food. However, the protein in eggs is not utilized for cellular
 reproduction. They are utilized for regeneration and maintenance and cannot be
+substituted for meat except occasionally. The Recipe for Living Without Disease
 
-# substituted for meat except occasionally. The Recipe for Living Without Disease
-
-# - - - - - - - - -
+- - - - - - - - -
 
 _You said we use metal to transfer light in the body? Is that like negative or positive heavy
 metals?_
@@ -1670,7 +1644,7 @@ _Is this the same formula you mentioned last week against mercury in vaccines?_
 This is the same formula but with the coconut cream and four eggs. I’m making a
 quart. The formula I gave you is not a whole quart. February 3, 2 013
 
-# - - - - - - - - -
+- - - - - - - - -
 
 ## 4F. Weight loss and/or gain
 
@@ -1708,11 +1682,9 @@ The next day it is juice and meat (a golf ball sized amount of meat). It is juic
 meat-juice-meat... the same thing again.
 So it is 1 day with the egg and juice and 2 days with the meat and juice. Then you are
 back to the egg and juice again. ...2 days with the meat and juice. And you continue that
-
-
 for as long as it takes you to drop that weight. Aajonus’s hard drive
 
-# - - - - - - - - -
+- - - - - - - - -
 
 The second one [ _weight loss program_ ] that I give to a lot of people is: juice-egg-juice-meat-
 juice-egg day. The next day I give: juice-meat-juice-egg-juice. You know one day you will
@@ -1726,7 +1698,7 @@ those weight loss programs. November 17, 2000
 So you eat lots of eggs and meat without much fat to pull the fats off of the body, if you
 want to lose weight. November 18, 2007
 
-# - - - - - - - - -
+- - - - - - - - -
 
 _I've been doing raw eggs every half an hour, the last four weeks. Uh, and since then, I've been
 100%. But how do I... I'm not doing as much butter and cream since I been doing this way,
@@ -1743,8 +1715,7 @@ quickest and the best. September 9, 2007
 - - - - - - - - -
 In the recipe book, under weight loss, you have meat without any kind of fat with it,
 except for a little bit just so you don’t dry out completely. So you eat lots of eggs and
-
-## meat without much fat to pull the fats off of the body, if you want to lose weight.
+meat without much fat to pull the fats off of the body, if you want to lose weight.
 
 November 18, 2007
 
@@ -1849,7 +1820,7 @@ _Can you take that egg that you eat and chase it with milk?_
 That is fine when you are on the detox [ _weight loss_ ] diet. But you are only eating one egg
 at a time. Aajonus’s hard drive
 
-# - - - - - - - - -
+- - - - - - - - -
 
 This is for taking it [ _weight_ ] off. Taking it off, you have nothing but juice and eggs or juice
 and meat, and never together. You have to do the eggs rocky style. That means you take
@@ -1871,7 +1842,7 @@ and sound body. You need to put a hot water bottle on your tummy at night, not t
 got a lot of congestion in there and the circulation is poor in your intestines and that will help put
 it back together. Watermelon is also good for you in the summer. 1999
 
-# - - - - - - - - -
+- - - - - - - - -
 
 ## Weight gain
 
@@ -1880,8 +1851,6 @@ If you eat foods alone, nothing is going to be slow in digestion. It will be eas
 and you will not put on weight. So when you are on the weight gaining cycle it is good to
 mix your milk, eggs, butter with the meat, etc. All that fat will help to chelate with those
 toxins out of the rooted tissues where they have been stored for years and then you take
-
-
 it off. May 21, 2000
 
 - - - - - - - - -
@@ -1889,7 +1858,7 @@ it off. May 21, 2000
 Always eat lots of extra butter with your meat. You’ll know that the meat won’t go into
 fuel to burn. Eggs? Okay. Cheese? Doesn’t help to gain weight that much. May 23, 2010 -
 
-# - - - - - - - -
+- - - - - - - -
 
 ## 4G. Special cases
 
@@ -1918,6 +1887,7 @@ better eat a lot of eggs and a lot more fat and protein afterwards. November 17,
 - - - - - - - - -
 
 **Eat before exercise?**
+
 _How much should I eat and how long before exercise?_
 That depends on what activity you’re doing. If you’re going to do a high-end activity like
 soccer, it’s a good idea to finish eating at least 20 minutes before playing. Now my
@@ -1928,8 +1898,6 @@ he’s number 1 champion. The number 1 female athlete is also on the diet: Valer
 Ngauamo Adams. When they go to work out, they have my sport drink and that’s usually
 a cup of tomato puree, cup of cucumber puree, cup of whey, a tablespoon of raw apple
 cider vinegar, 1 tbl lemon juice, 1-2 teaspoons of lime juice, 2-2 ½ tablespoons of raw
-
-
 honey, 2 tablespoons of dairy cream, and usually 2-3 eggs – all blended together. They’ll
 sip on that quart while their competition will sometimes go through two gallons of water
 in five hours. The competitors will get weak and tired as the water dilutes nutrients in
@@ -1953,7 +1921,8 @@ of her teeth was missing. What can she do for that?_
 Well, she has to eat lots of cheese. She has to eat cheese like every 30 minutes – a little
 sugar-cubed size 9 ½ tsp. May 27, 2012
 
-_- - - - - - - - -_
+- - - - - - - - -
+
 Well, he is also a carpenter and a builder so until up to a week ago he did not use a mask
 when he was doing wall boarding, or sawing, or anything. He is going to be bringing that
 stuff up for years. Of course he needs lots of eggs and lots of milk together to create
@@ -1961,13 +1930,10 @@ more mucus to get it up. November 17, 2000
 - - - - - - - - -
 
 
-# Chapter 5: Remedies and Recommend-
-
-# ations Using Raw Eggs and Raw Unsalted
-
-# Cheese
+# Chapter 5: Remedies and Recommendations Using Raw Eggs and Raw Unsalted Cheese
 
 **Alcohol**
+
 Wine is the only one that they do not – mostly – they do not pasteurize...
 Your brain, of course, shuts down when you have alcohol – even raw alcohol. It shuts off
 your discerning centers because it doesn’t want to damage those. You’ll lose your
@@ -2003,9 +1969,10 @@ _Can I have wine?_
 You can have that; just make sure you have cheese or egg. You know, a lot of people put
 an egg in the beer and their wine or down an egg before. June 16, 2013
 
-**- - - - - - - - -**
+- - - - - - - - -
 
 **Allergies**
+
 You need mucus to keep pollen and dust from going into the tissue or you’ll have
 problems, allergies. You need mucus not just for lungs but everywhere inside the body.
 _Is there anything besides milkshakes to produce healthy mucus?_
@@ -2026,9 +1993,10 @@ _How many eggs about should I be having per day or week, do you have any idea?_
 I didn’t tell you? Let me see your hands again. 8 – 12 a day; I’d say 10-12 probably.
 _Thanks._ May 6, 2000
 
-- _- - - - - - - -_
+- - - - - - - - -
 
 **Allergic to eggs?**
+
 _In your recipe book everything has got eggs. I’m severely allergic to eggs._
 Not raw. I’ve never met a person who is allergic to raw eggs.
 _... but I had salad dressing with raw egg white..._
@@ -2039,13 +2007,12 @@ Then hit the other end down on a tooth to make a hole. Make sure the egg white i
 not slimy. Suck slowly. Breaking this allows the membrane to move up and the egg white
 to come out without the yolk bobbing up. If you feel the yolk come up, relax it, shake it a
 little to free up the egg white and do it again. When you get to the yolk you won’t see any
-
-
 residue because I allowed the membrane to collapse. May 23, 2010
 
-**- - - - - - - - -**
+- - - - - - - - -
 
 **Anemia or leukemia**
+
 _I have a semi-constant problem with sighing and yawning. Not asthmatic._
 This is an Indication of anemia or leukemia. Your red blood cells aren’t transporting
 oxygen well. Eat meat and cheese, meat and bone marrow and butter. Have cheese and
@@ -2054,6 +2021,7 @@ honey 30 minutes after meat meal. May 20, 2012
 - - - - - - - - -
 
 **Antibiotics**
+
 Cheese will help absorb poisons, absolutely. It should be pretty simple, because he’s not
 going to digest well because he’s had a lot of antibiotics, probably intravenously too. So
 the liver shakes, milk shakes, eggs, cheese. February 22, 2009
@@ -2074,6 +2042,7 @@ around a while. Don't take it. August 24, 2008
 
 - - - - - - - - -
 **Antibiotics - Stopped eating**
+
 They put my mother on antibiotics for a year and I didn’t know about it. I got a call. They
 said ‘your mom’s going to die, come, she’ll be dead in 5 days’. She stopped eating
 because she couldn’t digest. When I found out about it I knew right away what to do. I fed
@@ -2084,6 +2053,7 @@ morning, 6am. At 10 o’clock I gave her the other ½ cup and she ate 3 meals th
 
 
 **Hospitalized, with antibiotics**
+
 Milkshakes and cheese. Milkshake and cheese, milkshake and cheese. Lots of eggs. So
 let’s say, 2 milkshakes a day and let’s say, 8 – 10 eggs a day and 1 meat meal. Cheese
 every 20 minutes. Just ¼ to ½ teaspoon of cheese every 20 minutes. Keep absorbing the
@@ -2093,6 +2063,7 @@ because you’ve had antibiotics which destroy the digestive tract first. July 1
 - - - - - - - - -
 
 **Antibiotics after surgery**
+
 ...milkshakes and cheese ...milkshake and cheese, milkshake and cheese. ...lots of eggs.
 So let’s say, 2 milkshakes a day and let’s say, 8 – 10 eggs a day and 1 meat meal. Cheese
 every 20 minutes. Just ¼ to ½ teaspoon of cheese every 20 minutes. Keep absorbing the
@@ -2101,6 +2072,7 @@ poisons. Have a train of the cheese going through. July 10, 2011
 - - - - - - - - -
 
 **Back deterioration**
+
 When the body neutralizes most toxins, it will use concentrations of minerals, resulting in
 mineral collections (deposits) that stiffen a contaminated area. If a good diet is
 maintained, those mineral deposits will gradually dissolve and normal mobility will be
@@ -2133,6 +2105,7 @@ and unheated except for rice. Article: Back Deterioration
 - - - - - - - - - - -
 
 **Binge**
+
 ...2 eggs, and some milk, and some honey, if you do that, you won't binge on anything. It's
 when you let yourself get too hungry, and then you start binging, you're going to binge
 on whatever you're eating at the time_._ August 24, 2008
@@ -2140,11 +2113,12 @@ on whatever you're eating at the time_._ August 24, 2008
 - - - - - - - - -
 
 **Bi-polar?**
+
 ... exercise for the anxiety. ...cream to help calm the person and the nut formula or lots of
 cheese to lower the hormone level. ... for the depression part of it, high meat, high eggs
 and suppository. February 3, 2013
 
-**-** - - - - - - - -
+ - - - - - - - -
 
 _Bi-polar and where to get coconut oil._
 Not really a single condition. If someone gets hyperactive, it means he produces a lot of
@@ -2158,6 +2132,7 @@ high eggs, high meat or do those suppositories with the fat. February 3, 2013
 - - - - - - - - -
 
 **Blood clotting**
+
 Take about 1 tbsp of kiwi and mash it with 2tbsp of banana, and 3 drops of lime juice.
 And I'd like you to mash that all together, and have it with an 1” by 1.5” cube of cheese -
 Monterey or Cheddar. Monterey is a little bit preferable. That is going to create a
@@ -2168,9 +2143,8 @@ capillaries as well. It helps circulation. May 6, 2000
 - - - - - - - - -
 
 **Bone problem or gout**
+
 When I’m having bone problems - because I had cancer of the blood and bone (multiple
-
-
 myeloma) - sometimes I don’t eat meat for three or four days and I’ll eat dairy, dairy,
 dairy, dairy. Lots of eggs and dairy and then my body will break with the meat but that’s
 mainly people who have bone problems. Most people don’t need to abstain from
@@ -2211,6 +2185,7 @@ From an article First Aid for Mild Burns from Aajonus
 - - - - - - - - -
 
 **Burns – more about**
+
 Keep in mind this treatment of burns is being included in teaching beginner fireman. First
 Aid consists of first spraying cold water on the affected area until the heat is reduced
 which stops the continued burning of all layers of the skin. Then spread the egg whites
@@ -2218,8 +2193,6 @@ onto the affected area.
 One woman burned a large part of her hand with boiling water. In spite of the pain, she
 ran cold faucet water on her hand, separated 2 egg whites from the yolks, beat them
 slightly and dipped her hand in the solution. The whites then dried and formed a
-
-
 protective layer.
 She later learned that the egg white is a natural collagen and continued during at least
 one hour to apply layer upon layer of beaten egg white. By afternoon she no longer felt
@@ -2231,6 +2204,7 @@ From an article First Aid for Mild Burns from Aajonus
 - - - - - - - - -
 
 **Chocolate addiction**
+
 I remember when, 38 years ago, I first began eating the same combination made with
 raw carob pods instead of raw cocoa beans. I craved it to the point that someone could
 have called it an addiction. However, since carob does not have any addictive chemicals
@@ -2257,6 +2231,7 @@ October 30, 2007 – Primal Diet Newsletter
 - - - - - - - - -
 
 **Raw chocolate**
+
 Since I have been making my homemade chocolate from whole raw cocoa beans
 blenderized with raw egg, raw fat (mostly unsalted raw butter and a little raw cream) and
 unheated honey, I have not experienced any addiction to it. October 30, 2007
@@ -2287,6 +2262,7 @@ for 5-7 days with lid on tightly.
 - - - - - - - - -
 
 **Cold hands and feet**
+
 If both your hands and feet are cold at the same time, you’ve got a mineral deficiency,
 and you eat cheese and honey together for several days all day long, a little bit at a time
 all day long, and that’ll usually get the warmth of the feet and the hands going.
@@ -2295,6 +2271,7 @@ February 22, 2009
 - - - - - - - - -
 
 **Colds or flu**
+
 With the new bath system, you're detoxing very little out the sinuses any more. You have
 very few symptoms because you're pushing the poisons out though the skin. And if
 you’re not pushing them out through the skin, the cheese is pulling them out through the
@@ -2335,6 +2312,7 @@ Flu - Viral Tools Improve Health – article by Aajonus
 - - - - - - - - -
 
 **Colitis**
+
 Cabbage juice is the only thing that will stop the bleeding but you can’t drink alcohol;
 have nothing too fermented. You can have fresh kefir. Milk should be warm, never
 cold. You can eat cucumber – lots of raw eggs. Milk shakes are second-best, if she won’t
@@ -2379,6 +2357,7 @@ constipation. The Recipe for Living Without Disease
 - - - - - - - - -
 
 **Cholesterol concerns**
+
 _Do you have any objective number measurements about how the ingestion of the large
 quantity of raw fat affects things like cholesterol, homocysteine levels, and does it even matter?_
 It doesn't matter at all because your body...I've got lots of blood analysis for it, I'll give
@@ -2390,6 +2369,7 @@ done 3 weeks later; his cholesterol was down to 167. Okay. September 9, 2007
 
 - - - - - - - - -
 **Crohn’s disease**
+
 The Crohn’s disease is mainly that you do not have enough mucus in your intestines. So
 your body is trying to digest itself.
 _So what can I do?_
@@ -2432,6 +2412,7 @@ of interested people.” October 24, 2010
 
 - - - - - - - - -
 **Decontamination**
+
 Imagine this, your body needs 6 vacuum cleaners to clean your body and with your
 lymphatic system jammed that means your bags are all full. How are you going to get rid
 of your daily waste if your vacuum bags are full? You're not. You're going to keep filling
@@ -2439,8 +2420,6 @@ that up until they explode. Then what are you going to have? All contamination
 throughout the body everywhere not just in the connective tissue and in the lymph
 glands. You’re going to have it in the blood, in the neurological fluid, you're going to have
 it in the bones, connective tissue from the bones, you’re going to have it in the tendons,
-
-
 you're going to have it everywhere and some people do because they're just backing it up
 everywhere through the whole system. So -- hot baths, the cheese and those systems will
 make you functional. I work 20 hours a day, 20 hours a day and I can stay fresh and
@@ -2501,7 +2480,7 @@ _So, no need to do it [oil pulling] at night?_
 Well, morning is the best time after you’ve had your cheese but before anything else.
 February 3, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 I've got it coming out here, since those [ _dental_ ] injections [ _after a violent incident_ ], and this
 is the time first the teeth will hurt, here and here and then it'll swell then it hardens here.
@@ -2532,6 +2511,7 @@ solvent - and that would mitigate my pain until it was bearable. November 17, 20
 - - - - - - - - -
 
 **Depression**
+
 Remember, anybody that has depression – that is a matter of low bacteria in the colon. E.
 coli are the main bacteria that break down the fats and the proteins into the finite
 molecule that feeds the brain and the nervous system. If you have depression, it is
@@ -2543,6 +2523,7 @@ That’s why high meat and eggs work. September 11, 2011 part 2
 - - - - - - - - -
 
 **Diarrhea**
+
 _When celery juice is green like that I get diarrhea like crazy._
 Yeah ... cleaning you out. Then you need to eat an egg or cheese with it, before you eat it.
 _Well, I was going to have cream afterwards. Would that help?_
@@ -2556,9 +2537,10 @@ intestinal environment, that the body uses a lot of fluid to rush it out so it d
 damage to the intestinal tract – to the flora and the digestive juices and the intestinal
 walls. July 20, 2008
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Diarrhea – explosive kind**
+
 If you have enough cheese, you won't have the gas one.
 _That's the gas - that's what is causing it_?
 That's gas.
@@ -2573,15 +2555,17 @@ _Well, I thought I was eating a lot of cheese but obviously I'm not._
 You have to eat it with your food too. Some people actually have to eat it with their food
 too. June 16, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Diabetes**
+
 Usually, if I put someone on a raw dairy and meat diet with lots of raw eggs, their
 diabetes symptoms are gone in six weeks. October 24, 2010
 
 - - - - - - - - -
 
 **Digestion**
+
 _It’s digestion that I’m lacking. My stomach bloated like a balloon one time when I had a little
 vinegar and oil salad dressing. Even after months, my stomach didn’t go back to normal._
 Yeah. Cut up some pineapple in a jar and have a chunk about every 2-3 hours. With that
@@ -2610,8 +2594,6 @@ Remember eggs only take twenty three minutes to digest, so you get to utilize al
 proteins and fats to heal and cleanse the body. November 18, 2007
 - - - - - - - - -
 If you have a digestive problem, eggs, eggs, eggs, eggs, eggs, because it doesn’t take
-
-
 much to digest them. Your body can spend its energy and those nutrients for cleansing
 and healing. November 18, 2007
 
@@ -2728,6 +2710,7 @@ if you just have cheese anyway. July 20, 2008
 - - - - - - - -
 
 **Dread when eating eggs**
+
 _I’m encouraged to eat more eggs, rocky style but whenever I do it I feel a sense of dread, like it’s
 not going to be a good day._
 
@@ -2745,6 +2728,7 @@ eggs is how you build your bacteria. September 13, 2009
 - - - - - - - - -
 
 **Emphysema – late stage**
+
 I have people eating all the way up to 33 eggs a day. Raw. Let me give you an example. In
 January, an MD called me from Massachusetts, and she said `I read your book about 5
 months ago. And..... I think it's a fascinating book, and I'm ready to try something. I have
@@ -2769,8 +2753,6 @@ Ha ha ha. We both were crying. Because it didn't make her well, but it gave her 
 needed to start recovering. She says `I'll eat anything you want me to eat.' I said `okay,
 here's what I want you to eat.' And I told her, lots of meat and eggs, and milk if she could
 get it. That's all I wanted her to eat. And that's what she ate. She's alive today, and she's
-
-
 still able to be on her own. She's not well, she's not over the emphysema, that'll take
 years and years, but at least she's on the road to recovery. 1999 -
 
@@ -2783,6 +2765,7 @@ you can give people in that critical condition to pull them through. October 24,
 - - - - - - - - -
 
 **Energy loss**
+
 Sometimes digestion is impaired and a loss of energy results. In such a situation, I
 suggest making 1 blended mixture of 1 cup good drinking water and 1 cup unheated
 honey each day for 1-2 days only. For that 1-2 days, I suggest that you eat 1 raw egg
@@ -2819,6 +2802,7 @@ actually eating meat. May 6, 2000 -
 - - - - - - - - -
 
 **Eye burning**
+
 Sometimes when I feel it [ _eye_ ] burning and it turns red, I will use the egg white. Like on
 my way here, all of the sudden it started burning and was irritated so put in some egg
 white. January 22, 2000
@@ -2826,6 +2810,7 @@ white. January 22, 2000
 - - - - - - - - -
 
 **Eye Cataracts**
+
 ...Coconut cream with the lime juice. I would alternate them using the egg white in the
 eye for cataracts. Yes?
 _So the egg white. How long do you use that?_
@@ -2833,6 +2818,7 @@ I eat the rest of the egg white; I'm eating eggs all day long. September 9, 2007
 
 - - - - - - - - - -
 **Eye lazer surgery**
+
 ...As long as you’re on a good diet. I’ve had many people do laser surgery. They heal 3x
 faster. Their eyes are completely healed and they can go out in the sun in 10 days. It’s
 not a problem. I tell them not to take antibiotics or put antibiotics in their eyes. It
@@ -2872,17 +2858,19 @@ different, cleansing way. It would if they did it long enough because the retina
 deep. We’re mainly talking about the cornea, the iris and the sclera.
 September 11, 2011
 
-- - - - - - - – -
+- - - - - - - - - -
 
 **Eyes: Conjunctivitis**
+
 means that the cornea has been damaged in some way and the body is trying to get rid
 of that toxicity that has gotten into the cornea so the body is working directly on the
 cornea to take care of that and egg white corrects it. January 22, 2000
 
 - - - - - - - - -
 
-**Eyes: contact lenses solution** Yes,
-a lot of them have thimerosal in them; that is liquid mercury. But they make it without it
+**Eyes: contact lenses solution**
+
+Yes,a lot of them have thimerosal in them; that is liquid mercury. But they make it without it
 with glycerin. You can put aloe vera juice in your eye and contacts over that. You can’t do
 it with butter or egg white because they create a film. I tell people to just take distilled
 water and put a few grains of sea salt in it. You’ll have pure, saline water. If you’re putting
@@ -2891,6 +2879,7 @@ egg white, butter or aloe vera in your eye, you’re coating and nurturing it.
 - - - - - - - - - -
 
 **Eyes, itchy and watery**
+
 Put egg white in your eyes 2-3 times a day. Put about ½ a tsp in an eye cup. Hold your eye
 open like this. Hold your head back. Do that about 4 times. Bring it back down. Hold the
 head back again, stretch the eyelids back again and then roll the eye for about a minute.
@@ -2935,6 +2924,7 @@ and they can go in front of the camera in two minutes. February 3, 2013
 - - - - - - - - -
 
 **Eyes twitching**
+
 _Yeah. She went to the clinic doctor they said there's nothing wrong, its normal._
 
 
@@ -2965,9 +2955,10 @@ white, and roll your eye around. With butter, you will have foggy vision for abo
 minutes, with egg white for about 2 minutes. You could alternate days or do egg white in
 the morning and butter at night before bed. January 27, 2013
 
-**- - - - - - - - -**
+- - - - - - - - -
 
 **Fibromyalgia**
+
 is when you have aching everywhere in the body. That's because toxins are storing in the
 nerves, in the muscles, in the tendons, everywhere. To relieve that, the best thing to do is
 just suck eggs and have little bits of milk at a time - like a half a cup. So have an egg one
@@ -3000,6 +2991,7 @@ man. August 24, 2008
 - - - - - - - - -
 
 **Gastritis**
+
 Gastritis happens a lot of times when you have gas. You have toxins that dump into the
 intestinal wall and there’s not enough mucus to harness them - in the mucus lining. It’s
 almost always in people who are too thin, especially when you have Crohn’s disease or
@@ -3029,6 +3021,7 @@ you're not going to have gas. June 16, 2013
 - - - - - - - - -
 
 **Gillian-Barr**
+
 Uh-huh.
 _My mother has had it for many years and has recovered a little bit, but now has tremendous
 pains still in her legs, to where she takes pain killers hourly – every two to three hours_.
@@ -3049,9 +3042,10 @@ It depends upon the individual, yeah. March 26, 2000
 
 ...cheese and honey**.** May 26, 2013
 
-**- - - - - - - - -**
+- - - - - - - - -
 
 **Headaches**
+
 Usually the toxicity is in the nervous system when it’s in the brain, as in migraines. Cluster
 headaches - it’s in the nervous system. Those remedies don’t work with the nervous
 system; they’ll only help a tiny bit. So you’ve got to eat a lot of cheese, got to eat eggs, got
@@ -3066,8 +3060,6 @@ the morning - if I have more than eight ounces - my heart will go like this. I'l
 sugar reaction. But it's not a diabetic reaction. It doesn't mean I don't... I'm not utilizing
 my sugars. I'm utilizing too many sugars which is the opposite of diabetes. Plus all the
 minerals that are pulled out. I'll put either an egg in my juice or a little cream in it the next
-
-
 day. It only happens if you try it first in the morning, one out of fifteen days. If I can tell
 it's going to happen I'll put my egg in it, and cream in it, and then I won't even worry
 about it the next day. September 9, 2007
@@ -3088,6 +3080,7 @@ You whip it with a spoon or a fork. November 18, 2007
 - - - - - - - - -
 
 **Insomnia**
+
 _How long will insomnia last?_
 Usually if a person that will eat a lot of eggs and fish in the evening, 80% of the people
 can sleep.
@@ -3112,8 +3105,6 @@ Do not make a smoothie with berries or apple. Berries mixed with raw egg often c
 drugs and toxic minerals to detoxify from glands, and apple excites adrenals. Either
 combination may interfere with sleep.
 For people who felt wired, eating raw fish a few hours before bedtime, and then drinking
-
-
 one of the suggestions in the paragraph above near bedtime got them through the night.
 Another choice was a piece of toast with plenty of raw jam made of equal parts fresh raw
 berries and unheated honey. Berries, especially raspberries, eaten with the Nut Formula
@@ -3124,6 +3115,7 @@ cream. We Want To Live: the Primal Diet
 - - - - - - - -
 
 **Intestinal cramping**
+
 _In your book you have all the symptoms except for intestinal cramping. What causes that? I get
 that a lot. It’s all in the abdominal area in and around the navel._
 That’s the small intestine. It isn’t the bowel. That’s usually mercury or some other toxin
@@ -3131,9 +3123,10 @@ leaving to the intestines. You have to eat little pieces of cheese every 30-45 m
 should arrest that. You’ll still have a little cramping as it passes out of the intestinal wall.
 February 3, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Irritable, also a skin condition**
+
 You are just not utilizing fats very well any more. Do you exercise?
 a _little. Not a lot._
 Because these overactive adrenals, and those overactive testes, that's a lot of hormones
@@ -3154,8 +3147,6 @@ will make what it needs to when it needs to but if you mix fruit with eggs it's 
 made into a solvent.
 _Toxic body?_
 Well, you've got lots of toxins, but they're all...most of the toxins are fat-bound. But you
-
-
 have no fat left to lubricate your system, it's already bound in toxins. So you need to go
 on a detox program, and I'm going to take a few minutes right after I finish him to give
 everybody some basic detox regimes so that you can detox easier. One fruit I
@@ -3167,6 +3158,7 @@ May 6, 2000
 - - - - - - - - -
 
 **Knee sore**
+
 _What if somebody is in a lot of pain with the meniscus [torn cartilage in the knee]?_
 The heat will take care of it, yeah. And, you know – eating plenty of cheese and butter, a
 lube formula – a moisturizing lube formula – will help a lot. May 27, 2012
@@ -3174,6 +3166,7 @@ lube formula – a moisturizing lube formula – will help a lot. May 27, 2012
 - - - - - - - - -
 
 **Knee swollen**
+
 _I have a swollen knee and am sick with something going around._
 Just put hot water bottle on it at night for any discomfort. And with flu, you need to take
 hot baths; perspire to throw off toxins. Sleep with hot water bottles if you can’t take hot
@@ -3185,12 +3178,14 @@ honey and cream. January 9, 2011
 - - - - - - - - -
 
 **Junk food at school**
+
 Well, the only way you can counter that is to get him to eat a lot of cheese to absorb
 those poisons and he needs to exercise. October 14, 2012
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Leaky Gut**
+
 Eating liquid food is paramount. Raw milk and raw eggs are ideal foods for leaky gut
 because they are liquid and require only intestinal bacteria to digest them. In fact, raw
 milk and raw eggs are resplendent with bacteria that help our intestinal bacteria digest.
@@ -3198,8 +3193,6 @@ The bacteria in those foods are helpful not harmful.
 I suggest that people suffering leaky gut eat lots of whole raw eggs from chickens that are
 fed meat scraps, crushed raw bones, worms (maggots) and fermented dairy. Eggs are the
 most easily digested food. Because they are already liquid and contain lots of quick-
-
-
 reproducing bacteria, eggs digest in about 30 minutes.
 Although liquid, one cup of raw milk still requires about 6-10 hours to completely digest.
 Eggs and milk provide nutrients for the body to produce necessary mucus. Milkshakes
@@ -3217,6 +3210,7 @@ quotes on WeWant2Live.com_ ]
 - - - - - - - - -
 
 **Lungs**
+
 _How do eggs heal lungs?_
 I can only give you a theory based on the fact that it works. All the proteins are already in
 liquid form, so there is no digestion necessary. All you have to do is realign the enzymes
@@ -3233,6 +3227,7 @@ transformation in the structure; that's why eggs work so brilliantly. May 2, 200
 - - - - - - - - -
 
 **Mascara**
+
 For mascara, just use egg white. Brush it on. It thickens and hardens and darkens.
 November 20, 2005
 
@@ -3247,6 +3242,7 @@ November 20, 2005
 - - - - - - - - -
 
 **Menopause**
+
 Eat no starch, eat no fruit, eat lots of vegetable juice, vegetable salads at night. Maybe
 once or twice a week, lots of protein and lots of meat and lots of eggs... cheese and
 berries. ...cream if you can get it, to relax the body and just enjoy those heat waves.
@@ -3255,6 +3251,7 @@ September 19, 2000
 - - - - - - - - -
 
 **Mental focus**
+
 _What you would say are the most important nutritional factors for mental focus and
 maintaining like a good, mental well being, kind of you know focus
 and..._ ... raw eggs and raw fish and raw chicken. Those are what I use
@@ -3289,12 +3286,10 @@ way, it will only take 27 minutes to digest the egg and it will turn into glycog
 quickly. The protein from the white that doesn’t go into the liver will go right into the
 digestive tract and form glycogen to feed the brain and nervous system. That’s why
 when I start losing words I know I don’t have enough blood sugar my brain so I’ll suck an
-
-
 egg. You have most of your bacteria in your mouth – more bacteria than cats and
 dogs. So don’t bite anybody as you’ll cause break down in their tissue. August 24, 2008
 
-**- - - - - - - - -**
+- - - - - - - - -
 
 _Every time I go to a lecture or something, I fall asleep. Only one fruit a day._
 Just suck an egg. Fruit will make you sleepy. May 20, 2012
@@ -3302,6 +3297,7 @@ Just suck an egg. Fruit will make you sleepy. May 20, 2012
 - - - - - - - - -
 
 **Metals in the air**
+
 Where did you grow up?
 _New York._
 Well, you must have been allergic to all those heavy metals in the air because they're all
@@ -3312,6 +3308,7 @@ that you have about 8-10 eggs a day, right around 8. May 6, 2000 -
 - - - - - - - -
 
 **Mercury poisoning**
+
 You're a person who was exposed to a lot of mercury, so still that mercury is going to take
 most of your nutrients. In order for you to get enough minerals and fats with those
 minerals into your teeth in your jaw area, you have to eat a lot of cheese and honey
@@ -3337,8 +3334,6 @@ little grated cheese in the milk. June 16, 2013
 
 I had one fellow that he had so much mercury and aluminum and sulfur and from sulfur-
 based medications from when he was a child in his intestinal tract almost black as his
-
-
 pupil. I thought this guy's never going to have clean intestines -- he’s going to have to eat
 cheese every day of his life all day long -- to keep from poisoning himself. He came back
 the next year we were comparing photos of last year’s eyes, to this year’s irises and 60
@@ -3369,6 +3364,7 @@ more results they have and it’s exceptional. June 22, 2013
 - - - - - - - - -
 
 **Mineralize**
+
 _How about mineral deficiency?_
 The cheese will help correct that... and the milk. And I recommend 1-2 quarts a day plus
 lots of milk and lots of eggs. I would say concentrate on those for about 6 weeks, 6 days a
@@ -3379,8 +3375,6 @@ meat a day, and cut the eggs down to about 12-20 a day. But for 6 weeks, go 20-2
 days a week, but never 2 days in a row. Berries I would wait until maybe August before
 you start eating berries because that's going to pull them out even quicker. And I would
 just like to make sure that your body is stabilized everywhere, so when that solvent and
-
-
 those metals come out into your system, that your system will be protected. So the
 chance of damage will be minimized. May 6, 2000
 
@@ -3397,11 +3391,12 @@ berries, and some apples and pears are all high in pectin. May 20, 2012
 - - - - - - - - -
 
 **Mineralize after vinegar**
+
 Just remember: if you have a lot of vinegar, you’re going to decalcify, demineralize, your
 system. So you have to eat enough cheese to keep up with that.
 _What's enough cheese?_
 ... enough cheese? If you are having a teaspoon of vinegar, I would say you need at least
-three tablespoons of cheese in a day. -
+three tablespoons of cheese in a day.
 
 - - - - - - - -
 
@@ -3422,14 +3417,13 @@ If she has a lot of toxins in the body you want to eat a lot of cheese often so 
 into morning sickness. Morning sickness is the body detoxing very toxic substances that
 dump into the stomach. Vomit, vomit, vomit because the body does not - or the baby, the
 placenta does not - want this poison going into the baby. So the mother has to vomit and
-
-
 vomit and vomit, so if she’s eating cheese regularly, like a little piece every hour, it’ll help
 keep the baby strong. February 22, 2009
 
 - - - - - - - - -
 
 **Nausea**
+
 Eating this cheese will absorb those poisons as the body dumps them into the stomach
 rather than out the skin and it does that. The lymph system takes its waste and dumps it
 under the skin to be perspired out of the skin. If it’s jammed it won’t do it, so it dumps it
@@ -3461,6 +3455,7 @@ unsalted cheese – Organic Pastures. March 26, 2013
 - - - - - - - - -
 
 **Nervous system and brain – how to feed them**
+
 _High meat and high eggs - do you eat those on an empty stomach? Should it be separated
 from every other thing? Like meat, on an empty stomach and nothing eaten afterwards or you
 can eat it with a regular meat meal or...._
@@ -3476,7 +3471,7 @@ eggs. They don't eat anything fresh. And they are the funniest, happiest people 
 world. One fellow reached two pounds a day and he is the greatest person I know.
 May 26, 2013
 
-- **-** - - - - - - -
+- - - - - - -
 _Is high fish best for neurological problems?_
 No, because if you have too much of that too often it will cause neurological detoxes of
 those drugs that you have been taking for years. And that could cause problems. So, it is
@@ -3490,6 +3485,7 @@ hallucinogenic, but it makes you feel really good. November 17, 2000
 - - - - - - - - -
 
 **Nervous system detox**
+
 Usually my recipes in the book handle toxicity in the blood. They do not handle it in the
 nervous system. Usually the toxicity is in the nervous system when it’s in the brain, as in
 migraines or cluster headaches - it’s in the nervous system. Those remedies don’t work
@@ -3500,6 +3496,7 @@ system kicks in to do its detoxification, at midnight -until you get better. May
 - - - - - - - - -
 
 **Nervous system disorders**
+
 _Can this help somebody who has had shock treatments? Shock treatments. Shock._
 Usually they have a hard focusing and concentrating.
 _Is that part of the myelin?_
@@ -3533,6 +3530,7 @@ because of all the mineral loss from those poisons in my body. March 26, 2013
 - - - - - - - - -
 
 **Nuts**
+
 All nuts have enzyme suppressants in them. If you eat them by themselves, it will prevent
 you from digesting proteins. It could also make you depressed or sluggish; it manifests
 differently for each person. That is why I always suggest you blend them to a powder,
@@ -3550,8 +3548,6 @@ formula I gave which breaks that down which is: four oz. of nuts (pecans, walnut
 pine nuts, sunflower seeds, pumpkin seeds) – any one of those or any combination of all
 six of them. Blend them to a powder. Blend one to two eggs; two tbsp. of honey, three to
 four oz. of cream, raw coconut cream, butter, of the Spectrum peanut oil which is light
-
-
 yellow in color. Blend that for about 30-50 seconds and there you will digest just about
 everything. That formula took me years to come up with that. It neutralizes the
 enzymatic suppressants in nuts without germinating them. Once you germinate them –
@@ -3577,6 +3573,7 @@ of nerve tissue the same way. 1999 -
 
 - - - - - - -
 **Osteoporosis**
+
 Yeah, so if you want to do that - if anybody has osteoporosis - you have at least about 2
 ozs of cheese and that’s a lot of cheese at one time and you have half that amount of
 butter with it and a sixth that amount of honey, so you’d have 1 tablespoon honey for 1oz
@@ -3645,6 +3642,7 @@ cheesecake, have a piece of cheese without honey. September 26, 2010
 - - - - - - - - -
 
 **Pain**
+
 Blend that [ _the pain formula – see appendix page 1 19 below_ ] for 50 seconds then eat it with
 cheese. Now I've been telling people to drink 5oz every few hours as necessary, after 2- 5
 hours drink 2-3oz more and eat a little cheese with it. We have potlucks in LA every 2
@@ -3668,6 +3666,7 @@ migraines. May 6, 2000
 - - - - - - - - -
 
 **Pain formula details**
+
 _You can add honey to it, right?_
 You can add 1tsp of honey if you like - only a tsp.
 _What kind of cheese?_
@@ -3679,8 +3678,6 @@ works a little better. May 6, 2000
 
 [Here is] my formula for any kind of pain except for migraines, and it works. I have even
 refined what I have in the book. The one in book works 85 % of the time. Now it works
-
-
 95% of the time. At least that is what I have been exploring in the last 1 ½ years: 2 eggs,
 3 - 4 oz of cream, tsp lemon or lime, 5-6 heaping tbsp of fresh soft bee pollen. My
 suggestion is that, if you have pain, do not go 5-6 hours without having another 1-2 oz.
@@ -3722,6 +3719,7 @@ improve. November 7, 1999
 - - - - - - - - -
 
 **Pain Formula, Drinking Too Fast**
+
 _Okay. I kind of chug it [the pain formula]. Well, I drink it rather quickly._
 
 
@@ -3735,6 +3733,7 @@ into the blood. September 19, 2000
 - - - - - - - - -
 
 **Personal body care**
+
 _Have you stopped using egg white for shaving?_
 
 Yeah, I stopped using egg – probably six years ago. Then I went to coconut cream, and
@@ -3782,7 +3781,7 @@ Yeah, but it stinks, too many people say oh, you smell like rotten eggs.
 _Yeah the egg and...._ I experimented with several things and I found that coconut cream is
 the best. June 16, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 _What’s the best way to help re-mineralize your teeth?_
 
@@ -3810,8 +3809,6 @@ Yeah, still I have a piece of cheese first but you don’t have to wait a full 1
 minutes is fine during the middle of the night. And when you have that cheese with
 honey it should be about a three to one ratio – maximum. So, let’s say you’re having a
 tbsp. of cheese, you have a tsp. of honey only; you have three tbsp. of cheese, you can
-
-
 have two and a half to three tsp. of honey. October 14, 2012
 
 - - - - - - - - -
@@ -3823,6 +3820,7 @@ This helps restore bone. September 13, 2009
 - - - - - - - - -
 
 **_Plaque_** [ _affecting nervous system_ ]
+
 To get rid of that kind of plaque, I suggest you take a piece of unsalted, raw cheese and
 ten minutes later drink the following mixture: about 2 oz coconut cream, half a cup of
 pineapple, and ¼ tsp vinegar (raw ACV), 1 tbl butter, 2 tbl dairy cream, and 1 tbl honey.
@@ -3833,6 +3831,7 @@ seven months increase to ½ tsp vinegar. September 26, 2010
 - - - - - - - - -
 
 _Poisons from chemtrails_
+
 To deal with that, I eat chlorella and clay with milk. Also vinegar and milk - anything that’s
 going to pull the poisons out of the body and neutralize them. Cheese is also a great
 binder of poisons. Eggs help build the mucus to bind with the poisons. ... I put the
@@ -3844,12 +3843,14 @@ bombing us. September 13, 2009
 - - - - - - - - -
 
 **Prunes?**
+
 Dates are about the only dried fruit that’s OK... but eaten with butter or butter and
 cheese – not alone. September 26, 2010
 
 - - - - - - - - -
 
 **Radioactive material**
+
 Sounds like radioactive material. Did you have barium for upper or lower GI? There you
 go. Eating enough blueberries? Blueberries, coconut cream, cheese and a little dairy
 cream at least every other day. May 20, 2012
@@ -3867,6 +3868,7 @@ Yes. November 17, 2000
 - - - - - - - - -
 
 **Rotten/high egg**
+
 _Is rotten egg OK? I was buying a basket of 200 eggs from a village while in China_
 
 Absolutely! However, those eggs are put in clay and dirt. They don’t have a lot of bacteria
@@ -3887,6 +3889,7 @@ mind isn’t clear and you’re not thinking well. January 27, 2013 - -
 - - - - - - -
 
 **Ruptured veins**
+
 I'm going to take 10% off the celery and give you 10% green cabbage because you have
 some cells on the left side of your body, some veins that are rupturing. You got a lack of
 vitamin K and vitamin U. And that'll correct it. They're bursting, which would lead you to
@@ -3899,11 +3902,10 @@ November 7, 1999
 - - - - - - - - -
 
 **Salt craving**
+
 Okay, your body is craving minerals and digestibility. All you do is take cheese and honey
 three times a day. 2 Tablespoons of raw unsalted cheese, ½-1 a teaspoon of honey only,
 eat them together in your mouth. Raw cheeses do not digest in the human digestive
-
-
 tract. The body uses it as a sponge for chelation to draw out poisons and passes them
 out through the feces. Cooked cheese does the same thing but, it will absorb all of those
 poisons but then it gets reabsorbed into the body because it’s been cooked, it’s all
@@ -3915,6 +3917,7 @@ September 13, 2009
 - - - - - - - - -
 
 **Skin – soothing and protecting**
+
 Only butter will do that, cream won't do that. Cream won't even get near the skin; cream
 is all absorbed by the glands and the organs, and nervous system. Butter is the only thing
 that will get to the skin from ingesting - especially if you are using the
@@ -3925,6 +3928,7 @@ May 2, 2004
 - - - - - - - - -
 
 **Skin lesions**
+
 _What do you recommend for mild lesions? I have had a few fever blisters and mild acne._
 That is usually toxicity coming out of the tissues like the byproducts of your hormone
 supplements. And there is no way you can get around that without eating lots of raw
@@ -3935,6 +3939,7 @@ you are eating meats. 19 99
 - - - - - - - - -
 
 **Sleep apnea**
+
 That is when breathing shuts down suddenly and then wakes you up.
 If you have that, you have toxins stored in your nervous system. High adrenalin, caffeine,
 soda pop, chocolate cause that. If you have that caffeine in your brain and it drips down
@@ -3950,6 +3955,7 @@ minerals. September 26, 2010
 
 
 **Staying up late at night**
+
 If you’re going to stay up late, you have to eat cheeses and butter - something that’s
 going to absorb the poison. It’s going to pull them out of your blood so they don’t get
 locked into the brain. Also, when you’re up that long sometimes the nerves can build up
@@ -3959,6 +3965,7 @@ and then when you’re heavily into detoxifying the nervous system, between midn
 - - - - - - - - -
 
 **Survival foods**
+
 When I went hiking for nine days in the Waipi’o Valley on the big island in Hawaii, I took a
 mixture of 1:5 honey and butter and put it in a half-gallon Lexan container. Lexan
 doesn’t leach easily. Didn’t start fermenting until the ninth day and I was backpacking all
@@ -3997,6 +4004,7 @@ spores off the top. May 20, 2012
 
 
 **TB Testing, Remedy for**
+
 Immediately after injection, leave the doctor's office. Have a raw egg and glass ready.
 Break the egg into the glass and whip white and yolk together vigorously. Suck the fluid
 from the lump at the enlarged puncture wound, and expectorate it. Lightly apply the egg
@@ -4006,6 +4014,7 @@ from your TB test. Article: TB Testing
 - - - - - - - - -
 
 **Toxic intestines**
+
 What do you do?
 _Landscaping._
 Oh, that's very active. Yeah, then you can definitely eat 20-28 eggs a day. That's the only
@@ -4034,12 +4043,11 @@ _And that's not with the honey? Cheese and butter right?_
 Cheese and honey will never cause gas because your body doesn't have to rely upon
 enzymes to react with bacteria to digest it. June 16, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 
 **Traveling**
+
 _I’m still thinking about traveling. You told that story about the eggs. And I can’t go through the_
-
-
 _airport with the eggs. And I feel I need an egg. I feel wonderful that I learned how to crack an
 egg. Well I assume I can take two eggs with me?_
 Yeah, you probably could – they’ll just think it’s hard-boiled. That’s what they do. They ask
@@ -4050,7 +4058,7 @@ That’s because eggs digest in about 27 minutes completely and it takes very li
 the intestinal tract to digest that protein and fat – the proteins in the egg white and the
 egg yolk is all the fat. July 20, 2008
 
-**-** - - - - - - - -
+- - - - - - - -
 While traveling, I always take a minimum of enough meat to last 36 hours. That is usually
 enough time to get to a store, preferably a health food store. For every 14 days of travel, I
 take 2½ pounds of no-salt-added raw cheeses, 1 quart of unheated
@@ -4060,12 +4068,14 @@ without refrigeration. The Recipe for Living Without Disease
 - - - - - - - - -
 
 **Upset stomach**
+
 ...cheese or milk.. a little kefir. September 26, 2010
 
 - - - - - - - - -
 
-**Vaccines, recovery from** I'd
-probably say if somebody had a vaccine, one vaccine, probably three tablespoons of
+**Vaccines, recovery from**
+
+I'd probably say if somebody had a vaccine, one vaccine, probably three tablespoons of
 vinegar a day... but one at a time. So space it and about three tablespoons of coconut
 cream and two tablespoons of dairy cream – to protect the nerves - or about two ounces
 of milk. And have that three times a day if you've been in the military, I would suggest
@@ -4083,8 +4093,6 @@ cream, three times a day, to protect the nerves... or about two ounces of milk. 
 would suggest upping to two tablespoons, three times a day for about nine days. But if
 you’re going to have that quantity, you’re going to have to eat about three tablespoons of
 cheese with two teaspoons of honey 4-5 times a day to make sure you don’t
-
-
 demineralize. March 26, 2013
 
 - - - - - - - - -
@@ -4100,7 +4108,7 @@ I’ve had to eat a lot of cheese, take a lot of baths, do clay packs, eat a lot
 chlorella. I’ve been doing a lot of that with cottage cheese in sour cream when I got back
 here. September 13, 2009
 
-**-** - - - - - - - -
+ - - - - - - - -
 
 Now since I was subdued in that hotel room and injected with those three shots my
 mercury levels – my aluminum levels are off the charts. Same with vaccines – I’ve had two
@@ -4118,6 +4126,7 @@ _Does it get out the vaccines?_
 - - - - - - - - -
 
 **Vaginal itching**
+
 Now, if you have a low mucus formation in the vaginal area, you need to do it with a
 milkshake, not with plain milk. So have egg in it and a little extra cream with the milk
 because the body cannot form a lot of mucus simply with milk. It takes egg and extra
@@ -4146,6 +4155,7 @@ _After some time, do this again as different things may be important to you._
 ## A. General information
 
 **Eggs and cholesterol**
+
 _Los Angeles Times researcher Emily Green wrote, “My foray through Salmonella literature going
 back to World War II did reveal a remarkable phenomenon. In the last 12 years, what was
 perfectly legitimate speculation by CDC doctors concerning the possible origin of [Salmonella]
@@ -4156,14 +4166,15 @@ them is guesswork. This also explains the recent turnaround over cholesterol in 
 viewed by the scientific community as benign].” (The Great Egg Panic, LA Times, Jan. 4, 2000.)_
 The Recipe for Living Without Disease
 
-- _-_ - - - - - - -
+- - - - - - - - -
 
-**Meat, Eggs, Milk, Cheese, Nuts and Seeds** require an acidic digestive environment for
-proper digestion. The Recipe for Living Without Disease
+**Meat, Eggs, Milk, Cheese, Nuts and Seeds**
+require an acidic digestive environment for proper digestion. The Recipe for Living Without Disease
 
 - - - - - - - - -
 
 **Hot-cold hydrotherapy**
+
 If you’re staying in 120-degree water more than 7-8 minutes you’re causing brain
 damage; if you’re in cold water more than a minute, you’re going to cause some serious
 damage. Swedish know this and go into the ice-cold water for one minute maximum and
@@ -4202,6 +4213,7 @@ May 6, 2000
 
 - - - - - - - - -
 **Raw Egg Safety**
+
 I did the testing. Phytic acid [ _a controversial acid_ ] wasn’t active. It had no activity when it
 came out of the bowel and there was no problem with mineral absorption and protein
 utilization. They say that the avidin in the egg white will bind with the biotin in the egg
@@ -4220,6 +4232,7 @@ cream. January 9, 2011
 - - - - - - - - - -
 
 **Steak Tartar in a restaurant**
+
 Steak tartar is usually ground or finely chopped beef with egg yolk. A lot of them will eat
 the egg white on the side like I do. I used to call ahead to restaurants and talk to the chef
 directly saying, “Listen. I’m on a special diet, I’m diabetic, have cancer and have to have a
@@ -4249,6 +4262,7 @@ they're back to normal and they wonder how they could be crippled. August 8, 20 
 - - - - - - - - -
 
 **How to get stem cells**
+
 _Have you eaten unrefrigerated, fertile eggs with developing chick for their stem cells?_
 I’ve eaten bunches of them in China. They eat a lot of those in Asia and usually go older
 so that when you open it, the chick is more developed - sometimes with cartilage and
@@ -4265,8 +4279,6 @@ not vegetarian. They’re mainly scavengers and eat rotten meat and bugs. If the
 rotten meat – which they prefer, they won’t eat bugs. They eat carcasses like vultures.
 That’s why I have Amish farmers butchering their animals and leaving what they don’t
 use for the chickens who eat it as it rots as well as the ensuing maggots. Usually you see
-
-
 chickens going around pecking each other – because they’re starving. These Amish
 chickens that are fed my way are walking around rubbing against your leg like a cat and
 never pecking each other – none of that. If you have to buy eggs, buy eggs from New
@@ -4274,7 +4286,7 @@ Zealand. You will get very excellent eggs from Amish farmers or Rahealthyfoods.c
 
 [ _now a part of farmmatch.com_ ] January 27, 2013
 
-**-** - - - - - - - -
+- - - - - - - -
 _My question is about egg shells. Should we put them in with our smoothie?_
 No. In the experiments I have done with egg shells it takes a gizzard to break them down.
 We do not do it well. I found a lot of cellular bleeding and a lot more blood in the stools
@@ -4306,8 +4318,6 @@ Eliminate Soy Toxicity In Poultry Meat And Eggs: Many poultry feeds contain anti
 hormones, arsenic and toxic soy protein. The reasons that arsenic is used in feed are to
 keep insects and rodents from eating feeds, and as an antibiotic. Antibiotics are used to
 suppress symptoms of and hide diseases. Hormones and soy proteins are used to hasten
-
-
 and increase growth. All of those compounds are toxic and dangerous, causing diseases,
 including cancer, heart, osteoporosis and diabetes. I covered Arsenic in my
 accompanying article, "Arsenic In Poultry Meat And Eggs; Another Cancer Connection".
@@ -4340,15 +4350,12 @@ feeds its chickens up to 75% chemically-treated and processed soy.
 To get your poultry and eggs producers to grow tastier and healthier meat and eggs, I
 suggest that you write to them, give them this information and ask them to feed their
 poultry raw meat scraps (fresh or rank poultry love rank raw meat because they are
-
 omnivorous scavengers) for protein, and corn and other grains for delicious, flavorful
 and healthy meat and eggs. If they need a good mineral supplement to make eggshells
 stronger, suggest that they add a little Terramin clay (www.terramin.com) to their feed.
 
 To gradually remove soy byproduct toxicity from within the body, I suggest eating a
 combination of 23 ounces coconut cream, 1inch cube no-salt-added raw cheese, 1
-
-
 tablespoon unheated honey, 23inches section of unripe raw banana and 13 raw eggs.
 Eating enough raw meat daily helps remove body-stored soy protein toxicity.
 
@@ -4390,7 +4397,6 @@ Raised Right Breasts 5 ND (none detected)
 Gerber's Amish Chicken Breasts 5 ND
 
 Gerber's Amish Chicken Thighs 5 ND
-
 
 Gold'n Plump Breasts, boneless 5 20.2
 
@@ -4441,7 +4447,6 @@ Spring River Farms Breasts 5 6.6
 Empire Kosher Broiler chicken, whole 5 4.3
 
 Foster Farms Livers 5 5.1
-
 
 Popeye Breast, mild 5 32.4
 
@@ -4560,7 +4565,6 @@ Pour into cheese-making cloth pouch, or make pouch from
 gauze-cloth or several layers of cheesecloth. Hang and let strain
 until milk solids are firm but not dry. (Use the whey to pickle, or
 in place of raw vinegar to prepare sauces and spices, or mix
-
 whey with 5 parts water and feed to indoor or outdoor plants.)
 
 Put firm cheese in bowl and stir in separated cream and an
@@ -4634,7 +4638,7 @@ Blenderize egg, cream, and pepper together in a 4-ounces jar on
 low speed for 10 seconds. Add Béchamel Sauce and cheese, and
 stir/marbleize. Spoon over slivered raw meat.
 
-**- - - - - - -**
+- - - - - - -
 
 **Mushroom Cream Cheese Sauce**
 1 Serving
@@ -4660,7 +4664,7 @@ seconds. Stir in remaining chopped mushroom.
 Blenderize cream and cheese together in a 4-ounces jar on low
 speed until thick and firm (10-15 seconds).
 
-**- - - - - - -**
+- - - - - - -
 
 **Thousand Island Meat-Dressing, Two**
 4 Servings
@@ -4696,7 +4700,7 @@ Drink tomato juice when thirsty. Blenderize all ingredients,
 except grated cheese, together in a 4-ounces jar on low speed for
 10 seconds. Pour over meat and top with sprinkled grated cheese.
 
-_- - - - - - - -_
+- - - - - - - -
 
 **Tomato Sauce**
 1 Serving
@@ -4789,8 +4793,6 @@ Grate a portion of room-temperature cheese and set aside. Slice
 remaining cheese thinly. Warm cheese slices, garlic and room-
 temperature butter in a 4-ounces jar, capped with blender
 washer/blades/base, immersed in bowl of mildly hot water for 5
-
-
 minutes. When butter is completely melted, blenderize
 ingredients until smooth.
 
@@ -4854,7 +4856,7 @@ immersed in a bowl of mildly hot water for 5 minutes.
 Blenderize on medium speed for 10 seconds. Pour mixture over
 salmon and top with grated cheese. TRFLWD
 
-**- - - - - - - - - - - -**
+- - - - - - - - - - - -
 
 **Oyster Sauce & Pasta**
 1 Serving
@@ -4919,8 +4921,7 @@ Add cheese and blenderize on medium speed for 15-20 seconds,
 until smooth and warm to the touch. Pour over Pasta Substitute
 and eat before it gets soggy. Eat with a serving of meat. TRFLWD
 
-
-##### - - - - - - - - -
+- - - - - - - - -
 
 **Cheesecake**
 10 Servings
@@ -4960,14 +4961,11 @@ freezer while making Topping.)
 ALTERNATIVE TOPPING 1: Blenderize 5 ounces cream and
 1 teaspoon honey in an 8-ounces jar on low speed until it is
 fluffy and stiff. Repeat with remaining 5 ounces cream and 2
-
-
 teaspoons honey in another 8-ounces jar. Remove pie from
 freezer and top with whipped cream. Let stand in refrigeration
 for 8 hours. The flavors blend better when it stands for 20 hours.
 
 ALTERNATIVE TOPPING 2: Choose fruit with low carbohydrate,
-
 such as cherries, berries and/or unripe fruit.
 Remove seeds or stones. Chop fruit, if necessary, and blenderize
 1 cup fruit and 1 tablespoon honey in a 12-ounces jar on medium
@@ -5019,16 +5017,13 @@ pie from freezer and top with whipped cream. Let stand in refrigeration for 8 ho
 The flavors blend better when it stands for 20 hours.
 
 ALTERNATIVE TOPPING 2: Choose fruit with low carbohydrate, such as cherries,
-
 berries and/or unripe fruit.
 Remove seeds or stones. Chop fruit, if necessary, and blenderize
 3 ounces fruit and honey in a 4-ounces jar on medium speed for 5 seconds. Spread
-
 over chilled cheesecake.
 
 ALTERNATIVE TOPPING 3: Remove stones from 1 date.
 Chop date. Blenderize chopped date and 3 ounces fruit(s) in a 4-ounces jar on high
-
 speed for 10-15 seconds. Spread over chilled cheesecake.
 
 The Recipe for Living Without Disease
@@ -5036,8 +5031,11 @@ The Recipe for Living Without Disease
 - - - - - - - - -
 
 **Pain Formula**
+
 3 to 4 level tablespoons refrigerated fresh soft bee pollen
+
 1 to 2 ounces no-salt-added raw cheese
+
 1 MOISTURIZING/LUBRICATION FORMULA DRINK
 
 #### [Moisturizing/Lubrication Formula Drink
@@ -5047,12 +5045,11 @@ The Recipe for Living Without Disease
 1 to 2 tablespoons lemon juice
 1 to 2 teaspoons unheated honey
 All ingredients should be room temperature. Warm all ingredients
-
-
 in an 8- or 12-ounces jar, capped with the blender washer/
 blades/base, immersed in a bowl of mildly hot water for 5
 minutes. Blenderize on medium speed for 10 seconds. It is most
 effective when consumed with, or shortly after, a meat meal.]
+
 
 Add pollen to the Moisturizing/Lubrication Formula above prior to blenderizing, and then
 blenderize. Eat cheese as you drink the formula. Usually, this formula reduces pain 80-

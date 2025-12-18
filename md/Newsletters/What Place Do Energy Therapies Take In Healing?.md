@@ -68,14 +68,20 @@ then tape it all loosely with adhesive gauze.
 The following photos recorded her finger's healing progress while Renee'
 adhered to my Primal Diet and followed my advice for her finger.
 
-The first photo was taken within 3 days of injury on 12 September 2007.
+The first 2 photos were taken within 3 days of injury on 12 September 2007.
 
 [Show photo 1](/imgs/pdn12_therapies-1.jpg)
 
-The second photos was taken on 6 November 2007.
-
 [Show photo 2](/imgs/pdn12_therapies-2.jpg)
 
-The last was taken on 22 September 2008, one year after the incident.
+The third and fourth photos were taken 6 November 2007.
 
 [Show photo 3](/imgs/pdn12_therapies-3.jpg)
+
+[Show photo 4](/imgs/pdn12_therapies-4.jpg)
+
+The last 2 were taken 22 September 2008, one year after the incident.
+
+[Show photo 5](/imgs/pdn12_therapies-5.jpg)
+
+[Show photo 6](/imgs/pdn12_therapies-6.jpg)

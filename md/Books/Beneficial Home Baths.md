@@ -1,4 +1,5 @@
 **_Foreword_**
+
 I knew Aajonus well enough that he could be sharp with me when needed but that
 always passed quickly. He was a very honest and forthright person. In 10 years of
 working together, we amassed over 1000 pages and hundreds of hours of
@@ -107,11 +108,9 @@ and the 'how to's.**
 _Note: any questions, comments etc. other than by Aajonus appear in italics._
 
 
-# Chapter One – Aw teacher, do we really
+# Chapter One – Aw teacher, do we really have to?
 
-# have to?
-
-A _ajonus broke some accepted raw foods 'practices' in his development of a very specific raw
+Aajonus broke some accepted raw foods 'practices' in his development of a very specific raw
 foods diet which he trademarked as the Primal Diet ™. What he termed 'Lymphatic Baths'
 covers a procedure which – along with specific dietary recommendations – has the potential
 of fully restoring damaged lymphatic functioning. This chapter contains the really important
@@ -150,9 +149,7 @@ lymphatic congestion (see the book The Recipe For Living Without Disease, Chapte
 I suggest taking 1 - 1 ½ hours hot baths every 3 – 4 days. Continued in chapter 3.
 
 
-#### Why do we, in the 21st century, need lymphatic baths when our ancestors
-
-#### did not?
+#### Why do we, in the 21st century, need lymphatic baths when our ancestors did not?
 
 _Aajonus with important info – Q&A of September 11, 2011- Part 1_
 
@@ -204,11 +201,7 @@ clogged and hardened; great idea if already fluid and working properly. You have
 the bath and then do your exercises if you want.
 
 
-## Chapter Two – Specific problems such as back trouble,
-
-## hot flashes, previous chemical exposures. An example of
-
-## a detox by way of lymphatic bath is given.
+## Chapter Two – Specific problems such as back trouble, hot flashes, previous chemical exposures. An example of a detox by way of lymphatic bath is given.
 
 _Aajonus interfaces with health seekers presenting some ways the lymphatic baths
 pertain to specific problems such as back problems, menopause with hot flashes,
@@ -216,9 +209,7 @@ anyone with concern about body temperature and how it works for someone who
 does not eat raw meat. The pH factor applies in very specific ways and with very
 specific foods for a person on the Primal (raw) Diet._
 
-#### Is there something I should know in order to use lymphatic baths as part
-
-#### of a regimen to restore my back?
+#### Is there something I should know in order to use lymphatic baths as part of a regimen to restore my back?
 
 To relieve tension and pain in the spine and back, I suggest the following yoga postures. They
 should be attempted 2-5 times daily AFTER applying hot water bottles to painful areas of the
@@ -305,9 +296,7 @@ _Q: I feel awful eating meat. I’m not going to go through the rest of my life 
 
 A: I know 8 women over the age of 16 who live just on raw milk and they’re fine.
 
-#### What do I do about dry skin? What about the swelling of my feet and legs,
-
-#### called edema?
+#### What do I do about dry skin? What about the swelling of my feet and legs, called edema?
 
 _Q&A February 2, 2013 in San Diego_
 
@@ -385,9 +374,7 @@ pottery/ceramic chart]_ it’s going to be a hard substance that will no longer 
 little absorption and when you get up to cone 9, you’re into porcelain. How much can you
 absorb with porcelain? Nothing.
 
-#### How did Aajonus use a pool to exercise his leg without much pain, while
-
-#### recovering from a serious motorcycle accident?
+#### How did Aajonus use a pool to exercise his leg without much pain, while recovering from a serious motorcycle accident?
 
 _March 18, 2008, Primal Diet newsletter_
 
@@ -457,9 +444,7 @@ _The following is an answer to a Primal Diet subscriber question:_
 “I stated [ _in a recent Primal Diet potluck party_ ] that I found it better to have the pineapple at afternoon
 fruit meal or in the Sport Formula sipped throughout the day.” Aajonus
 
-#### How do I minimize the toxicity of my city water supply, without installing
-
-#### filters, and still get the full benefit of the bath?
+#### How do I minimize the toxicity of my city water supply, without installing filters, and still get the full benefit of the bath?
 
 _From We Want To Live: the Primal Diet_
 
@@ -500,13 +485,7 @@ only 2x a week, the pineapple-coconut cream mixture against lymphatic congestion
 needs to be taken then. When you’re taking them every day, pineapple every other day is
 fine.
 
-#### Q: Yes. My question is about the lymphatic bath program. What is the
-
-#### difference between the long ones and the short ones done intermittently?
-
-#### What is the purpose of the short ones? What do they accomplish
-
-#### compared to the long ones?
+#### Q: Yes. My question is about the lymphatic bath program. What is the difference between the long ones and the short ones done intermittently? What is the purpose of the short ones? What do they accomplish compared to the long ones?
 
 A: Okay. The lymphatic baths in the We Want To Live second edition – the revised edition of
 2005 – talks about lymphatic congestion and lymphatic baths. Lymphatic baths are when you
@@ -671,9 +650,7 @@ A: Yep. Absolutely, if you can stand it.
 Q: _It doesn't shock you to the cold, it doesn't shock your brain?
 A: Oh and then it makes you want stay in that water all day._
 
-#### Could you give an example of someone completing a major detoxification
-
-#### with one lymphatic bath?
+#### Could you give an example of someone completing a major detoxification with one lymphatic bath?
 
 _Success with the Hot Water Baths (Lymphatic Baths)
 Written on January 21st, 2012.
@@ -756,9 +733,7 @@ recover. So he started an international stem cell company, he works 14, 16 hours
 now he's 76...77.
 
 
-## Chapter Four – Foods/recipes before, during and after the
-
-## bath
+## Chapter Four – Foods/recipes before, during and after the bath
 
 _The pineapple drink is well covered in Chapter 3, quoted from We Want To Live. The most
 recent Sports Formula is given here, with several earlier ones in the appendix given to
@@ -766,13 +741,7 @@ specific people over the span of a few years._
 
 **“My athletes go through a quart in 5 hours and they don’t get weak or tired.” Aajonus**
 
-#### The Sports Formula (no longer called the Sports Drink) has evolved some
-
-#### over the years. The most recent Aajonus’ Sport Formula (not Sport Drink)
-
-#### is next. One earlier and more specialized versions for a specific person
-
-#### is below. Other versions are in the appendix.
+#### The Sports Formula (no longer called the Sports Drink) has evolved some over the years. The most recent Aajonus’ Sport Formula (not Sport Drink) is next. One earlier and more specialized versions for a specific person is below. Other versions are in the appendix.
 
 ## Sport Formula, May 2012
 
@@ -833,9 +802,7 @@ cup pineapple, 6 tablespoons coconut cream, 3 tablespoons butter, and 2
 tablespoons cream.
 
 
-## Chapter Five - Bath tub vs. Jacuzzi vs. hot tub –
-
-## the pros and cons and the 'how-to’s.
+## Chapter Five - Bath tub vs. Jacuzzi vs. hot tub – the pros and cons and the 'how-to’s.
 
 _Attendees of Q&A’s have a lot of questions for Aajonus in order to arrange their baths without
 any of the dangers or pitfalls they might inadvertently run into.
@@ -861,8 +828,7 @@ together.
 
 _[Note: Aajonus was consulted many times by one person regarding full details of
 how to build a hot tub. That person has written this all down. This info is
-available in book form as a PDF, for $40. For more info, email_
-facilitator@wewant2live.com_. ]_
+available in book form as a PDF, for $40. For more info, email facilitator@wewant2live.com ]_
 
 #### What is better than chlorination in a community pool and/or hot tub?
 
@@ -1063,9 +1029,7 @@ feet away. So he put it in the basement. Through the Jacuzzi. So he can be in th
 run the motor and have all the air currents in there because the motor is in the basement
 away from him, away from the others in the bathtub. But it had to be 8 feet away.
 
-#### Is there a substitute for baths if baths are not feasible, for instance while
-
-#### traveling?
+#### Is there a substitute for baths if baths are not feasible, for instance while traveling?
 
 Remember that the body must have swelling when there is detoxification. Swelling is
 increased circulation of blood and lymph to the troubled area, increasing nutrients to the area
@@ -1088,8 +1052,6 @@ each hip, in each armpit and one at left-side of the neck and head. Then I place
 beach towel over me and the bottles to tent the heat into my body and catch rising
 evaporation from getting into the down quilt cover and making it wet. Then, I drew the down
 quilt over me, the towels and hot water bottles. With the bottles inside the pillow cases and
-
-
 under the covers, the bottles remained hot for 6-7 hours.
 Sometimes, I did not consume my usual 1 cup of fruit with fat daily because I did not want to
 increase detoxification. However, when I began smelling acrid chemicals emitting from my
@@ -1109,9 +1071,7 @@ while I sipped the smoothie.
 To help eliminate any of the toxins that may have made it to stomach and intestines, I ate 1 or
 2, 1/2 inch cubes of no-salt raw cheese every 20-30 minutes through most every day.
 
-#### What if I have access to a sauna but it is not as convenient for me to take
-
-#### baths?
+#### What if I have access to a sauna but it is not as convenient for me to take baths?
 
 When using saunas to perspire toxins from the body, it is healthier to shower and rinse toxic
 perspiration every 3 - 4 minutes so that perspired toxins are not reabsorbed into the skin,
@@ -1132,9 +1092,7 @@ cells to the blood to thicken the blood and heat the body. People who do not hav
 should ease into hot baths and drink more fluids immediately prior to entering a hot bath.
 
 
-## Chapter Six – Other types of baths – what for
-
-## and how to...
+## Chapter Six – Other types of baths – what for and how to...
 
 _Aajonus gives specialized information about using baths as a way of easing child delivery.
 He gives data about handling itchy skin and specifically about handling hives. Baths can be a
@@ -1144,17 +1102,13 @@ relaxing muscles should see his use of hot baths to alleviate those problems.
 Aajonus also tells who should not take the baths that he otherwise recommends (thin people
 or anyone about to do sunbathing), and why._
 
-#### Q: In the sense of relaxing those muscles in the nervous system, is there
-
-#### anything other than cream, milk... frozen raspberries, that helps that?
+#### Q: In the sense of relaxing those muscles in the nervous system, is there anything other than cream, milk... frozen raspberries, that helps that?
 
 Hot baths. Any kind of warmth will relax the nervous system. Any kind of warmth. Hot water
 bottles in your bed, and... or wearing a robe. Just keeping warm all the time will relax your
 body, your nervous system.
 
-#### Q: The daily baths – do they have to be a hundred and two to a hundred
-
-#### and five too or can they be less?
+#### Q: The daily baths – do they have to be a hundred and two to a hundred and five too or can they be less?
 
 A: No it can be less but it has to be at least a hundred and one.
 
@@ -1198,9 +1152,7 @@ _Q: If you did like a hundred and ten would that be okay? Is that a good idea?_
 A: It’s not a good idea. A hundred and ten is pretty hot. You’re going to start cooking the
 enzymes and vitamins in your skin.
 
-#### Are there other types of baths, besides the lymphatic bath, that I might
-
-#### find beneficial?
+#### Are there other types of baths, besides the lymphatic bath, that I might find beneficial?
 
 #### Baths for common cold : page 250 We Want To Live: The Primal Diet
 
@@ -1274,7 +1226,7 @@ about 1 cup lime juice, 7 tablespoons coconut cream, 2 tablespoons dairy cream o
 tablespoons avocado.
 
 After the bath, the bather will be weak. The bather should move slowly from the
-bath, and sit to dry. Bundle in very warm natural clothing and take a 30 – 45minute
+bath, and sit to dry. Bundle in very warm natural clothing and take a 30 – 45 minute
 easy walk.
 
 The hot bath routine above works by instigating the healing cycle that relaxes
@@ -1351,6 +1303,7 @@ A: No it doesn't.
 
 
 **Afterword**
+
 This compilation of what Aajonus said in detail about baths has been greatly assisted by
 various team members that are taking actions right now to preserve his written and spoken
 words for as long as there is civilization on this planet. There are several dedicated people to
@@ -1449,10 +1402,8 @@ need more cucumber than tomato. So I altered that recipe to have two to two and 
 of cucumber puree, and one cup of tomato puree so what you've done is just flop it around.
 Instead of having a lot of tomato, have more cucumber puree. And then they like a
 tablespoon of vinegar, a tablespoon of lemon juice, two to four tablespoons of coconut cream,
-two to four tablespoons of dairy cream, two or two and a half to four ounces of sparkling
-
-
-mineral water. Blend all that together and you sip it throughout the day.
+two to four tablespoons of dairy cream, two or two and a half to four ounces of sparkling mineral water.
+Blend all that together and you sip it throughout the day.
 _Q: So it doesn't matter where it's eaten? 50 minutes after juice or anything like that or you
 are not going to wait an hour between anything else to eat?_
 A: Well, any time after juice probably about 15, 20 minutes. After meat it would have to be
@@ -1486,10 +1437,7 @@ If you’re doing sports you want nutrients.
 1 tablespoon lemon juice
 3 – 4 tablespoons honey (some athletes have problems with that much honey, so you can
 cut it down to just 2 tablespoons)
-1 cup water – If you’re doing a high sport you add a cup of water because you will
-
-
-need a little bit of water in there.
+1 cup water – If you’re doing a high sport you add a cup of water because you will need a little bit of water in there.
 1 egg – If you’re a sports person you put an egg in it. If you’re not a sports person you
 don’t have to put an egg in it.
 Blend it all together.

@@ -59,15 +59,17 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
     <link rel="stylesheet" href="style.css?v=6">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <meta name="title" content="News">
+    <meta name="title" content="<?php echo $dynamicTitle; ?>">
     <meta name="description" content="<?php echo $description; ?>">
-    <meta property="og:title" content="News">
+    <meta property="og:title" content="<?php echo $dynamicTitle; ?>">
     <meta property="og:description" content="<?php echo $description; ?>">
     <meta property="og:url" content="<?php echo $url; ?>">
     <meta property="og:site_name" content="<?php echo $sitename; ?>">
     <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="apple-touch-icon.png">
     <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -334,6 +336,6 @@ if (isset($_GET['s'])) {
 </div>  
     <?php } ?>
     <div class="results"></div>
-    <script src="index.js?v=194"></script>
+    <script src="index.js?v=196"></script>
 </body>
 </html>
