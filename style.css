@@ -7,7 +7,7 @@ body {
     max-width: 786px;
 }
 
-h1 {
+h1, .header {
     text-align: center;
 }
 
@@ -29,6 +29,7 @@ h1 {
 .card h2, .card-md h2 {
     color: #fff;
     margin-top: 0;
+    margin-bottom: 0;
     word-break: break-word;
 }
 
@@ -55,6 +56,24 @@ h1 {
     padding-left: 15px;
     margin: 10px 0;
     color: #ddd;
+}
+
+.content pre, code, h4, h3, h2, h1, h5, h6 {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.content li {
+    word-wrap: break-word;
+}
+
+.content ol, li {
+    padding: 0;
+    margin: 0;
+}
+
+.content ol ol {
+    padding-left: 20px;
 }
 
 .content img {
@@ -85,17 +104,17 @@ h1 {
 
 .read-more {
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
 }       
 .search-bar {
     width: 100%;
     margin: 2vh auto;
-    padding: 8px 8px 8px 40px;
+    padding: 8px 40px 8px 40px;
     border: 1px solid #fff;
     border-radius: 5px;
     background-color: transparent;
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
     box-sizing: border-box;
     outline: none;
     position: relative;
@@ -107,7 +126,7 @@ h1 {
 .search-container {
     width: 100%;
     max-width: 400px;
-    margin: 0vh auto;
+    margin: -1vh auto 0vh auto;
     position: relative;
 }
 
@@ -116,13 +135,24 @@ h1 {
     left: 12px;
     top: 50%;
     transform: translateY(-50%);
-    width: 15px;
-    height: 44px;
+    width: 18.75px;
+    height: 55px;
+}
+
+.clear-icon {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    font-size: 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    display: none; /* Hidden by default */
+    z-index: 2;
 }
 
 .highlight {
     background-color: yellow;
-    color:#000;
+    color: #000;
 }
 .result-link{
     color: #fff;
@@ -146,9 +176,6 @@ h1 {
     justify-content: center;
     align-items: center;
     position: relative;
-}
-.header {
-    text-align: center;
 }
 .links {
     display: flex;
@@ -178,6 +205,9 @@ h1 {
     .card .card-md {
         flex-basis: 48%;
     }
+    #removeHighlights {
+        right: calc(50% - 400px);
+    }
 }
 
 #removeHighlights {
@@ -185,9 +215,4 @@ h1 {
   bottom: 10px;
   right: 10px;
   z-index: 9999;
-}
-@media (min-width: 768px) {
-  #removeHighlights {
-    right: calc(50% - 400px);
-  }
 }

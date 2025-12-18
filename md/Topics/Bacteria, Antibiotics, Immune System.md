@@ -191,10 +191,19 @@ to find and eat truly organically grown meats that are pastured, especially
 grass-fed.
 
 The following document was recovered with the Freedom of Information Act by
-raw-milk advocate Max Kane in Wisconsin.[^1]
+raw-milk advocate Max Kane in Wisconsin.
 Some of the wording was redacted by government before it was surrendered to
 the public.
 
 ===
 
-[^1]: Torrent file aajonus/documents/michigan_raw_milk_report.pdf
+![[pdn27_report-1.jpg]]
+![[pdn27_report-2.jpg]]
+![[pdn27_report-3.jpg]]
+![[pdn27_report-4.jpg]]
+![[pdn27_report-5.jpg]]
+![[pdn27_report-6.jpg]]
+![[pdn27_report-7.jpg]]
+![[pdn27_report-8.jpg]]
+![[pdn27_report-9.jpg]]
+![[pdn27_report-10.jpg]]

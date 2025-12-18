@@ -3,10 +3,11 @@ async function search(input) {
     const trimmedSearchValue = searchValue.trim();
     const grid = document.querySelector('.grid');
     const results_DOM = document.querySelector('.results');
-    const search_min_length = 3;
     results_DOM.innerHTML = '';
 
     const words = searchValue.split(/\s+/).filter(word => word && word !== "the");
+
+    document.getElementById('clear-icon').style.display = searchValue.length > 0 ? 'block' : 'none';
 
     if (words.every(word => word.length < 3)) {
         // Less than 3 consecutive non-space characters, ignore this search
@@ -44,11 +45,11 @@ async function search(input) {
 
 	   if (exactResults.length > 0) {
            const resultCard = createResultCard(card, exactResults, link);
-           fragmentExact.appendChild(resultCard); // Append the result card to the exact matches fragment
+           fragmentExact.appendChild(resultCard);
        }
 	   if (partialResults.length > 0) {
             const resultCard = createResultCard(card, partialResults, link);
-            fragmentPartial.appendChild(resultCard); // Append the result card to the partial matches fragment
+            fragmentPartial.appendChild(resultCard);
         }
      }
 
@@ -60,7 +61,7 @@ async function search(input) {
      if (fragmentExact.childElementCount === 0 && fragmentPartial.childElementCount === 0) {
        const noResults = document.createElement('p');
        noResults.textContent = 'No results found';
-       fragmentExact.appendChild(noResults); // Append the "No results found" message to the fragment
+       fragmentExact.appendChild(noResults);
      }
     
      results_DOM.appendChild(fragmentTitle);
@@ -76,14 +77,12 @@ function createResultCard(card, results, link) {
     const resultTitle = document.createElement('h2');
     resultTitle.innerHTML = `<a class="result-link" href="${link}">${card.querySelector('h2').textContent}</a>`;
     resultCard.appendChild(resultTitle);
-    // Convert results array to Set to remove duplicates
-    const uniqueResults = [...new Set(results)];
 
-    if (uniqueResults.length == 0) {
+    if (results.length == 0) {
         return resultCard;
     }
 
-    for (let result of uniqueResults) {
+    for (let result of results) {
         const resultContent = document.createElement('p');
         resultContent.innerHTML = result;
         resultCard.appendChild(resultContent);
@@ -126,10 +125,10 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
 
             if (exactMatchPos !== -1) {
                 let highlightedResult = windowText.split(searchValue).join('<span class="highlight">' + searchValue + '</span>');
-                exactMatches.push(`<a class='result-link' href=${link}&s=${urlSearchTermsExact}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
+                exactMatches.push(`<a class='result-link' href=${link}?s=${urlSearchTermsExact}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
             } else if (partialMatchPos !== -1) {
                 let highlightedResult = words.reduce((result, w) => result.split(w).join('<span class="highlight">' + w + '</span>'), windowText);
-                partialMatches.push(`<a class='result-link' href=${link}&s=${urlSearchTermsPartial}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
+                partialMatches.push(`<a class='result-link' href=${link}?s=${urlSearchTermsPartial}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
             }
 
             lastWindowEnd = end;
@@ -137,6 +136,14 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
         }
     });
     return;
+}
+
+function clearSearch() {
+    const searchInput = document.getElementById('search');
+    searchInput.value = '';
+    search(searchInput);
+    document.getElementById('clear-icon').style.display = 'none';
+    searchInput.focus();
 }
 
 function goBack() {
@@ -154,6 +161,13 @@ window.onload = function() {
 	if (searchInput){
 		searchInput.focus();
 		search(searchInput) // may be not needed
+        searchInput.addEventListener('keyup', function(event) {
+            // Key code 13 is the "Return" key
+            if (event.keyCode === 13) {
+                // Remove focus to close the keyboard
+                searchInput.blur();
+            }
+        });
 	}
 };
 
@@ -166,9 +180,24 @@ function scrollToElement(element) {
 		behavior: 'smooth'
      });
 }
-
-if (document.getElementById("scrollToThis"))
-scrollToElement(document.getElementById("scrollToThis"));
+function scrollToPosition() {
+    const element = document.getElementById("scrollToThis");
+    if (element) {
+        scrollToElement(element);
+        return;
+    }
+    const specialBlocks = document.querySelectorAll("code, pre");
+    for (let block of specialBlocks) {
+        const index = block.textContent.indexOf('<span id="scrollToThis"></span>');
+        if (index !== -1) {
+            scrollToElement(block);
+            // Remove the <span id="scrollToThis"></span> from the text content
+            block.textContent = block.textContent.replace('<span id="scrollToThis"></span>', '');
+            return;
+         }
+     }
+}
+scrollToPosition();
 
 document.body.addEventListener('click', function(e) {
     var target = e.target;
@@ -231,11 +260,18 @@ function filterCategory(category, element) {
     }
   }
 
+  var notFoundMessage = document.getElementById('not-found');
+  if (notFoundMessage) {
+    notFoundMessage.style.display = 'none';
+  }
+
+  var lowerCategory = category.toLowerCase();
+
   // Update URL without reloading the page
   if (category === 'All') {
     window.history.replaceState({}, '', '/');
   } else {
-    window.history.replaceState({}, '', `/${category}`);
+    window.history.replaceState({}, '', `/${lowerCategory}/`);
   }
 }
 
@@ -255,8 +291,41 @@ document.addEventListener("DOMContentLoaded", function() {
   
       // Update URL
       var url = window.location.href;
-      url = url.split('&')[0];
+      url = url.split('?')[0];
       window.history.replaceState({}, '', url);
     });
   }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+  loadContentAsync();
+});
+function loadContentAsync() {
+  // Collect all the IDs for the .data elements
+  const ids = Array.from(document.querySelectorAll(".data")).map(el => el.id);
+   if (ids.length === 0) {
+    return;
+  }
+  fetch('/searchloader.php', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ ids: ids }),
+  })
+  .then(response => response.json())
+  .then(data => {
+    Object.keys(data).forEach(id => {
+      const el = document.getElementById(id);
+      el.innerHTML = data[id];
+      el.style.display = "none"; // Keep it hidden for search later
+    });
+    const searchEl = document.getElementById("search");
+    searchEl.disabled = false;
+    searchEl.placeholder = "Search";
+    search(searchEl);
+  })
+  .catch(error => {
+    console.error("Error fetching content:", error);
+  });
+}

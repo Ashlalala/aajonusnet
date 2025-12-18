@@ -7,7 +7,7 @@ Website Features:
 
 - 100% Free & On-device search
 
-- No cloud, No trackers, No APIs
+- No ads, No trackers, No third parties
 
 - Copyright Takedown Requests (DMCA) are ignored
 
@@ -17,4 +17,4 @@ Website Features:
 
 If you have any texts you would like to be added,
 
-please contact **aajonus@skiff.com**
+please contact **aajonus (at) skiff.com**

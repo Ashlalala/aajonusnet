@@ -1,5 +1,3 @@
-# Baby Food For Mothers Who Can't Breastfeed
-
 #### (Appendix A)
 
 If a mother isn't eating a healthy diet or can't breast-feed for one

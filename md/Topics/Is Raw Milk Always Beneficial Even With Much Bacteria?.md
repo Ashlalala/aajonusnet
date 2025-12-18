@@ -33,4 +33,4 @@ unless I milk the goat or cow by hand.
 
 ===
 
-[^1]: Torrent file aajonus/documents/petition_and_report_in_favor_of_natural_milk.pdf
+[^1]: [PDF File - Petition and Report in Favor of Natural Milk](/docs/petition_and_report_in_favor_of_natural_milk.pdf)

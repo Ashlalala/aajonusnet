@@ -117,7 +117,31 @@ having the one fruit meal daily of 1/2 cup berries, 1/4 cup diced pineapple,
 1 tsp. lemon juice, 2-3 T. coconut cream and 1.5 T. raw cream works well to
 facilitate careful detoxification. If detoxification gets overwhelming, I
 suggest that you reduce consumption of raw apple cider vinegar and lime juice
-daily to 1 T. each.c
+daily to 1 T. each.
+
+Aajonus' Sport Formula (not sport drink)
+3 cups of at least 2 of the following foods:
+
+cucumber,
+tomato,
+watermelon,
+raw milk,
+fresh raw liquid whey
+
+
+Cucumber, watermelon and tomato are to be pureed not juiced. Whey is liquid byproduct of making cheese. Milk should be whole raw milk or kefir. You may have any combination of those to equal 3 cups.
+
+Remainder of the ingredients are:
+- 1 T. raw apple cider vinegar
+- 2 T. lime juice
+- 2 tsp. lemon juice (optional)
+- 2 T. coconut cream
+- 2 T. dairy cream
+- 2-3 eggs
+- 1-2 T. Unheated honey (optional).
+- 1-2 ounces pineapple (whole, not juice)
+
+That makes about 1 quart after blending all ingredients together.
 
 Hot baths of 35-90 minutes at 104-110 degrees F, help the body eliminate
 toxins through skin readily and efficiently. Be sure to add ingredients to

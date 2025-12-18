@@ -2,4 +2,12 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule ^(.*)$ index.php?category=$1 [L,QSA]
+# Handle only the category
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/%]+)/?$ index.php?category=$1 [L,QSA,B]
+
+# Handle both category and file
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/%]+)/([^/%]+)/?$ index.php?category=$1&file=$2 [L,QSA,B]

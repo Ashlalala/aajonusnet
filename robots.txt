@@ -1,0 +1,3 @@
+Sitemap: https://aajonus.net/sitemap.xml
+User-agent: *
+Disallow: 
