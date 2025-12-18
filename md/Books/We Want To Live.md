@@ -152,15 +152,23 @@ If you do not wish to be bound by the above, you may return this book, unread an
 PAGE 7
 
 VOLUME ONE
-WE WANT TO LIVE! the PRIMAL DIET TM
+
+WE WANT TO LIVE!
+
+the PRIMAL DIET TM
+
 Out Of The Grips Of Disease And Death
 
 The story
 
 Several names have been changed.
+
+
 The efficacy of all of the dietary wisdom in this book is from experience, experimentation, trial and error and does
 not rely upon whether we chemically understand the phenomenon or not.
+
 Although the author would like to, he does NOT imply or suggest that anyone interfere with medical procedure.
+
 The Appendix contains biochemical, dietary and nutritional explanations that were too dis- tracting to the story but they are important to those with inquiring minds. People have benefited the most by reading the story through to the end, and then reading the Appendix.
 
 PAGE 8

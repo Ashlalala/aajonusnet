@@ -275,7 +275,6 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
                 
             $sanitizedCategory = sanitizeFileName($category);
             $sanitizedName = sanitizeFileName($filename);
-            $articleMap[$sanitizedName] = $filename;
             ?>
                 
             <div class="card-md" 
@@ -284,10 +283,6 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
                 $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName; ?>>
                 <span class="category"><?php echo $category;?></span>
                 <h2><a class="read-more" href="/<?php echo $fullUrl; ?>"><?php echo $filename; ?></a></h2>
-                <?php 
-                    $originalName = $file->getBasename('.md');
-                    $sanitizedName = sanitizeFileName($originalName);
-                ?>
                 <div class="data" id="<?php echo $filePath; ?>" style="display:none;"></div>
             </div>
         <?php } ?>
@@ -296,9 +291,11 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     </main>
     <?php } else { ?>
         <div class="content"><?php
-        $file = $mdFolder . '/' . $originalFile . '.md';
+        $fileMd = $mdFolder.'/'.$originalFile.'.md';
+        $fileTxt = $mdFolder.'/'.$originalFile.'.txt';
+        $file = file_exists($fileMd) ?$fileMd:(file_exists($fileTxt) ?$fileTxt : null);
 
-        if (file_exists($file)) {
+        if ($file) {
             require 'libs/Parsedown.php';
             $Parsedown = new Parsedown();  
             $content = trim(file_get_contents($file));
@@ -384,8 +381,6 @@ $pattern = implode('|', array_map(function ($word) {
             if (isset($_GET['s'])) {
                 echo '<button id="removeHighlights"><span class="x">×</span>Highlights</button>';
             }
-  echo '<div id="transcript-meta" data-md-path="'.htmlspecialchars($file).'" data-audio-src=""></div>';
-  //echo '<audio id="player" controls preload="metadata" style="width:100%;margin:10px 0;"></audio>';
         } else {
             echo '<p>File not found.</p>';
         }
@@ -409,6 +404,6 @@ $pattern = implode('|', array_map(function ($word) {
             </div>
         </div>
     <?php } ?>
-    <script src="index.js?v=370"></script>
+    <script src="index.js?v=371"></script>
 </body>
 </html>

@@ -132,7 +132,7 @@ A memorial service, celebration of life type of ceremony, was held by his friend
 
 ![[aajonusdeath_memorial.jpg]]
 
-Watch [Memorial service for Aajonus Vonderplanitz](https://odysee.com/@getrawmilk:d/aajonus-vonderplanitz-memorial-service)
+Watch [Memorial service for Aajonus Vonderplanitz](https://archive.org/details/aajonus-memorial)
 
 ### Carrying on his legacy
 

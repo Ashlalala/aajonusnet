@@ -1825,7 +1825,7 @@ loves the heat; the brain hates it. So, you get that, you take some good
 drinking water, whatever you need. I mean Gerolsteiner or Apollinaris or any of
 those and you put it in a glass container and put that in the freezer. Don't put
 it in plastic, don't put it in aluminum because you are going to get those
-phthalates and PBAs into your ice water. Make a tray of it, dump it out, pour
+phthalates and BPAs into your ice water. Make a tray of it, dump it out, pour
 lukewarm water over the glass pie plate or whatever you are using, knock the ice
 out and crack it up, and put it back in the container, put it in the freezer and
 take a little piece of that and keep it in your mouth. That is a way to counter

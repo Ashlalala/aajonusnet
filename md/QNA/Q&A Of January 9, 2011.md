@@ -648,10 +648,10 @@ Q: Would just seaweed juice and fish be a decent diet?
 A: I’ve done it for 30 days – nothing but fish, mainly tuna fresh off the
 boats in the Philippines for five dollars a kilo.
 
-Q: The Ball jar canning lids you recommend are lined with PBA.
+Q: The Ball jar canning lids you recommend are lined with BPA.
 
 A: The lids I recommend are the ones with slightly dark white enamel inside and
-are PBA-free. If they’re gold looking or white looking, then they’re coated
+are BPA-free. If they’re gold looking or white looking, then they’re coated
 with a plastic. The ones who sell the Ball jar lids say they’re plastic but
 I’ve scraped and examined them under a microscope a dozen times and I don’t
 see anything but enamel. On the ones that are metal inside, I scrape and can see

@@ -46,9 +46,24 @@ Aajonus and Katharine Clark:
 
 ![[aajonus_33.jpg]]
 
+Aajonus and Max Kane:
+
+![[aajonus_kane.jpg]]
+
+![[aajonus_kane2.jpg]]
+
+Don, Doug, Dick (Aajonus), Dave:
+
 ![[aajonus_34.jpg]]
+
+Dave, Dick (Aajonus):
+
 ![[aajonus_35.jpg]]
+
+Dick (Aajonus), Dave, Doug:
+
 ![[aajonus_36.jpg]]
+
 ![[aajonus_37.jpg]]
 ![[aajonus_38.jpg]]
 ![[aajonus_39.jpg]]
@@ -66,6 +81,9 @@ Aajonus and Katharine Clark:
 ![[aajonus_51.jpg]]
 ![[aajonus_52.jpg]]
 ![[aajonus_53.jpg]]
+![[aajonus_54.jpg]]
+![[aajonus_55.jpg]]
+![[aajonus_56.jpg]]
 ![[primaldiet.jpg]]
 ![[primaldietnewsletter.jpg]]
 ![[bookcover_wwtl.jpg]]

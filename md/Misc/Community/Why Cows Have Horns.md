@@ -69,7 +69,7 @@ From the perspective of morphic biology a clear correlation can be found between
 
 - Members of the cattle family living in cooler regions tend to have smaller horns or none at all. Their body structure is denser and more weight is carried on the front legs.
 
-- Cattle in southerly regions have larger horns and a slimmer body that is less weighted towards the front. 1
+- Cattle in southerly regions have larger horns and a slimmer body that is less weighted towards the front. ^1
 
 - Animals living under more sparse feeding conditions have larger horns, while those living where it is more lush tend to have smaller ones. ^1
 
@@ -360,15 +360,16 @@ _Loose housing that allows sufficient space for giving way. The field is imitate
 
 Dehorned cattle are generally quieter under loose housed conditions than horned ones, largely because their individual distance is smaller. Frequent injuries caused by head butting though less outwardly visible, can occur among dehorned cows too.
 
-In order to avoid having a fight animals in confined housing conditions often don't move very much. It was observed how in an average sized loose housing situation the animals moved about for less than 2% of the day, while out on the pasture they would spend 12-15% of the day in movement. While cows at pasture will cover some 4 to 10km per day, those indoors rarely exceed 0,3 to 4 km. 1
+In order to avoid having a fight animals in confined housing conditions often don't move very much. It was observed how in an average sized loose housing situation the animals moved about for less than 2% of the day, while out on the pasture they would spend 12-15% of the day in movement. While cows at pasture will cover some 4 to 10km per day, those indoors rarely exceed 0,3 to 4 km. ^1
 
 When struggles do occur between animals the horns are used to hold or deflect an attack. They are then frequently used to hold their heads together, prevent them slipping off and to allow a head to head trial of strength to take place. The horns do not then have a «weapon» function.
 
 Hornless animals are not able to push against one another; they slip off and must tackle each other from the side. They cannot conduct their struggle in a species specific way.
 
-The young males are particularly keen on playfully locking horns together - they hold on and rub forehead on forehead or move their as yet small horns against one another. 1 Adult animals also enjoy a friendly, playful locking of horns or mutual scratching with them.
+The young males are particularly keen on playfully locking horns together - they hold on and rub forehead on forehead or move their as yet small horns against one another. ^1
+Adult animals also enjoy a friendly, playful locking of horns or mutual scratching with them.
 
-With their horns cows exhibit quite specific grooming behaviour - using them for instance to scratch their backs. Or when they use the horn tip of another cow to scratch and clean their own eyes. 1 Each animal is acutely aware of the size and form of its horns and where they end. This also gives it a sense of its place in the herd. ^1
+With their horns cows exhibit quite specific grooming behaviour - using them for instance to scratch their backs. Or when they use the horn tip of another cow to scratch and clean their own eyes. ^1 Each animal is acutely aware of the size and form of its horns and where they end. This also gives it a sense of its place in the herd. ^1
 
 ^1 According to scientific literature, available from the authors.
 
@@ -388,7 +389,8 @@ These digestive processes enable the animals to produce milk including some for 
 
 To this belongs the characteristic quality of a cow's life - they spend two thirds of each day either eating or ruminating. Their senses are not outwardly awake but are directed inward into their own bodies. They often appear to doze while ruminating. At the same time their head is held attentively upward but focused inwardly. While chewing the cud they are performing a metabolic activity 'consciously' in the head, something which other animals and humans only do when taking in food. Ruminants actively decide when they want to start ruminating and deliberately break off doing so, if they get disturbed.
 
-During the process of rumination the chewed material or cud moves back and forth between the dark, anaerobic, slightly acidic milieu of the rumen and the lighter, more oxygen rich, alkaline milieu of the mouth. 1 This is not only about the moving and transforming of substances, it also concerns forces. The horn is able to hold back the forces escaping from the processes of digestion and redirect them back into the animal's organism. This recycling and concentrating activity is what contributes to the enormous metabolic capacity of the bovine animal. The function of the horns (and also the hooves) in relation to digestion and metabolism has therefore more to do with forces than with substances.
+During the process of rumination the chewed material or cud moves back and forth between the dark, anaerobic, slightly acidic milieu of the rumen and the lighter, more oxygen rich, alkaline milieu of the mouth. ^1
+This is not only about the moving and transforming of substances, it also concerns forces. The horn is able to hold back the forces escaping from the processes of digestion and redirect them back into the animal's organism. This recycling and concentrating activity is what contributes to the enormous metabolic capacity of the bovine animal. The function of the horns (and also the hooves) in relation to digestion and metabolism has therefore more to do with forces than with substances.
 
 ^1 According to scientific literature, available from the authors.
 

@@ -454,7 +454,7 @@ A: You take it out of the refrigerator, you spit into it, and you can add more b
 
 Q: So would you get really sick if you ate any of that black stuff?
 
-A: Probably. There's a plastic that covers that lid. It's not enamel anymore, and you'll probably get some of the PBAs out of it, the phthalates out of the plastic.
+A: Probably. There's a plastic that covers that lid. It's not enamel anymore, and you'll probably get some of the BPAs out of it, the phthalates out of the plastic.
 
 Q: What's your opinion on eating carnivore meat versus herbivore meat?
 

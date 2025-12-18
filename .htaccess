@@ -1,6 +1,6 @@
 RewriteEngine on
 # Sitemap
-RewriteRule ^sitemap\.xml$ sitemap.php [L,NC]
+RewriteRule ^sitemap\.xml$ /code/sitemap.php [L,NC]
 
 # Handle only the category
 RewriteCond %{REQUEST_FILENAME} !-f

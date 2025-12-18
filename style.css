@@ -111,10 +111,11 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     right: 0;
 }
 
-.read-more {
+.read-more, .result-link, .title, .categories a {
     color: #fff;
     text-decoration: none;
 }
+
 .read-more:hover {
     text-decoration: underline;
 }
@@ -130,7 +131,6 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     font-size: 20px;
     box-sizing: border-box;
     outline: none;
-    z-index: 1;
     transform: translateZ(0);
 }
 
@@ -165,10 +165,6 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     background-color: yellow;
     color: #000;
 }
-.result-link, .title {
-    color: #fff;
-    text-decoration: none;
-}
 .results-summary {
     color: #ccc;
 }
@@ -199,8 +195,6 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     margin-bottom: 20px;
 }
 .categories a {
-    color: #fff;
-    text-decoration: none;
     background-color: #111;
     margin: 5px;
     border: 1px solid #444;
@@ -254,6 +248,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
 
 
 /* FIND ON PAGE */
+
 .find-on-page {
     display: none;
     position: fixed;
@@ -316,11 +311,11 @@ body.find-on-page-active {
 }
 .find-on-page-highlight {
     background-color: yellow;
-    color: black;
+    color: #000;
 }
 .find-on-page-highlight-current {
     background-color: orange;
-    color: black;
+    color: #000;
 }
 .activate-find-on-page {
     position: fixed;

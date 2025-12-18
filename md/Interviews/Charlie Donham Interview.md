@@ -1,6 +1,6 @@
 ### Natural Health M2M Magazine interview with Aajonus Vonderplanitz (1998)
 
-Date: October 1998 (Confirmed @[here](http://www.rawtimes.com/m2m))
+Date: October 1998 (Confirmed @[here](https://web.archive.org/web/20250816135557/https://www.rawtimes.com/m2m/))
 
 Note: This interview was also reprinted by Dr. Stanley S. Bass in January 2000.
 

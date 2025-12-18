@@ -5,7 +5,8 @@ if (ob_get_level()) {
     ob_end_clean();
 }
 
-$mdFolder = 'md';
+$config   = require dirname(__DIR__) . '/config.php';
+$mdFolder = $config['mdFolder'];
 
 $whiteSpaceList = ["\x09" => ' ', "\x0A" => ' ', "\x0B" => ' ', "\x0C" => ' ', "\x0D" => ' ', "\xC2\xA0" => ' '];
 $contents = [];

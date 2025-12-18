@@ -3,8 +3,9 @@ declare(strict_types=1);
 
 header('Content-Type: application/xml; charset=utf-8');
 
-$mdFolder = 'md';
-$url = "https://aajonus.net/";
+$config = require dirname(__DIR__) . '/config.php';
+$mdFolder = $config['mdFolder'];
+$url = $config['baseUrl'];
 
 function sanitizeFileName($string) {
     $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);

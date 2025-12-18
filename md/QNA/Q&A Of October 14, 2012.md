@@ -1333,7 +1333,7 @@ A: It's part of gout.
 
 Q: Which is better, to get bottled water without fluoride or with fluoride and glass like...  The best would be the [unintelligible] has no fluoride, it's in plastic.
 
-A: I would go for the natural fluoride before I would go for plastic because you have the phthalates leak into it, PBAs. If you're eating properly and not drinking much water, you're not going to absorb that fluoride.
+A: I would go for the natural fluoride before I would go for plastic because you have the phthalates leak into it, BPAs. If you're eating properly and not drinking much water, you're not going to absorb that fluoride.
 
 Q: How about reverse osmosis?
 
