@@ -1108,7 +1108,7 @@ dogs and cats, in the mouth. So don't get bit by a human.
 
 Q: I'll try to remember that.
 
-A:So if you have, chewing is not the greatest thing to get too much saliva,
+A: So if you have, chewing is not the greatest thing to get too much saliva,
 with meat, but milk and any of those other of those others, its better to
 get lots of bacteria.
 
@@ -1374,7 +1374,7 @@ Q: Wow.... any accent?
 
 A: Any accent.
 
-Q:Which order?
+Q: Which order?
 
 A: Pee Tee and Kay. And you have to read each one many times within a five
 minute period. But three Pee Pee Pee, Tee Tee Tee, Kay Kay Kay. If you

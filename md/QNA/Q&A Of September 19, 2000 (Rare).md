@@ -741,7 +741,7 @@ Mercury is highly toxic.
 A: the Cancer control convention there were several dentists who were speaking
 about how the mercury was still active and creating vapors and causing all kind
 of glandular problems that caused other systemic problems that caused cancer.
-A:l of them unanimously agreed that you should have your amalgams removed. I had
+All of them unanimously agreed that you should have your amalgams removed. I had
 mine removed in 1978. I did not use any Novocain. I had some fresh leaves of
 marijuana. I chewed them until I got a little high. I had them drill 4 hours one
 day and 4 hours the next morning and I had no Novocain. The problem when they
@@ -886,7 +886,7 @@ every cell of the body and say give up what you have because we have to rob
 Peter to pay Paul. So basically your body is leaching from itself and is getting
 weaker and weaker every day by every time you have a cooked meal. So eating
 extra vegetable juice helps restore some of what leached out through the years.
-A:d it takes many cups of juice everyday to restore. I am still doing it and I
+It takes many cups of juice everyday to restore. I am still doing it and I
 am going on 24 years on raw meat and almost 18 years of eating raw meat on a
 daily basis. And I still have to have the juice. I may be a little different
 because I had all the chemo and radiation so that may be a problem that causes
@@ -972,7 +972,7 @@ tell people to take a large marble sized amount. They can cut it up into pill
 sized pieces and wash it down with some milk and you will put a swimmers clip on
 your nose and do it out side because it stinks like hell and it will stink your
 house up for days. And whenever you put the air in it you do it out doors.
-A:yway she ate this marble sized amount. I got a call an hour later; I knew she
+Anyway she ate this marble sized amount. I got a call an hour later; I knew she
 was going to call. “I just took it. I need some support. Call me. I do not
 know what is going to happen. I am getting really silly. It is making me happy.
 I do not know what is going on. I do not know if this is good or bad.” So I
@@ -1004,10 +1004,10 @@ you will have to decide for yourself. Your own mediation. Your own dream state.
 me and I am no doctor and I am at the doctor’s symposium. This is only for
 doctors and they invited me up there. I was saying, “You guys do no harm. You
 guys are butchering and burning people and poisoning people. That is doing harm.
-A:d the virus, bacteria and the parasites you find in these diseases are not the
+The virus, bacteria and the parasites you find in these diseases are not the
 cause. They are just the symptom and that is eating the bad food and the
 environment pollution.” A lot of them got up there and said you’re right.
-A:d a lot of them directed it right to me. But these were supposedly alternative
+A lot of them directed it right to me. But these were supposedly alternative
 doctors who would use a little bit of the allopathic system to do something on
 the new age system.
 

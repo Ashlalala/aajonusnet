@@ -256,7 +256,7 @@ A: And you will gain weight fast. Everybody know Larry Lucky?
 
 Q: Yeah.
 
-A: He was as skinny as this man right here for his whole life, and all of a sudden he went on the diet, and I told him to eat that way. Eat the whole diet, but just make sure you have a pound of meat twice daily with the whole lubrication formula. And he went to work out because he always wanted to be big his whole life, and every time he'd work out he'd get sick and break down and couldn't work out. bSo he got on this diet and said, do you think I can body build this? About a year and a half after he was on the diet. I said, sure. So I gave him that formula and he did it. And in five months he had gained four inches on his biceps and six inches on his chest.
+A: He was as skinny as this man right here for his whole life, and all of a sudden he went on the diet, and I told him to eat that way. Eat the whole diet, but just make sure you have a pound of meat twice daily with the whole lubrication formula. And he went to work out because he always wanted to be big his whole life, and every time he'd work out he'd get sick and break down and couldn't work out. So he got on this diet and said, do you think I can body build this? About a year and a half after he was on the diet. I said, sure. So I gave him that formula and he did it. And in five months he had gained four inches on his biceps and six inches on his chest.
 
 Q: [unintelligible]
 
@@ -378,7 +378,9 @@ A: Okay. Do you have a question? You.
 
 Q: Yeah. I just want to know your opinion about alcohol. Maybe...
 
-A: Okay. There are many kinds of alcohol. There's ethyl alcohol that you massage with. Very dangerous alcohol. It's made from petroleum, gasoline, and it will eat into your skin. A massage therapist put that on her hands and was coming at me, and I said, No, you don't. That is a poison. Would you drink it? No, you don't drink this. I said, Your cells are drinking it. And I don't want that on my skin. So I had to get her some coconut oil to take it off of her hands before she was going to massage me. So, ethyl alcohol is a dangerous alcohol. It's a distilled alcohol that comes from gasoline. When you have an alcohol that's, say, like a hard liquor, it's distilled. It's like gasoline or kerosene. It will penetrate a cell. The cell has no choice. It's going to penetrate it. Just like if you put gasoline or kerosene on your arm, it would eat right into your arm the same way. Any kind of distilled alcohol is penetrating, and the cell has no choice. It's going to damage cells. Wine is the only one that they do not, mostly they do not pasteurize. Let's say if the crop of grapes got a fungus on it, then they would pasteurize that wine. It would be an inferior wine, cheap wine. You wouldn't even like the taste of it, probably. Only cheap winos drink that. But a wine that is not distilled, that's raw, like they make from wine, it's still going to do some damage to your nervous system, your nerve cells and your neurons in your brain, and your liver. Because your liver, believe it or not, doesn't have much fat. The liver and the heart are almost all protein. You have little fat deposits around the liver, but not very much. Around the heart, you have a pocket of fat on the top of it, as a reserve to protect it from anything like alcohol. Your brain, of course, shuts down when you have alcohol, even raw alcohol. Because it shuts off your discerning centers, because it doesn't want to damage those. You'll lose your controls. So that's why people get uninhibited, because it shuts off those control centers. And uninhibited is fine if you're anal retentive, but of course, we're all anal retentive because we're trained to be that way. But we're also overly cautious in the wrong way. So, I say, like I said in my book, two ounces, four ounces, as long as you've eaten a lot of butter and cheese like the French used to do. The French would always have appetizers with little cakes or crackers or something like that, and then put butter on that or a cheese butter sauce on top of that. And then they would have their wine during the meal. So they had all of this cheese and fat there to bind with that alcohol, so it didn't do nerve damage and didn't damage the pancreas, the liver, and heart and brain. So, alcohol is not a good thing. You can eat some without having too much damage if you're eating the butter and cheese before you drink it. You have to be very careful.
+A: Okay. There are many kinds of alcohol. There's ethyl alcohol that you massage with. Very dangerous alcohol. It's made from petroleum, gasoline, and it will eat into your skin. A massage therapist put that on her hands and was coming at me, and I said, No, you don't. That is a poison. Would you drink it? No, you don't drink this. I said, Your cells are drinking it. And I don't want that on my skin. So I had to get her some coconut oil to take it off of her hands before she was going to massage me. So, ethyl alcohol is a dangerous alcohol. It's a distilled alcohol that comes from gasoline. When you have an alcohol that's, say, like a hard liquor, it's distilled. It's like gasoline or kerosene. It will penetrate a cell. The cell has no choice. It's going to penetrate it. Just like if you put gasoline or kerosene on your arm, it would eat right into your arm the same way. Any kind of distilled alcohol is penetrating, and the cell has no choice. It's going to damage cells. Wine is the only one that they do not, mostly they do not pasteurize. Let's say if the crop of grapes got a fungus on it, then they would pasteurize that wine. It would be an inferior wine, cheap wine. You wouldn't even like the taste of it, probably. Only cheap winos drink that. But a wine that is not distilled, that's raw, like they make from wine, it's still going to do some damage to your nervous system, your nerve cells and your neurons in your brain, and your liver. Because your liver, believe it or not, doesn't have much fat. The liver and the heart are almost all protein. You have little fat deposits around the liver, but not very much. Around the heart, you have a pocket of fat on the top of it, as a reserve to protect it from anything like alcohol. 
+
+Your brain, of course, shuts down when you have alcohol, even raw alcohol. Because it shuts off your discerning centers, because it doesn't want to damage those. You'll lose your controls. So that's why people get uninhibited, because it shuts off those control centers. And uninhibited is fine if you're anal retentive, but of course, we're all anal retentive because we're trained to be that way. But we're also overly cautious in the wrong way. So, I say, like I said in my book, two ounces, four ounces, as long as you've eaten a lot of butter and cheese like the French used to do. The French would always have appetizers with little cakes or crackers or something like that, and then put butter on that or a cheese butter sauce on top of that. And then they would have their wine during the meal. So they had all of this cheese and fat there to bind with that alcohol, so it didn't do nerve damage and didn't damage the pancreas, the liver, and heart and brain. So, alcohol is not a good thing. You can eat some without having too much damage if you're eating the butter and cheese before you drink it. You have to be very careful.
 
 Q: How long before you drink it?
 
@@ -386,7 +388,7 @@ A: Should be at least 15 minutes.
 
 Q: 15 minutes before you eat and drink?
 
-A: No, before you drink alcohol. If you go in to drink wine. Now, we used to have a raw beer. Most beers in the world are raw, except in this country. They all have to be pasteurized as of 1987. Coors was the only one out of Colorado at the time, was the only one that was raw. And then the FDA said in 1986, you've got to stop in 1987, you've got to pasteurize your beer. Coors went downhill after that. And then Miller's bought Coors. There is no raw beer. There's no raw beer allowed in this country.
+A: No, before you drink alcohol. If you're going to drink wine. Now, we used to have a raw beer. Most beers in the world are raw, except in this country. They all have to be pasteurized as of 1987. Coors was the only one out of Colorado at the time, was the only one that was raw. And then the FDA said in 1986, you've got to stop in 1987, you've got to pasteurize your beer. Coors went downhill after that. And then Miller's bought Coors. There is no raw beer. There's no raw beer allowed in this country.
 
 Q: Why is that?
 
@@ -396,7 +398,7 @@ Q: Because it would be fermented?
 
 A: It would be, you would have fermentation bacteria in it, live and active, which is a good thing. But they don't want you to have a good thing.
 
-Q: But the high class European beers have to be heated?
+Q: But the high class European beers don't have to be heated?
 
 A: They have to be heated to be brought into this country.
 
@@ -410,7 +412,7 @@ A: Pardon?
 
 Q: Heineken.
 
-A: Heineken? It's pasteurized?
+A: Heineken? It's pasteurized.
 
 Q: In this country.
 
@@ -430,7 +432,7 @@ A: Right there in front of them. I didn't allow myself to pee, so I keep recycli
 
 Q: So if you don't pee, you'll recycle it?
 
-A: You'll recycle your...
+A: You'll recycle your... yeah.
 
 Q: I'm just like, do I drink it?
 
@@ -448,7 +450,9 @@ Q: And what about feces? Does that contain toxins?
 
 A: Feces is not supposed to be a toxin either.
 
-Q: So like if you eat cheese and it absorbs toxins... Then that will be toxic.
+Q: So like if you eat cheese and it absorbs toxins... 
+
+A: Then that will be toxic.
 
 Q: Where does it go?
 
@@ -488,7 +492,7 @@ A: I'd have my milk and my sport formula in there and sip on it. I'd wake up aft
 
 Q: Did you have chlorine and fluoride in the water?
 
-A: I had well water. But as I said inwe want to live. I talk about the baths in there under health modalities. I tell you to put vinegar and raw unpasteurized apple cider vinegar, milk, sea salt, and coconut cream if you want in the water to neutralize the poison seven minutes before you get into the water.
+A: I had well water. But as I said in we want to live. I talk about the baths in there under health modalities. I tell you to put vinegar and raw unpasteurized apple cider vinegar, milk, sea salt, and coconut cream if you want in the water to neutralize the poison seven minutes before you get into the water.
 
 Q: And then when you're heating the water back up, you drain the tub first, and then you put the hot water in.
 
@@ -532,11 +536,15 @@ A: Basically it's a cancerous tumor.
 
 Q: Yeah.
 
-A: You put pineapple, take a little piece of pineapple over there, rub it on only once a day. Next day you put raw apple cider vinegar on it. Next day pineapple, next day apple cider vinegar and let it eat away at it a little at a time. What your body is doing is putting dead cells there that you're not dissolving inside the body. It's just a building there. Better on the skin than in your lungs or in your lymphatic system or any of the liver, glands or any of those. Better right there. I've had a lot of people who've had their cancers right here.
+A: You put pineapple, take a little piece of pineapple over there, rub it on only once a day. Next day you put raw apple cider vinegar on it. Next day pineapple, next day apple cider vinegar and let it eat away at it a little at a time. What your body is doing is putting dead cells there that you're not dissolving inside the body. It's just  building there. Better on the skin than in your lungs or in your lymphatic system or any of the liver, glands or any of those. Better right there. I've had a lot of people who've had their cancers right here.
 
 Q: What about mixing apple cider vinegar with clay?
 
-A: Not a good idea. Because the clay is going to rip the fats out of it and the fats need to react with the apple cider vinegar. You're going to damage the tissue. So just pineapple, apple cider vinegar rotated?
+A: Not a good idea. Because the clay is going to rip the fats out of it and the fats need to react with the apple cider vinegar. You're going to damage the tissue. 
+
+Q: So just pineapple, apple cider vinegar rotated?
+
+A: Yeah.
 
 Q: Is there a brand of vinegar you recommend?
 
@@ -562,7 +570,7 @@ Q: I know, but I've been using it for the last so many years.
 
 A: Well, still it's better than Hanes or any of the others, but Solana Gold is the best.
 
-Q: For what it's worth, they don't store it anymore in oak. They do ferment it, but I talked to Solana Gold because I'm going to start giving it in our food buying club and she says we store it in stainless steel now.
+Q: For what it's worth, they don't store it anymore in oak. They do ferment it, but I talked to Solana Gold because I'm going to start getting it in our food buying club and she says we store it in stainless steel now.
 
 A: They did? When did they start doing that?
 
@@ -612,7 +620,7 @@ A: Yeah, definitely. But usually in the skin, it has to be on the surface.
 
 Q: Okay.
 
-A: And that's assuming that he's on a regular raw diet, you know, all year round, right?
+Q: And that's assuming that he's on a regular raw diet, you know, all year round, right?
 
 A: Yeah. Do you have a question?
 
@@ -620,7 +628,7 @@ Q: Yes. I have three children, 14 years old, 12 and 9. By the time I realized va
 
 A: So he had vaccines all the way up to 15 years old?
 
-Q: No, up to he's 14, up to 12 years old, 11, 12, 11.
+Q: No, up to he's 14 now, up to 12 years old, 11, 12, 11.
 
 A: So he had almost all of them.
 
@@ -642,7 +650,7 @@ A: What kind of fat is he eating?
 
 Q: Well, I try to feed them raw butter as much as I can. I try to feed them at least one glass of milk every morning. He eats a lot of other junk, of course.
 
-A: How about milkshakes? Can he get to eat milkshakes?
+A: How about milkshakes? Can you get him to eat milkshakes?
 
 Q: I do them, yeah, as often as I can. But he still goes through a lot of junk at the school.
 
@@ -654,7 +662,9 @@ A: He may have, let's say he has 11 activity rings in his eyes. That means he pr
 
 Q: Wow.
 
-A: That's how much energy that poor girl has. And I said, you need to put her in a sports school, a dance school or something. You can't put her in a regular school. They'll just medicate her to death and you'll have a vegetable on your hands. So, there are sports schools out there, dance schools, there are all kinds of schools. So, they put her in a school for that. So, fine now. But they had trouble with her for six years in school all that time. And all they needed to be told was this child needs to exercise every hour. I had a friend of mine who was a teacher from New Zealand who was a special ed teacher. And she got a job in Beverly Hills at a Catholic high school there and she wasn't even Catholic. So, I thought, hmm, something's really wrong there. Catholics don't hire non-Catholics to teach their children unless there's something terribly wrong. So, she came home, called me and she was crying and crying and crying. I said, what's going on? She said, they gave me all of the worst kids in the world in the whole school, all different grades and ages, all in this one room. And I have to deal with all of them. And she says, I couldn't control them for even one minute. I said, it's very easy. Take them for five minutes, let them go wild in the room, scream, yeah, run, right. And tell the next classroom that that's going to happen for five minutes every hour. Five minutes and they have to get through it. Maybe they could do something in their classroom like it. So, these kids would make messes and everything. They spent five minutes cleaning it up. And then I told her to have them sit down and sing the word, ohm, nine times. And that puts their brain into an alpha state. Those kids were fine every day. She did that every hour, every day during school. And that's all it took. Those kids got top grades. They were better than other kids because now the hormones for physical activity were utilized. And they weren't clouding the mind. And usually when the body is that active, the mind is that active too. So, you got a lot of geniuses there. But she was just unable to function because of those physiological hormones. So, it was that easy. They fired her six months later because they found out that she was saying the word, ohm. Having the kids sing the word ohm and that was the devil's work. Can you imagine that? And then the kids went right back within a few months the same way. I don't get it. Superstition of the rationale.
+A: That's how much energy that poor girl has. And I said, you need to put her in a sports school, a dance school or something. You can't put her in a regular school. They'll just medicate her to death and you'll have a vegetable on your hands. So, there are sports schools out there, dance schools, there are all kinds of schools. So, they put her in a school for that. So, fine now. But they had trouble with her for six years in school all that time. And all they needed to be told was this child needs to exercise every hour. I had a friend of mine who was a teacher from New Zealand who was a special ed teacher. And she got a job in Beverly Hills at a Catholic high school there and she wasn't even Catholic. So, I thought, hmm, something's really wrong there. Catholics don't hire non-Catholics to teach their children unless there's something terribly wrong. So, she came home, called me and she was crying and crying and crying. I said, what's going on? She said, they gave me all of the worst kids in the world in the whole school, all different grades and ages, all in this one room. And I have to deal with all of them. And she says, I couldn't control them for even one minute. I said, it's very easy. Take them for five minutes, let them go wild in the room, scream, run, right. And tell the next classroom that that's going to happen for five minutes every hour. Five minutes and they have to get through it. Maybe they could do something in their classroom like it. 
+
+So, these kids would make messes and everything. They spent five minutes cleaning it up. And then I told her to have them sit down and sing the word, ohm, nine times. And that puts their brain into an alpha state. Those kids were fine every day. She did that every hour, every day during school. And that's all it took. Those kids got top grades. They were better than other kids because now the hormones for physical activity were utilized. And they weren't clouding the mind. And usually when the body is that active, the mind is that active too. So, you got a lot of geniuses there. But just unable to function because of those physiological hormones. So, it was that easy. They fired her six months later because they found out that she was saying the word, ohm. Having the kids sing the word ohm and that was the devil's work. Can you imagine that? And then the kids went right back within a few months the same way. I don't get it. Superstition instead of rationale.
 
 Q: As far as the diet is concerned, what was...
 
@@ -662,15 +672,15 @@ A: You need to get as much milkshakes in them to calm them down as possible, che
 
 Q: His problem is feeling security. He's not feeling security. They always think that there is something wrong with him.
 
-A: If the body has hormones, it needs to utilize. And it's not doing it, the whole body becomes uneasy. If he has depression, that's something else. That's low bacteria in the colon. Do you have a question?
+A: If the body has hormones, it needs to utilize, and it's not doing it, the whole body becomes uneasy. If he has depression, that's something else. That's low bacteria in the colon. Do you have a question?
 
 Q: Yeah, I was going to go back to bacteria, parasites, and moles. Is there any of that we should fear at all?
 
-A: Any that are made by the universities, pharmaceutical industry, used by the military. The E. Boli, the AIDS, the anthrax. Those are biological weapons. AIDS was made in 1961-62 at UCLA. Discovered by Dr. Robert Stricker. It's all documented in a book called Bio-Attack Alert. And then Leonard Horowitz documented how the E. boli was made and how manufactured AIDS was put in the smallpox vaccine in Africa. Given to 125 million vaccines, 97 million people were poisoned and got the AIDS. About 27 million didn't react to it the same way that 97 million did. If it's foreign made... If it doesn't come from your food, it isn't part of your body, or the earth and dirt, it's not safe. It can be dangerous. And you can only get that if you're injected. Don't let a needle get near you. You never know what's in it. Do you have a question?
+A: Any that are made by the universities, pharmaceutical industry, used by the military. The E. Boli, the AIDS, the anthrax. Those are biological weapons. AIDS was made in 1961-62 at UCLA. Discovered by Dr. Robert Strecker. It's all documented in a book called Bio-Attack Alert. And then Leonard Horowitz documented how the E. boli was made and how manufactured AIDS was put in the smallpox vaccine in Africa. Given to 125 million vaccines, 97 million people were poisoned and got the AIDS. About 27 million didn't react to it the same way that 97 million did. If it's foreign made... If it doesn't come from your food, and isn't part of your body, or the earth and dirt, it's not safe. It can be dangerous. And you can only get that if you're injected. Don't let a needle get near you. You never know what's in it. Do you have a question?
 
-Q: I do. I've been experiencing [unintelligible] cells, and I know why I discovered that. Unfortunately, I had a problem. I figured out what that was, but now I'm just needing to heal my brain and to build up my brain and to reduce any kind of inflammation and or cyst or tumor that could be in my brain. So what are the best foods?
+Q: I do. I've been experiencing some dizzy spells, and I know why I discovered that. Unfortunately, I had a problem. I figured out what that was, but now I'm just needing to heal my brain and to build up my brain and to reduce any kind of inflammation and or cyst or tumor that could be in my brain. So what are the best foods?
 
-A: Dizziness doesn't [unintelligible].
+A: Dizziness doesn't come from that.
 
 Q: It doesn't?
 
@@ -716,7 +726,7 @@ Q: Would that help like her dizziness?
 
 A: Well, dizziness is most often you've got one ear feeling and not the other. One ear is getting too much water.
 
-Q: I mean I can even be in my bed and I don't want that kind of response.
+Q: I mean I can even be in my bed and I get that kind of response.
 
 A: That's too much water in one ear. So the water in the ear you hear the ocean or humming or buzzing or ringing, that's where you need to put that water bottle, that ear, so you can perspire, get some of that water out of that ear. But it will keep feeling it, it's filling it, it's detoxifying, so you may have to do that every other day. If the other ear starts ringing, then you need to put it on that for that night, and the next night the other ear.
 
@@ -752,7 +762,7 @@ Q: Well, I drink a cup of vegetable juices.
 
 A: Okay. You're a tall guy. You can drink three quarts. I drink two quarts of milk a day, minimum.
 
-Q: That's kefor...
+Q: That's kefir...
 
 A: No, not all the time. It's always room temperature or warmer. Most often it's on its way to kefir. But I travel so much that I can't keep it in the kefir form. It's never cold. Well, I never take more than two ounces of cold milk at a time. I don't take it cold. And that's if I've forgotten to take it out and I thought I did. And I go out and have my, you know, like two ounces of milk and I drink that over about two minutes. You know, maybe two ounces a minute. So I have four ounces at a time. And then I leave the milk out. What I usually do is I'll put it in a bowl of hot water to warm it quickly so I don't have to wait so long because I like to sip milk all day long.
 
@@ -766,9 +776,15 @@ A: No, each day I still prepare those for the day. But the meats I do once a wee
 
 Q: And did you add honey to that meat before you pate it?
 
-Q: Why don't you get your meat ground? Wouldn't that be simpler?
+Q: Why don't you get your meat ground? 
 
-A: Your body makes hydrochloric acid to dissolve larger particles of food to put it into a soup. Then the bacteria infiltrates that and then the bacteria's waste is our nutrients. Listen to me. So if you have ground meat, your body still has to make a lot of hydrochloric acid to dissolve that into a soup. If it's pateed, by the time you finish mixing it and saliva in your mouth, it's the soup. Your body doesn't even have to manufacture hydrochloric acid. Anywhere in the stomach or intestines. I sleep 1 to 1.5 hours less when I pate my foods. When I eat ground meat, I have to still sleep 45 minutes to an hour more. If I take meat and cut it like I eat meat here, I will sleep an extra 2 hours to an hour. Because my body has to make a lot of hydrochloric acid to dissolve that into a soup for the bacteria to eat. So if you want to maximize your time and energy, don't do something you don't have to do. Pate your meat.
+Q: Wouldn't that be simpler?
+
+A: Your body makes hydrochloric acid to dissolve larger particles of food to put it into a soup. Then the bacteria infiltrates that and then the bacteria's waste is our nutrients. 
+
+Q: No I mean if you have -
+
+A: Listen to me. So if you have ground meat, your body still has to make a lot of hydrochloric acid to dissolve that into a soup. If it's pateed, by the time you finish mixing it and saliva in your mouth, it's the soup. Your body doesn't even have to manufacture hydrochloric acid. Anywhere in the stomach or intestines. I sleep 1 to 1.5 hours less when I pate my foods. When I eat ground meat, I have to still sleep 45 minutes to an hour more. If I take meat and cut it like I eat meat here, I will sleep an extra 2 hours to an hour tonight. Because my body has to make a lot of hydrochloric acid to dissolve that into a soup for the bacteria to eat. So if you want to maximize your time and energy, don't do something you don't have to do. Pate your meat.
 
 Q: If you have ground meat, I still pate it.
 
@@ -778,7 +794,7 @@ Q: That's right. So why do you buy this?
 
 A: I buy the chuck and those other cuts because it's sweeter to me. When I have a ground at a store, they use a high compression.
 
-Q: Maryland sells the ground meat.
+Q: Marilyn sells the ground meat.
 
 A: Yeah, and they use a high pressure grinder to make it. It homogenizes some of the fat molecules so it absorbs some of the blood in it and it takes the sweetness away. So when I cut them up like that and put it and pate it all at the same time, that blood and the fat are all dispersed evenly so it tastes a little bit better. And I'll make sauces. I'll make a sauce, one of my favorite sauces. The only problem I have is that it raises my libido. I don't have a girlfriend, so it's a little annoying. I'll get a little horny while I'm sitting there trying to work. But what it is, is you take about two large tomatoes and put them in a slice and put them in a quart jar. And you take one of those whole packages or two of dill. And you don't use the stems, you use mainly the stalks of it. You take the stems and the fronds on it, the tentacles. And you put that in there with, I use about a thin slice of onion, about like this, about this big around. About an eighth of an inch thick, maybe three-thirty seconds of an inch thick. And then I put two cloves of garlic in.
 
@@ -818,7 +834,7 @@ Q: My question is, but it's still not as good.
 
 A: It still doesn't taste as good to me.
 
-Q: Okay, but even if you're pate, you still don't want double ground. You only want single ground.
+Q: Okay, but even if you're pateeing, you still don't want double ground. You only want single ground.
 
 A: Because then you homogenize all the fat.
 
@@ -876,11 +892,9 @@ Q: So, what, do you mean just plain butter would replace that?
 
 A: Put butter in your sauce. Instead of olive oil. Okay. Cathy, do you have a question?
 
-Q: Oh, yeah. That toe of mine is inflamed and swollen in the left one. Here at the end. And I've been putting the hot water bottle out at night. And at daytime, I'm having trouble walking. You know, it's like needles and pins in your foot.
+Q: Oh, yeah. That toe of mine is inflamed and swollen in the left one. Here at the end. And I've been putting the hot water bottle on at night. And at daytime, I'm having trouble walking. You know, it's like needles and pins in your foot. 
 
-Q: Okay.
-
-A: At night, before you go to sleep - 
+A: Okay. At night, before you go to sleep - 
 
 Q: What?
 
@@ -956,13 +970,15 @@ A: Yeah. Anytime you have a problem, it's detoxing. Anytime you have a problem a
 
 Q: So the lime is like in your juice or in your foot. It does just antibacterial.
 
-A: Lime juice will reduce the need for having white blood cells there. See you're thinking ahead of me again. So I wanted to take other people. They're not as smart as you. Okay? So when we have white blood cells, they eat dead red blood cells. They keep the blood clean. Their waste is nutrients. It can be reused in the body. It doesn't even have to dump into the intestines. Anything that a white blood cell, as long as it's organic and pure and natural, the waste can be recycled in the blood. Okay? When your body cannot have, doesn't have the proper bacteria or parasites or fungus in a particular area, you will get pus. Pus is white blood cells leaving the bloodstream, going into an area to eat up dead cells, dead tissue. That's all it is. So that's why your dogs and cats, anytime you're pussing, they'll come over and lick your white blood cells. They know it's good stuff because there's very little toxins in it, but you're losing all these white blood cells. Remember, you reproduce your white blood cells, red white blood cells in the bone marrow, it's a slow process. Plus they have to mature in the bone marrow, and when they mature, they enter the bloodstream. So it isn't like they divide and then all of a sudden go into the bloodstream. They have to mature, so there's only so many red white blood cells that can manifest, that can breed in the bone marrow at a time and mature and get into the system. So there's a limit. So whenever you're losing white blood cells in pus, it's a huge waste. Lime juice coats any toxin so your body doesn't damage cells surrounding cells, so your body has to call in white blood cells to eat them. So what will happen is when the body throws off that toxin to the skin, it'll be a little dry area where you just scratch it off. So instead of having pussy and the big area of the skin which is red and inflamed and pusses, you have a little dryness in that area and you'll just pick off the toxin as it comes out the dry skin. Easy way to do it. Okay?
+A: Lime juice will reduce the need for having white blood cells there. See you're thinking ahead of me again. So I wanted to take other people. They're not as smart as you. Okay? So when we have white blood cells, they eat dead red blood cells. They keep the blood clean. Their waste is nutrients. It can be reused in the body. It doesn't even have to dump into the intestines. Anything that a white blood cell, as long as it's organic and pure and natural, the waste can be recycled in the blood. Okay? When your body cannot have, doesn't have the proper bacteria or parasites or fungus in a particular area, you will get pus. Pus is white blood cells leaving the bloodstream, going into an area to eat up dead cells, dead tissue. That's all it is. So that's why your dogs and cats, anytime you're pussing, they'll come over and lick your white blood cells. They know it's good stuff because there's very little toxins in it, but you're losing all these white blood cells. Remember, you reproduce your white blood cells, red white blood cells in the bone marrow, it's a slow process. Plus they have to mature in the bone marrow, and when they mature, they enter the bloodstream. So it isn't like they divide and then all of a sudden go into the bloodstream. They have to mature, so there's only so many red white blood cells that can manifest, that can breed in the bone marrow at a time and mature and get into the system. So there's a limit. So whenever you're losing white blood cells in pus, it's a huge waste.
+
+Lime juice coats any toxin so your body doesn't damage cells surrounding cells, so your body has to call in white blood cells to eat them. So what will happen is when the body throws off that toxin through the skin, it'll be a little dry area where you just scratch it off. So instead of having pus and the big area of the skin which is red and inflamed and pusses, you have a little dryness in that area and you'll just pick off the toxin as it comes out the dry skin. Easy way to do it. Okay?
 
 Q: So if it's mainly protein deficiency, how come the raspberries and honey works?
 
 A: Because they have a tendency to raise sugar levels and pull out glycogen out of the body.
 
-Q: But it wouldn't be printed as blueberries and honey or some other berries. I mean, it has to be raspberries.
+Q: But it wouldn't be as good with blueberries and honey or some other berries. I mean, it has to be raspberries.
 
 A: It can be any berry. Any berry. But that's just a quick fix. It's not going to remedy your problem. The problem is you're having olive oil with your meat all the time.
 
@@ -994,15 +1010,9 @@ A: Once in a while, you know, maybe two meat meals a week out of, you know, out 
 
 Q: Okay. Thank you. Okay.
 
-A: You're welcome.
+A: You're welcome. Yes. Hi.
 
-Q: Yes.
-
-A: Hi.
-
-Q: Well, I have a question I have. [unintelligible]
-
-Q: I'm going to get upset here.
+Q: Well, I have a question I have. [unintelligible] I'm going to get upset here.
 
 A: It's okay. Be upset. It's a really... Crying is the best thing you can do. It actually transforms toxic hormones, like old toxic adrenaline and hormones that are made poorly out of old toxic stuff from years ago. It actually transforms them into endorphins, which relax and heal the body.
 
@@ -1046,11 +1056,11 @@ Q: Is something like fermented cod liver oil going to help at all?
 
 A: No, that will not. You need to heal yourself. You've already had the damage, scar tissue.
 
-Q: Well, I, well, I don't know. I feel a lot, and I recreated a lot of new neurons.
+Q: Well, I, well, I don't know. I healed a lot, and I recreated a lot of new neurons.
 
 A: Yeah.
 
-Q: And I lost the ones that I took.
+Q: And I lost the ones that I made.
 
 A: No, you just have them blocked. You still have the, you probably still have the trans fatty acids blocking your brain.
 
@@ -1092,13 +1102,11 @@ Q: So, the hot bath, do you have...
 
 Q: There's two places in his book where you can look at that.
 
-A: Yeah, look under food modalities, I mean health modalities, under baths. He talks about it there. But the best thing is to get a hot tub because it's a straight temperature. So, there's no up and down with it. And that really works much faster.
+A: Yeah, look under food modalities, I mean health modalities, under baths. It talks about it there. But the best thing is to get a hot tub because it's a straight temperature. So, there's no up and down with it. And that really works much faster.
 
 Q: You can't get that unless you have to have it someplace to build it.
 
-A: Yes, you do.
-
-Q: If you have a partner, not possible.
+A: Yes, you do. If you have a partner, not possible.
 
 Q: So, in terms of what Jan just said, she had some recovery, and then she stopped eating fish, and she said... She lost some of her apparent recovery. And why would she lose the recovery?
 
@@ -1154,7 +1162,11 @@ A: And only half a teaspoon of vinegar.
 
 Q: Should I, you mentioned last question, cream for the brain. Should I be eating more cream? I'm only having, yeah, should I emphasize the cream in my diet?
 
-A: If you want to rebuild it, if it's clogged, you've got to unclog it. I think your brain is good. I don't think you're having a problem there. You have the blocks, synapse and ganglion. I mean your ganglions and axions are getting full of this plastic, these plastic balls or crystals. And then synapse can't fire. So, hot water bottle on the right side. If you want, you can put one on here and one up here. And then put a towel over it so you can breathe. Leave your nose and mouth out unless you've got a snorkel. Does anybody, here at the last potluck. We had John and Jill from Nevada City. You know how they take their hot tub, get in their hot tub? Snorkel. Put a snorkel. Can you imagine all these years I never thought of that? I had my whole head under my bathtub, I mean my hot tub all those years. And had the snorkel.
+A: If you want to rebuild it, if it's clogged, you've got to unclog it. I think your brain is good. I don't think you're having a problem there. You have the blocks, synapse and ganglion. I mean your ganglions and axions are getting full of this plastic, these plastic balls or crystals. And then synapse can't fire. So, hot water bottle on the right side. If you want, you can put one on here and one up here. And then put a towel over it so you can breathe. Leave your nose and mouth out unless you've got a snorkel. Does anybody, here at the last potluck. We had John and Jill from Nevada City. You know how they take their hot tub, get in their hot tub? 
+
+Q: Snorkel. 
+
+A: Put a snorkel. Can you imagine all these years I never thought of that? I had my whole head under my bathtub, I mean my hot tub all those years. And had the snorkel.
 
 Q: But it's a rubber mouthpiece, right?
 
@@ -1162,7 +1174,7 @@ A: Well, as long as they're cured, that's okay. Rubber's okay. If it's plastic, 
 
 Q: Wow. That's cool.
 
-A: Yeah, it is. I was talking about that. How much faster I could have detoxed it.
+A: Yeah, it is. I never thought about that. How much faster I could have detoxed it.
 
 Q: Your whole face.
 
@@ -1188,15 +1200,19 @@ Q: How long they can be under.
 
 Q: The conversations are very interesting.
 
-A: Well, in my hot tub, I had a, you know, it was a Greek tub, big tub, ten feet in diameter. And then I had an area to sit on here and then the open pit in here. So I would have my feet on the seat over that side and my head on this side. And my body wouldn't be touching anything in between. And I would sleep that way. But my head was always this much underwater. I would just think with the snorkel, it could be all underwater. I just filled the hot tub a little bit more. It would have been great.
+A: Well, in my hot tub, I had a, you know, it was a Greek tub, big tub, ten feet in diameter. And then I had an area to sit on here and then the open pit in here. So I would have my feet on the seat over that side and my head on this side. And my body wouldn't be touching anything in between. And I would sleep that way. But my head was always this much underwater. I would just think with the snorkel, it could be all underwater. I just filled the hot tub a little bit more. It would have been great. Do you have a question? 
 
-Q: Do you have a question? Yeah, if you eat something that's not organic, if you eat lots of fat with it, lots of butter, cream, will that absorb?
+Q: Yeah, if you eat something that's not organic, if you eat lots of fat with it, lots of butter, cream, will that absorb?
 
 A: Some of it.
 
 Q: Not all of it?
 
-A: No, not all of it. Now, there were some laboratories that actually came in about two, three months ago that showed that organic food had five times more pesticides and garbage on it than non-organic food. That means that people are like the Bushes, like who bought, you know, and own Whole Foods, [unintelligible] andd the Bush family of Texas. They are propagandizing. They are poisoning you purposely. They are going out and finding the worst foods, saying they are organic to feed, to destroy those people who have intelligent minds. Remember, when Bush was involved in Nicaragua, El Salvador, and in Cambodia, what did they do? They went around and killed all the professors. Anybody who had intelligence, who could think, they got rid of the thinking class. Now you go to Cambodia, you got a bunch of cowboys who don't have wisdom. There are not many old people there who knew anything. That's a really weird country. You got kids with no sense of wisdom running a country. And all they do is just, they'll do the bidding of anything the American government wants, the CIA, they'll do anything that they want, which means in corporate hands. So, they're dumbing you down. You people who know about organic, they're dumbing you down. So, I don't trust any organic food from Whole Foods. Only thing that I will ever buy from Whole Foods is Gerolsteiner or Apollonaris water, or their all grass-fed beef, because when I taste it, it is all grass-fed. You can't have anything that tastes like venison, except for all grass-fed beef.
+A: No, not all of it. Now, there were some laboratories that actually came in about two, three months ago that showed that organic food had five times more pesticides and garbage on it than non-organic food. 
+
+Q: How could that be?
+
+A: That means that people are like the Bushes, like who bought, you know, and own Whole Foods Trust, the Bass and the Bush family of Texas. They are propagandizing. They are poisoning you purposely. They are going out and finding the worst foods, saying they are organic to feed, to destroy those people who have intelligent minds. Remember, when Bush was involved in Nicaragua, El Salvador, and in Cambodia, what did they do? They went around and killed all the professors. Anybody who had intelligence, who could think, they got rid of the thinking class. Now you go to Cambodia, you got a bunch of cowboys who don't have wisdom. There are not many old people there who knew anything. That's a really weird country. You got kids with no sense of wisdom running a country. And all they do is just, they'll do the bidding of anything the American government wants, the CIA, they'll do anything that they want, which means in corporate hands. So, they're dumbing you down. You people who know about organic, they're dumbing you down. So, I don't trust any organic food from Whole Foods. Only thing that I will ever buy from Whole Foods is Gerolsteiner or Apollonaris water, or their all grass-fed beef, because when I taste it, it is all grass-fed. You can't have anything that tastes like venison, except for all grass-fed beef.
 
 Q: Their cucumbers are okay because it's not wax. I bought the cucumber there.
 
@@ -1226,7 +1242,7 @@ A: I don't trust anything from Whole Foods. I won't shop at a Whole Foods, excep
 
 Q: Are you okay with the New Zealand lamb, if it's in the original package?
 
-A: Well, I called them the New Zealand lamb and it's okay.
+A: Well, I called them about the New Zealand lamb and it's okay.
 
 Q: What about the Icelandic lamb?
 
@@ -1234,7 +1250,7 @@ A: Pardon?
 
 Q: Icelandic, they actually have lamb from Iceland of all places.
 
-A: Really? I haven't called about that, so... I would check everything, Nick. I would check absolutely everything. And then their whole natural beef, they feed it 25% donuts, bakery waste. When they first came out, when I talked with Lubbock, where their offices were in Texas, I got to the man who handles, you know, they don't grow all that, they contract with ranchers, just like I contract with farmers to get our milk. So, Whole Foods contracts with ranchers to provide certain kinds of meats, grown and provided for in the way that they want it done. And to cut costs, they buy this very inexpensive bakery waste, which are donuts. And they were feeding it at that time, when they first opened, 15% bakery waste. Now it's 25% bakery waste. And I said, wait a minute, cows don't eat donuts. They'll fry them and [unintelligible] fatty acids and eat them. Oh, but they eat the grains.
+A: Really? I haven't called about that, so... I would check everything, Nick. I would check absolutely everything. And then their whole natural beef, they feed it 25% donuts, bakery waste. When they first came out, when I talked with Lubbock, where their offices were in Texas, I got to the man who handles, you know, they don't grow all that, they contract with ranchers, just like I contract with farmers to get our milk. So, Whole Foods contracts with ranchers to provide certain kinds of meats, grown and provided for in the way that they want it done. And to cut costs, they buy this very inexpensive bakery waste, which are donuts. And they were feeding it at that time, when they first opened, 15% bakery waste. Now it's 25% bakery waste. And I said, wait a minute, cows don't eat donuts. They'll fry them in fatty acids and eat them. Oh, but they eat the grains.
 
 Q: Oh, gosh.
 
@@ -1270,7 +1286,7 @@ A: Everything. Like I said, we don't eat much produce.
 
 Q: I mean for celery or lettuce, cilantro.
 
-A: I can say, go to these other ones. You go to Erewhon. I've known the people of Erewhon for 32 years.
+A: Like I say, go to these other ones. You go to Erewhon. I've known the people of Erewhon for 32 years.
 
 Q: There's new owners there now.
 
@@ -1278,13 +1294,13 @@ A: Yeah, but they sold it. But Teddy's still there and Alan's still there. And I
 
 Q: You said the fat will absorb some. Now some, do you mean quarter, half, three quarters?
 
-A: Depends on how much concentrated the poisons are. Like if you've got five times the pesticides normal that are in commercial, in your organic, you can eat probably five tablespoons of butter with a half a pint of berries and not clear it all. If you have cheese with it, you're likely to clear it all.
+A: Depends on how concentrated the poisons are. Like if you've got five times the pesticides normal that are in commercial, in your organic, you can eat probably five tablespoons of butter with a half a pint of berries and not clear it all. If you have cheese with it, you're likely to clear it all.
 
 Q: Oh really?
 
 A: Cheese and butter, cheese and cream.
 
-Q: So that would be good like for an emergency. Let's say you couldn't get grass fed. Oh, you could, you know, you had a shop at Ralph's. So you have cheese and butter with that meat.
+Q: So that would be good like for an emergency. Let's say you couldn't get grass fed. Oh, you could, you know, you had to shop at Ralph's. So you have cheese and butter with that meat.
 
 A: Yeah, but you have to understand that those toxins have caused mutant genes in that meat. So, not the best thing in the world. I always say you need to cut meat up and store it. Lewis has started to make a storage of meats. What you do is cut them up. I dry them for 30 minutes on each side. That's four sides, you know, in the sun, 30 minutes on each side just to seal it, seal the blood in. And then I coat it with olive oil and stick it in a quart jar or a half gallon jar with maybe a cup, cup and a half of olive oil. I stuff the meat down in there tightly and then of course the olive oil will go up to a certain point then I'm going to stuff more meat in. I'll put more olive oil. So I've got about this much olive oil covering the top of the meat and then still this much air space, about half inch to three quarters of an inch because it's going to out gas a little bit. And when you see the top bending, bowing, you let that gas out and put it back on. And usually you only have to do that two times. I kept meat that way for 10 years. And I had 10 of them that I made and each year I took out, it was for the, you know, Y2K. I knew, I was a programmer, so I knew that Y2K was just a money scam. You know, trashing computers. No, it would just make a lot of your figures bad. You know, as it changes dates, but it's not going to destroy anything, not going to create a bank catastrophe or anything. So these programmers made billions of dollars, including, what was this, that guy who ran for president from Texas, Perot, yeah. He made billions off of that. Because he had programming systems, you know. Oh, we'll save you, you know. So he charges 10 times more than normal because we've got a disaster coming. So they made a bunch. Anyway, I made these jars and took out one a year to see how it tasted. It was wonderful.
 
@@ -1310,7 +1326,7 @@ A: Yeah.
 
 Q: It's like... Is that something similar to what you're describing?
 
-A: No, no, that's an entirely different way of keeping it, but you still have to keep it in the refrigerator. I do keep mine like that. When I pate it, I keep it in the refrigerator. When you're storing a lot for emergency purposes, you're not going to have a refrigerator when electricity goes out. You have to eat something that's going to store meat without refrigeration.
+A: No, no, that's an entirely different way of keeping it, but you still have to keep it in the refrigerator. I do keep mine like that. When I pate it, I keep it in the refrigerator. When you're storing a lot for emergency purposes, you're not going to have a refrigerator when electricity goes out. You have to eat something that's going to store meat without refrigeration. 
 
 Q: Could you pate it and then just cover that with a thin layer of olive oil?
 
@@ -1326,7 +1342,7 @@ A: Yeah, a basting brush.
 
 Q: What is it made out of? Not nylon?
 
-A: Well, they have some that are made out of boar's bristle. I don't know if you can still get them. I have one that's made out of that. You can get boar bristles, you can get those vegetable scrubs, and just brush it on with that.
+A: Well, they have some that are made out of boar's bristle. I don't know if you can still get them. I have one that's made out of that. If you can't get boar bristles, you can get those vegetable scrubs, and just brush it on with that.
 
 Q: How long will you let it sit out in the sun?
 
@@ -1362,7 +1378,9 @@ A: No, let's go over this again. After you have the meat meal, twenty-five minut
 
 Q: I've had a rash, as you know, on my legs for a long time. It seems to be getting a little bit worse. I use egg white, butter, and bone marrow. I don't know how the egg white is treated, like a burn, butter, and bone marrow. It's pretty itching. It lets me sleep at night. It's been two years now.
 
-A: You just have to remember that you've got toxins coming out of that skin constantly, either from your joints or from the bone itself, discharging in that place. Now I will experiment with my advanced cancer patients when they come to me. So I had this woman, and they had the same thing like that, but around her breast. And it was half gone. Now I saw it yesterday, and it was starting to grow back, the actual breast. First time I've seen a breast starting to grow back, and it was already collapsing from the body, breaking down the cancers in there and dissolving it. So her whole breast, and I told her that I'm used to people losing a breast, you know, naturally, so they don't lose all their lymphatic glands around, and it'll keep them from having lung cancer. But her breast actually started growing back, but what started it was, I told her to start packing it with cheese, taking a little cheese and milk and mashing it, getting it to a paste and put the cheese over it. Stopped all the bleeding, stopped all that deterioration, and started a healing effect. So that doesn't mean that she's not going to have trouble later, because she still has to get rid of the dead cells that make up the tumor. She still has some hardened tumor over here. All the tumor up here is all gone. It's just soft and breast again. Now there's just a little bit down here, so she stopped it from secreting. Now it may go inside her or grow down this way, you know, the cancer moving. And I warned her that that might happen, but she just panicked. So that was a quick fix, so she wouldn't run to the doctor and have her whole breast cut off and all of her lymph glands and all of that. She'd probably died in about six years. And that breast and the tumor should have been absolutely gargantuous according to the medical profession, but each year it's been getting softer and smaller. So she's been hit. But when it started leaking and bleeding a lot, and that's a sign that the cancer cells are actually dying, they contain like a solvent product that dissolves the dead cells. You only have one cancer cell around 50 to 200 dead cells. It's isolated. But you do have blood and lymph and neurological circulation in a malignant tumor, not in a benign tumor. There's no circulation in a benign tumor. It's a dead substance. You're not going to eliminate it easily. But when you have all the circulations into it, you can dissolve a tumor. You can restore the body to a working, functional, living system again. When you have a benign tumor, it's not living. The whole area is completely dead. So when that cancer cell begins dying and setting out that solvent to dissolve those dead cells, the serum's got to go somewhere. You don't want it to go inside. You want it to come out to the skin. It's going to damage skin. It's going to buckle in. It's going to cause it to be sore and other things, but you will discharge it that way. But I was very pleased with the process. But I let her know that that was a quick fix. Seeps again. Enjoy the seep. That's the cancer cells dissolving all those dead cells that make up 90% of the tumor.
+A: You just have to remember that you've got toxins coming out of that skin constantly, either from your joints or from the bone itself, discharging in that place. Now I will experiment with my advanced cancer patients when they come to me. So I had this woman, and they had the same thing like that, but around her breast. And it was half gone. Now I saw it yesterday, and it was starting to grow back, the actual breast. First time I've seen a breast starting to grow back, and it was already collapsing from the body breaking down the cancers in there and dissolving it. So her whole breast, and I told her that I'm used to people losing a breast, you know, naturally, so they don't lose all their lymphatic glands around, and it'll keep them from having lung cancer. But her breast actually started growing back, but what started it was, I told her to start packing it with cheese, taking a little cheese and milk and mashing it, getting it to a paste and put the cheese over it. Stopped all the bleeding, stopped all that deterioration, and started a healing effect. So that doesn't mean that she's not going to have trouble later, because she still has to get rid of the dead cells that make up the tumor. She still has some hardened tumor over here. All the tumor up here is all gone. It's just soft and breast again. Now there's just a little bit down here, so she stopped it from secreting. Now it may go inside her or grow down this way, you know, the cancer moving. And I warned her that that might happen, but she just panicked. 
+
+So that was a quick fix, so she wouldn't run to the doctor and have her whole breast cut off and all of her lymph glands and all of that. She'd probably died in about six years. And that breast and the tumor should have been absolutely gargantuous according to the medical profession, but each year it's been getting softer and smaller. So she's been hit. But when it started leaking and bleeding a lot, and that's a sign that the cancer cells are actually dying, they contain like a solvent product that dissolves the dead cells. You only have one cancer cell around 50 to 200 dead cells. It's isolated. But you do have blood and lymph and neurological circulation in a malignant tumor, not in a benign tumor. There's no circulation in a benign tumor. It's a dead substance. You're not going to eliminate it easily. But when you have all the circulations into it, you can dissolve a tumor. You can restore the body to a working, functional, living system again. When you have a benign tumor, it's not living. The whole area is completely dead. So when that cancer cell begins dying and setting out that solvent to dissolve those dead cells, the serum's got to go somewhere. You don't want it to go inside. You want it to come out to the skin. It's going to damage skin. It's going to buckle in. It's going to cause it to be sore and other things, but you will discharge it that way. But I was very pleased with the process. But I let her know that that was a quick fix. If it seeps again, enjoy the seep. That's the cancer cells dissolving all those dead cells that make up 90% of the tumor.
 
 Q: People were just leaving a long...
 
@@ -1404,9 +1422,7 @@ Q: Oh, I see. Well, let me tell you, on shingles, I had like a patch, just almos
 
 Q: You mean you ate a banana or you rubbed it?
 
-Q: I ate a banana.
-
-Q: I mean, [unintelligible] honey, and I was like, you know, a great day, you know, to eat a banana.
+Q: I ate a banana. I mean, I loaded it with honey, and I was like, you know, a great day, you know, to eat a banana.
 
 Q: That's medicine.
 
@@ -1432,25 +1448,19 @@ A: That's my bag.
 
 Q: I was just going to ask you something. With the cancer, if people just leave it alone, won't it just go away? It won't bother you. It's the medical tradition that's been affecting the cancer rate.
 
-A: According to Harvin B. Jones, 76% of the cancer that he observed went away on its own, but the other 23% didn't.
+A: According to Hardin B. Jones, 76% of the cancer that he observed went away on its own, but the other 23% didn't.
 
 Q: That was years ago, right?
 
 A: That was in the 50s. Yeah, so 60s. Straight from the cow, unrefrigerated.
 
-Q: Where did you get it? Was it [unintelligible]?
+Q: Where did you get it? Was it when you were in Cincinnati?
 
-A: No, I got a guy that I turned on in his retirement. He became a farmer.
-
-Q: That's not retirement.
-
-A: So I got it right from him, this cow, in Ohio.
+A: No, I got a guy that I turned on in his retirement. He became a farmer. That's not retirement. So I got it right from him, this cow, in Ohio.
 
 Q: Wow.
 
-Q: There's a lot of fat in that one. You can see it.
-
-Q: How creamy.
+Q: There's a lot of fat in that one. You can see it. How creamy.
 
 Q: He has Jersey cows?
 
@@ -1470,7 +1480,7 @@ A: She said she had a tooth pulled because it cracked. She didn't want a root ca
 
 Q: It had abscess.
 
-A: Abscess is just the nerve cleaning out around the tooth. It's not the tooth itself. So, anyway, she said she keeps having in the morning a little bit of pink seepage, which means she has some splinter of bone, of tooth still in there. I had the same thing last year. I had a tooth that came loose back here, and I had a root canal done on it probably 1978. And, of course, Vivian is one of Paul and any tooth that's got a root canal. Root canals are not bad. It's the poisons that go in, especially the injections that they give, xylocaine and novocaine. They create a tremendous amount of tongue and jaw cancer, facial cancer, eye cancer, brain cancer. So, they'll hook you into this crap believing that root canals are not good. When a root canal is done, there's no nerve in it. So, your body is not going to be dumping any toxins into that tooth. So, the whole idea that you're going to have a toxic tooth because you have a root canal is absurd. You may get an abscess around it, but that's the nerve from the brain going down to the tooth base. It's still cleaning. Only it's not cleaning through the tooth anymore. It's cleaning out the gum and around the gum. So, you get abscesses. So, anyway, I got an abscess because this tooth was ready to be removed. It was in my way because I was constantly chewing, you know, and just getting gnarled in there and hurt. So, I just took some dental floss and wrapped it around and yanked it out. That took care of it. But I had a bone fragment that came passed out in the next six months. And I could feel it poking and poking. mAnd my body just worked its way out to the point where I just took a tweezers and popped it out. And it was a good probably three thirty-sexths of an inch long and about a thirty-sexths of an inch thick.
+A: Abscess is just the nerve cleaning out around the tooth. It's not the tooth itself. So, anyway, she said she keeps having in the morning a little bit of pink seepage, which means she has some splinter of bone, of tooth still in there. I had the same thing last year. I had a tooth that came loose back here, and I had a root canal done on it probably 1978. And, of course, the Dentist wanted to pull any tooth that's got a root canal. Root canals are not bad. It's the poisons that go in, especially the injections that they give, xylocaine and novocaine. They create a tremendous amount of tongue and jaw cancer, facial cancer, eye cancer, brain cancer. So, they'll hook you into this crap believing that root canals are not good. When a root canal is done, there's no nerve in it. So, your body is not going to be dumping any toxins into that tooth. So, the whole idea that you're going to have a toxic tooth because you have a root canal is absurd. You may get an abscess around it, but that's the nerve from the brain going down to the tooth base. It's still cleaning. Only it's not cleaning through the tooth anymore. It's cleaning out the gum and around the gum. So, you get abscesses. So, anyway, I got an abscess because this tooth was ready to be removed. It was in my way because I was constantly chewing, you know, and just getting gnarled in there and hurt. So, I just took some dental floss and wrapped it around and yanked it out. That took care of it. But I had a bone fragment that came passed out in the next six months. And I could feel it poking and poking. And my body just worked its way out to the point where I just took a tweezers and popped it out. And it was a good probably three thirty-sixths of an inch long and about a thirty-sixths of an inch thick.
 
 Q: You put a bone graft in. That's not good.
 
@@ -1482,7 +1492,7 @@ A: Your body may have a chip that it's trying to throw out.
 
 Q: Okay. So, is there anything I should have him do or just leave it?
 
-A: Just let it go because it'll just shoot you with more Novocaine.
+A: Just let it go because they'll just shoot you with more Novocaine.
 
 Q: Yeah.
 
@@ -1510,11 +1520,11 @@ Q: You'd have a door you'd slam too or something, right?
 
 A: I didn't trust that door. You never know what angle. With this I could just pull like this and I knew it was going up and out.
 
-Q: I found needle nose fire useful at least for small teeth.
+Q: I found needle nose pliers useful at least for small teeth.
 
 Q: Just watch all that [unintelligible].
 
-Q: Three [unintelligible] have great videos doing this. We have plenty of documents on this.
+Q: Three Stooges have great videos doing this. We have plenty of doctors on this.
 
 Q: I'm going to ask you a question about this tooth. This is a veneer. I really want it to stay. He's a biological dentist. He says there's a root canal that almost never gets infected because it's made with something called MTA and he really claims that this is what he wants to do to take that infection out. I can feel it way up here. It's like my whole head.
 
@@ -1584,7 +1594,7 @@ Q: Two pounds a day.
 
 Q: Two pounds a day. Okay.
 
-A: Yeah. And take you, you know, it depends on how much you work out, how quickly you will build the muscle. But I've seen it happen in five months. Like I said, Larry Luckey put four inches on his arms and six in his chest in five months.
+A: Yeah. And take you, you know, it depends on how much you work out, how quickly you will build the muscle. But I've seen it happen in five months. Like I said, Larry Lucky put four inches on his arms and six in his chest in five months.
 
 Q: Wow.
 
@@ -1600,13 +1610,13 @@ Q: Yeah, eyes like that and the mouth like that.
 
 A: Stroke.
 
-Q: Why do you recommend it?
+Q: What do you recommend for it?
 
 A: Well, I say in the book, but also, you know, she can eat vinegar, it's very helpful to clean the system out. Because if you have a stroke, you either have a bleeding of the brain, so the brain doesn't get nutrients and it fills up and swells in the brain. That usually causes death. So if she isn't dead, then what she had was a block in her brain. And depending on what the block was, was it mineral buildup or was it trans fatty acids? Either way, vinegar will help remove that. 
 
-Q: And water, bottle of water?
+Q: And water, hot bottle of water?
 
-A: Pardon? Oh, hot water bottle, absolutely. Always hot water bottle, not an injury and pain.
+A: Pardon? Oh, hot water bottle, absolutely. Always hot water bottle, on an injury and pain.
 
 Q: Thank you.
 
@@ -1680,7 +1690,7 @@ A: No, it doesn't have to. It depends upon the size of the tomatoes and stuff. I
 
 Q: So you don't worry about oxygenation with that?
 
-A: No. No, because I use it the [unintelligible] and, you know, sits there in the refrigerator or outside the refrigerator.
+A: No. No, because I use the hard whey and, you know, sits there in the refrigerator or outside the refrigerator.
 
 Q: Yeah, blending it in too.
 
@@ -1692,6 +1702,6 @@ A: Well, it seems to last great.
 
 Q: I'm married, so I don't have to worry about that.
 
-A: What time does it vote?
+A: What time is it folks?
 
 Q: Oh, it's time.

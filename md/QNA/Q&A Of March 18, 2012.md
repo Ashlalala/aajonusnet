@@ -1,3149 +1,2777 @@
-(1) A1 Vs A2 Milk Is Real, Dont Feed Rice Bran, Caused Bitter, Org Pastures
-[2012],[Attendee]
+Aajonus.net & Rawmeatgang
 
-What about this a1, a2 thing
+A: And those permits, no written permit, only permission verbally. And the guy who was in charge of Malibu at the time said I gave them permission. But because it wasn't written in writing, they said, well, [unintelligible]. Okay.
 
-[Aajonus]
+Q: Oh, start with her.
 
-Well, I haven't found anything in my experiments with people on this diet, haven't found any difference?
+Q: So yeah, so I want to lose some weight, and I, you know, I kind of always dream of my own thing anyway. But I'm thinking that you haven't gone on a down diet in a long time, and what's a good way to do it? And can you kind of alternate, so you're kind of between a down diet and a regular? So you don't, like, say you want to go three days down diet and eat a little bit more, and you alternate.
 
-But when I'm living just on like two or three foods, I do notice the difference.
+A: Three days won't do it. You have to go on a four-day.
 
-[Attendee]
+Q: Oh, so tell me the whole sequence of what you would suggest. Now, do you have different variations as well? Because I heard you say different things to people, so.
 
-Well, what's the a1 doing.
+A: Yeah, it depends on the individual, how they digest, what their system is like.
 
-[Aajonus]
+Q: So what would you suggest for me versus a general down diet? And then maybe for myself, knowing what you would suggest.
 
-A1, I will have less energy from?
+A: Well, I usually don't do that personal stuff, but we don't have many people, so I'll do it.
 
-A2, I have more energy.
+Q: Okay.
 
-[Attendee #2]
+A: First of all, wake in the morning, just make sure you've got the poisons out, because I know you had medication a few years ago. So I'd some cheese first, a tablespoon of cheese. And probably only a pea-sized amount of honey with it, and a bean-sized amount of butter. Put the butter and the honey together. It's a very small amount. Don't put the honey with the cheese directly, the honey goes with the butter. And then you eat that, so you have about a half a teaspoon of butter and honey mixture. And then have that with a tablespoon, one to one-and-a-half tablespoons of cheese to absorb the poison.
 
-What does that mean.
+Q: That much cheese?
 
-I don't know what A1 and A2 means?
+A: Yeah, one-and-a-half.
 
-[Aajonus]
+Q: So first, a little cheese.
 
-It's a certain kind of genetic makeup that builds the milk.
+A: If you're not going to digest it... 
 
-There are certain chemicals that are produced in A2 cows that are not produced A1 cows?
+Q: Now, when you do the honey and the honey-butter with the cheese, don't you digest it at all?
 
-Well, it's just because some cows have been crossbred and it's caused a problem.
+A: No, because the honey is so little honey, you're only having a pea-sized amount of honey, and it'll be mixed in the bean-sized amount of butter. So it's going to be reacting with the butter. That's just to keep you from getting constipated.
 
-Your jerseys, most of them are A2.
+Q: Oh, okay.
 
-Holsteins are usually A1.
+A: If you're going to do this diet, weight loss with the eggs and everything.
 
-[Attendee #2]
+Q: I'm going to do the eggs, though.
 
-What does Eli have.
+Q: If you eat the butter...
 
-[Aajonus]
+A: But then you may have a big problem.
 
-He has both, but they're all moving to a A2's?
+Q: I've already started, and I'm not having problems.
 
-[Attendee #3]
+A: But are you losing weight? Because usually you won't lose weight if you don't eat eggs.
 
-What about that Organic Pastures milk.
+Q: I don't know, it's three days. I lost a couple of pounds.
 
-[Aajonus]
+A: Good. It's working.
 
-I don't trust Mark as far as I can say?
+Q: But that half teaspoon of butter, honey...
 
-There was a few years when he was feeding them organic rice bran.
+A: I said a quarter teaspoon of butter. An eighth of a teaspoon of honey.
 
-You can't feed organic rice bran because once the brand has been processed with steam to get it off of the rice, it's processed and bran is not a complete food.
+Q: No, but the thing is, that combination of the butter and honey, if you're going to eat that with the cheese, isn't that going to still...
 
-[Attendee #2]
+A: The honey has to react with the cheese. If the honey is in the butter, it's not going to react with the cheese.
 
-I remember that.
+Q: So then that's your first thing you do in the morning?
 
-It was awful a couple times.
+A: Yeah. And then about 15, 20 minutes after that, have a golf ball size of meat. And if you want to make sure you lose the weight, and you absorb all of the meat, then pate the meat.
 
-[Aajonus]
+Q: So what about thinly sliced, that won't do? You have to really grind it down?
 
-Because you got gibberellic acid in the bran.
+A: You're going to have to produce a lot of hydrochloric acid. It's going to take your energy away from burning fat. Because all you need once it's pated is the bacteria to eat the meat.
 
-[Attendee #3]
+Q: On your gut?
 
-What's that.
+A: Yeah.
 
-[Aajonus]
+Q: What if you're kind of acidic? Is there a problem if you're a little acidic and you're doing a down diet? You're not doing too much [unintelligible] or anything like that?
 
-Gibberellic acid is an acid, it's a fatty acid?
+A: Well, because you're eating very little. You're not going to get over acidic if you're eating very little. And I think the sport drink is a good thing to drink. You can sip on it all day long.
 
-It's an ester in the bran that causes swelling.
+Q: What about the honey?
 
-They extract it from rice bran to give to grapes and other plants to make them big and swollen.
+A: Well, you just cut the honey down to a tablespoon, instead of two or more. And you lower the coconut cream to one tablespoon, the dairy cream to one tablespoon. But you still put the eggs in it, two to three eggs.
 
-But that causes swelling of the brain, swelling a lot of people's systems.
+Q: That's one thing I was wondering. Previously on the down diet, we had no dairy. But now if you do this, you can have small amounts of dairy throughout the day. Because I'm kind of modifying it. It's what I want to do so that I don't get so estranged.
 
-And it's really bitter and nasty tasting when the ester that are really bitter aren't removed and usually they remove them and it's even more toxic cause they use kerosene to do that.
+A: Well, I've always told people to have a half a cup of milk before you go to sleep.
 
-So, when the gibberellic acid in the bran is digested by the cow, it doesn't break down that that bitter ester.
+Q: On the down diet?
 
-[Attendee #3],[Aajonus]
+A: Yeah, it's in the book.
 
-And so when you drink Organic Pasture's milk, your brain is-
+Q: Yeah, it's in the book as far as at the end of the day.
 
-They don't do it anymore.
+A: I mean, I also say sip milk throughout the day, but just don't drink a lot at one time.
 
-I came down on on Mark pretty hard for it.
+Q: [unintelligible]
 
-[Attendee #3]
+A: Then about every, let's say, hour you have maybe a large marble-sized, if you don't have the eggs, you have a large marble-sized amount of meat every hour.
 
-And what's he been doing presently.
+Q: [unintelligible]
 
-[Aajonus]
+A: If you're doing the eggs, have an egg every hour. Well, you need the meat. If you're having a small amount of meat, you need it all day long, a small amount all day long. So you have an egg one hour or every hour and a half. You wait till you're hungry. On the down diet, you wait till you're hungry. Normally, I never wait till I'm hungry.
 
-I don't know what he is doing?
+Q: I was going to say, I'm not used to that, so just go ahead and do that. So what if you don't have it for three hours?
 
-That's why I say, I don't trust the man.
+A: Well, three hours is okay. You don't go over five.
 
-He was saying organic, organic, organic and he was feeding them non-organic substances for two years.
+Q: And if you're working out on the down diet?
 
-That was way back in 2003 and 2004.
+A: That's fine. Just sport drink. Maybe just sip your sport drink.
 
-[Attendee #3]
+Q: [unintelligible]
 
-How long it take for something like that to go out of the animal system?
+A: Well, the book is regimented with bigger golf ball sizes of meat or meatball sizes of meat four to five times a day. And you're having juice. But I found that juice makes people too hungry. I think just eggs and meat and a little bit of milk and sport drink is the way to go. But you wait till you're hungry each time.
 
-[Aajonus]
+Q: What if you like the juice. Can you still do it?
 
-Well, out of the milk, it would take about 20, 25 days?
+A: Well, it's going to make you hungrier. But you may need it. You may need the green juice. I would just cut it down to four ounces at a time.
 
-[Attendee #2]
+Q: Why do you need the green juice?
 
-Do you trust Claravale.
+A: Some people may need it because they're over acidic.
 
-[Aajonus]
+Q: I think when I do this, I like doing beef meat balls with a little syrup because the beef gives you energy on the down diet. [unintelligible] Can you do all beef?
 
-As you can see, I'm drinking out of their bottle, but this is the milk from Pennsylvania, the Amish milk?
+A: You need just the opposite. Red meat makes you sleepy, on the down diet.
 
-[Attendee #2]
+Q: Why is that? [unintelligible]
 
-What they delivered to your house in California from Pennsylvania.
+A: I don't know. It didn't used to be that way.
 
-[Aajonus]
+Q: Do you just eat beef then?
 
-Yeah.
+A: Oh, I eat mainly beef, except when I'm in the Philippines. Then I mainly eat fish because I'm right there on the ocean.
 
-We have a truck that brings it to us.
+Q: Why does green juice make you hungry?
 
-We're a buying club.
+Q: Can you still eat half white and red meat?
 
-No one in Santa.
+A: Yeah, you can do that. Well, that's for people who are just getting on the diet. People who are doing the diet for a little time. It's better. I mean, there's a better balance. But my body's pretty clean except for those injections. So I can go on [unintelligible] meat. It's just that if I'm on a down diet and I eat the red meat, I get sleepy.
 
-Rawsome was closed?
+Q: I don't know. I've been repulsed by chicken about a year or two now. That's all I ate before. So I don't know. Do you think the quality of chicken? I don't know if it's the quality, [unintelligible].
 
-This is a private one.
+A: Almost all your chickens are fed, all processed.
 
-[Attendee #2]
+Q: [unintelligible]
 
-But this is the food, the milk that, all the food that's coming from Pennsylvania.
+Q: Why does the green juice make you hungry?
 
-[Aajonus]
+A: Well, it provides enzymes for digestive acids and juices. And then the body looks for food to digest.
 
-Yeah.
+Q: So, stay on that four days, what'd you say to lose weight?
 
-[Attendee #2]
+A: You have to stay on it four days in a row to be consistent with it. And then you can take three days off on something else. But you'll gain a lot of it back fast if you only do three days.
 
-Is that private.
+Q: How much weight can you lose [unintelligible]? So what's that on this? Can you kind of accelerate weight loss if you keep going? If you want to lose 20 pounds, how long? [unintelligible] Just go for 30 days straight on the down diet?
 
-[Aajonus]
+A: That's fine That's what I do.
 
-You can't go there and buy anything, you have to order online and then you go pick it up?
+Q: [unintelligible]
 
-There's a pickup place.
+Q: Just get rid of it.
 
-[Attendee #3]
+Q: [unintelligible]. But if you feel like you're getting too intense detox, you can go back.
 
-Also, the people that are doing this co-op, they're trying to minimize attention so the authorities don't get involved.
+A: I would go back onto a regular diet if I didn't feel well.
 
-So if you join 'em, you have to be recommended because the word goes out and they could easily get busted, so there's a lot of precautions being taken.
+Q: So how long would it take to lose weight? How much weight can you lose on this on a week? You don't know?
 
-[Attendee #2]
+A: No, if I can lose probably 8 to 10 pounds a week. 
 
-But there's a delivery down here on Saturday afternoon.
+Q: On the down diet, yeah.
 
-[Aajonus]
+A: Yeah. Other people don't lose as much fat.
 
-Every two weeks.
+Q: What?
 
-.
+A; Because they aren't as healthy as I am.
 
-(2) Aajonus Body Fat, Body Fat Testing, Cooked Fat
-(3) Activity Rings, Damage From Vegeatarianism
-[2012],[Aajonus]
+Q: So if you have toxic fat, like I know there's cellulite now that [unintelligible]. I never saw it before, like you said, it came pushed out through the outside. That doesn't make you sick when you're coming on the down diet. And all the toxins are going to get released now, right?
 
-I you have a lot of activity rings in your eyes, that means you produce a lot of testosterone, estrogen, and adrenaline for physical activity
+A: Well, they come through the skin, so you may have rashes and hives, pimples and things like that.
 
-[Attendee]
+Q: So is that how you get rid of the cellulite, essentially? [unintelligible]
 
-I have like 5 - 7 of those.
+A: Well, to get rid of cellulite, cellulite is old fat that is bound with toxins. And it hardens, it dehydrates because it's... it's very toxic fats, heavy fats. So it hardens and hardens. Then when you get rid of it, the new fats come in and it causes it to swell up again. Gradually or quickly. And then you'll see big clumps instead of small ones. That's when the body starts dissolving it. Then you have to pass it through the skin.
 
-[Attendee #2]
+Q: Pass it through the skin?
 
-She's only got 5 - 7.
+A: Right.
 
-I think I had 11.
+Q: Does it break down into a liquid?
 
-[Attendee]
+A: Yes, it does. That's why you have to have a hot bath.
 
-Oh, did you.
+Q: That's how you get rid of the cellulite.
 
-Sometimes I feel energetic and that's a lot?
+A: That's how you get rid of all the waste.
 
-[Aajonus]
+Q: Right.
 
-Well, no, you won't change.
+A: 90% of the waste, the lymph system dumps under the skin to be perspired out of the body. 90%.
 
-You have that same amount, but sometimes you'll have the energy and the physical ability to be naturally 6 or 7 activity rings.
+Q: Yes, and without the bath, your urine and feces doesn't get rid of it.
 
-[Attendee #2]
+A: Very small. You're not getting rid of it. Well, it will help dump stuff out of the liver, the pancreas, the gallbladder, the spleen, the kidneys.
 
-If a person has activity rings, but they're not very robust and and more on the depressed side, like low energy.
+Q: The bath?
 
-What does that mean.
+A: No, no, no.
 
-[Aajonus]
+Q: The gut.
 
-It means you were a vegetarian?
+A: Out of the bladder, out of the urine, and then out of the intestinal tract. You know, a lot of toxins just in the intestines can move that way. But normally, everything else moves out the skin.
 
-No, you fucked up your system.
+Q: The body fat, the muscle, the heart.
 
-It takes a long time to correct it.
+A: Everything is supposed to go out the skin, deep through the skin.
 
-The damage that vegetarianism does to the digestive tract and the whole body is tremendous.
+Q: Hot baths are so valuable.
 
-[Attendee #2]
+A: Very. Especially with all the, you know, hydrogenated vegetable oils and processed food, cereal, donuts and the like.
 
-Well, I did vegetarianism for 10 years.
+Q: You ate donuts?
 
-Because I lived in the tropics: I had coconut every day, I had avocados every day, I had a little bit of salad.
+A: Oh, God, I ate donuts all the time.
 
-But the thing is, it was so hot and I didn't want to cook anymore.
+Q: He was a pig when he was little.
 
-I hated cooking.
+A: Yeah. I just loved those powder cake donuts.
 
-But, that was it.
+Q: Really?
 
-You know, I didn't need anything.
+A: I'd go through boxes.
 
-I had coconut every day.
+Q: Oh, my God.
 
-[Aajonus]
+Q: And he wasn't born on the primal diet?
 
-Still not enough protein, coconuts, only 15% protein.
+A: No. I was supposed to die at 21. I was very sickly.
 
-[Attendee #2]
+Q: Did you gain your weight back after these injections? Now you look pretty good.
 
-I had coconuts every day, the jelly kind.
+A: Oh, I did.
 
-I had avocado.
+Q: Better.
 
-[Aajonus]
+Q: Do you have your weight back?
 
-Damages the whole digestive tract and all the energy system.
+A: Not quite as much as I want. Before I left, when was it? I left October 18th. When I left October 18th, I was up to 192 pounds.
 
-You weren't getting enough protein.
+Q: Oh, my God.
 
-[Attendee #2]
+A: Now I'm only 182. So I was 10 pounds more when I left last time. But I'm putting it back now.
 
-So, although mentally there's a lot of activity, the body is in the healing proces, leansing process.
+Q: Yeah, you look great.
 
-So, what do you do to sort of like, assist it?
+A: I didn't go down as much this time. I rationed my butter and drank more milk than I usually do.
 
-[Aajonus]
+Q: What did you get down to after that injection? What did you lose?
 
-Get high meat, high egg, rotten?
+A: I went down to probably 148, 150, way too low. I don't like going to 165, 170.
 
-[Attendee #2]
+Q: How much was your good weight then? I mean, like, you used to usually have three sides to the closet. I probably have five or six.
 
-Oh hell.
+A: I still have three sides.
 
-[Attendee #3]
+Q: Now I have five or six sides.
 
-She won't even take an egg that's not washed.
+A: Yeah.
 
-[Attendee #2]
+Q: It's like I can't keep my clothes, you know. I have everything from a two to a twelve. So what's it?
 
-No, the problem is I'm in the environment where you can't have that because like you'd be thrown out.
+A: Well, when I left, when I was 192 pounds, I had a 36-inch waist. So I've got 34 to 37.
 
-Okay, so high meat and high eggs.
+Q: That's not bad, though. That seems like a normal variance.
 
-[Aajonus]
+A: And then I've got, you know, 32, which will take me up to 33 and down a little bit. Those at 30, and 30 will take me down to, you know, as little as 29 and up to as high as 32.
 
-You're living with people.
+Q: Like, I can't even get jackets on anymore that I have. I mean, I have muscle in my back and my arms, and I don't know if it's muscle or not. And I'm like, what the hell? I've never had that.
 
-[Attendee #2]
+A: Well, the belt size is the size that I really have to have three.
 
-Uh, yeah?
+Q: Well, yeah.
 
-.
+A: On these, you know, I have two different sizes.
 
-(4) Athlets Low Body Fat
-[2012],[Aajonus]
+Q: Yeah, see, this has never changed. So where is weight? Is that part of getting older? Or is that just part of the diet? [unintelligible] Like, you know, I mean, I'm getting weight in my arms and my back.
 
-A lot of these athletes go around with 7% body fat, like your marathon runners, 7% body fat
+A: Well, wherever you have toxins.
 
-That's why they break down in their thirties.
+Q: I mean, sometimes you get up there and I'm like, oh, I'm going to go, okay, put my jacket on. And so I go, okay, I want to lose this. Is that appropriate?
 
-[Attendee]
+A: If your body can melt the fats.
 
-They have a heart attack running.
+Q: And you know that by whether you get really toxic on the down diet. How do you know that the down diet is appropriate then? 
 
-[Aajonus]
+A; Well, you shouldn't have symptoms on the down diet, except for rashes.
 
-They had no cholesterol, all that shit.
+Q: Oh, you don't get nauseated or stuff?
 
-That's what I mean.
+A: No, if you're eating a little bit of cheese.
 
-The doctors are so full of crap.
+Q: You shouldn't, because you are gonna dump toxins when you [unintelligible]
 
-[Attendee #2]
+A: Most of it, if you're taking the hot baths, it's supposed to go out to the skin.
 
-What does cholesterol do for the bod again.
+Q: Okay. Because, see, so many of the detoxes I did before primal diet, were like juice fasting, you know? So you would all get sick the first few days.
 
-[Aajonus]
+A: I'm never a juice faster. I don't tell anybody to juice fast.
 
-Cholesterol is fat: cleans it, protect, it does everything?
+Q: Well, I did that before I met you.
 
-[Attendee #2]
+A: Yeah.
 
-The cholesterol protects the body.
+Q: So that's how I got. So this is the first time I've ever had to lose weight now.
 
-[Aajonus]
+A: Well, what happens on a juice fast is you keep getting lower and lower in fat and protein. Then when you get hungry, you just start overeating and then right back where you were.
 
-Protects the body?
+Q: Well, this is helpful. I appreciate it.
 
-It cleans it, gives it energy.
+A: You're welcome.
 
-Without cholesterols, we wouldn't be alive.
+Q: And how much can you lose?
 
-.
+A: You can lose 20 or 30 pounds.
 
-(5) Butter On Plane
-[2012],[Aajonus]
+Q: You'll be all right, probably, still. Because you're getting rid of the old stuff. That's fine then. You don't have to regain it at the end of the day. How many times do you tell a person has to go up and down?
 
-Without having enough butter and stuff, now I make sure I have enough butter with me
+A: Well, just in the recipe book, I told everybody to do it every six months because a lot of people are paranoid. If they had to wait a long time, they'd start worrying about it every day. But if they know they'd lose it every six months, then they won't worry about it. But I like to tell people who are confident to not worry about it, let it stay on for two and a half years. And then let the body go into a flu and take it off. Don't you force it off. 
 
-I take it up 30 - 50 pounds with me.
+Q: So it's okay also to carry it forever, even if you have to [unintelligible]?
 
-I take it through with me.
+A: Absolutely.
 
-I have a letter from my doctor.
+Q: I guess I thought the purpose of a down diet was to detox yourself.
 
-I tell them, "He's going to Asia.
+A: Yeah, it is. You're going to have certain fats that go by with certain poisons when they're moving out of the body.
 
-He's been diagnosed with cancer.
+Q: These thin guys here, they don't have to think about this stuff. [unintelligible]
 
-The blood, bone, stomach and lymph.
+A: Well, I went back to Asia that last time. I mean, I had holes.
 
-He was diagnosed as diabetic".
+Q: Did you?
 
-This was 40 and 50 years ago see, but it doesn't say that when he was diagnosed.
+A: Oh, I had holes.
 
-[Attendee]
+Q: When was this? I never saw you with holes.
 
-Oh, he got the same letter.
+A: Well, you never saw me sitting without a shirt on.
 
-[Aajonus]
+[laughter]
 
-No, no.
+A: I don't go shirtless or anything like that.
 
-What I'm saying, it's just that he was diagnosed with it, but it doesn't say when.
+Q: Yeah, but you had that washboard belly like about two years ago. You took your shirt off at the potluck.
 
-[Attendee #2]
+A: That's when I'm on my thin side. That's on my thin side, but when I'm on my full side, I'm rolled.
 
-I mean, if they look at you, then they shouldn't believe it.
+Q: You don't look like 180 now.
 
-[Aajonus]
+A: I'm 182.
 
-will go through as if I was, I'll go through limping and crippled.
+Q: So, are you going to do the down diet?
 
-[Attendees],[Attendee #2]
+A: Yeah.
 
-Laughs
+Q: You'll be skin and bones if you go down.
 
-Won't they sell you butter.
+Q: I need to lose at least, you know, 10, 15. I'd say about 15 pounds. So, I'm 150. I'm thinking...
 
-What's wrong with Thai butter?
+A: And how tall are you?
 
-Can you buy butter in Thailand?
+Q: I think I'm 5'5". And I said, whose bottom is that?
 
-[Aajonus]
+Q: Did you say 150?
 
-Yeah, but it's not as good?
+Q: Yeah.
 
-[Attendee #2]
+Q: You're more than me.
 
-No, but won't they tell you that.
+Q: I'm 150 and I think I've been having too much... in my formulas, I've been having too much honey. And I think I need to reduce the honey.
 
-[Aajonus]
+Q: She's got an excuse for the medicines that they caused her.
 
-No, cause they don't know?
+A: 5'5", 140.
 
-They don't know you can get raw butter there.
+Q: [unintelligible]
 
-No, it says on the letter raw butter.
+Q: No, I think it's the honey. I've been eating too much honey.
 
-What kind of cancer do you have.
+A: But I mean, still, 5'5", you shouldn't be under 140.
 
-[Attendee #2]
+Q: Really?
 
-Won't they tell you, you can get raw butter here?
+Q: So, if I'm 5'4", I'm 160 now.
 
-[Aajonus]
+A: You're 140? I mean, you're 5'4"?
 
-No, they don't know because it says in the letter, it's hard to find and get, and they don't provide it on the airplane.
+Q: I used to be 120, I'm 160 now.
 
-So, I take two quarts of milk on with me.
+A: That was too...
 
-When I go to Asia, it says in my doctor's letter, I take up to 50 pounds of butter, I take up to three quarts of milk sometimes, and then I have my honey, I take my meat.
+Q: [unintelligible] So, what's a good weight then?
 
-[Attendee]
+A: For 5'4", about 135.
 
-So, the liquid of milk, you can take that on a plane.
+Q: Yeah, okay.
 
-[Aajonus]
+Q: How much do you need?
 
-No, not unless you have a doctor's letter?
+A: Minimum, minimum.
 
-[Attendee #2]
+Q: That freaks me out. [unintelligible]
 
-On American airplanes, they don't stop you with these stuff.
+Q: I'm about 5'10".
 
-[Aajonus]
+A: For a guy, you should be up to almost 200 pounds.
 
-Not with my letter?
+Q: How much do you weigh?
 
-[Attendee #2]
+Q: 150.
 
-And what about the guy sitting next to you.
+Q: Wow, he's got 50 pounds to go.
 
-[Aajonus]
+Q: But I've never been able to put any weight in my whole life.
 
-don't give a shit.
+A: Yeah, but...
 
-I've taken high meat and eating it right on the airplane.
+Q: What is it about?
 
-Stinky stuff.
+Q: I don't know why.
 
-And there was a biologist that was writing a food contamination paper and I was eating it right in front of her.
+A: Yeah, but on this diet, everybody...
 
-The poor woman, she was like this.
+Q: Are you doing dairy?
 
-She was, she was like this.
+Q: Yeah. I've been doing it, but...
 
-[Attendee #3]
+Q: Yeah, you'll start putting it on.
 
-I wrote my own letter.
+Q: [unintelligible]
 
-Is that okay.
+Q: No, when he gets closer to the 6th and 7th year, he'll start putting it on.
 
-I just said I had cancer?
+Q: Yeah, I mean, at one point...
 
-[Aajonus]
+Q: Because I never put it on, and all of a sudden it's like, I've hit that, and I just put it on now.
 
-No, that's fine.
+Q: It's like when you start digesting it that way. It's not really menopause.
 
-Once in a while, they'll call my doctor.
+A: You start digesting better.
 
-.
+Q: It's not really menopause, like all the women say. It's just you start digesting better.
 
-(6) Cellulite
-[2012],[Attendee]
+Q: Well, that also has a part to play, doesn't it?
 
-How get rid of the cellulite
+Q: Does turning 50 have a part?
 
-[Aajonus]
+Q: Not the 50, just the menopause.
 
-Well, to get rid of cellulite?
+Q: Menopause, and none of that does. [unintelligible]
 
-Cellulite is old fat that is bound with toxin and it hardens.
+A: Well, because they're on a shit diet.
 
-It gets dehydrates cause its very toxic fats, so it hardens and hardens.
+Q: But your metabolic rate slows down too, right?
 
-Then when you get rid of it the new fats come in and it cause it to swell up again gradually or quickly and then you'll see big clumps.
+A: No, they just have so many toxins collecting at that age. When you go into menopause, the body needs to detoxify.
 
-That's when the body starts dissolving it.
+Q: So it holds fat.
 
-Then they have to pass it through the skin.
+A: It keeps collecting the fat because you're not dumping the poisons. You keep going into heat flashes to perspire it out, but those heat flashes don't work very well.
 
-[Attendee]
+Q: Is that what that's for? I thought it's the hormones fluctuating, it's the toxins.
 
-Passes the cellulite through the skin, right wet.
+A: Trying to get rid of the toxins, getting out of the skin.
 
-Does it break down into a liquid.
+Q: So the hormones, though, aren't going to come lower, right? The estrogen's going to drop.
 
-[Aajonus]
+A: Well, that's only, no. You're still building as many. You're making as many. You're just using the fat to attach to the toxins. Because hormones are 60% fat or more. 60% to 80% fat. So your body uses the hormones to bind with the poisons. So you'll find a lower ratio of them in your blood. That doesn't mean you're not making a lot of them. See, they're... They find, oh, it's lower in the blood, therefore your body's not making the hormones, and it's a lot.
 
-Yes?
+Q: Right, so it's in the fat.
 
-That's why you have to have the hot baths.
+A: The body's using them. Because now the liver's breaking down, it's not making the fats properly, to harness with the toxins, to feed the lymphatic system, to clean the body, so the body starts using its hormones for that purpose.
 
-[Attendee]
+Q: Why would the body, in my case, put on weight because of eating the honey?
 
-That's how you get rid of your cellulite.
+A: Well, you're able to digest more food.
 
-[Aajonus]
+Q: I lost you there.
 
-That's how you get rid of all the waste waste.
+A: Digest more food.
 
-90% of the waste, the lymph system dumps under the skin to be perspired out the body, 90%.
+Q: I'm having more honey to digest more food?
 
-Yeah.
+A: Digest more food with honey.
 
-[Attendee]
+Q: Honey's enzymes.
 
-So, without the baths, your urine and feces doesn't get very rid very everything.
+Q: No, but I'm saying, why am I putting weight on by eating the honey?
 
-[Aajonus]
+A: Just what I said, you're digesting more food. You're digesting more fats, everything, to put it on.
 
-No?
+Q: Honey's a digestive enzyme, so it can digest your other food better.
 
-Very small.
+Q: No, but I'm saying, I'm eating extra honey, so I'm putting more weight on?
 
-Well, they'll dump stuff out of the liver, the pancreas, the gallbladder, the spleen, the kidneys, the bladder, out of the urine and then out of the intestinal tract, but normally everything else moves out the skin.
+Q: Not from the honey.
 
-[Attendee]
+Q: Not from the honey? It's not from the honey?
 
-The body fat, the muscle.
+A: You're digesting the other foods better because you're eating so much honey.
 
-[Aajonus]
+Q: I see.
 
-Everything moves out the skin.
+Q: It's an enzyme.
 
-[Attendee]
+Q: Okay. So, if I eat less honey, do you think I'd lose the weight?
 
-Hot baths are so valuable.
+A: Not necessarily.
 
-[Aajonus]
+Q: Not necessarily. Okay. So, the food that I'm eating, I'm using it more, so therefore I'm putting weight on because of the food. Okay.
 
-Very, especially with all the hydrogenated vegetables and processed food we were raised on: cereal, donuts.
+Q: Is that why some people stay so thin?
 
-[Attendee]
+A: A lot of people don't digest their food.
 
-You ate donuts.
+Q: They're proud of being able to eat whatever they want.
 
-[Aajonus]
+A: Just think, if they digested all that food, they'd be huge.
 
-Oh God?
+Q: So, that means that they're passing it out more?
 
-I was donut-oholic.
+Q: You can pass calories, like a person's taking 4,000 calories.
 
-[Attendee #2]
+A: You know how many people don't digest [unintelligible]?
 
-He was a pig when he was little.
+Q: So, where do the calories go then? [unintelligible]
 
-[Aajonus]
+Q: I remember when I was a lot leaner.
 
-I used to love those powder cake donuts and go through boxes.
+A: No, they just pass through. They don't digest the calories.
 
-[Attendee #2]
+Q: I remember when I was a lot leaner, I was always going to the bathroom.
 
-He wasn't born on the primal diet.
+Q: Yeah, me too. I don't go as much anymore.
 
-[Aajonus]
+Q: I don't go as much anymore.
 
-No, that's why I was supposed to die at 21.
+Q: That's actually very nice to think about.
 
-I was very sickly.
+A: When I was a fruitarian vegetarian, I'd go five or six times a day. Now I'm on the diet one time a day, sometimes one time every two days.
 
-[Attendee #3]
+Q: [unintelligible] Or just always having a bowel movement too. Is that part of toxicity? People go every hour.
 
-Did you gain your weight back after these injections.
+A: If they have diarrhea, that's toxicity. If they're going every hour, the body's not digesting their food. Something in their food, like a food coloring or a fragrance that goes into a food to make it smell good, any of those can be highly toxic, causing them to have regular bowel movements several times a day.
 
-Now you look pretty good?
+Q: [unintelligible] So when you start assimilating all of a sudden your food and digestion, is that because the organs are healthy and your enzymes are healthy?
 
-[Aajonus]
+A: Bacteria is high in your intestine.
 
-Oh, I'm better.
+Q: All the bacteria? Any specific bacteria?
 
-[Attendee #3]
+A: All of it.
 
-Do you have your weight back.
+Q: How does the bacteria get high? 
 
-[Aajonus]
+Q: How do you increase it? So now why are we having more bacteria?
 
-Not quite as much as I want?
+A: Because you're not taking all the poisons and also you're eating the cheese regularly. You're absorbing the poisons so you don't damage the colony.
 
-When I left October 18th, I was 192 pounds, now I'm only 182, so I was 10 pounds more when I left last, but I'm putting it back on.
+Q: In that class you talked about [unintelligible].
 
-[Attendee #3]
+A: No, because I didn't understand all of it at that time. And now, of course, when I give the lectures, it's different. The cheese will absorb every hour, every 30 minutes, depending on how toxic the person is. Eat a little piece of cheese, get a train of it going through to collect the poison, and that will prevent the toxins from lowering the bacterial levels.
 
-Yeah, you look great.
+Q: Oh, so the toxins lower the bacterial levels?
 
-[Aajonus]
+A: They kill bacteria.
 
-I didn't go down as much this time I rationed my butter and drank more milk than I usually did.
+Q: Right, and eating the cheese throughout the day raises the bacteria in the gut.
 
-[Attendee #3]
+A: Only because it grabs on to the poisons, so it doesn't kill the colony.
 
-What did you get down to after that injection at your lowest.
+Q: And what are the poisons specifically?
 
-[Aajonus]
+A: Depends on what they are, you know. If you're eating processed food, like I said, it could be anything from any additive. It could be coloring, it could be flavoring, it could be a fragrance that they want to produce in the food. Like a lot of the stuff that smells like strawberries. It's not at all strawberry anything. It's actual ester chemical that they made from petroleum. Those kind of things get into the system, get into the tissue. And even if you're not eating them now, they were in your body. When your body throws them off, dissolves the fat that they were harnessed in or encapsulated in, sets them free again, they can poison all the bacteria in the intestine. And if it's really toxic, your body will either vomit or hit diarrhea to get rid of it. If you have the cheese going through regularly, small amounts of the cheese going through regularly, it collects those poisons as long as you only eat the honey directly with the cheese. And as long as it's raw, no salt cheese.
 
-I went down to probably 150?
+Q: So you suggest everybody to eat small pieces of cheese all the time during the day?
 
-[Attendee]
+A: Yeah, now.
 
-I can't keep my clothes; I have everything from a 2 to a 12.
+Q: I've never found the unsalted cheese.
 
-[Aajonus]
+A: Well, Amos Miller and some of those Amish farmers that I have on the product list will actually ship them to you.
 
-Well, when I left when I was 92 pounds, I had a 36-inch waist.
+Q: They ship them to me.
 
-So, I've got 34" - 37".
+A: FedEx, you have to do a FedEx, you can't do a post office.
 
-[Attendee]
+Q: What do you think of green pasture?
 
-That's not bad though.
+A: Green pasture oils?
 
-That seems like a normal variance.
+Q: Yeah, butter oil.
 
-[Aajonus]
+A: Well, the cod liver, there's only one of their cod liver oils that's good. I worked for them for two years to produce that awful, nasty, bitter tasting in cod liver oil.
 
-And then I've got 32", which will take me up to 33" and down a little bit.
+Q: The green pastures?
 
-I have 30" and 30" will take me down to as little as 29" and up to as highest 32".
+A: Yeah, that's fermented, but it has no flavor to it. Those that have flavoring, it's just processed oils that have been distilled and treated with kerosene. You have to get the stinky, bitter one.
 
-[Attendee]
+Q: But what's the quality?
 
-Like, I can't even get jackets on anymore, but I have muscle in my back and my arms and I dunno if it's muscle or fat I'm like, "What the hell, I've never had that".
+A: It's excellent.
 
-[Aajonus]
+Q: Fermented?
 
-Well, the belt size is the size that I really have to have three.
+A: Green pastures, yeah.
 
-On these, I have two different sizes.
+Q: Fermented cod liver oil through green pastures is the one.
 
-[Attendee]
+A: Yeah, but if you're eating fish regularly and you're not eating junk food, it's not going to do anything benefit for you. I tested on many, many people on this diet, and there was no advantage to it. If you're on a shit diet, it will. Or you're not getting any sunshine.
 
-Well see, this has never changed.
+Q: I took this oil and my head started shrinking. I had such headache and pain in my neck and everything. Is that like allergies?
 
-Is that part of getting older.
+A: No, cleaning out the brain.
 
-I'm gaining it in my arms, my back?
+Q: So I should take more?
 
-[Aajonus]
+A: No, I wouldn't do it. I'd do it slowly.
 
-Well, wherever you have toxins for it.
+Q: I should keep taking it, but slowly?
 
-he used to talk and I was too good up there.
+A: No, just eat the diet and you'll normally detox your brain slowly.
 
-[Attendee]
+Q: Not take any cod liver oil at all?
 
-I can't put my jacket on laughs.
+A: I wouldn't eat that, as long as you're on the diet. If you're, let's say, 80% on the diet, I wouldn't eat any cod liver unless you're eating something really nasty, like fried foods.
 
-So I go, okay, I wanna lose this.
+Q: But if I'm in Canada and there's no sun and nothing, is that going to help?
 
-Is that appropriate.
+A: It'll help, yeah. But your milk has a lot of vitamin D in it, and your butter.
 
-[Aajonus]
+Q: But do you add it?
 
-If your body can melt the fats?
+Q: Can you get milk up there?
 
-[Attendee]
+A: Not raw?
 
-And you know that by whether you get really toxic on the down diet.
+Q: No, raw milk we don't.
 
-How do you know that the down diet appropriate then?
+A: Oh, you can't get it at all?
 
-[Aajonus]
+Q: No.
 
-Well, you shouldn't have symptoms on the down diet, especially rashes?
+Q: You can't go to a farmer?
 
-[Attendee]
+Q: I can take my car and go two hours in Vermont and come back. It's not that, the quality I had there was not that good. There was no cream, I think, so I couldn't. But I have this question about milk, because I've been trying, and I was going to ask you, what would be the symptom that would convince you someone should not drink or eat any dairy or milk?
 
-Oh, you don't get nauseated or stuff.
+A: Well, I suggest that everybody does. You know, I mean, people say, well, I have an allergy to it, this and this and that happens. I say, bear through it. You know, you're not going to get a better source of minerals or a better source of fat for the nervous system unless you're having dairy. So suffer through it, you know, and then you'll get through it, eventually.
 
-[Aajonus]
+Q: Because I get something, especially mentally, it's not working on me. I get stoned, I lose my memory.
 
-Well, if you're eating that little bit of cheese?
+A: That's a protein, you're getting a protein deficiency.
 
-[Attendee]
+Q: No, no, by drinking milk.
 
-You shouldn't, because you are gonna dump toxins when you.
+A: That's a protein, you're getting a protein deficiency, because you're using all the minerals to detox toxins out of the brain, and then you're not eating enough meat or eggs.
 
-[Aajonus]
+Q: No, I'm eating this raw, all the raw meat and eggs and all this, but when I take milk, I'm doing sort of good, but every time I try milk, it's not doing that well.
 
-Most of it if you've taken the hot baths, it's supposed to go out the skin.
+A: How are you taking the milk?
 
-.
+Q: It's warm and I drink it without food, normally without food, because if I do it with food, it's like...
 
-(7) Claravale
-[2012],[Attendee]
+Q: You take it at room temperature?
 
-So, you don't trust the Claravale
+Q: Yeah, it's room temperature. And I have another thing in my gut, I have very much discomfort, I'm going to get diarrhea often, and it makes me really like...
 
-[Aajonus]
+A: Then you've got a lot of poisons and you need cheese.
 
-Claravale, there's nothing organic about it?
+Q: Cheese?
 
-It's not organic.
+A: You're eating the cheese regularly, small amount, like a sugar cube size amount, half a teaspoon every 30 minutes, you'll be able to drink the milk easily. Right now your body is using all of the minerals in the milk, and then without the minerals you can't digest the fat properly, the cream. Now that can make your brain slick.
 
-[Attendee]
+Q: I remember it took me a few years with the milk, and then all of a sudden, a few years on the diet, I could just like, the milk was just like life-saving, it was like I wanted it. Before I couldn't have any.
 
-No, but they're natural, right.
+Q: When I start drinking milk, I can't stop, I have full craving for it, and I can drink the whole thing. That's not doing me any good.
 
-[Aajonus]
+A: Just eat the cheese and also eat a little bit of pineapple. Take about an inch and a half section of pineapple, four times a day.
 
-No, they they feed them hay cuz there's no grass?
+Q: With the cheese?
 
-They don't have big pastures, very small pasture.
+Q: What's the name of the Amish guy?
 
-[Attendee #2]
+A: Pardon?
 
-It's just a good glass bottle.
+Q: The Amish that sells, I cannot get any unsalted cheese.
 
-[Aajonus]
+A: Well, they'll send it to you in Canada, just do it FedEx.
 
-Yes.
+Q: What's their name?
 
-[Attendee #2]
+A: I've got a product list.
 
-So, he buys the milk, throws it.
+Q: That's with, what's his name?
 
-[Aajonus]
+A: Amos Miller.
 
-No, I drank the milk cause I didn't have anything else.
+Q: No, not Amos.
 
-There was no Organic Pastures, I didn't have anything else, but I drank it, but I keep the bottles.
+A: I've got probably Eli King.
 
-Sometimes it's easier to suck outta this bottle.
+Q: Eli King, he'll send it to you, right?
 
-.
+A: Well, so will Amos, I mean there's a lot of...
 
-(8) Cold Hands and Feet Is Mineral Deficieny. Cheese and Honey
-[2012],[Attendee]
+Q: Oh, the guy that runs the, we want to live, we want to live, what's that?
 
-I have cold hands and feet all the time for many years
+A: Oh no, that's Jim.
 
-[Aajonus]
+Q: No, that's the Pennsylvania, Amish, Amish farmer, he'll send it to you. What does the pineapple do?
 
-Severe mineral deficiency.
+A: Well, the pineapple helps digestion.
 
-For about four or four days eat about a pound of cheese a day with about a half a cup of honey.
+Q: Helps digestion.
 
-Half a cup of honey with a pound of cheese half a pound of cheese.
+A: A lot of, yeah, also break down toxins.
 
-You mash 'em together.
+Q: Yeah, by itself.
 
-You do that 3, 4 days in a row.
+A: When people have difficulty with digestive activity, pineapple is very helpful in small amounts.
 
-You can have it throughout the day.
+Q: Just by itself.
 
-You don't have to have it all at one time.
+A: Well, no, you could have, you know, maybe a teaspoon of, or a tablespoon of cream, or a teaspoon of butter. By itself, depending on how much milk you're drinking.
 
-[Attendee #2]
+Q: Yeah, how much is too much. What amount of milk would you recommend for someone?
 
-You're gonna have eight ounces throughout the day with the half a cup of honey and that's for minerals.
+A: Well, if you're having the problems you're having, I would start off with a quart a day. I have up to two to three quarts a day.
 
-[Attendee #3]
+Q: One quart a day?
 
-I have cold feet too, especially at night.
+A: One liter.
 
-I wear sock on most days.
+Q: But at the time, one time?
 
-So, I need to do the same thing too.
+A: Oh no, you just, no more than four ounces at a time.
 
-[Aajonus]
+Q: Four ounces out of a cup.
 
-Yeah?
+A: Half a cup at a time.
 
-[Attendee]
+Q: So if you drink too much milk...
 
-And that solved the problem for a long time.
+A: That would be eight half cups.
 
-[Aajonus]
+Q: How long does it take to digest that four ounces, where you could have four more?
 
-It solved it for three or four weeks?
+A: About an hour. But if you're doing it every two hours, that's...
 
-[Attendee #2]
+Q: I usually drink eight ounces when I drink it.
 
-To do that formula three to four days in a row.
+A: I don't. I only consume two ounces at a time.
 
-[Aajonus]
+Q: When I do milkshakes?
 
-Yeah?
+A: But I do two ounces every 30 minutes. 
 
-If that happens to me.
+Q: Didn't you say somewhere that sipping milk throughout the day has some benefit? And I forget what the benefit was.
 
-I only have to eat it one day, but I used to have 2, 3,4 days, usually three days, then it went down to two days.
+A: Well, it's the same benefit. You digest it better, your body handles it better. You don't back up, you don't slow down. So what I do is I sip about an ounce, ounce and a half, maybe two ounces at a time. And I do that about every 30 minutes.
 
-Now it's one day.
+Q: And what's the benefit of that?
 
-[Attendee #2]
+A: I just said, you digest better, you handle everything better, easier. Nothing backs up, nothing is overwhelming.
 
-What happens if the the cheese is salted.
+Q: What happens, it's the overload, right? So what happens, I remember in the past, when Joseph and I were talking about milk, he says, every time I drink the milk, whether it's the six ounces or the eight ounces or more, I get sleepy. So why does it make you sleepy?
 
-[Aajonus]
+A: Because the cream is very difficult to digest, especially when it's mixed with the other milk.
 
-Salted, won't work?
+Q: So you kind of shut down.
 
-.
+A: Well, your body just has to spend all of its energy on digesting.
 
-(9) Cucumber Puree Important To Chew, Oil Pulling
-[2012],[Aajonus]
+Q: I just got sleepy from having a little tiny bit of cheese.
 
-hat's fine
+A: You got sleepy from cheese?
 
-But I'm saying you're still not gonna get the effect of the cucumber and tomato unless they're blended together.
+Q: I just had some cheese and I got really sleepy.
 
-Well, you might have a lot of, let's say dental anesthesia in here.
+A: That's unusual.
 
-Sometimes the body needs to get it out of the salivary glands by chewing.
+Q: It could be just that time of the day, too. You know, the afternoons, that time when you think, especially with this weather, you just want to curdle up and go to sleep.
 
-Well, you get a lot of bacteria.
+Q: Is it OK to drink milk with food? Do you have milk with food or should you have it separate?
 
-The more you chew, the more bacteria you're going to get into your food.
+A: If you have milk with food, it should be a very small amount.
 
-You also get more toxins that are discharging from the brain out the salivary glands.
+Q: It's always separate?
 
-[Attendee]
+A: It's better, yes. Even if I drink a meat meal, I'll have a tablespoon to rinse my mouth with, but I won't touch it for another 20, 30 minutes. Before I'll have more.
 
-How do you get more bacteria when you chew.
+Q: Do you drink milkshakes the same way, just two ounces at a time?
 
-[Aajonus]
+A: Yeah, that's always better. Or, well, you could drink, yeah, two ounces at a time, let's say every 10, 15 minutes. Or every five minutes, you'd do two ounces every five minutes of a milkshake. Unless you want to take a long time to drink it. Take an hour to drink it, that's OK. But if you have, let's say, a 16-ounce milkshake, then over a period of an hour, if you had two ounces at a time, that equals 18 ounces.
 
-We have more bacteria in our bowels than dogs and cats?
+Q: If you drink that all at once, that's way too much.
 
-[Attendee]
+Q: So then in that hour...
 
-How do you get back to by chewing.
+A: Yeah, I mean, if you have a milkshake all at one time like that, I would just go to sleep.
 
-[Aajonus]
+Q: I can have eight ounces all at one time, but not 16.
 
-Your bacteria is in your part of your salivary gland?
+Q: So in that hour, you're sipping that milkshake and nothing else.
 
-[Attendee]
+A: Yeah.
 
-And so when you chewing you are getting rid of toxins from your brain when you're chewing.
+Q: I have to go, I have to catch the coaster, but it was a very nice experience. Thanks a lot for your help.
 
-[Aajonus]
+Q: Are you walking to the coaster?
 
-Yeah, sometimes?
+Q: Yeah, I'm walking. Yeah, it's going to take an hour or so.
 
-What I tell people do, if they have that kind of impulse is do some oil pulling, take some coconut oil and swish it around in the mouth and chew and keep it in there and spit it out after about 10, 15 minutes and then go ahead and chew all you want.
+Q: Do you want a ride? [unintelligible]
 
-Keep it in your mouth.
+Q: No, but it's going to come in an hour.
 
-Keep working until you pull all this stuff out, takes about 10, 15 minutes, you're chewing, hold it that sleuth.
+Q: Where are you? You're going all the way to San Diego?
 
-Then if you go 12 hours, your gums may have filled up again.
+Q: Yeah.
 
-[Attendee #2]
+Q: But he's going to be walking all the way to the beach.
 
-What does oil pulling do.
+Q: [unintelligible]
 
-It pulls what out?
+A: Oh, the train.
 
-[Aajonus]
+Q: Joseph lives in La Jolla.
 
-Chemicals out of your gums and salivary gland?
+Q: I can take you there.
 
-[Attendee]
+Q: To Hillcrest?
 
-So, you've got the coconut oil and you're kind of just swishing it around or you're kind of like also doing the chewing motion.
+Q: I can take you to where you can pick up the coaster.
 
-[Aajonus]
+Q: In an hour. What time is the train?
 
-All of it, 10 - 15 minutes.
+Q: 4.45, but I have to be there at 4.30.
 
-[Attendee #3]
+Q: Do you live in Hillcrest? No, I don't live there, but that's west of there.
 
-So, when you do the nut formula and you take brain detox towards that, it's a binding.
+Q: I can take you there. I've got to go to La Jolla.
 
-The net formulas kinda.
+Q: Really?
 
-[Aajonus],[Attendee #3]
+Q: La Jolla. You can drive me to La Jolla, I can take the bus.
 
-I said if you have it too often
+Q: [unintelligible]
 
-Oh, then it detoxes.
+Q: It's a long way to walk.
 
-[Aajonus]
+Q: What?
 
-Yeah, it can cause a brain detox.
+A: Because you're up on the hill.
 
-Otherwise the nut formula just grabs excess hormone and some poisons.
+Q: How old are you, Ali?
 
-[Attendee]
+Q: I'm 35.
 
-So, is it a good thing to detox the brain with the nut formula.
+Q: What was your question to Aajonus?
 
-[Aajonus]
+Q: It was about milk.
 
-I don't think so?
+Q: Oh, it was about milk.
 
-[Attendee #3]
+Q: Well, I have [unintelligible].
 
-What is a good brain detox.
+Q: Well, take advantage.
 
-[Aajonus]
+Q: Okay. Like, when you eat raw meat, what would be a good portion?
 
-Putting hot water bottles at your head?
+A: How much do you eat at a time?
 
-Cilantro.
+Q: Yeah.
 
-They'll get down to your gland here.
+A: I usually like a half a pound, a cup and a half.
 
-Glands are supposed to take care of you, your lymph glands.
+Q: Half a pound, that's a lot.
 
-.
+A: Oh, for me that's not a lot.
 
-(10) Dairy Allergies
-[2012],[Aajonus]
+Q: Here's a question. Didn't you say something about ground up beef not being as... because it oxidizes or something?
 
-Well, I suggest that everybody does
+A: Well, it depends on how it's ground. If it's ground under high pressure, the fat is homogenized. And then homogenized fat encapsulates the protein and you don't digest it very well.
 
-People say, well, I have an allergy to it, this and this, and that happens.
+Q: Because it's...
 
-I say, bear through it.
+A: Huh?
 
-You know, you're not gonna get a better source of minerals and a better source of fat for the nervous system, unless you're having dairy.
+Q: Because it's [unintelligible]. I feel like I digest the ground meat better than the non-grounded.
 
-So suffer through it, and then you'll get through it eventually.
+A: Yeah. But if you have it, usually stores, you grind it to a high pressure grinder twice.
 
-[Attendee]
+Q: Oh, but I...
 
-Because I get something, especially mentally, it's not working.
+A: Two or three times.
 
-I mean, I get stoned, I get, I lose my memory.
+Q: These guys, they do it like us. I think they do it by hand.
 
-[Aajonus]
+A: It's fine.
 
-You're getting a protein deficiency.
+Q: Yeah, but the portion you said, half a pound, but I feel often when I eat meat, it just stays on my stomach more than cooked meat.
 
-[Attendee]
+A: Yeah.
 
-No, by drinking milk.
+Q: Which I find strange because I should be able to digest it better, faster.
 
-[Aajonus]
+A: It just means you have no hydrochloric acid in your stomach.
 
-You're getting a protein deficiency because you're using all the minerals to detox toxins out of the brain then you're not eating enough meat, eggs.
+Q: And then...
 
-[Attendee]
+Q: And what do you do to...
 
-No, I'm eating all the raw meat and eggs and all this.
+A: See, when you have cooked meat, it'll just flake off and fall apart and dissolve.
 
-But when I take milk- I'm doing sort of good, but every time I try milk, it's doing that.
+Q: Yeah, so I...
 
-[Aajonus]
+A: In your intestine. The raw does not unless you have hydrochloric acid.
 
-How are you taking the milk.
+Q: How do you get that?
 
-[Attendee]
+A: So you have to grind it well, hydrochloric acid, beets, corn, pineapple.
 
-It's warm and I drink it without food?
+Q: Yeah, and beets have hydrochloric acid?
 
-Normally without food.
+A: Yeah, hydrochloric acid precursor.
 
-And I have another thing in my gut, I have very much discomfort as if I'm going to get diarrhea often.
+Q: Precursor. So pineapple...
 
-[Aajonus]
+A: So does corn.
 
-Then you've got a lot of poisons and you need cheese.
+Q: So you think raw meat won't give you this hydrochloric acid on the long run?
 
-You're eating the cheese regularly.
+A: Well, it depends on how toxic your stomach lining is. It sounds like your stomach lining is pretty dark.
 
-Small amount, like a sugar cube size, not a half teaspoon, and every 30 minutes you'll be able to drink the milk easily.
+Q: It's pretty dead, I think, yeah.
 
-Right now your body's using all of the minerals in the milk and then without the minerals, you can't digest the fat properly, the cream.
+Q: So if he eats pineapple with his meat, how much pineapple?
 
-Now, that can make your brain slow.
+Q: Not much. Not much.
 
-[Attendee #2]
+Q: Pineapple makes me swell, like my mouth becomes all swollen.
 
-I remember it took me a few years with the milk and then all of a sudden on few years on the diet, the milk was just like life saving.
+Q: Pineapple?
 
-It was like I wanted it.
+Q: Yeah.
 
-Before I couldn't have any.
+Q: My tongue becomes...
 
-[Attendee]
+Q: Red. Mine even bled once. Pineapple.
 
-When I start drinking milk, I can't stop.
+A: Well, you're only supposed to eat a small piece at a time.
 
-I have a full craving for it and I can drink the whole pint.
+Q: I know. Yes, I know.
 
-[Aajonus]
+Q: But you buy this big pineapple and you only...
 
-Also eat some pineapple, about an inch and a half.
+A: Yeah, but what you do is, mine will last two weeks. You take it like this, you cut it in circles like this, small circles. And then you put it down in a bowl. So it's down in a bowl like this and it seeps itself. And then it stays fine. Well, when you take it out, let's say you've gone three days without having any. You take about a sixteenth of an inch slice off, throw it away, and take your slice off of that.
 
-.
+Q: But that's still a lot. If you take a slice like that, there's still a lot of pineapple on it.
 
-(11) Eating Rats
-[2012],[Aajonus]
+A: Oh, that's too much. It's a small, I'm not saying that big.
 
-Oh, in Thailand if I catch the big rats, they eat them
+Q: You can put them in a jar. You can put them in a big jar.
 
-I got a tractor finally to clear out some of the jungle and uncovered several big rats nests, big forest rats.
+A: I'm saying a little section, a little cube of meat. Let's say you're taking a slice off, okay? To get a cube of pineapple like that, you just take a thin slice, about an eighth of an inch. And that's all you eat.
 
-The dogs caught them and they eat them.
+Q: It could be there forever.
 
-Not the dogs eat them, my workers eat them.
+Q: Why is raw fish so much easier to digest?
 
-[Attendee]
+A: If you're doing that two, three times a day, even four times a day, taking a little thin slice for digestion.
 
-Why do they like the rat meat.
+Q: Yeah, that's a good question. Why is raw fish so much easier to digest?
 
-[Aajonus]
+Q: Meat's easy to digest too, for me.
 
-Well, when you've got a big rat, it's pretty tasty and it's a wild rat?
+A: If I eat a lot of fish, I have to eat a tremendous amount, and I'm so hungry, it just digests so quickly. And for some people it isn't.
 
-It's not a city rat that eats garbage.
+Q: Yeah, I get hungry quicker on fish, for sure.
 
-[Attendee #2]
+A: Yeah, me too.
 
-How are things going over there in Thailand.
+Q: Why is that?
 
-[Aajonus]
+A: I'm very hungry. I guess you digest it quicker and easier.
 
-In Thailand, they have a raw meat dish, especially up around Shanghai, it's a regular thing that they have a raw meat dish?
+Q: If I eat a good amount of meat, sometimes I get really hungry just after it, like just after 15 minutes later, as if I need more and more and more. But if I don't eat, three hours later, I won't be hungry at all for the same.
 
-I forgot what it's called, but they have a dish that they eat.
+A: Because your body's eating your red blood cells.
 
-It's raw meat.
+Q: What does that mean?
 
-[Attendee]
+A: Your body's eating your red blood cells, not enough protein, so the body starts eating your red blood cells.
 
-What kind of raw milk do you get over there.
+Q: But if I eat, my body doesn't want meat, it wants red blood cells instead. It's like it's favoring...
 
-[Aajonus]
+A: Once you start eating the meat, I mean once you start eating your own blood cells, you become too acidic, meat's repulsive.
 
-Best I can get?
+Q: Okay, okay.
 
-[Attendee]
+Q: What's causing them to eat their own blood cells?
 
-Is it buffalo.
+A: Protein deficiency.
 
-[Aajonus]
+Q: Say that again, there's a protein deficiency?
 
-No?
+A: When you have a protein deficiency, your body starts eating its own red blood cells for the protein.
 
-No.
+Q: But why would I have a protein deficiency if I just had a meal?
 
-Cow.
+A: You may already be protein deficient.
 
-They imported a lot of cows, from New Zealand.
+Q: How do you change the acidity?
 
-.
+A: Let me finish answering your question. If you're very protein deficient, which I can see you are, because your body wants a lot more mass on there, the more muscle, the more fat you can store. Right now, you don't have enough muscle. So when your body gets the meat, it says, oh, I like this, let's have more. But you still have a digestive problem, so you've got a problem there. So you have to work that out. You work that out by having a little honey and a little pineapple to help digestion of the meat. Once you don't eat anything, then your blood protein level drops to a point where the body says, I have to eat my own red blood cells. That causes a tremendous amount of over-acidity, and then that causes you to lose your appetite, causes anorexia. So, if you grind your meat all the way, you're not likely to get hungry by then. If you grind it to a pate. If it's just normally ground, it's likely to be homogenized, and it's not going to digest well, and you're still going to be hungry.
 
-(12) Eating Schedule For Weight Loss
-[2012],[Attendee]
+Q: It's not going to digest well because it's been grounded?
 
-I wanna lose some weight and I'm thinking that I haven't gone over the down diet in a long time and what's a good way to do it
+A: When it's ground into a very fine paste, your body doesn't have to use any digestive acids. Only bacteria is needed to infiltrate.
 
-And can you kind of go between the down diet and regular?
+Q: Is that good?
 
-You go three days down, then eat a little bit more, and then go alternate.
+A: Bacteria is 90% of digestion.
 
-[Aajonus]
+Q: But how do you make it like a fine paste?
 
-Three days won't do it, you have to go on it four days.
+A: What I do is I take the steak and I'll cut it into cubes about inch by inch, put it in my food processor, fill the whole food processor only halfway, and then grind that in there until it's a pate.
 
-[Attendee]
+Q: How long?
 
-Oh, so tell me the whole of what you would suggest.
+A: I'll make enough for two, three days sometimes. And then stuff it in a two-cup jar.
 
-Now do you have different variations as well.
+Q: Does it stay okay that way, better than leaving it cold?
 
-Cause I heard some different things for different people?
+A: About the same.
 
-[Aajonus]
+Q: It's a lot of work because I do it every day.
 
-Yeah, it depends upon the individual, how they digest maybe myself.
+A: I do it two, three days.
 
-Well, I usually don't do that personal stuff, but we don't have many people, so I'll do it.
+Q: I think I'll start doing that. You don't have to wash your food processor as much.
 
-[#1 1/4 teaspoon butter + 1/8 teaspoon honey + 1 - 1.
+A: Exactly. It doesn't take much time to clean the food processor. You figure we're getting pretty lazy when we've gone from hours of cooking and cooking and scrubbing pots to just a few minutes of cleaning a food processor. This is the height of laziness.
 
-5 tablespoons cheese] First of all, awake in the morning, just make sure you've got the poisons out because I know you had medication.
+Q: Almost an hour each day washing canning jars?
 
-So, eat some cheese first, probably only a pea sized amount of honey with it and bean sized amount of butter.
+A: Well, that's different.
 
-Put the butter and the honey together, it's a very small amount.
+Q: [unintelligible]
 
-Don't put the cheese with the honey with the cheese directly.
+Q: That's a day's worth of canning jars. It usually takes me an hour by the time I do every, well, not quite an hour. 
 
-The honey goes with the butter and then you eat that.
+Q: He's too fastidious, when he's cleaning.
 
-So, you have about 1/2 teaspoon of butter and honey mixture and then have that with a 1 - 1.
+Q: No, maybe about 30 minutes.
 
-5 tablespoons of cheese to absorb the poisons.
+A: To clean how many?
 
-[Attendee]
+Q: Usually about 18 to 20, along with forks and tops, every day, and the food processor, and then the jars that you store your food in, you keep emptying them out so that they're part of the jars too.
 
-That much cheese.
+A: I clean as soon as I finish to get it out of the way.
 
-[Aajonus]
+Q: I can't do that because I'm eating this stuff on the road often, where I'm working, so I collect them. Then I wash them once a day in your special formula of coconut cream and apple cider vinegar and salt. It cleans much better. And then that way I don't have to get hot water every time I need to do one jar. I get the hot water all at once. It just makes a lot of sense.
 
-Yeah?
+Q: Can you finish what you were saying with Alex? What happens to, how does he get over-acidic?
 
-[Attendee]
+A: I said, I finished it. I said, your blood protein drops to the point where your body has to eat its own red blood cells to get the protein. That causes over-acidity and nausea, which is anorexia.
 
-That's a lot of cheese.
+Q: Oh, I see. And to get rid of the over-acidity and nausea, he has to...
 
-[Aajonus]
+A: Vegetable juice is helpful for that. Some fruit.
 
-If you're not going to digest it.
+Q: Which fruit?
 
-[Attendee]
+A: Any of the fruit.
 
-Will the honey and the butter digest the cheese.
+Q: How do you tell?
 
-[Aajonus]
+A: Alkalinizing substances.
 
-No, because the honey is so little?
+Q: Like eat just fruit by itself or in a mixture with cow cream and coconut?
 
-You're only having a pea size amount of honey, it'll be mixed in the pea bean sized amount of butcher So, it's gonna be reacting with the butter.
+A: Any way you want.
 
-That's just keep you from getting constipated if you're gonna on the weight loss.
+Q: Okay. And then when the over-acidity is neutralized with the vegetable juices and fruit, then he slowly gets back into trying to eat the meat pate to build up the system.
 
-[Attendee]
+A: Well, if you just have the pineapple, that should do it.
 
-I'm not having problems.
+Q: It'll neutralize the acidity?
 
-[Aajonus]
+A: Neutralize the acidity and keep digesting the meat at the same time.
 
-But are you losing weight.
+Q: Is that a good one? With a lemon?
 
-Because usually you won't lose weight if you're not going?
+A: Not with red meat. Not with red meat.
 
-[Attendee]
+Q: You've got the book, right? In the book it says when you have lemon, it...
 
-I don't know.
+A: White meat. Fish or chicken.
 
-I've lost a couple pounds.
+Q: It's not good with red meat because it...
 
-[Attendee #2]
+Q: Pork. Is it red or white?
 
-That 1/2 teaspoon of butter, honey.
+A: Any four-legged animal is red meat, including pork.
 
-[Aajonus]
+Q: Dog.
 
-I said 1/4 teaspoon of butter, 1/8th teaspoon of honey?
+Q: Dog.
 
-[Attendee #2]
+[laughter]
 
-No, but the thing is that combination of the butter.
+Q: Cat.
 
-If you're gonna eat that with the cheese, isn't that going too still digest it.
+A: Cat, all red meat, rat, yeah. Oh, this is in Thailand. You know, if I catch the big rats, they eat them. Horse rats. Yeah, they were... I got a tractor finally to clear out some of the jungle and uncovered several big rat's nests, you know, big, you know, forest rats. The dogs caught them and they eat them. Not the dogs eat them, my workers eat them.
 
-[Aajonus]
+Q: Why do they like the rat meat?
 
-The honey has to react with the cheese?
+A: Well, when you've got a big rat, it's pretty tasty. And it's a wild rat, it's not a city rat that lives on garbage.
 
-If the honey is in the butter, it's not gonna react.
+Q: How is it going, things over there in Thailand? [unintelligible]
 
-[Attendee]
+A: Well, in Thailand, they have a raw meat dish, especially up around Chiang Mai, Chiang Rai. You know, it's a regular thing that they have a raw meat dish. I forgot what it's called. But they have a dish that they eat. It's raw meat.
 
-So, then that's your first thing you do in the morning.
+Q: What kind of raw milk do you get over there?
 
-[Aajonus],[#2 Golf Ball Size of Patéed Meat]
+A: Best I can get.
 
-Yeah?
+Q: Is it buffalo?
 
-And then about 15, 20 minutes after that, have a golf ball size of meat and if you want to make sure you lose the weight and you absorb all of meat, then paté the meat.
+A: No, cow.
 
-[Attendee]
+Q: Cow?
 
-So what about thinly slicing the meat, really grind it down.
+A: Yeah, they imported a lot of cows from New Zealand.
 
-[Aajonus]
+Q: What about this A1, A2 thing? Is that...
 
-If you don't grind it down, you're gonna have to produce a lot of hydrochloric acid?
+A: Well, I haven't found any, in my experiments with people on this diet, I haven't found any difference. But when I'm living just on, you know, like two or three foods, I do notice a difference.
 
-It's gonna take your energy away from burning fat.
+Q: For what?
 
-Cause all you need once it's patéed is the bacteria.
+Q: What's the A1 doing?
 
-[#3 Sport Drink]
+A: A1, I will have less energy from. A2, I'll have more energy.
 
-I think the sport drink is the good thing to drink, sip one all day long.
+Q: What does that mean? I don't know what A1 and A2 mean.
 
-[Attendee]
+A: It's a certain kind of genetic makeup.
 
-Really.
+Q: What is it?
 
-What about the honey?
+A: That builds the milk. There are certain chemicals in the milk that are produced in A2 cows that are not produced in A1 cows.
 
-[Aajonus]
+Q: Okay, there are different kinds of cows. I don't know what that's all about.
 
-Well, just cut the honey down to a tablespoon and you lower the coconut cream to one tablespoon, dairy cream to one tablespoon, but you still put the eggs in it, 2 - 3 eggs?
+A: Well, it's just because some cows have been cross-bred and it's caused the problem. Your jerseys, most of them are A2.
 
-[#4 1/2 Cup Milk Before Bed]
+Q: Which is the problem?
 
-Well, I've always told people to have 1/2 cup of milk before you go to sleep on the down diet.
+A: Whole steams are usually A2, A1.
 
-Ah, yeah.
+Q: What is Eli's?
 
-It's in the book.
+A: He has both. Amos too, but they're all moving to A1, A2.
 
-I also say sip milk throughout the day, but just don't drink a lot at one time.
+Q: And what about that organic pastures milk?
 
-[Large marble Size of Meat Every Hour (if not eating eggs)],[Egg Every Hour]
+A: I don't trust Mark as far as I can tell. There was a few years when he was feeding them organic rice bran. You can't feed organic rice bran because once the bran has been processed with steam to get it off of the rice, it's processed. And bran is not a complete food. And it was turning the milk really bitter because you got...
 
-or
+Q: I remember that.
 
-Then about every, let's say hour, you have maybe a large marble size if you don't have the egg, you have a large marble size amount of meat every hour.
+A: Remember how bitter that was?
 
-If you're doing the eggs, have an egg every hour.
+Q: It was awful a couple of times.
 
-Well, you need the meat.
+A: Because you got gibberellic acid in the bran.
 
-If you're having a small amount of meat, you need it all day long, a small amount all day long.
+Q: What's that?
 
-So, you have an egg one hour or every hour and a half.
+A: Gibberellic acid is an acid. It's a fatty acid. It's an ester in the bran that causes swelling. They use it. They extract it from rice bran to give to grapes and other plants to make them big and swollen. But that causes swelling of the brain, swelling a lot of people's systems. And it's really bitter and nasty tasting when the esters of the fat that are really bitter aren't removed. And usually they remove them. And it's even more toxic because they use kerosene to do that. So when the gibberellic acid in the bran is digested by the cow, it doesn't break down that bitter ester.
 
-You wait till you're hungry on the down diet.
+Q: So when you drink organic pastures milk, your brain is being affected?
 
-Normally, I never wait til I'm hungry.
+A: They don't do it anymore. I came down on Mark pretty hard for it.
 
-[Attendee]
+Q: What's the present standard?
 
-I was gonna say, I'm not used to that.
+A: I don't know what he's doing. That's what I say. I don't trust the man. He was saying organic, organic, organic. And he was feeding them non-organic substances for two years. That was way back in 2003 and 2004.
 
-So, what if you aren't hungry for three hours.
+Q: How long does it take for something like that to go out of an animal's system?
 
-[Aajonus]
+A: Well, out of the milk it would take about 20, 25 days.
 
-Well, three hours is okay, you don't go over five hours without meat?
+Q: Do you trust Claravale?
 
-[Attendee]
+A: Pardon?
 
-And if you're working out on the down diet, is that okay.
+Q: Claravale or the other guys? Claravale milk?
 
-[Aajonus]
+A: Claravale.
 
-That's fine, just remember to sip the sport drink?
+Q: Claravale.
 
-The book is regimented with bigger sizes of meat, golfball or meatball sizes of meat, 4 - 5 times a day and you're having juice.
+A: As you can see, I'm drinking out of their bottle, but this is the milk from Pennsylvania, the Amish milk.
 
-But I found that juice makes people too hungry.
+Q: Was it delivered to your house in California from Pennsylvania?
 
-It can cause protein deficiency.
+A: Oh, yeah. We have a truck that brings it to us.
 
-So, I think it just eggs and meat, a little bit of milk and sport formula.
+Q: There's this co-op in L.A. 
 
-But you wait till you're hungry each time.
+Q: What's co-op?
 
-[Attendee]
+A: Co-op means a group of people got together and we're a buying club.
 
-What if you like the juice.
+Q: The one in Santa Monica?
 
-Can you still do it?
+A: Yeah.
 
-[Aajonus]
+Q: Not the Rawesome. Not the Rawesome.
 
-Well, it's gonna make you hungrier, but you may need it?
+A: No, Rawesome was closed. We have another one.
 
-You may need the green juice.
+Q: It's another co-op.
 
-I would just cut it down to four ounces at a time.
+Q: [unintelligible]
 
-[Attendee #2]
+A: Oh, no. Co Opportunity? No, no, no.
 
-Why do you need the green juice.
+Q: Oh, okay.
 
-[Aajonus]
+A: No, this is a private one.
 
-Some people may need it cause they're over acidic?
+Q: But this is the food, the milk, all the food that's coming from Pennsylvania.
 
-[Attendee]
+A: Yeah.
 
-I think when I do this, I like doing beef because the beef gives you energy.
+Q: But is that private? You say it's private?
 
-[Aajonus]
+A: It's private.
 
-Oh, I eat mainly beef, except when I'm in Philippines, then I mainly eat fish cause I'm right there on the ocean.
+Q: People can't go there and buy it?
 
-[Attendee #2]
+A: No. Well, you can't go there and buy anything. You have to order online and then you go pick it up. There's a pick-up place.
 
-Do you still eat half white and red meat.
+Q: And there's also the people that are doing this co-op, they're trying to minimize attention so the authorities don't get involved. So if you join them, then it has to be...
 
-Yeah, you can do that?
+Q: You have to be recommended.
 
-That's where people were just getting on the diet.
+Q: You have to be recommended because the word goes out and they could easily get busted. So there's a lot of precautions being taken.
 
-People who were doing the diet for a little time.
+A: But there's a delivery down here on Saturday afternoon.
 
-It is better balance, but my body's pretty clean, except for these injections.
+Q: Every two weeks.
 
-So, I can go on either meat, it's just if I'm on a down diet I'll eat the red meat.
+Q: Well, what about northeast?
 
-[Attendee]
+A: Northeast what?
 
-I'm repulsed by chicken for a year or two now.
+Q: [unintelligible]
 
-That's all I ate before.
+A: Oh, no, that's...
 
-I don't know if it's the quality of the chicken.
+Q: You can get it directly from...
 
-[Aajonus]
+A: Those are different clubs. There are other clubs up there.
 
-Almost all your chickens are fed all processed.
+Q: So do you know the clubs that are up in Canada?
 
-[Attendee #2]
+A: I only know the one in Toronto and the one in Edmonton.
 
-Why does the green juice make you hungry.
+Q: How do you get in touch with these people?
 
-[Aajonus]
+A: You'd have to email me and I'd have to give you their email.
 
-Well, it provides enzymes for digestive acids and then the body looks for foods to digest?
+Q: So you don't trust the Claravale.
 
-[Attendee]
+A: There's nothing organic about it. It's not organic.
 
-So, stay on that four days, what'd you say to lose weight.
+Q: No, but they're natural, right?
 
-[Aajonus]
+A: No, they feed them hay because there's no grass. They don't have big pastures, very small pastures.
 
-You have to stay over four days in a row to be consistent with it?
+Q: It's just that it's a good glass bottle.
 
-You could take three days off on something else, but I found you'll gain a lot of it back fast if you only do it three days.
+A: Yes.
 
-[Attendee]
+Q: So he buys the milk, throws it out, and uses the bottle.
 
-If I want to lose 40 pounds, just go on the down diet for 30 days straight.
+A: No, I drank the milk because I didn't have anything else. The organic pasture, I didn't have anything else. But I drank it, but I keep the bottles. 
 
-[Aajonus]
+Q: It's a good bottle.
 
-That's what I do, yeah?
+Q: It's a good size.
 
-rid of it.
+Q: I like that.
 
-[Attendee]
+A: It's small, you know. It's easy to suck out of this bottle.
 
-So, you can go straight through it.
+Q: It's your baby bottle.
 
-[Aajonus]
+Q: Who's next?
 
-Yep.
+A: But the taste of all... Even the rubber, the taste is awful.
 
-[Attendee]
+Q: Yes.
 
-But if you feel like you're getting too intense detoxes, go back.
+Q: Aajonus, this is having to do with this tenting thing. After the tenting of the house next door, when I come back, I have to open up all the windows and clear my own house out? No? Don't open the windows at all?
 
-[Aajonus]
+A: It's not going to get into your house.
 
-I would go back on to a regular diet if I didn't feel well?
+Q: It won't.
 
-So, how long would it take to lose weight.
+A: Do you have a basement?
 
-[Attendee]
+Q: No. Then why do I have to...
 
-How much weight to lose in a week?
+A: You have to keep everything closed, though.
 
-[Aajonus]
+Q: Oh, okay. So I don't want...
 
-I can lose probably 8-10 pounds a week?
+A: If I were you I would tape around the windows, which, you know, like in your painting, would just put the...
 
-Other people don't lose it as fast cause they're healthy as I.
+Q: Especially on the side near the place.
 
-[Attendee]
+A: Yeah.
 
-So, if you have toxic fat, like I know there's cellulite now that came back, I never saw it before.
+Q: I could put some blue tape there.
 
-Like you said, it came pushed out to the outside.
+Q: The doors.
 
-That doesn't make you sick when you're coming on the down diet, all the toxins are gonna get released now, right.
+A: [unintelligible]
 
-[Aajonus]
+Q: Because the blue doesn't rip off paint. It's not super sticky. So when I come back, I don't open windows. I just stay in.
 
-Well, they're gonna get released through the skin, so you'll have rashes and hives and things like that?
+A: Not if you've had them taped.
 
-.
+Q: Yeah, okay. Another quick question.
 
-(13) Fish Hungrier, Not Hungry After 3 Hours, Protein Deficiency, Pate Your Meat, Jar Cleaning
-[2012],[Aajonus]
+A: I would tape the doors on... You know, all the doors on the inside, but the one, the last one you go out, I would tape that.
 
-It depends upon the person
+Q: After I go out, yeah.
 
-If I eat a lot of fish, I have to eat a tremendous amount.
+Q: How serious... You know, the same question. How serious is termite medication, killing termites?
 
-I'm so hungry, just digests so quickly.
+[audio cut]
 
-And for some people it isn't.
+A: Where they're weak, or [unintelligible] toxic.
 
-[Attendee]
+Q: So whatever the weakness of the body is, it's going to take that?
 
-Yeah, I get hungry quicker on fish for sure too.
+A: If the body decides to throw it there. If the body puts it in a non-weak place, then it won't be so bad. And if you have fats there, it's not going to be so bad. If you put it in a weak place, or a place where it's very fat deficient, you're going to have some damage. It'll kill cells. It'll cause more toxicity in the area. It can damage every cell, every time it out-gasses.
 
-[Attendee #2]
+Q: I looked up the cedar oil once, and it seems to me that there was two kinds, one water-based, and one oil-based. Have you ever seen anything like that?
 
-Why so.
+A: Yeah, there's a water-based one, but it's...
 
-[Aajonus]
+Q: Which ones should I be buying?
 
-You digest it quicker and easier?
+A: I would buy the oil-based one. They say the water-based one... Well, they say neither has any VOCs in it, volatile organic compounds, in any cedar product. However, I tried the water-soluble one, and usually oil is more toxic. It has more compounds in it. But the water-soluble one seemed to give me a headache, and the oil-soluble one did not. And the water-soluble one lasted for weeks. Oil-soluble one, because I think it was absorbed better into the wood, it only lasted about three or four days.
 
-[Attendee #3]
+Q: You mean the odor?
 
-What if I eat agood amount of meat, sometimes I get really hungry just after it, like just after 15 minutes later as if I need more and more and more.
+A: The odor can still be heavy, because those are still oil vapors.
 
-But if I don't eat, three hours later I won't be hungry at all for the same.
+Q: So the water one, the vapor, lasted a lot longer?
 
-[Aajonus]
+A: Yeah, because there was some other chemical in it. And that chemical was not a good chemical.
 
-Because your body's eating your red blood cells.
+Q: Yeah, that's what stymied me last time I looked at it. I couldn't figure out which one to buy. I had another quick question on clay. Are you recommending terramin clay or terrasilk clay for eating?
 
-[Attendee #2]
+A: It depends upon the individual. If they have a high metabolism and they're an athlete, they should be eating the nutritional, not the silk. If they're very slow, low energy, then the terrasilk is a little better.
 
-What does that mean.
+Q: How about Barbara Morgan? She asked me about it, and I didn't have an answer for her.
 
-[Aajonus]
+A: Barbara Morgan is a high-energy person, and she should not be having the terrasilk.
+ 
+Q: She should have the terramin.
 
-Body's eating your red blood cells, not enough proteins, so the body starts eating red blood cells, himself?
+Q: What's the difference?
 
-Once you start eating your own blood cells, you become too acidic.
+A: One's coarser than the other. The terrasilk is very fine.It's a lot more expensive, too.
 
-Meats repulsive.
+Q: So the terrasilk being fine, it's the people with slow energy.
 
-[Attendee]
+A: Slow digestion.
 
-What's calling him to eat his own blood cells.
+Q: Slow digestion. How does that affect? I'm trying to understand what the difference is.
 
-[Aajonus]
+A: Well, the people with slower digestion need a finer molecule to help pull stuff out of the blood, out of the intestine. The people who have a high metabolism, where everything is moving fast, they need a more coarse one, or else they may absorb some of those fine, toxic molecules. Clay is a rock. It's not a substance. It's not a food. It's very toxic if it gets absorbed into the body.
 
-Protein Deficiency.
+Q: I see.
 
-[Attendee]
+Q: [unintelligible]
 
-Okay.
+A: Well, if you're a hyperactive person, then you've got a high metabolism.
 
-That was protein deficiency.
+Q: How do you know which of the both? If you're both?
 
-Can you say that again.
+A: Yeah, if you're both, then you could use either.
 
-[Aajonus]
+Q: Do you know what I am?
 
-When you have a protein deficiency, your body starts eating its own red blood cells for protein?
+A: You're pretty mellow. I know Michael. That guy is high energy.
 
-[Attendee]
+Q: So, when you're on the low end, then you should be having the silk. And the thing is, if you eat the wrong kind, and it's absorbing in your body, it's going to be damaging you. 
 
-Why would I have a protein deficiency if I just had a meal.
+A: Yeah, it'll be heavy metal toxicity.
 
-[Aajonus]
+Q: So, which one should I eat, for example?
 
-You may already be protein deficient?
+A: But, anyway, rock does not digest in the human body. But sometimes, because I tell you to soak it and leave it a long time, you've got bacteria in there that will break it down even farther. It'll just help pull the poison down faster. But some people who have high metabolism have huge pores in their intestines. And even those things can pass out. It'll never get into a cell, but it can get into the blood. It can get into the neurological fluid and cause complications.
 
-If you're very protein deficient, which I can see you are because your body wants a lot more mass on there.
+Q: Like what kind?
 
-The more muscle, the more fat you can store.
+A: It could cause rashes. It could cause nausea. It could cause headaches. Loss of appetite. Too much hunger.
 
-Right now, you don't have enough muscle.
+Q: I wouldn't say. I don't think I would be high metabolism.
 
-.
+Q: What's the difference between the rings in the eyes being high adrenaline and low metabolism? Is there any relationship? Or is it exactly what it is?
 
-All right, so when your body gets to meat, it says, oh, I like this.
+A: If you have a lot of activity rings in your eyes, that means you produce a lot of testosterone, estrogen, and adrenaline for physical activity.
 
-Let's have more.
+Q: I have like 5 to 7 of those.
 
-But you still have a digestive problem, so you've got a problem there, so you have to work that out.
+Q: You've only got 5 to 7? I think I had 11.
 
-You work that out by having a little honey and a little pineapple to help digestion, okay.
+Q: So sometimes I feel energetic, and that's a lot. And sometimes I don't. So how does that... can you actually change it?
 
-Of the meats?
+A: Oh yeah. Well, no, you won't change. You'll have that same amount. But sometimes you'll have the energy and the physical ability to be naturally 6 or 7 activity rings.
 
-Once you don't eat anything, then your blood protein level drops to a point where the body says, I have to eat my own red blood.
+Q: You know, you're feeling your own burnout or whatever. You're just low.
 
-That causes a tremendous amount of overacidity and then that causes you to lose your appetite, cause of anorexia.
+Q: So that's a good question. If a person has activity rings, but they're not very robust, or more on the depressed side, like low energy, what does that mean?
 
-So, if you grind your meat all the way, you're not likely to get hungry, if you grind it into a paté.
+A: It means you were a vegetarian.
 
-If it's just normally ground, it's likely to be homogenized and it's not going to digest well and you're still gonna be hungry.
+Q: Means what?
 
-[Attendee]
+A: You were a vegetarian.
 
-It's not going to digest well because it's been grounded.
+Q: Before?
 
-[Aajonus]
+A: Yeah.
 
-When it's grounded to a very fine paste, your body doesn't have to use any digestive acids, only bacteria is needed to infiltrate?
+Q: And we're just kind of balancing it out?
 
-[Attendee]
+A: No, you fucked up your system.
 
-Is that good.
+Q: Oh.
 
-[Aajonus]
+A: It takes a long time to correct it.
 
-Bacteria is 90% of digestion?
+Q: It takes a long time to correct it.
 
-[Attendee]
+A: The damage that vegetarianism does to the digestive tract and the whole body is tremendous.
 
-Okay, but how do you make it like a fine paste.
+Q: Well, I did basically fruitarianism for 10 years.
 
-[Aajonus]
+Q: Oh my God. How could you be fruitarian?
 
-Well, what I do is I take the steak and I'll cut it into cubes about 1" x 1", put it in my food processor, only fill my food processor halfway and then grind that in there until it's a paté?
+Q: Now it's come out, huh?
 
-And I'll make enough for 2 - 3 days sometime.
+Q: No, because I lived in the tropics. I had coconut every day. I had avocados every day. I had a little bit of salad, but the thing is it was so hot and I didn't want to cook anymore. I hated cooking, but that was it. You know, I didn't eat anything else.
 
-Stuff it in a two cup jar.
+Q: No coconut?
 
-[Attendee #2]
+Q: I had coconuts every day.
 
-Does it stay okay that way.
+A: Still not enough protein.
 
-Better than leaving it whole?
+Q: I had coconuts.
 
-[Aajonus]
+A: Coconut's only 15% protein.
 
-About the same?
+Q: I had coconuts every day, the jelly kind. I didn't have any, but I had avocado every day. So that did what to my system?
 
-[Attendee #2]
+A: Well, it damaged the whole digestive tract and the whole energy system. You weren't getting enough protein.
 
-It's a lot of work because I do it every day.
+Q: Right.
 
-[Aajonus]
+Q: So you don't digest any of your protein, or it stops making the [unintelligible], the bacteria and everything?
 
-Yeah.
+A: It'll stop all that.
 
-I do it every 2 - 3 days.
+Q: So although mentally there's a lot of activity, the body is in the healing process.
 
-[Attendee #2]
+A: Or cleansing.
 
-I don't have to wash the food processer so much.
+Q: Cleansing process. So how do you, what do you do to sort of like assist it?
 
-[Aajonus]
+A: High meat, high egg, rotten meat.
 
-Exactly.
+Q: Oh, hell no.
 
-It doesn't take much time to clean the food processor.
+Q: She won't even take an egg that's not washed.
 
-You figure we're getting pretty lazy when we've gone from hours of cooking and cooking and scrubbing pots to just a few minutes of cleaning your food processor.
+Q: So the problem is, I mean, the environment where, you know, you can't have that because, like, you'd be thrown out.
 
-This is the height of laziness.
+Q: It's in a jar.
 
-[Attendee #2]
+Q: Okay, so high meat and high eggs.
 
-Almost an hour each day washing canning jars.
+A: You're living with people?
 
-Well, that's a day's worth of canning jars usually takes me a an hour by the time I do every, well not quite an hour.
+Q: Yeah.
 
-Maybe about 30 minutes.
+Q: It's in a jar.
 
-[Aajonus]
+Q: It stinks.
 
-To clean how many.
+A: It stinks up the whole refrigerator.
 
-[Attendee #2]
+Q: Oh, we have a little fridge outside.
 
-Usually about 18 - 20, along with forks and tops every day and the food processor, and then the, the jars that you store your food in, you keep emptying them out so that they're part of the jars?
+Q: No, there's no privacy. Okay, so high meat and high eggs will give the body the bacteria again. 
 
-[Aajonus]
+A: It'll reintroduce the kind of bacteria you need.
 
-I clean as soon as I finish to get it outta the way.
+Q: So how can I lead up to that?
 
-[Attendee #2]
+A: There's no lead up.
 
-No, I can't do that cuz I'm eating this stuff on the road often, but also working.
+Q: There's no lead up.
 
-I collect them, then I wash them once a day and use your special formula of coconut cream and apple cider vinegar and salt, it cleans much better.
+A: You can do the high meat or the high eggs.
 
-And then that way I don't have to get hot water every, every time I need to do one jar, I get the hot water all at once.
+Q: How do you do the high eggs?
 
-It just makes a lot of sense, use a lot less water.
+Q: She's trying to get out of it.
 
-.
+A: On one end, just tap it. Hair cracks. Then you let it sit in a wooden bowl or you know, cardboard.
 
-(14) Green Pastures Cod Liver Oil, Dit D In Dairy
-[2012],[Aajonus]
+Q: [unintelligible]
 
-Well, the cod liver, there's only one other cod liver oil that's good
+Q: Just one end, right?
 
-I worked for them for two years to produce that awful, nasty, bitter tasting cod liver oil.
+A: No, you do all, the whole thing, all the way around. Very fine cracks.
 
-[Attendee]
+Q: Oh, okay.
 
-Green Pastures.
+A: You can't even see them. You might with a magnifying glass.
 
-[Aajonus]
+Q: What?
 
-Yeah, that's fermented, but it has no flavor to it?
+Q: What happens if you get a cracked egg [unintelligible]. And just let it sit for how long?
 
-Those that have flavoring is just processed oils that have been distilled and treated with kerosene.
+A: Six weeks.
 
-So, you have to get the stinky, bitter one.
+Q: Six weeks. [unintelligible]
 
-It's excellent.
+Q: So you have to hold your nose.
 
-If you're eating fish regularly and you're not eating junk food, this's not going to do anything benefit for you.
+Q: I don't know if I open it, I go.
 
-I tested on many, many people on this diet and there was no advantage.
+Q: So you hold your nose and then you take how much of it? How much of it do you take?
 
-If you're on a shit diet it will or you're not getting any sunshine.
+A: The whole thing.
 
-[Attendee]
+Q: The whole thing.
 
-I took this oil and my head started shrinking like I had such headache and pain in my neck and everything.
+Q: It's tough.
 
-Is that like allergies.
+Q: And how much of the high meat do you take?
 
-[Aajonus]
+Q: Well, I can handle the high meat and not high eggs.
 
-No?
+[dog barking, unintelligible]
 
-Cleaning out the brain.
+A: It doesn't matter.
 
-[Attendee]
+Q: It doesn't matter. Every day?
 
-So, I should take more.
+A: Every day is good. I've got people who only eat high meat. I've got one guy who eats two pounds of high meat a day. He won't eat anything fresh.
 
-[Aajonus]
+Q: What about if you leave it in your fridge and you don't open it and it's in a jar for a month?
 
-I wouldn't do it?
+Q: No, you've got to open it to get the bacteria.
 
-I'd do it slowly.
+Q: You've got to open it. If you open it every few days, that would be income high?
 
-[Attendee]
+A: If you have it out of the refrigerator, it will still keep going even if you don't open it with the non-aerobic bacteria.
 
-I should keep taking it slowly.
+Q: You want the aerobic and...
 
-[Aajonus]
+A: But you want both.
 
-No, I'd just eat the diet and you will normally detox your brain slowly?
+Q: So open it every day a little bit?
 
-Yeah, I wouldn't eat that.
+A: Well, if it's out of the refrigerator, you open it every two days. In the refrigerator, every three to four days. But in the refrigerator, it takes much longer.
 
-As long as you're on the diet, if you're, let's say 80% on the diet, I wouldn't eat any cod liver, unless you're eating something really nasty like fried foods.
+Q: It should be ground, though.
 
-[Attendee]
+A: If you want it to go fast and hard, then ground.
 
-But if I'm in Canada and there's no sun and nothing.
+Q: Because that's easier to eat, too, a little bit.
 
-[Aajonus]
+Q: That would be easier.
 
-It'll help, but your milk has a lot of vitamin d in it and your butter?
+Q: You can do that. I used to do that with milk and then just wash it and throw it down.
 
-Oh, you can't get it at all.
+Q: Yeah.
 
-[Attendee #2]
+Q: And it doesn't really taste [unintelligible]. It tastes like sausage.
 
-You can't go to a farmer?
+Q: Yeah. I've done high meat, and it was no big... I mean, it was a little bit smelly, but...
 
-[Attendee]
+Q: High chicken. [unintelligible]
 
-I can take my car and go two hours in Vermont?
+A: When I used to go to the movie theater...
 
-The quality I had there was not that good.
+Q: Yeah, I told you. I told you.
 
-It was tough.
+A: I would take high meat. I mean high chicken. And you know how rank that smells. Well, the reason I did it was because everybody was using these perfumes and colognes with formaldehyde in them. And I couldn't go into a movie theater anymore. If I wanted to go to a movie theater, I would take my chicken legs. And I mean they would be rank. I'd leave them out the day before. They were already high in the refrigerator. And they would just be so bad. And I like that smell now. I like the smell. And I would pull that out, and you just... Two rows in front, all the way on the side, and two rows in back. Clear out. They see me eating the stinky... I mean they... Well, I was reported one time.
 
-There was no cream.
+Q: Of course.
 
-.
+Q: You're supposed to buy the stuff that's in the movie theaters now for $6 for a little candy bar. $5 a pop.
 
-(15) High Meat To Build Up Bacteria, High Meat
-(16) Honey Weight Gain From Enzymes
-[2012],[Aajonus]
+A: Yeah, yeah.
 
-You digest more food
+Q: That's how you lean into it or look up to it is you smell it.
 
-[Attendee]
+Q: No, I've done the high red meat. The chicken...
 
-I'm having more honey to digest more food.
+Q: Just cut the chicken up in a jar and let the air in and throw it in the smoothie. And you can't taste it at all. That's why I got a lot of high meat.
 
-[Aajonus]
+Q: The chicken? You got the chicken stinky, slimy, and then you put it in milk?
 
-Yes?
+Q: No, it's smoothie like coconut cream.
 
-Digest more food with honey, honey's enzymes.
+Q: You put some coconut cream and honey in a food processor? Wouldn't it smell the whole place out?
 
-[Attendee]
+Q: Kind of. Yes.
 
-No, but I'm saying why am I putting weight on by eating the honey.
+A: It doesn't work as well, though.
 
-[Aajonus]
+Q: What doesn't work?
 
-Just what I said?
+A: It doesn't work as well. Coconut cream will destroy the bacteria.
 
-You're digesting more food, you're digesting more fats.
+Q: Really?
 
-Everything you put it.
+Q: Well, that's it. Remember, his book says you just have to have it plain.
 
-[Attendee]
+A: Honey will destroy it, too. Yeah.
 
-No, but I'm saying I'm eating extra honey, so I'm putting more weight on.
+Q: Then there's no way around it.
 
-Not from the honey.
+A: Milk. Wash it down with milk.
 
-[Aajonus]
+Q: You have to eat it as just high meat. And then you rinse your mouth with milk and spit out the milk. You've got to take meat as it is.
 
-You're digesting the other foods better because you're eating so much, honey?
+A: No, you can take the milk down with it. It's just going to be a little bit slower in digestion.
 
-[Attendee]
+Q: If you rinse the chicken, does that make it no longer high chicken? 
 
-Oh, I see.
+A: Well, you're not going to have all the outer bacteria. You're just going to have that permeated as far as it's going to go.
 
-So, if I eat, if I less honey, do you think I'd lose the weight.
+Q: That's the way you work into it, right? No, my thing is I've got to be in an environment where I don't have people that are... That's the problem. Okay, what's my question?
 
-[Aajonus]
+Q: They need to make jars that are coated so it gets through inside.
 
-Not necessarily?
+Q: No, it's the smell, honey. It's the smell. Okay. My last reading was a year ago. And I had detoxed 80% of the other 20% [unintelligible]. And he said it would come out through the joint of this hand and aches, which it has. I hadn't been doing the baths because I don't have a bathtub.
 
-[Attendee #2]
+A: You can get five to seven hot water bottles. Three layers of beach towels underneath you for the sweat. Get a down comforter to go over you. And then maybe a silk one right against you. And then you have five to seven hot water bottles. You know, for four or five hours of heating like that. But I would say wear cotton long johns so you can absorb the poison in there so it won't stay on the skin.
 
-I tried that, It doesn't work.
+Q: Also, this ayurvedic guy said if you put sesame oil on your body it also draws out toxins.
 
-[Attendee]
+A: Yeah, but not in a good way.
 
-Okay.
+Q: No, yeah.
 
-So, the food that I'm eating, I'm using it more.
+A: I mean, if it were pure raw sesame oil it would be okay, but it still smothers the skin. Because it's only water-soluble oil. I mean, it's only fat-soluble oil. It's not water-soluble.
 
-So, therefore I'm putting weight on because of the food.
+Q: Okay. Leg discomfort. When the legs are like really aching and, you know. I remember you saying in the breathing that you can take certain things to dry it. Because you were talking about dryness in the body. And it wasn't too clear. So, I'm asking what's, with my condition, the pain is caused from the stiffness, the drying, the heavy metals. How do I...
 
-.
+A: All of them can cause it.
 
-(17) Hot Water Bottles, Muscle Recipe
-(18) Ideal Body Fat
-[2012],[Attendee]
+Q: All can cause what?
 
-Below 20% body fat
+A: All of them can cause that pain. Any one of those can cause that pain.
 
-[Aajonus]
+Q: Okay, so then...
 
-Well for women, I say don't go below 23% - 24%.
+A: You just have to know it's in the joints or it's in the muscles or it's in the connective tissue.
 
-[Attendee]
+Q: So, we've got joints, muscles, connective tissue. Okay, what's the formula?
 
-Wow.
+A: Well, if it's in the muscles you can take pineapple or banana with butter.
 
-Okay.
+Q: Pineapple, banana with...
 
-The doctor would tell you 15%.
+A: Banana and butter, pineapple and butter.
 
-[Attendee #2]
+Q: Butter. What's the proportion?
 
-What about a man.
+A: That you'll have to experiment with and see.
 
-[Aajonus]
+Q: Start off with how much?
 
-They say men, anywhere from 10% - 12%?
+A: If you're having banana, have about, it has to be medium ripe.
 
-I keep mine at least 20% - 21.
+Q: Medium.
 
-% Couple of times I've gone down to 18%.
+A: Not real green. Not too ripe, not alcoholic ripe. Have about three and a half inches of banana. And about... You can have a tablespoon of cheese and a tablespoon of butter.
 
-.
+Q: With the pineapple?
 
-(19) Juice Fast, Weight Loss, Ideal Weights
-[2012],[Attendee]
+A: Yeah. No, with the banana.
 
-Because so many of the detoxes I did before the Primal Diet were like juice fasting, so you would all get sick the first few days
+Q: Oh, so with the banana, yeah. Okay, so...
 
-[Aajonus]
+A: And with the pineapple I would make it two tablespoons of cheese and one tablespoon of butter.
 
-I'm never a juice faster.
+Q: How much pineapple?
 
-I don't tell anybody to juice.
+A: About a half a cup.
 
-[Attendee]
+Q: And that's for the muscle. Okay, what about the joints?
 
-Well, I did that before I met you.
+A: That would be a constant pain, not just cramping.
 
-[Aajonus]
+Q: Yep.
 
-Well, what happens on a juice fast is you keep getting lower on fat and protein.
+A: That's what you talked about.
 
-Then when you are hungry, you just start overeating and then right back where you were.
+Q: Yeah, constant pain.
 
-[Attendee]
+A: Bone marrow.
 
-Is it okay to lose 20 or 30 pounds.
+Q: How much?
 
-[Aajonus]
+A: And let's say about two ounces of bone marrow.
 
-You could use lose 20, 30 pounds?
+Q: Throughout the day?
 
-That'd be all right.
+A: No.
 
-[Attendee]
+Q: Or all at once?
 
-Because you're getting rid of the old stuff, that's fine.
+A: You're always trying to second guess what I'm going to say.
 
-You don't have to repeat everythig and gain it.
+Q: Sorry.
 
-How many times do you tell a person has to go up and down?
+A: Stop and listen.
 
-[Aajonus]
+Q: Sorry.
 
-Just in the recipe book?
+A: So two ounces of bone marrow with about two ounces of butter. And about a teaspoon of pineapple juice. You squeeze, take a chunk of pineapple and squeeze until you have a tablespoon of juice in that.
 
-I told everybody to do it every six months because a lot of people are paranoid that they had to wait a long time, they'd start worrying about it every day, but if they know they lose it every six months and they won't worry about it.
+Q: Tablespoon?
 
-But I like to tell people who are confident and don't worry about it.
+A: Tablespoon of pineapple juice. And if it's real bad, you can also take, while you're eating that, take a slice of meat and put it over that joint. Very thin. And then cover that with a moist gauze and cover that with a piece of plastic and then put an ACE bandage around it and you put a hot water bottle or two next to that joint at night.
 
-Let's stay there for two and a half years and then let the body go into a flue and take it off.
+Q: Okay, connective tissue?
 
-Don't force it.
+A: That's hot baths and whey. Also any of the sport drinks.
 
-So, I never had to force mine.
+Q: So how does the sport drink work to its benefit? What is it about the sport drink that makes it work?
 
-What's the first time ever really.
+A: It depends on what you use in it.
 
-[Attendee]
+Q: Okay.
 
-So, it's okay also just to carry it forever even?
+A: I would spend probably 45 minutes explaining that.
 
-[Aajonus]
+Q: Sport drink? So the one you gave us last time, is that the standard?
 
-Absolutely?
+A: No, I'm saying it depends on what you use in it and the different combinations.
 
-[Attendee]
+Q: Yeah, see, because the combinations, there's the standard, which is just the tomato, cucumber and, you know, all the other stuff. That's the standard. Then the other one is watermelon and cucumber.
 
-I guess I thought the purpose of a down diet was to detox.
+A: And tomato, that's what I mean. You can use any, so you can have like eight combinations or more.
 
-[Aajonus]
+Q: So is the sport drink for dryness or?
 
-You're going have certain fats that bind certain poisons while they're moving out of the body.
+A: It's for a lot of things.
 
-When I went back to Asia that last time I had holes.
+Q: Give us a few things about the sport drink.
 
-Well, you never saw me sitting without a shirt on.
+A: Well, it helps rehydrate the body. You can absorb 100% of the H2O in all different types of tissue. You have tomato and the cucumber together. If you have watermelon, it's going to have a tendency to cleanse and hydrate the intestines more and the mucous membrane and the connective tissue. If you have whey and cucumber, it's likely to be mostly joints and connective tissue. And it will clear lactic acid from the muscles.
 
-I don't go shirtless when I look like that.
+Q: It does what from the muscles?
 
-[Attendee]
+A: Lactic acid.
 
-You has that washboard belly like about two years ago you took your shirt off at the potluck.
+Q: Lactic acid.
 
-[Aajonus]
+A: The byproduct of metabolism. Waste product of metabolism.
 
-That's when I'm on my thin side, but when I'm on my full side and I'm full.
+Q: And what was the formula for the lactic acid? The whey and the?
 
-It's amazing.
+A: Whey and cucumber. Whey and tomato would be joints also. Also nerves.
 
-[Attendee #2]
+Q: With all the other stuff too, or just those two? With all of them.
 
-You don't look like 180 now.
+A: No, with those two.
 
-[Aajonus]
+Q: These are the different ones.
 
-I'm 182.
+A: Let's say you add two cups of tomato and one cup of whey, or one half cup of tomato and one half cup of whey.
 
-[Attendee]
+Q: So the more you add, if you eat in general, does it get all the effects or does it change properly?
 
-So, are you gonna do the down diet with me.
+A: It does, but it's just one will be more, work more in a particular area.
 
-[Attendee #3]
+Q: What is special about the whey? There must be something special about it, because it's in all of these sports drinks.
 
-Yeah, you'll be skin and bones if you go down?
+A: Well, it has a tendency to turn vinegar. It will be more cleansing. It can help dissolve mineral build-ups. It can help dissolve lactic acid build-ups, crystallizations.
 
-[Attendee]
+Q: If you don't want it in there, it's okay.
 
-I need to lose at least, 10 - 15.
+A: Pardon?
 
-I'd say about 15 pounds.
+Q: If you don't want it in there.
 
-So, I'm 150.
+A: Don't use it.
 
-[Aajonus]
+Q: It's okay.
 
-And how tall are you.
+A: Yeah. Like I said, you can use four different things. You don't have to have whey at all. You can have watermelon, tomato, and cucumber. You could have cucumber and tomato. You could have watermelon and tomato. You could have watermelon and cucumber.
 
-[Attendee #2]
+Q: I put my cravings a lot, so it's like sometimes if there's food repulsive to you, that's possibly not really the appropriate... [unintelligible]
 
-I think I'm 5' 5"?
+A: Yeah.
 
-And I just said, whose bottom is that.
+Q: So is that a normal instinct to pick the right thing, or...
 
-[Attendee #3]
+A: Well, maybe something that you know is going to detox you too fast.
 
-Did you say 150?
+Q: Yeah, because, so, ugh, does the smell of it or taste of it make you feel sick?
 
-[Attendee #2]
+A: Then you need to put something in it that counteracts that. That's usually what the vinegar does. Vinegar will counteract any of that problem.
 
-Yeah?
+Q: What does that mean? Vinegar counteracts the detoxing?
 
-[Attendee #3],[male]
+A: No, it helps take care of the detoxing so it doesn't, it isn't extreme. It will help neutralize those poisons to the point where they don't make you so ill.
 
-You're more than me .
+Q: Oh, so all the...
 
-[Attendee #2]
+A: Nausea is almost always the process of something going into the stomach, whether you're eating it or whether it's coming from the body, dumping into the stomach. The body forms hydrochloric acid to neutralize those poisons. If those are not neutralized, you have to vomit them. If you have something in there to help neutralize that besides hydrochloric acid, vinegar helps.
 
-I think I've been having too much honey in my formulas.
+Q: So whatever combination you have in the sports drink, when you add a little bit of apple cider vinegar to it, it just assists the...
 
-I think I need to reduce the honey.
+A: That's why I always have vinegar in there. Depending upon the person, sometimes I'll recommend people have two tablespoons. But most always it's just one tablespoon of vinegar. And that disperse through the whole quart, even and enough to take care of it. However, most of the time I say if you have cheese, I mean you have nausea, you eat cheese to absorb the poisons, don't worry about neutralizing, absorb them. So you'll be sure they don't get recycled.
 
-[Aajonus]
+Q: So if you can have the cheese, then you don't need the vinegar?
 
-But still, 5' 5", you shouldn't be under 140.
+A: Right.
 
-[Attendee]
+Q: If you have the cheese and you still put the vinegar in it, then what?
 
-So, what's a good one for 5' 4".
+A: Probably get nausea just from that.
 
-[Aajonus]
+Q: What's the difference between eating tomatoes and cucumbers by themselves? Is there a large difference?
 
-About 135 minimum?
+A: Oh, it's a huge difference.
 
-[Scott]
+Q: [unintelligible] So when you get to that point where you know what you want, does that mean you know what you're doing to some extent with your body?
 
-What about 5' 10".
+A: Well, if you get the results you want, yes. If you're not getting the results you want, then no.
 
-[Aajonus]
+Q: Well, I don't always know what I'm doing. I just know the body wants it and it feels good after I eat it.
 
-For a guy, you should be up to almost 200 pounds?
+A: That's why I say you've got to read the book, you know, many times to remember.
 
-[Attendee]
+Q: [unintelligible]
 
-He's got 50 pounds to go.
+A: Well, I talk about all those things in the book. 
 
-[Scott]
+Q: Yeah, you do. It's like it's telling you what those foods are, but sometimes you just go, yeah, I want to figure it out, I just want to eat this, you know. And then you eat it. So it could be doing 20 different things to your body.
 
-But I've never been able to put any weight in my whole life.
+Q: So what does eating the cucumbers and eating the tomatoes as compared to blending them? 
 
-[Attendee]
+A: Well, when you blend them together, you've got a formula that will disperse evenly all over and do the same thing.
 
-Have you been doing the dairy.
+Q: Is that better?
 
-[Scott]
+A: When you're eating them, yes, it is. When you're eating them separately, you're going to have isolated things getting certain areas to you.
 
-Yeah?
+Q: [unintelligible]
 
-[Attendee #2]
+A: That's fine, but I'm saying you're still not going to get the effect of the cucumber and tomato unless they're blended together.
 
-You'll start putting it on long.
+Q: I guess I was asking, is there a reason you want to chew? 
 
-No, when he gets closer to the 6th and 7th year, he'll start putting.
+A: Well, you might have, you know, a lot of, let's say, dental anesthesia in here. Sometimes the body needs to get it out of the salivary glands by chewing.
 
-Because I never put it on and all, all of a sudden it's like, I have big fat and I just put it on now.
+Q: Is there another reason you want to chew? Aggression or energy or enzymes?
 
-[Attendee]
+A: Well, you get a lot of bacteria. The more you chew, the more bacteria you're going to get into your food. You're also going to get more toxins that are discharging from the brain out the salivary glands.
 
-Does turning 50 have a part.
+Q: How do you get more bacteria when you chew?
 
-[Attendee #2]
+A: We have more bacteria in our bowels than dogs and cats.
 
-Not the 50, just the menopause?
+Q: How do you get bacteria by chewing?
 
-[Aajonus]
+A: Your bacteria is in your salivary glands.
 
-If you're on a shit diet.
+Q: And so when you're chewing, you're getting rid of toxins from your brain when you're chewing?
 
-[Attendee]
+A: Yeah, sometimes.
 
-But your metabolic weight slows down too, right.
+Q: [unintelligible]
 
-[Aajonus]
+A: You're doing that, you better eat, you know, some good fats while you're chewing that much. But what I tell people to do if they have that kind of impulse is to do some oil pulling. Take some coconut oil and swish it around in your mouth and chew. Keep it in there and spit it out after about 10-15 minutes. And then go ahead and chew all you want.
 
-No, they just have so many toxins collecting at that age, when they go into menopause, the body needs to detoxify?
+Q: Oh, you put coconut oil and you're chewing it?
 
-[Attendee]
+A: Keep it in your mouth, keep working until you pull all the stuff out. Takes about 10-15 minutes.
 
-So, it holds fat.
+Q: You're chewing?
 
-[Aajonus]
+A: All that's loose. Then if you go 12 hours, your gums may have filled up again.
 
-It's collecting the fat because it's not dumping the poisons, but you go to keep going into heat flashes to perspire it out, but those heat flashes don't work very much?
+Q: So if you put coconut oil in...
 
-[Attendee]
+Q: What does that oil pulling do? It pulls what out?
 
-It's not really the hormones fluctuating.
+A: The chemicals out of your gums and salivary glands.
 
-[Aajonus]
+Q: Oh, OK. I got it.
 
-It's the toxins trying to get rid of the toxins and putting them out the skin?
+Q: So you've got the coconut oil and you're kind of just swishing it around or you're kind of like also doing the chewing motion?
 
-[Attendee]
+A: All of it.
 
-So, the hormones though are gonna come lower, right.
+Q: Forcing it through your teeth.
 
-[Aajonus]
+A: 10 minutes. 10-15 minutes.
 
-No, you're still building as many, you're making as many?
+Q: [unintelligible]
 
-You're just using it to attach to toxins cause hormones are 60% fat or more, 68% fat.
+A: Part of that, yeah, by pulling. Oil pulling.
 
-So, your body uses the hormones to bind with the poisons, so it isn't you.
+Q: So when you do the nut formula and you get brain detox, what is that? [unintelligible] The nut formula is kind of...
 
-Just because you find a lower ratio of them in your blood that doesn't mean you're not making a lot of them.
+A: I said if you have it too often...
 
-See, all they find, "Oh, it's lower in the blood, therefore your body's not making the hormones", and it's a lie.
+Q: Oh, then it detoxes.
 
-The body's using it because now the liver's breaking down, it's not making the fats properly to harness with the toxins to feed the lymphatic system to clean the body, so the body starts using its hormones for purpose.
+A: Yeah. It can cause a brain detox. Otherwise, the nut formula just grabs excess hormones and some poisons.
 
-[Attendee #2]
+Q: So is it a good thing to detox the brain with the nut formula?
 
-Why would the body, in my case, put on weight because of the honey.
+A: I don't think so.
 
-[Aajonus]
+Q: What is a good brain detox? I feel like I need one.
 
-Well, you were able to digest and?
+A: Putting hot water bottles in your head. Cilantro.
 
-.
+Q: So when you put your head in a different direction and you have the hot, does it cool it differently? [unintelligible]
 
-.
+A: It starts melting. It doesn't matter. I mean, it will get down to your glands here, where the glands are supposed to take care of it, the lymph glands.
 
-.
+Q: Oh, okay. If I get headaches, I know that if I put my head down a certain way, it feels like [unintelligible].
 
-(20) Milk Clubs In Canada
-milk food sourcing canada
+A: Well, it drains down to your neck better, where all the lymph glands are. And you have your head back like this, it's easy to sit back here.
 
-(21) Milk Okay With High Meat, Coconut Cream With High Meat
-[2012],[Aajonus]
+Q: Let's say I put a hot water bottle like this, and the only position [unintelligible]. What does that mean when you put your head down?
 
-It doesn't work as well
+A: That means it's coming out of your gums and salivary glands. It's draining.
 
-Coconut cream will destroy.
+Q: It's draining down. So it can't drain through the skull very well, right?
 
-Honey will destroy it too.
+A: It can't drain through the skull. It has to go down the neck into the glands, lymphatic glands in the neck.
 
-You can wash it down with milk.
+Q: [unintelligible]
 
-[Attendee]
+A: No, you don't do it that long. Then you just spill more blood up into the brain, because your brain's not used to it.
 
-You have to eat it as just honey.
+Q: So it's a beneficial thing to keep trying to pump up blood up and up.
 
-And then you rinse your mouth with milk and spit out the milk.
+A: Well, if you've got any kind of, you know, shrunken passages, like the ganglia or axiom, then going upside down will stretch them, you know, so that they can flow better.
 
-You've gotta meat as it is.
+Q: So I don't know quite sure if I've finished the question. Dryness in the legs, is that what can also cause pain?
 
-[Aajonus]
+A: Yeah, if you have no fat.
 
-No, you can take the milk down a little bit.
+Q: I've got plenty of fat on the legs now.
 
-Alittle bit slower than digestion.
+A: No, you still do not have enough in the tissues.
 
-[Attendee #2]
+Q: Oh, in the tissues.
 
-If you rinse the chicken, does that make it no longer high chicken.
+A: Yeah, actually inside the veins or arteries.
 
-[Aajonus]
+Q: So if there's old stuff that needs to come out and new stuff can't go in there.
 
-Well, you're not gonna have all the outer bacteria?
+A: The moisturizing formula is important. Best thing for that.
 
-[Attendee #2]
+Q: The legs, or for just dryness.
 
-That's a good way to work into it, right.
+A: For dryness, yeah.
 
-[Attendee]
+Q: Just for dryness.
 
-No, my thing is I've gotta be in an environment where I don't have people, that's the problem?
+Q: So...
 
-.
+A: What time is it?
 
-(22) Muscle Pain, Lactic Acid
-[2012],[Attendee]
+Q: Five.
 
-And that's for the muscle
+A: Five?
 
-What about the joints.
+Q: Four forty-six.
 
-[Aajonus]
+A: Oh, okay.
 
-That would be a constant pain, not just cramping?
+Q: Are you done? I have a question.
 
-[Attendee]
+A: Go ahead.
 
-Yeah?
+Q: I have cold hands and feet all the time.
 
-Constant pain.
+A: Severe mineral deficiency.
 
-[Aajonus]
+Q: Minerals?
 
-Bone marrow.
+A: For about three or four days, eat about a pound of cheese a day with about a half a cup of honey.
 
-[Attendee]
+Q: Half a cup of honey and cheese?
 
-How much.
+A: Half a cup of honey with a pound of cheese. Excuse me, a half a pound of cheese. Eight ounces by weight of cheese. So a block like this of cheese with a half a cup of honey. You mash them together. You do that three or four days in a row.
 
-[Aajonus]
+Q: Just once a day?
 
-About two ounces of bone marrow?
+A: Once a day.
 
-[Attendee]
+Q: I eat all my meals like that.
 
-Throughout the day.
+A: Well, no, you can have it throughout the day. Not have it all at one time.
 
-[Aajonus]
+Q: Oh, not all at one time?
 
-No, all at once?
+A: You don't have to have it all at one time.
 
-You're always trying to second guess what I'm going to say.
+Q: You're going to have eight ounces throughout the day with a half a cup of cheese and extra minerals.
 
-[Attendee]
+A: Half a cup of honey.
 
-Sorry.
+Q: Honey, sorry. Mineral deficiency.
 
-[Aajonus]
+Q: I have cold feet too, especially in bed at night. I wear socks, I'm okay. So I need to do the same thing too?
 
-Stop and listen.
+A: Yeah.
 
-[Attendee]
+Q: And that solved the problem for a long time? 
 
-Alright.
+A: It may solve it for three or four weeks.
 
-[Aajonus]
+Q: To do that formula three to four days in a row?
 
-So, 2 oz of bone marrow with about 2 oz of butter and about a teaspoon of pineapple juice.
+A: Three or four days.
 
-You take a chunk of pineapple and squeeze a tablespoon of juice from that.
+Q: Is that honey?
 
-And if it's real bad, while you're eating that, take a slice and put it over that joint very thin, and then cover that with a moist gauss and cover that with a piece of plastic and then put a H-bandage around it and you put a hot water bottle or two next to that joint at night.
+Q: Yeah, I was going to ask about this honey.
 
-[Attendee]
+A: If that happens to me, I only have to eat it one day. But I used to have two, three, four days. Usually three days. Then it went down to two days. Now it's one day. 
 
-Connective tissue.
+Q: What happens if the cheese is salted?
 
-[Aajonus]
+A: If it's salted, it won't work.
 
-Hot baths, and whey?
+Q: It won't work, so it won't work anyway. I'm not getting any cheese.
 
-Also any of the sport drinks.
+Q: Now remember, you're going to get this co-op. Go to the co-op in Toronto. Or get it straight from Pennsylvania. You have no idea how it's important to get you the right one.
 
-[Attendee]
+A: The clover honey crystallizes into white.
 
-So, how does the sport drink work, its benefit.
+Q: Is that okay?
 
-What is it about the sport drink?
+A: Yeah. I've got a half a gallon of it.
 
-[Aajonus]
+Q: I like it because it's thicker. You know how it's hard to eat the other honey? You can just eat this like a chocolate or something. So I'm really digging it because I don't like to eat that lemon honey.
 
-Depends on what you use in it?
+Q: Well, Joseph just found out that the Pacific honey has been sugar-fed.
 
-[Attendee #2]
+Q: For how long?
 
-So, the one you gave us last time, is that just the standard.
+A: Syrup. No, just the season. So there's a new batch coming out.
 
-[Aajonus]
+Q: Well, good, because I got this, so I'm safe now.
 
-No, I'm saying it depends on what you use in it and the different combination?
+A: When I heard he was going to use syrup, I bought four gallons of honey.
 
-[Attendee]
+Q: What syrup?
 
-Yeah.
+A: Because the next year I'm not going to be able to buy any.
 
-See, because the combinations, there's the standard, which is just the tomato, cucumber, and all the other stuff.
+Q: What's the syrup that he was giving them?
 
-That's the standard.
+A: Corn syrup.
 
-Then there's the other one is, watermelon, and cucumber.
+Q: Corn syrup.
 
-[Aajonus]
+A: Corn syrup. That's what they give those bees when they don't have their honey.
 
-And tomato.
+Q: And how long does that stay in the hive?
 
-That's what I mean.
+A: Five generations of bees. So for that whole year, it's going to be contaminated.
 
-You can use any.
+Q: The whole year. So if you eat that honey that's come from the syrup bees, how does it affect you?
 
-So, you can have like eight combinations or more.
+A: Different ways. Depends upon the individual.
 
-[Attendee]
+Q: Like what kind of things?
 
-So, is the sport drink for dryness or.
+A: Well, it can make the pancreas and the cells weak in general because it spreads the toxicity.
 
-[Aajonus]
+Q: That's what I've been feeling. I've been feeling something with the honey for a long time. And I could feel it in the pancreas area. What's that been doing?
 
-It's for a lot of things?
+A: Well, if you feel it, there's no syrup fed to those bees. See, this is only the second time he's ever done it.
 
-[Attendee]
+Q: Yeah. This is Proto, John Proto?
 
-Well, give us a few things.
+A: Yeah, John Proto.
 
-[Aajonus]
+Q: This is the Pacific honey.
 
-Well, it helps rehydrate the body cause you can absorb 100% of the H20 in all different types of tissue if you have tomato and the cucumber together.
+A: Pacific, yeah.
 
-If you have watermelon, that's gonna have a tendency to cleanse and hydrate the intestines more, and mucus membrane and the connective tissue.
+Q: Normally a good honey?
 
-If you have whey and cucumber, it like would be mostly joints and connective tissue, and it will clear lactic acid from the muscles.
+A: Wonderful honey.
 
-Lactic acid, byproduct of metabolism.
+Q: Is that why you bought a whole bunch before this other stuff?
 
-Whey and tomato be joints also, also nerves.
+A: Well, the new batch comes out. I'm not buying any of the new batch.
 
-[Attendee]
+Q: The new batch is going to be sugar?
 
-With all the other stuff too or just those.
+A: Yeah, syrup, corn syrup.
 
-[Aajonus]
+Q: So what's it doing to my pancreas?
 
-No, just two?
+A: You haven't had any of the bad stuff.
 
-These are the different ones.
+Q: Yes, I have. I've been having it the last few months.
 
-Let's say you add two cups of tomato, one cup of whey, or 1.
+A: I told you it's going to be the next batch that comes this spring.
 
-5 cups of tomato and 1.
+Q: He's going to be feeding them the next batch?
 
-5 cups of way.
+A: He's fed them all the way starting in December, November.
 
-.
+Q: He's been feeding them?
 
-(23) Nausea, Vingar, Sports Drink
-[2012],[Aajonus]
+A: But the honey we have now is all from last year.
 
-Nausea is almost always the process of something going into the stomach, whether you're eating it or whether it's coming from the body, dumping into the stomach, body forms hydrochloric acid to neutralize those poisons
+Q: Oh, I see.
 
-If those are not neutralized, you have to vomit them.
+A: So it doesn't have anything to do with your sensation.
 
-If you have something in there to help neutralize that besides hydrochloric acid, vinegar helps.
+Q: Well, how does that become sage honey if he's doing that?
 
-[Attendee],[Aajonus]
+A: No, they feed the bees that because they have no honey to eat.
 
-So, whatever combination you have in the sports drink, when you add a little bit of apple cider vinegar to it, it just assists the-
+Q: But are they still coming off the sage? Are they still feeding off the sage?
 
-That's why I have always have vinegar in there, depending upon the person.
+A: There's going to be very little sage this year because there's been no rain.
 
-Sometimes I'll recommend people have two tablespoons, but most always it's just one tablespoon and that dispersed through the whole quart even and enough to take care.
+Q: Okay, so he's not going to have sage honey?
 
-However, most of the time I say if you have nausea, you eat cheese to absorb the poisons.
+A: Not going to have much sage.
 
-Don't worry about neutralizing, absorb them, so you'd be sure they don't get recycled.
+Q: So what's this stuff going to be? I mean, the sugar stuff, what is it? It's a wildflower, what are they going to call it?
 
-[Attendee #2]
+A: Whatever else he has. Whatever kind of honey he has.
 
-What's the difference between eating cucumbers and tomatoes by themselves.
+Q: Where's this clover honey coming from?
 
-[Aajonus]
+A: I don't think that's from here. I think that's from Oregon or something.
 
-Oh, it's a huge difference?
+Q: Can I ask a question? When's the honey going to be effective? When did he start feeding them?
 
-[Attendee #2]
+A: He started feeding them in like mid-November.
 
-So, when you get to that point where you know what you want, does that mean you know what you're doing to some extent with your body.
+Q: Mid-November and then till when?
 
-[Aajonus]
+A: He'll feed them up until, well, the flowers are starting to come out now. So the bees will stop eating the syrup and eating the nectar. 
 
-Well, if you get the results you want, yes?
+Q: Oh, okay, and then it'll affect the hive.
 
-If you're not getting the results you want, then no.
+A: But that'll still, all the bees that were, you know, the bees lived, what, 60 days. Okay, so the bees will die off, that generation will affect their, it'll take five generations from now, so that means next year.
 
-[Attendee #2]
+Q: Okay, next December, that's 2013.
 
-Well, I don't know what I'm doing, I just know good body wants it and it feels good after I eat it.
+A: No, 2012, December 2012, the bees will be okay again. If he doesn't feed them any syrup, then by spring, all that honey he starts collecting in the spring will be okay.
 
-[Aajonus]
+Q: Okay, so what's the next best honey?
 
-That's why I say you gotta read the books, sometimes you don't know remember.
+A: There isn't any, so that's why I got four gallons.
 
-Well, I talk about all those things in the book.
+Q: All our food's going down the drain.
 
-[Attendee]
+Q: [unintelligible]
 
-So, what does eating the cucumbers and tomatoes, compared to blending to do.
+A: I don't know who said that.
 
-[Aajonus]
+Q: It's from the Marilyn's list on the internet.
 
-Well, when you blend them together, you've got a formula that will disperse evenly all over and do the same thing?
+A: I don't know. I have to check on it.
 
-[Attendee #2]
+Q: So Marilyn's getting it from the Pacific guys.
 
-Is that better.
+Q: This is the Pacific.
 
-[Aajonus]
+Q: No, but the jars that she gets now from Pacific.
 
-Yes, it is?
+A: Except for that one.
 
-When you're eating them separately, you're gonna have isolated things, getting certain areas.
+Q: So the honey that's coming from November of last year is coming from syrup bees.
 
-.
+A: There's no honey in November.
 
-.
+Q: Okay, so the honey's going to be safe until this November?
 
-.
+A: No. All the honey that was brought in until September when the flowers stopped blossoming, late September, all the honey collected from last year is okay.
 
-(24) No Lemon With Red Meat
-(25) Over Acidic Blood
-[2012],[Aajonus]
+Q: But they've run out now. There's no more.
 
-Your blood protein drops to the point where your body has to eat its own red blood cells to get the protein and that causes over acidity and nausea, which is anorexia
+A: Okay, that's why I bought four gallons in November. I had Marilyn buy them for me.
 
-[Attendee]
+Q: So the honey you got yesterday was okay? It's okay.
 
-And to get rid of the acidity and the nausea.
+Q: So the honey you ordered next?
 
-[Aajonus]
+Q: If you order sage, you're not going to get sage because they don't have any more.
 
-Vegetable juice is helpful for that, some fruit?
+Q: Oh, they don't have any more? You got the last one?
 
-[Attendee]
+A: No, I got two gallons of sage.
 
-Which fruit.
+Q: I ordered sage and I got wildflower this last time.
 
-[Aajonus]
+A: There's no more sage than last year.
 
-Any of the fruit?
+Q: So is the wildflower syrup free?
 
-[Attendee]
+Q: The wildflower's probably okay too, isn't it?
 
-How.
+A: Well, up until this new batch, they'll start collecting it in late May. Anything you get now will be okay. Anything after May is not going to be good.
 
-[Aajonus]
+Q: Okay, then I can give it a try.
 
-Alkanizing substances?
+Q: Our food's getting tougher and tougher, isn't it?
 
-[Attendee]
+A: Oh, terrible. That's why I'm getting my own farms together. That's why I wanted them to get that farm up there [unintelligible].
 
-Like eat just fruit by itself or in the mixture with cow cream and coconut.
+Q: I was willing to put in $100,000 to it.
 
-[Aajonus]
+Q: How much did they need?
 
-Any way you want?
+Q: What happened with that farm?
 
-[Attendee]
+A: No, they were $100,000 away or something like that, that's all. But Lucky decided he didn't want to put his $50,000 up anymore. And that took it out of escrow. But then Marilyn, she would come in with somebody else with the $50,000 to hold it.
 
-Okay.
+Q: I lost my interest in that.
 
-And then when the over acidity is neutralized with the vegetable juices and fruit, then he slowly gets back into trying to eat the meat to build up the system.
+A: It was gone the next day.
 
-[Aajonus]
+Q: Oh, it was gone?
 
-Well, if you just have the pineapple, that should do it.
+A: The next day, the ranch was gone. It was a steal. Six springs, a well already on it.
 
-[Attendee]
+Q: And in a good location too.
 
-It'll neutralize the acidity.
+A: In a good location.
 
-[Aajonus]
+Q: It's not too far inland.
 
-Neutralize the acidity, and keep digestingthe meat at the same?
+A: Right. It was surrounded by National Forest.
 
-[Attendee #2]
+Q: North of LA?
 
-Lemon.
+A: Yeah, not very far either. It's Frazier National Forest. Perfect place.
 
-[Aajonus]
+Q: So it's because Lucky didn't have the money?
 
-Not with red meat.
+Q: [unintelligible]
 
-.
+Q: How about Yosemite?
 
-(26) Sipping Milk Throughout Day, Cream Hard To Digest, Not Digesting Meat, Cooked Mea,t Hydroclhoric Acid
-[2012],[Attendee]
+Q: I just don't have the time. I have to hire people.
 
-I usually drink 8 ounces when I drink it
+A: No, you have to hire people. I've got people at my ranches taking care of everything. Of course, the labor's incredible there.
 
-[Aajonus]
+Q: See, that's the problem here.
 
-I only do maybe two ounces at a time.
+A: I spend $150 a month to get these guys to work eight hours a day, six days a week.
 
-Then I do that about every 30 minutes.
+Q: How much?
 
-[Attendee #2]
+A: $150 a month.
 
-Didn't you say sipping milk throughout the day has some benefit.
+Q: Where's this?
 
-[Aajonus]
+A: $150 a month.
 
-You digest it better; your body handles it better?
+Q: In Thailand?
 
-No backup, there's no slow down.
+A: No, in the Philippines. In Thailand, I spend, let's see, Thailand, I'm spending about... $500 a month.
 
-Yeah.
+Q: I spend $400 a day to get this guy to work for me.
 
-So, what I do is I sip about 1 oz, 1.
+Q: See, that's what you need is someone like...
 
-5 - 2 oz at a time.
+Q: Joseph, you're investing in the wrong country.
 
-Then I do that about every 30 minutes.
+Q: You need someone that's out there all the time.
 
-[Attendee #2]
+A: I do have people that are...
 
-And what's the benefit of that.
+Q: Who? They're all Thai, right?
 
-What was that specific?
+A: Yeah.
 
-[Aajonus]
+Q: Do they give instructions to them?
 
-I just had said, it digests better?
+A: I give the instructions.
 
-You handle everything better, easier.
+Q: Are you eliminating all Americans from your farm?
 
-Nothing backs up.
+A: Pardon?
 
-nothing is overloaded.
+Q: Are you allowing any Americans on your farm?
 
-Yeah.
+A: Well, not right now, because I want the government to be happy.
 
-What happens.
+Q: Is that what you're doing?
 
-It's the overload, right?
+A: Oh, yeah. Yeah.
 
-[Attendee #2]
+Q; It would take a while.
 
-So, what happens, I remember in the past when Joseph and I were talking about milk?
+Q: They would be upset if they had a white person in there?
 
-Every time I drink you the milk, whether it's the six ounces of the eight ounces or more, I get sleepy.
+A: Oh, if we had other white people in there.
 
-So, why does it make you sleepy.
+Q: Thai, you know anything about Thai people?
 
-[Aajonus]
+Q: They're right to your face.
 
-Because the cream is very difficult to digest, especially when it's mixed with the other milk?
+Q: They have a lifetime of being abused by the American people.
 
-[Attendee #2]
+A: Oh, absolutely. All countries have.
 
-So, you kind of shut down.
+Q: In all countries. I mean, do you have any idea how they've abused their women?
 
-[Aajonus]
+Q: Women can't go anywhere.
 
-Well, your body just has to spend all this energy on digestion?
+Q: Yeah.
 
-[Attendee]
+Q: Well, they abuse their own kind.
 
-I just got sleepy from having a little tiny bit of cheese.
+Q: Yeah, but...
 
-[Aajonus]
+A: Those women, let me tell you, those women are very happy to be prostitutes.
 
-That's unusual.
+Q: Yes, they are.
 
-[Attendee #2]
+A: They are so happy. I mean, 4,000 baht is what the average income a month. 4,000 baht is only $130.
 
-It could be just that time of the day, the afternoon's that time, especially with this weather, you just wanna cuddle up and go to sleep.
+Q: Aajonus, what is it about Thai women? They are so simple. What is it about? They really have this uniqueness of wanting to just satisfy the male tourists. They're so happy. Generally speaking.
 
-[Scott]
+A: The girls of the new age are not that way.
 
-Is it okay to drink milk with food.
+Q: They're not that way.
 
-Do you have milk with food, or should you have it separate?
+A: They're just like Americans, just as bad as...
 
-[Aajonus]
+Q: So what happened to those whites?
 
-If you have milk with food, it should be a very small amount?
+A: Everything is, you know... Money. High maintenance.
 
-[Scott]
+Q: Yeah.
 
-Always sip it.
+A: High maintenance, everything.
 
-[Aajonus]
+Q: If you have a brain, it's hard to sell yourself all the time.
 
-Better, yeah?
+A: Yeah, but they don't consider that. They say working in a factory 12 hours a day, hot and sweaty... Instead of going and laying down with some guy for 10 minutes. And most guys are finished in 10 minutes.
 
-When I have a meat meal, I'll have a tablespoon to rinse my mouth, but I won't touch it for another 20 -30 minutes.
+Q: Yeah.
 
-[Attendee]
+A: You know, so... And they're making, you know, 100 bucks for that. Or 50 bucks.
 
-So, drink milkshakes the same way.
+Q: It's a good thing I got this all recorded.
 
-Two ounces at a time?
+Q: It's a good thing.
 
-[Aajonus]
+[laughter]
 
-Yeah.
+Q: What's that?
 
-It's always better.
+Q: I said it's a good thing I got this all recorded.
 
-2 oz at a time every 10, 15 minutes or every 5 minutes, you do two ounces every 5 minutes of a milkshake.
+Q: But the thing is, you know, the thing is, though, the soul of that person still is not happy in what they're doing. You cannot be.
 
-Unless you want to take a long time to drink it, take an hour to drink it that's okay.
+A: Don't believe that. They're so happy. Are you kidding?
 
-If you have, let's say a 16-ounce milkshake, then over a period of an hour, if you had two ounces at a time.
+Q: Yeah. No.
 
-[Attendee]
+A: They're not slaving.
 
-So, if you drink that all at once, that's way too much.
+Q: That's true. But at the same time, when you look at the other, the next step, it's just, it's the same thing. It's self-abuse.
 
-[Aajonus]
+A: Not if they don't do what they don't want to do.
 
-Yeah?
+Q: That's true.
 
-I mean if you have milkshake all one time like that,I would just go to sleep.
+A: I mean, just think, if they're slaving in a...
 
-[Attendee]
+Q: No, that's true.
 
-I can have eight ounces all at one time, but not sixteen.
+Q: But at what point do they go, like, people stop going to them at 40? I mean, when you're a prostitute or what?
 
-[Attendee]
+A: No, they just take lower money and do it very late. But most of them save their money and get a house built by the time they're 30.
 
-So, in that hour, you're sipping that milkshake and nothing else.
+Q: Get out of it, yeah.
 
-[Aajonus]
+A: And then they're out of it by the time they're 32.
 
-Yeah?
+Q: And then they hook a white guy and come over there and build a house. I've seen that. Or come over here and take his house and go back.
 
-[Attendee]
+[laughter]
 
-What was, what was your question for Aajonus.
+Q: I've seen that a few times, too. They do. [unintelligible] I'm like, I love you, I love you. And he's like, ooh, you old, you stink guy, you're dead. I mean, it's kind of sad, you know, that they don't have any... But what do we got? Do we have, like, the government down our butts?
 
-[Scott]
+Q: Well, over the years, they've certainly learned to be businesslike with their, you know, their lifestyle and exchange because they know they've only got so much time left, you know, to accumulate the money for financial stability.
 
-It was about milk?
+Q: The question I have is, are Thai girls really better at sex than white American women?
 
-[Attendee]
+A: I've had good on both sides and I've had bad on both sides. It's the woman. It's the woman.
 
-Well, take advantage.
+Q: It's not just the culture.
 
-[Attendee]
+A: I would say the only difference that I really notice is that Asian women are much smaller, have much smaller vaginas. So if you've got a smaller penis, it's better. If you've got a large penis, it's not so good. And I've made a few bleed, you know, so it's not good sometimes.
 
-Okay.
+Q: Is that just culturally their size, do you mean?
 
-Like when you eat raw meat, what would be a good portion.
+A: Yeah, their size. They just have smaller vaginas.
 
-[Aajonus]
+Q: Well, aren't they smaller to start with?
 
-How much meat at a time?
+A: Smaller to start with.
 
-[Attendee]
+Q: I mean, the women, aren't they smaller? They're not tall?
 
-Yeah?
+Q: Well, the women and the men are small.
 
-[Aajonus]
+A: The men, if you're looking at a lot of tall Chinese, a lot of tall Koreans, a lot of small Thais. Of course, the tallest woman in the world is Thai.
 
-I usually have 1/2 pound, 1.
+Q: Really?
 
-5 cups.
+A: She's 6'9".
 
-[Attendee]
+Q: Wow.
 
-That's a lot.
+A: Big woman.
 
-[Attendee]
+Q: The Thai population is mixing up a lot now. I remember in the 70s when I was traveling, the Thai women were just really beautiful. But now the mixture of the Thai and the...
 
-Didn't say something about ground up meat oxidizes or something.
+A: It's not the mixture. There's a toxicity. It's the food that they're giving out.
 
-[Aajonus]
+Q: No, but there's mixture in their races, right?
 
-Well, it depends on how it's ground?
+A: No, it's even changing. I know purebreds that don't look like Thais anymore.
 
-If it's ground under high pressure the fat is homogenized and then homogenized fat encapsulates the protein and you don't digest it very well.
+Q: Because I was shocked when I saw them in the...
 
-[Attendee]
+A: The toxicity of food just reshapes them.
 
-I feel like I digest the ground beef better.
+Q: I remember their skin was really bad. So it's just the food, like Western foods coming out.
 
-[Aajonus]
+A: Oh, yeah. All the [unintelligible] that we get are being produced and given to them over there.
 
-Yeah, but usually stores grind it through a high-pressure grinder twice.
+Q: Here's an important question, Aajonus. Is that when you get onto this diet, essentially what you normally are, according to what you're saying, height and stuff, you have to be so much. Like if you're 5'4", you have to be 135 pounds. Then you have to put on about 10 to 15 pounds more, right? So if you do that, and when you're eating the food that you recommend to assist, you put on the extra 10, 15 pounds. Then when you're detoxing, whether it's with the cilantro juices or whatever formulas you give, you're supposed to, in that day, eat the butter, the cheese, the cream, the coconut cream. So the question is, when you're trying to get rid of your toxicity, you've got the extra 10, 15 pounds, and you're also eating, in the day, the extra fats to bind with the toxins that you're dealing with daily. Is that the formula?
 
-[Attendee]
+A: Yeah.
 
-But I feel how often when I eat meat, it stays in my stomach more than cooked meat
+Q: You get that meat there.
 
-Which I find strange because I should be able to digest it.
+A: You know, 10, 15 pounds I would say is minimum. I like people to go 20, 25 pounds. If they're over 5'4", they should be going 20 pounds overweight, 25 pounds overweight. I go from my bottom is about 160, probably 63 or 64 now, but I go all the way up to 192.
 
-[Aajonus]
+Q: Okay.
 
-Just means you have no hydrochloric acid in your stomach.
+A: So I go 30 pounds.
 
-[Attendee]
+Q: What's your height?
 
-Then what do you do.
+A: 5'7", 3 quarters. I've been 5'7", 3 quarters since I was 16 and a half years old.
 
-[Aajonus]
+Q: I like how you put that 3 quarters.
 
-See, when you have cooked meat, it'll just flake off and fall apart and dissolve?
+A: All my family is shrunken and shrunken and shrunken. I've stayed right at 5'7" and 3 quarters.
 
-In your intestine, raw does not, unless you have hydrochloric acid.
+Q: Okay, so the question is...
 
-[Attendee]
+A: No, the last time, I'm sorry, I had it done in October, right the week before I left, and I was actually a sixteenth of an inch taller. So I'm just slightly above the 5'7", 3 quarters.
 
-How do you get that.
+Q: How did you get the extra height?
 
-[Aajonus]
+A: I think that I just started growing. 
 
-Beets, corn, pineapple?
+Q: Okay, so the thing is, if you do put on the extra 15, 20 pounds or not, if you don't put that on, but you're eating the fats during the day, what happens if you do detox and you don't have that...
 
-[Attendee]
+A: You'll have a reserve, you're going to have a lot more symptoms, you're going to suffer more, and you're not going to get very well. You're not going to detoxify properly, and you're going to damage tissue in your body.
 
-Beets have hydrochloric acid.
+Q: So that extra cushion of fat absorbs the toxicity?
 
-[Aajonus]
+A: Correct.
 
-They hydrochloric acid precursors?
+Q: Okay. So is that why back then when I was detoxing and I didn't have the extra fat on, that it went into the bone marrow?
 
-[Attendee]
+A: But it probably went into other cells, not just the bone marrow.
 
-So, eating raw meat won't give this hydrochloric acid.
+Q: What other cells?
 
-[Aajonus]
+A: Any cell in your body where the poison was.
 
-Well, it depends on how toxic your stomach lining is, sounds like your stomach lining is pretty dark?
+Q: The toxicity went into the cells? Are you talking about like the liver maybe?
 
-[Attendee]
+A: Depends on where it was coming out, what was the local cells.
 
-It's pretty bad.
+Q: What local cells?
 
-[Attendee]
+A: If it came out of the liver, it may go right back into the liver. Other cells that had fat. But it would be looking for the fat inside the cell, so it would go into the cell and destroy the fat inside the cell. So then the cell is weaker or even dies or is maimed in some way, so that cell won't function as well. That's why it's very important to have excess fat.
 
-So, if he eats pineapple with his meat, how much pineapple.
+Q: So if in the bone marrow of the body that's where the red and white blood cells are made and get their energy?
 
-[Aajonus]
+A: They divide in the bone marrow, they mature in the bone marrow, and then once they mature they enter the bloodstream.
 
-Not much?
+Q: So if they enter the bloodstream immature and not with enough oxygen, then you're going to be...
 
-[Attendee]
+A: Red blood cells take oxygen from the lungs and take them to the cells. But when a cell is bred in a toxic bone marrow, it's going to be affected. It's not going to be as strong. Let's say if it's a red blood cell, it won't be able to carry as much oxygen, it won't be able to move as agilely, it will have a lot more toxic byproducts that it excretes. Then the white blood cells are supposed to eat all of that. If they're toxic they're going to get nauseous and they can't eat as much, so they won't be able to keep the blood as clean.
 
-Pineapple makes me swell, like my mouth.
+Q: When you go on the down diet, does your body not hurt from toxicity or the weight will pull enough of it out? When you go down you're not going to have the same symptoms?
 
-[Attendee]
+A: Depends on how far down you go. I've seen people go beyond where they're supposed to go.
 
-Mine even bled once.
+Q: On the weight loss?
 
-[Aajonus]
+A: Let's say they've been 15 pounds overweight and they go below the 15 pounds, they're going to have some problems.
 
-Yeah.
+Q: Now when you say overweight, like you said 5'4", 135, that's a pretty good primal diet, right? [unintelligible]
 
-Well, you're only supposed to eat a small piece at a time.
+A: The chart you find out there is really low.
 
-Mine will last two weeks.
+Q: What would it say? 5'4", should be 120 or something like that?
 
-What you do is you cut it in circles like this, small circle.
+A: Something like that, 123, 124.
 
-And then you put it down in a bowl, so it's down in a bowl like this and it seats itself and it stays fine.
+Q: But then you had this test for body fat, and you were telling us that you had less body fat than the [unintelligible] fat.
 
-Well, when you take it out, let's say you've gone three days without having any.
+A: No, less weight.
 
-You take about a 16th of an inch slice off, throw it away, and take your slice off of that.
+Q: Less weight? In the body fat?
 
-[Attendee]
+A: In the body fat.
 
-But that's still a lot.
+Q: You were saying you had your body fat tested?
 
-If you take a slice like that, there's still a lot of pineapple on there.
+A: I had low body fat.
 
-[Aajonus]
+Q: Yeah, and you had low body fat.
 
-Oh, that's too much.
+A: Lower body fat.
 
-It's a small, I'm not saying that thick.
+Q: And when you gained the weight [unintelligible] or was that just because you were thin at the time?
 
-Let's say you're taking a slice off, okay, to get a cube of pineapple like that.
+A: Because I was thin at the time.
 
-You just take a thin slice about an 1/8" and that's all you eat.
+Q: So how much body fat would you say you're carrying?
 
-[Attendee]
+A: When I'm on the down?
 
-It could be there forever.
+Q: No, when you're up, when you're at your large 195.
 
-[Aajonus]
+A: Oh, I'm up around 20, 21% fat.
 
-Not if you're doing that two, three times a day, even four times a day, taking a little thin slice for.
+Q: And then your lowest you would go to?
 
-(27) Syrup Fed Honey, Aajonus Farm
-(28) Taking High Chicken To Movie Theatre
-[2012],[Aajonus]
+A: Down to about 14, 15.
 
-When I used to go to the movie theater I would take high chicken with me
+Q: Yeah, so that's the limit you think people should be at, or do you not care about that?
 
-The reason I did is cuz everybody was using these perfumes and colognes with formaldehyde in it and I couldn't go into a movie theater anymore.
+A: Oh, I care how low they go.
 
-If I wanted to go to movie theater, I would take my chicken legs and I mean, they would rank, I'd leave them out the day before.
+Q: So what's the bottom?
 
-They were already high in the refrigerator and they would just be so bad.
+A: I would say for the average person, it shouldn't go below 20.
 
-I like the smell and I would pull that out and you just, two rows in front, all the way on the side and two rows in back, clear out.
+Q: And you were 14 before you were healthy.
 
-Well, I was reported one time.
+A: No, I'm better now, but when I was really sick, I always kept it between 25, 26, and 30.
 
-[Attendee]
+Q: And so now you're 20?
 
-We're supposed to buy the stuff that's in the movie now, $6 for a little candy bar .
+A: Yeah, now I'm around 20, 21.
 
-(29) Termites
-[2012],[Aajonus]
+Q: So that's what it tells you the overall body fat?
 
-I would tape all the doors on the inside, but the last one you go out
+A: There are those scales.
 
-I would tape that one after I go out.
+Q: Yeah, you've got the fat scales.
 
-[Attendee]
+A: You put your height in, and your height, that's all. You put your height in, and then when you get on it, it tells you within a percent.
 
-How serious is termite killing medication, what does it do.
+Q: Your percent of your body fat?
 
-[Aajonus]
+Q: Yeah. There's scales. I've seen it. Barbara Morgan had one. Cynthia had one.
 
-If the body decides to throw it there, body puts it in a non weak place, then it won't be so bad?
+A: I had one.
 
-And if you have fats there, it's not gonna be so bad.
+Q: So is that one way to help decide where you should be?
 
-And if you put it in a weak place or a place where it's very fat deficient, It's gonna have some damage that kills cells that cause more toxicity in the area that can damage every cell, every time that it offgases.
+Q: Where do you get those? Where do you get those scales?
 
-[Attendee #2]
+A: Almost anywhere.
 
-I looked up the cedar oil once and it seems to me that there was two kinds, one water based or oil based.
+Q: So stay at 20, not go to 15. When you first treated me, would you say I was 15 to 20?
 
-Have you ever seen anything like that.
+A: Yeah, you were probably, a lot of people, you see, I can be slim and have a lot of body fat because my molecules are small.
 
-[Aajonus]
+Q: Right.
 
-Yeah, there's a water based one?
+A: Okay? Condensed and small. When you cook a fat, it swells anywhere from 5 to 50 times its normal size. Like you take those pork rinds, they'll be really small, and then after you fry them, they're like this.
 
-[Attendee #2]
+Q: So if you're thin and you're [unintelligible] fat, that means you're really deficient.
 
-Which ones should I be buying.
+A: That's right. And a lot of these athletes go around with 7% body fat, like your marathon runner, 7% body fat. That's why they break down in their 30s.
 
-[Aajonus]
+Q: They have the heart attack.
 
-I would buy the oil based one?
+A: And they have no cholesterol and all that shit.
 
-They say neither has any VOCS in it, volatile organic compounds in any Cedar product, however, I tried the water soluble one and usually oil is more toxic, more compounds in it.
+Q: I know that.
 
-But the water soluble one seemed to give me a headache, and the oil soluble one did not.
+A: That's what I mean. The doctors are so full of crap.
 
-And the water soluble one lasted for weeks.
+Q: What does cholesterol do to the body again?
 
-Oil soluble one, because I think it was absorbed better into the wood, it only lasted about three or four days.
+A: Cholesterol is fat. It cleans it, protects it, does everything.
 
-[Attendee #2]
+Q: The cholesterol protects the body.
 
-You mean the order.
+A: It protects the body, it cleans it, it gives it energy. Without cholesterol, we wouldn't be alive.
 
-[Aajonus]
+Q: So don't go below 20% body fat.
 
-Odor can still be heavy?
+A: Well, for women, I say don't go below 23%, 24%.
 
-Cause those are still oil vapors.
+Q: Okay, the doctor would tell you at 15%.
 
-[Attendee #2]
+Q: What about a man?
 
-So, the water, the water vapor lasted a lot longer, is that what you said.
+A: They say men, anywhere from 10% to 12%. I keep mine at least 20%, 21%. A couple of times I've gone down to 18% when I've come back from Asia without having enough butter and stuff. Now I make sure I have enough butter with me.
 
-[Aajonus]
+Q: You take it with you?
 
-Yeah?
+A: I take it with me. 30, 50 pounds with me.
 
-Cause there was some other chemical in it, that chemical was not a good chemical.
+Q: Really?
 
-.
+Q: You put it in the customs?
 
-(30) Thai Women and Prostitutes
-(31) Types Of Clay To Eat, Fast Metabolism and Leaky Gut
-[2012],[Attendee]
+A: I take it through with me. I have a letter from my doctor.
 
-Recommending Terramin Clay or Terrasilk Clay for eating
+Q: Really? That you need to bring butter?
 
-[Aajonus]
+A: I made him a big letter. I tell him I've got to go to, you know, he's going to Asia. He's been diagnosed with cancer of the blood, bone, stomach and lymph. You know, he was diagnosed as diabetic. This was 40 and 50 years ago, see, but it doesn't say that, that he was diagnosed with it.
 
-Depends upon the individual?
+Q: Oh, you've got the same letter.
 
-If they have a high metabolism and they're an athlete, they should be eating Terramin.
+A: No, no, what I'm saying is it just says that he was diagnosed with it, but it doesn't say when.
 
-They're very slow, low energy.
+Q: Well, if they look at you, they shouldn't believe it.
 
-Barbara Morgan is a high energy person, she should not be having the Terrasilk.
+A: Oh, no, they didn't, because I will go through limping and crippled.
 
-[Attendee #2]
+Q: Oh, I see.
 
-What's the difference.
+A: I go through like this when I go through. You know, I go like this.
 
-[Aajonus]
+[laughter]
 
-One coarser than the other?
+A: I go through like that.
 
-Terrasilk is very fine.
+Q: And it works?
 
-[Attendee]
+A: They do.
 
-It's a lot more expensive too.
+Q: Won't they tell you what's wrong with Thai butter? Can you buy butter there in Thailand?
 
-[Attendee #2]
+A: Yeah, but it's not as good.
 
-So, the Terrasilk being fine is for the people with low energy.
+Q: [unintelligible] New Zealand?
 
-[Aajonus]
+A: No, because they don't know. They don't know that you can get raw butter there.
 
-Slow digestion?
+Q: What do they know about raw butter? They just see butter, right?
 
-[Attendee #2]
+A: No, it says on the letter, raw butter.
 
-Slow digestion, how does that affect- I'm trying to understand what the difference is.
+Q: What kind of cancer do you have?
 
-[Aajonus]
+Q: Well, won't they tell you, you can't get raw butter here?
 
-Well, the people who are slower digestion need a finer molecule to help pull stuff out of the blood out of the intestine.
+A: No, they don't know, because it says on the letter, it's very difficult to find and get. And they don't provide it on the airplanes, so I can take, you know, I can take it. I take two quarts of milk on with me. I take two quarts. When I go to Asia, it says in my doctor's letter, I take up to 50 pounds of butter. I take up to two quarts, three quarts of milk sometimes, and then I have my honey, I take my meat.
 
-The people who have a high metabolism where everything is moving fast, they need a more coarse one, or else they may absorb some of those fine toxic molecules.
+Q; So the liquid of milk, you can take that on a plane?
 
-Clay is a rock.
+A: Not unless you have a doctor's letter.
 
-It's not a substance, it's not a food.
+Q: No, if you have a doctor's letter, they will allow you. And you walk that way. I've got to remember to walk.
 
-[unclear] gets absorbed into the body.
+Q: On Americans, the airplanes, they don't stop you with these stuff.
 
-If you're a hyperactive person, then you've got a high metabolism.
+A: Not with my letter.
 
-[Attendee #3]
+Q: You can't bring all the milk and stuff. What about the guy sitting next to you, you just drink that in the space and...
 
-What if you're both.
+A: I don't give a shit.
 
-[Aajonus]
+Q: They don't freak out.
 
-If you're both, then you could use either?
+A: I've taken a high meat and eaten it right on the airplane.
 
-[Attendee #2]
+Q: Oh, my God.
 
-So, when you are on the low end, then you should be having the silk.
+A: Stinky stuff. And there was a biologist who was writing a food contamination paper.
 
-[Aajonus]
+Q: Oh, that's perfect.
 
-Right?
+A: And I was eating it right in front of...
 
-[Attendee #2]
+Q: Oh, perfect.
 
-And the thing is, if you eat the wrong kind and it's absorbing in your body, it's going to be damaging you.
+A: The poor woman was... She was like this.
 
-[Aajonus]
+Q: She was...
 
-Yeah?
+A: She was like this. Get rid of the bacteria. She's way over here like this, trying to read and write. Smelling that stuff.
 
-It'll be heavy metal toxicity.
+[laughter]
 
-Rock does not digest in the human body and, but sometimes, because I tell you to soak it and leave it a long time, you've got bacteria in there that will break it down even further to just help pull poisons out faster.
+Q: Oh, God.
 
-But some people who have high metabolism have huge pores in their intestines, and even those things can pass out.
+Q: So, I wrote my own letters.
 
-It'll never get into a cell, but it can get into the blood, it can get into the neurological fluid and cause complication.
+Q: I don't think...
 
-It could cause rashes, it could cause nausea, it could cause headaches, loss of appetite, too much hunger; can go anyway.
+Q: Well, I wrote like I was a different doctor. I just said I had cancer.
 
-.
+A: That's fine.
 
-(32) Used To Go To The Bathroom More, Vegetarians Not Digesting, Toxins In Food
-[2012],[Attendee]
+Q: But they did this test.
 
-I remember when I was a lot leaner, I was always going to the bathroom
+A: Once in a while, they'll call my doctor.
 
-[Attendee #2]
-
-Yeah, me too.
-
-I don't go as much anymore.
-
-I don't go as much anymore.
-
-[Aajonus]
-
-When I was a fruitarian, Vegetarian I'd do five or six times a day.
-
-Now on Primal Diet, one time a day, sometimes one time every two days.
-
-[Attendee #2]
-
-Or just having a bowel movement too.
-
-Is that part toxicity every hour.
-
-[Aajonus]
-
-If it's a diarrhea, that's toxicity?
-
-But if they're going every hour, the body's not digesting their food and something in their food like a food coloring or a fragrance that goes into a food, make it smell good, any of those can be highly toxic.
-
-Cause them to have regular bowel movements several times a day.
-
-[Attendee #2]
-
-So, when you started assimilating, all of a sudden your food is digesting, is that cause the organs are healthier.
-
-[Aajonus]
-
-Bacteria's high in the intestines?
-
-[Attendee #2]
-
-All the bacteria or specific bacteria.
-
-[Aajonus]
-
-All of it?
-
-[Attendee]
-
-How does the bacteria get high.
-
-[Attendee #2]
-
-Yeah?
-
-How do you increase.
-
-So, now why are we having more bacteria?
-
-[Aajonus]
-
-Because you're not taking all the poisons and also you're eating the cheese regularly?
-
-You're absorbing poisons so they don't damage of the colon.
-
-[Attendee #2]
-
-Did you talk about it in that class.
-
-[Aajonus]
-
-No, because I didn't understand all of it at that time and now of course I give the lectures different?
-
-Eat the cheese that will absorb every hour, every 30 minutes, depending on how toxic the person lives.
-
-Eat a little piece of cheese, get a train of it going through to collect the poison sand that will prevent the toxins from lowering the bacterial levels.
-
-[Attendee #2]
-
-Oh, so the toxins lower the bacteria levels.
-
-[Aajonus]
-
-They kill bacteria?
-
-[Attendee #2]
-
-Right.
-
-And eating the cheese throughout the day raises the bacteria in the gut.
-
-[Aajonus]
-
-Only because it grabs onto the poisons?
-
-[Attendee #2]
-
-And what are the poisons specifically.
-
-[Aajonus]
-
-Depends on what they are?
-
-If you're eating processed food, like I said, it could be anything from any additive: could be coloring, it could be flavoring, it could be a fragrance.
-
-like a lot of the stuff that smells like strawberries.
-
-It's not at all strawberry anything, it's actually ester chemical that they made from petroleum.
-
-So, those kind of things get into the system, get into the tissue, and even if you're not eating them now, they were in your body.
-
-When your body throws 'em off, dissolves the fat that they were harnessed in or encapsulated in, sets them free again, they can poison all the bacteria in the intestine.
-
-And if it's really toxic, your body will either vomit or have diarrhea to get rid of it.
-
-If you have the cheese going through regularly, small amounts of the cheese going through regularly, it collects those poisons as long as you don't eat the honey directly with the cheese, and as long as it's raw, no salt cheese.
-
-[Attendee #3]
-
-So, just everybody to eat small pieces of cheese all the time during the day.
-
-[Aajonus]
-
-Yeah?
-
-Yeah.
-
-[Attendee #3]
-
-I've never found them cheeses.
-
-[Aajonus]
-
-Well, Amos Miller and some of those Amish farmers that have on their product list willl actually ship them to.
-
-You have to do a FedEx, you can't do it post office.
-
-.
-
-(33) Weight Gain and Loss and Aajonus Height, Detoxing Without Extra Fat
-[2012],[Attendee]
-
-To assist, you put on the extra 10, 15 pounds
-
-Then when you are detoxing, whether it's with the cilantro juices or whatever formulas you give, you're supposed to in that day, eat the butter, the cheese, the cream, the coconut cream.
-
-[Aajonus]
-
-Daily.
-
-[Attendee]
-
-Is that the formula.
-
-[Aajonus]
-
-15 pounds I would say is minimum?
-
-I like people to go 20, 25 pounds.
-
-If they're over 5' 4", they should be going 20 pounds overweight.
-
-My bottom is about 163 lbs now, but I'll go all the way up to 192.
-
-So, I go 30 pounds.
-
-[Attendee #2]
-
-What's your height.
-
-[Aajonus]
-
-5' 7" 3/4?
-
-" I've been 5' 7" 3/4" since I was 16.
-
-5 years old.
-
-All my family is shrunken and shrunken and shrunken, I've stayed.
-
-The last time I did it I was actually 1/16th of an inch taller.
-
-So, I'm just slightly above the 5' 7" 3/4".
-
-[Attendee]
-
-How did you get the extra height.
-
-[Aajonus]
-
-I think that I just started growing?
-
-[Attendee]
-
-Okay.
-
-[Aajonus]
-
-If you don't have a reserve, you're gonna have a lot more symptoms, you're gonna suffer more and you're not gonna get very well.
-
-You're not gonna detoxify properly and you're gonna damage tissue in your body.
-
-[Attendee]
-
-So, that extra cushion of fat absorbs the toxicity.
-
-[Aajonus]
-
-Correct?
-
-[Attendee]
-
-Okay.
-
-So, is that why back then when I was detoxing and I didn't have the extra fat on, that it went into the bone marrow.
-
-[Aajonus]
-
-Yeah, but it probably went into other cells, not just the bone marrow?
-
-[Attendee]
-
-What other cells.
-
-[Aajonus]
-
-Any cells in your body where the poison went?
-
-[Attendee]
-
-The toxicity went in the cells, like you talking about like the liver maybe.
-
-[Aajonus]
-
-Depends on where it was coming out and what was the local site.
-
-If it came out of the liver, it may go right back into the liver.
-
-Other cells that had fat, but it would be looking for the fat inside the cell, so it would go into the cell and destroy the fat inside the cell, so then the cell is weaker or even dies, or is maimed in some way.
-
-So, that cell won't function anymore.
-
-That's why it's very important to have excess fat.
-
-[Attendee]
-
-So, in the bone marrow of the body, that's where the red white blood cells are made and get their energy.
-
-[Aajonus]
-
-They divide in the bone marrow, they mature in the bone marrow, and then once they mature they enter the bloodstream?
-
-[Attendee],[Aajonus]
-
-So, if they enter the bloodstream, immature, not with enough oxygen, then you're going-
-
-You're red blood cells take oxygen from the lungs and take them to the cells, but when a cell is bred in a toxic bone marrow, it's going to be affected.
-
-It's not going to be as strong, let's say that it's a red blood cell, it won't be able to carry as much to oxygen, it'll have a lot more toxic byproducts that it excretes.
-
-Then the white blood cells are supposed to eat all of that.
-
-If they're toxic, they're gonna get nauseous and they can't eat as much, so they won't be able to keep the blood as clean.
-
-[Attendee #2]
-
-After the down diet, does your body hurt from toxicity.
-
-[Aajonus]
-
-Depends on how far down you go?
-
-I've seen people go beyond where they're supposed to go.
-
-Let's say they've been 15 pounds overweight and they go below the 15 pounds, they're gonna have some problems.
-
-[Attendee #2]
-
-Now, when you say overweight, like you said 5' 4", is that according to the primal diet weight.
-
-[Aajonus]
-
-It would be what the typical chart would say?
-
-Typically someone who is 5' 4" the average weight would be 123 lbs.
-
-.
-
-(34) Whey
-[2012],[Attendee]
-
-What is special about the whey
-
-Cause there must be something special about it cause it's in the sports drinks?
-
-[Aajonus]
-
-Well, it has a tendency to turn vinegar and will be more cleansing, can help dissolve mineral buildups, it can help dissolve lactic acid buildups, crystallizations.
-
-[Attendee #2]
-
-What if you don't want it in there, is that okay.
-
-[Aajonus]
-
-Don't use it?
-
-It's okay.
-
-Like I said, you can use four different things, you don't have to have whey at all.
-
-You have watermelon, tomato and cucumber.
-
-You could have cucumber and tomato, you could have watermelon and tomato, you could have watermelon and cucumber.
-
-[Attendee #2]
-
-Sometimes a food repulses me.
-
-So, is that not a normal instinct to pick the right thing.
-
-[Aajonus]
-
-Well, maybe something that you know is going to detox you too fast?
-
-[Attendee #2]
-
-Something better smelling or tasting.
-
-[Aajonus]
-
-Then you need to put something in at the counteract that, that's usually with the vinegar?
-
-[Attendee #3]
-
-What does that mean.
-
-Vinegar counteracts the detoxing?
-
-[Aajonus]
-
-No?
-
-It helps take care of the detoxing, so it isn't extreme.
-
-It will help neutralize poisons to the point where they don't make you so Ill.
+Q: Well, I had a number that would go to a [unintelligible].  So, they couldn't. They'd have to leave a message.

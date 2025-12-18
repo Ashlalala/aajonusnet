@@ -1,3 +1,5 @@
+Aajonus.net & Rawmeatgang
+
 A: Before going to the Q&A I'll tell you a little bit about my experience on vacation. I went to Guadeloupe, which is an island in the West Indies. It's French-owned and French-speaking. They speak Creole and French there. No English, [unintelligible] somebody's from Montreal. And so it's very difficult to find anybody who speaks English. I don't speak French well enough to have any conversation about nutrition. So that's why I went there. I would be assured to have a vacation. And it worked. It was a fun time. One day, I went to go hiking. On Guadeloupe, it's like two islands butted together. One is called the Grand Territory, Grand-Terre. And the other is called Bastard. Every time they say it, it's like somebody said Bastard. But it's B-A-S-S-E-T-E-R-R-E. But in French, it's called Bastard. But it sounds like bastard, with a hard, gravelly R. So it's Bastard and Grand-Terre. And the Grand-Terre is very hilly. Lots of valleys. And so I drove all through that, and it was nice. The other island is where the volcano is. It's not an active volcano. And jungle all around it. And mainly on these two islands, the Grand-Terre is mainly sugar cane. The other island is mainly [unintelligible], beans, coffee, and bananas. So it's heavily farmed. But it's gorgeous jungle. It's so thick. So I was going to go on the natural, the human path, which is this cut road, pretty rocky and messy. And I went with these rubber tongs. And in my shorts and a t-shirt. And I was going along this road, and I didn't want to be on the road anymore. So I started going to the animal trails. And that's rough, because you have to go under, and you have to climb over these roots, and they fall to the ceiling, and then falling over them. It was wonderful. And I actually spent about five hours climbing through the jungle, trying to find the waterfalls. And finally I got to the end. There were a couple people on the diet who were professional rock climbers. And they took me [unintelligible]. They forced me to go up. So I went. It was OK. But I never, you know, I was always afraid of heights. And since the stomach surgery, I've always been nauseous from heights. Something you don't want to do with a rock climber. But something came over me, and I climbed all the way down the falls, and then all the way down the lower falls, and all the way, rock climbing all the way. It was phenomenal. I went with these tongs.
 
 Q: Wow.
@@ -10,7 +12,7 @@ A: [unintelligible] changed ice once or twice a day. And it was good. It was goo
 
 Q: Because?
 
-A: Because I didn't use the primal facial body. And so every other time, at that time, I didn't. So I burned a little bit here, a little bit here.
+A: Because I didn't use the primal facial body cream. And so every other time, at that time, I didn't. So I burned a little bit here, a little bit here.
 
 Q: You mean that formula that you used for your face?
 
@@ -84,9 +86,9 @@ A: They're all processed.
 
 Q: Herbal extracts?
 
-A: Herbal extracts. They're all processed. Processed, distilled, solvent-extracted. Alcohol may be the solvent or petroleum.
+A: Herbal extracts. They're all processed. Processed, distilled, solvent-extracted. Alcohol may be the solvent or petroleum, like break fluid.
 
-Q: [unintelligible]? Probiotics is a friendly bacteria which is kind [unintelligible]. That is also dry and not alive.
+Q: Probiotics? Cause they talk about the probiotics as a friendly bacteria which is kind like the herb that is also dry and not alive.
 
 A: If it's dry, it's not alive.
 
@@ -202,7 +204,7 @@ A: Okay, do you have a question?
 
 Q: I have one on dentistry. I was wondering, I was told I have a, you know, I need a filling. And I asked the guy about it. And I was told, well, if you let it go, the bacteria will eat through and eventually get your nerve. And I think you have a different opinion about that. But my thought was this. If you have something wrong with the tooth already, is it the same theory that the bacteria is doing something to that already damaged material? Or is the bacteria actually eating away at your tooth?
 
-A: Well, you've asked a very large subject. I'm not going to go into it fully. If you have, let's say, a composite that's plastic, it sets off dioxins and phthalates. It causes bacteria to grow underneath. It also causes a recession of gums. It also causes a recession of nerves. Composites are not good things to put in. Plastic fillings. It inlays or onlays what you're forcing or surrounding. Those are the things we use. Crowns too.
+A: Well, you've asked a very large subject. I'm not going to go into it fully. If you have, let's say, a composite that's plastic, it sets off dioxins and phthalates. It causes bacteria to grow underneath. It also causes a recession of gums. It also causes a recession of nerves. Composites are not good things to put in. Plastic fillings. Get inlays or onlays or porcelain or ceramic. Those are the things to use. Crowns too.
 
 Q: [unintelligible]
 
@@ -210,7 +212,7 @@ A: They only make that in crowns.
 
 Q: But there's metal in there.
 
-A: Yeah, that's to reinforce. 
+A: Yeah, that's to reinforce.
 
 Q: That's okay.
 
@@ -230,13 +232,13 @@ A: It's not good. And, of course, if you have amalgam fillings, that's 50% mercu
 
 Q: [unintelligible]
 
-A: I've only seen young people repair their teeth on this diet. If you're so toxic, it takes forty years to get well. The teeth are the hardest place to... If you have no circulation going on the outside, the only way you can feed is through [unintelligible]. Bones on the inside, it takes seven and a half years to replace every single bone at one time. But you've got circulation coming from every direction. In the teeth, you don't have that restorative property.
+A: I've only seen young people repair their teeth on this diet. If you're so toxic, it takes forty years to get well. The teeth are the hardest place to... If you have no circulation going on the outside, the only way you can feed is through within. Bones on the inside, it takes seven and a half years to replace every single bone at one time. But you've got circulation coming from every direction. In the teeth, you don't have that restorative property.
 
-Q: [unintelligible]
+Q: What about the nerves surrounding them?
 
 A: Pardon?
 
-Q: [unintelligible]
+Q: Nerves surrounding your teeth?
 
 A: Well, they can be severely damaged from all the mercury and the amalgam.
 
@@ -250,7 +252,7 @@ A: Oh, no, I blended it with butter.
 
 Q: What, the cheese?
 
-A: The cheese, yeah. And basically, it's my cheesecake. Half butter, half cheese. A little bit more butter than cheese sometimes. [unintelligible] And after about a year and a half, the bones grew back, stabilized within about six years. I still have most of my teeth on me. I only have, I'd say, one here missing. And this one was all deteriorated, [unintelligible]. That one's taken 20 years to deteriorate. And no decay. Every time I go to the dentist, there's no decay there. It's just that the acids keep dissolving the tooth. There's no [unintelligible] to stop it. And the acids in my mouth are breaking it down. But there's no more decay.
+A: The cheese, yeah. And basically, it's my cheesecake. Half butter, half cheese. A little bit more butter than cheese sometimes. [unintelligible] And after about a year and a half, the bones grew back, stabilized within about six years. I still have most of my teeth on me. I only have, I'd say, one here missing. And this one was all deteriorated, [unintelligible]. That one's taken 20 years to deteriorate. And no decay. Every time I go to the dentist, there's no decay there. It's just that the acids keep dissolving the tooth. There's no dentine to stop it. And the acids in my mouth are breaking it down. But there's no more decay.
 
 Q: [unintelligible]
 
@@ -286,7 +288,7 @@ A: If you do, then you're not [unintelligible] radiation.
 
 Q: So continue, keep on chugging on.
 
-A: Yeah. Mine was a little bit worse than yours. You don't have that. You have the heavy buildup of dead cells, dead tissue in here from the dryness. Generally the cracking, I had chemotherapy. It damages the [unintelligible]. So it prevents proper clotting, so it's open air, open wounds.
+A: Yeah. Mine was a little bit worse than yours. You don't have that. You have the heavy buildup of dead cells, dead tissue in here from the dryness. Generally the cracking, I had chemotherapy. It damages the vitamin K. So it prevents proper clotting, so it's open air, open wounds.
 
 Q: I had this friend that has cancer and he can't swallow anything. He has a tumor in his throat, so he can't even drink water. And he has this tube that feeds directly into his skin. And he's lost 40% of his body weight. So he's pretty... Is there a food that women can eat to make their breasts stop growing? These are questions that I want to ask.
 
@@ -312,7 +314,7 @@ Q: Was it nice?
 
 A: It was nice because you could see how much the sun kept their breasts up. Sunlight is so important. Well, the French, you eat a lot of cream and butter in their sauces. That's why they consume so much wine and are not damaged by it. Because they eat all this fat. They're used to their culture of very rich sauces. So that kind of fat in the sun rays allows them, I mean, 86-years-old without hardly any sagging. It blew my mind how many of these women, you can tell, they had quite a few children and their breasts were like I see in the late 20s, early 30s here. They're 50, 60, 80-years-old. It was just amazing to me. They had no qualms. There were girls that were going around selling clothes on the beach and they would just take everything off and just, you know, right there. They don't have any of these bare-bodied hang-ups. And they'll just strip completely, bare testicles, everything, and change their clothes right on the beach. It's only for a few seconds. But there's no red reluctance about it, no fear, there's no anxiety, there's no hostility. Everybody does it. It was so refreshing to be in that kind of culture.
 
-Q: How much fat, including the butter, do you need to eat? [unintelligible]
+Q: How much fat, including the butter, do you need to eat before you drink wine?
 
 [laughter]
 
@@ -328,7 +330,7 @@ A: Well, not anymore. You know, well, let me put it this way. There are a lot of
 
 Q: There's actually a French-style restaurant in this new shopping centre called Grove. And in there they have a list of 30 or 40 different cheeses that half of them are raw. Raw milk cheeses.
 
-Q: Are they [unintelligible]?
+Q: Are they salted?
 
 Q: No, I don't think so. But they're raw milk. I don't know the name of it, but it's in the Grove.
 
@@ -340,17 +342,17 @@ A: Yeah, but most of them are salted.
 
 Q: Yeah, it's all salted.
 
-A: Yeah, the government, the U.S. government, they say they have to be pasteurized and salted.
+A: Yeah, the government, the U.S. government, they say they have to be pasteurized or salted.
 
 Q: But they're French cheeses, and they're all raw milk.
 
-Q: Why do they like having the salt?
+Q: Why do they like having the salt and why are they okay if it has salt?
 
 A: Because salt is an antibacterial.
 
 Q: Is the answer fats and sun?
 
-A: Fats and sun. Also, if women will do an exercise like... a counter like this one, everybody can see. And you spread your arms out like this, and you don't have to go far, and you go like this. It brings the circulation in to the mammary gland. And it isn't hard. [unintelligible] When you start feeling it, you know that the rush of circulation is going in there. It'll start breaking down dead cells to cause the sagging, and it'll strengthen the muscles in there. I've seen girls go from sagging down here to go up to a full two and a half inches up in seven months. From doing that every day without [unintelligible]. It's not all at one time. They may do ten at a time, five times a day.
+A: Fats and sun. Also, if women will do an exercise like... a counter like this one, everybody can see. And you spread your arms out like this, and you don't have to go far, and you go like this. It brings the circulation in to the mammary gland. And it isn't hard. As many as you want. When you start feeling it, you know that the rush of circulation is going in there. It'll start breaking down dead cells to cause the sagging, and it'll strengthen the muscles in there. I've seen girls go from sagging down here to go up to a full two and a half inches up in seven months. From doing that every day without [unintelligible]. It's not all at one time. They may do ten at a time, five times a day.
 
 Q: This is some of the valuable information you have.
 
@@ -374,7 +376,7 @@ Q: Organic pastures.
 
 A: Yes, organic pastures is going to build one. I don't know how long it's going to be, but they are hoping to. They're still working on getting financing to do it. Cheese factory is an expensive development. Murray.
 
-Q: Okay. What are the specific benefits of the three different types of high meat?
+Q: Okay. What are the specific benefits of the three different types of high meat? Fish, fowl, and beef.
 
 A: Just like those that are fresh, the fish helps replace the inner elements, the constituents of nerve tissue. The best. The fowl helps the nerve lining, the sheaths, the intestines, the bones, the bone cartilage, the intestines, lymphatic system, any of the white glands, connective tissue, skin. Red meat helps blood, the dark glands, liver, pancreas, gallbladder, spleen, bone marrow, and muscles. So, you need the high meat. It will help degenerate, it will help break down, dissolve the degenerative tissue in those particular systems.
 
@@ -404,7 +406,7 @@ A: It will help rebuild only in that it helps break down that to be replaced. A 
 
 Q: [unintelligible]. So how do you keep this on the diet, and [unintelligible]?
 
-A: I've got all these jars with me, and I put the meat in the jars. [unintelligible], two days in the car, unwrapped, exposing the oxygen, in this plastic bag. Completely fresh, no stench even in the car, fish. [unintelligible] and by the time I get to the hotel, I drink the water, and then from then on, you just keep changing the ice twice a day. Just pour the water off in the morning, and you're [unintelligible].
+A: I've got all these jars with me, and I put the meat in the jars. [unintelligible], two days in the car, unwrapped, exposing the oxygen, in this plastic bag. Completely fresh, no stench even in the car, fish. Amazing. But you just put it in jars, and if you have it in a cooler, just change the ice. [unintelligible] and by the time I get to the hotel, I drink the water, and then from then on, you just keep changing the ice twice a day. Just pour the water off in the morning, and you're [unintelligible].
 
 Q: So when you went on the plane, did they irradiate your...
 
@@ -476,7 +478,7 @@ A: Which?
 
 Q: Going through the quick way.
 
-A: Through the quick way, there's less destruction. Less destruction. However, there's going to be some destruction, but it's not going to be poisonous, unless [unintelligible], twice. Then it will be poisonous.Not only some of the nutrients damaged, but it will be poisonous.
+A: Through the quick way, there's less destruction. Less destruction. However, there's going to be some destruction, but it's not going to be poisonous, unless [unintelligible], twice. Then it will be poisonous. Not only some of the nutrients damaged, but it will be poisonous.
 
 Q: We had a problem with that. They ran it through when we first got to the terminal, and then they wanted to do it again, which made me, like, need a little extra nut formula or something. So that's a problem. I think they do do it twice. If you're going to do that.
 
@@ -490,23 +492,23 @@ A: They had to do two X-rays?
 
 Q: [unintelligible]
 
-A: Do you have a car? That's the easiest. I have a rental car and a hotel. I take one of those big plastic Coopers. I put a block of ice in there, and a block of ice will last four days. Four days. So I don't have to change the ice every day like I have to in a hotel. [unintelligible] But in a car, you know, you've got the big plastic cooler, and that big block of ice, seven-pound block of ice. I've been draining out some of the water every day, but I don't have to change it. And you don't want the crushed ice. You only want the block. The block doesn't melt.
+A: Do you have a car? That's the easiest. I have a rental car and a hotel. I take one of those big plastic coolers. I put a block of ice in there, and a block of ice will last four days. Four days. So I don't have to change the ice every day like I have to in a hotel. Twice a day [unintelligible] But in a car, you know, you've got the big plastic cooler, and that big block of ice, seven-pound block of ice. I've been draining out some of the water every day, but I don't have to change it. And you don't want the crushed ice. You only want the block. The block doesn't melt.
 
-Q: [unintelligible]
+Q: How do you get the block?
 
 A: Every supermarket here carries it, most of your liquor stores.
 
-Q: It's hard to get blocks.
+Q: It's harder to get blocks.
 
 A: Every place I've gone to, I've gotten one in the last three years.
 
-Q: The ice cubes, you can form them into the food, but the block [unintelligible].
+Q: The ice cubes, you can form them into the food, but the blocks [unintelligible].
 
-A: You don't want to form them. You don't want them to touch the food because they can burn the food. [unintelligible] it doesn't matter if the ice is packed right against it, it can't burn the food. You can put ice against you and [unintelligible] and see what it does to your skin.
+A: You don't want to form them. You don't want them to touch the food because they can burn the food. [unintelligible] it doesn't matter if the ice is packed right against it, it can't burn the food. You can put ice against you and the cooler and see what it does to your skin.
 
-Q: [unintelligible]
+Q: I wouldn't even wanna be in a cooler.
 
-A: So the block works very well. And there hasn't been a place that I've seen all the way across this country that doesn't sell block of ice. 7-Eleven, Hall. [unintelligible] the blocks. A lot of the crushed ice or the ice cubes, but they all have the blocks. [unintelligible]
+A: So the block works very well. And there hasn't been a place that I've seen all the way across this country that doesn't sell a block of ice. 7-Eleven, all of them. They have the choice they don't have many of the blocks. They have a lot of the crushed ice or the ice cubes, but they all have the blocks. Just have to ask them.
 
 Q: [unintelligible]
 
@@ -514,15 +516,15 @@ A: You saw me on Ripley Believe It or Not, I ate it up to a year and three month
 
 Q: Yeah, but you only eat a little bit of it.
 
-A: How much I ate on that show, usually I eat just a little bit, but when I went on that show, I ate a full cup. Because they had me eating so much. So I ate a full cup of a lot of that stuff.
+A: You know how much I ate on that fricking show, usually I eat just a little bit, but when I went on that show, I ate a full cup. Because they had me eating so much. So I ate a full cup of a lot of that stuff.
 
 Q: Did you detox?
 
 A: Pardon?
 
-Q: Did you detox?
+Q: And did you detox?
 
-A: [unintelligible]
+A: It didn't cause me to detox.
 
 Q: [unintelligible]
 
@@ -530,25 +532,25 @@ A: Pardon?
 
 Q: But it might be somebody else.
 
-A: Don't know. But you don't want to eat that. Just eat a little bit of it.
+A: Don't know. Might. But you don't want to eat that. Just eat a little bit of it.
 
-Q: She's saying she had like a whole meal or something.
+Q: She's saying if she had like a whole meal or something. You don't wanna eat it.
 
-Q: It's a golf ball size, right?
+Q: Is a golf ball size the right amount?
 
-A: Well, it depends on the individual. [unintelligible]
+A: Well, it depends on the individual. Anywhere from a ping-pong ball to a golf ball.
 
 Q: I just chop the meat up and let it just dry out, and it smells for a minute, and then I eat it, just carry it in my pocket.
 
-A: That's not as good.
+A: That's not as healthy.
 
-Q: Maybe it's not as healthy.
+Q: What do you mean it's not as healthy?
 
 A: Because it's starting to dehydrate, destroying a lot of the enzymes, bacteria and things to dehydrate. That's why the Eskimos and the American Indians, when they ate pemican, they didn't eat it unless they had to. Drying meat was not something they liked. Because it wouldn't help regenerate cells. It would give them energy and help them maintain and last, but it would not cause them to thrive. So they would make a big batch of pemican every year. They didn't eat it by springtime, they buried it. They don't eat jerky.
 
-Q: [unintelligible]
+Q: So do you want your meat [unintelligible] refrigeration [unintelligible]?
 
-A: Jar and in a dark cupboard. Or put it in a container where it keeps the light out. 
+A: Jar and in a dark cupboard. Or put it in a container where it keeps the light out, then in your car [unintelligible], then it's very delicious. 
 
 Q: You're talking about travel now, right?
 
@@ -560,7 +562,7 @@ A: Not until I'm ready to... The night before I'll take it out and put it in a c
 
 Q: [unintelligible]
 
-A: It's flat, it's tasteless. [unintelligible]
+A: It's flat, it's tasteless, but warm, especially really warm.
 
 Q: [unintelligible] 
 
@@ -586,7 +588,7 @@ Q: Could you make it into cream cheese and add some kind of cream to it?
 
 Q: [unintelligible]
 
-A: As long as you force them to eat at least one good raw meal a day with egg and cream, and it will help them. And you'll see, they'll adjust as you go along. Then you make them eat two. Most of the parents that I have, they force them, they have the milkshake in the morning and milkshake at night. That is it. They have to do it. If they don't like it, they can [unintelligible]. And they all do it.
+A: As long as you force them to eat at least one good raw meal a day with egg and cream, and it will help them. And you'll see, they'll adjust as you go along. Then you make them eat two. Most of the parents that I have, they force them, they have the milkshake in the morning and milkshake at night. That is it. They have to do it. If they don't like it, they can go live in the street. And they all do it.
 
 Q: [unintelligible] Much calmer.
 
@@ -672,7 +674,7 @@ Q: So it's better not to eat them. [unintelligible]
 
 A: As long as you get them and leave them out, the bacteria will grow again, so the enzyme will develop.
 
-Q: [unintelligible]
+Q: How long do you have to leave them out?
 
 A: Usually 24 hours, unless you put them in warm water. I let them in warm water for a while. Let them warm up for maybe an hour, two hours.
 
@@ -684,11 +686,11 @@ Q: So if I have excess, just put it in a jar and set it somewhere out of the sun
 
 A: Celeste?
 
-Q: I had, before being like 34 pounds, I started to diet, and I started experiencing weight loss.
+Q: I had, before I gained like 34 pounds since I started the diet, and then I started experimenting with the weight loss.
 
 A: [unintelligible]
 
-Q: Originally, when I gained 34. But I noticed since the time that I started that, it didn't happen all of a sudden. I started living off the fat that was in my body. [unintelligible] Especially the last little part, I started to get down in weight. I started to get so stressed out and so nervous. [unintelligible] It just changed the way I, before when I was feeling like really happy, I started fighting the person I was involved with. [unintelligible] So my question was, instead of doing the weight loss, [unintelligible]
+Q: Originally, when I gained 34. But I noticed since the time that I started that, it didn't happen all of a sudden. I started living off the fat that was in my body. [unintelligible] And over time.. Especially the last little part, I started to get down in weight. I started to get so stressed out and so nervous. [unintelligible] It just changed the way I, before when I was feeling like really happy, I started fighting the person I was involved with. [unintelligible] So my question was, instead of doing the weight loss, should I [unintelligible]
 
 A: When people are thin, I never suggest that they go on weight loss. [unintelligible] I don't care if it takes five years.
 
@@ -710,7 +712,7 @@ A: It takes time, it takes time. Sometimes the liver is just not well enough to 
 
 Q: [unintelligible]
 
-A: We're talking about thin people. We're not talking about fat people. Those fat people are still healthy. Because the toxins are going into their fat and are not damaging their cells. They're not feeding those live cells very well, but at least they're protecting them with all that fat. Let me tell you, the people who are happier, more level-headed, are the people who are obese that come to me and go on the diet. People who are very thin are the ones that are [unintelligible].
+A: We're talking about thin people. We're not talking about fat people. Those fat people are still healthy. Because the toxins are going into their fat and are not damaging their cells. They're not feeding those live cells very well, but at least they're protecting them with all that fat. Let me tell you, the people who are happier, more level-headed, are the people who are obese that come to me and go on the diet. People who are very thin are the ones that are basket cases.
 
 Q: They gain a lot of fat from white carbs.
 
@@ -720,7 +722,7 @@ Q: They're not the healthiest people.
 
 A: No, no, no. I'm saying usually the person has more equilibrium.
 
-Q: [unintelligible]
+Q: Is there a point where it can become bad?
 
 A: Yeah, it can be. If you don't have enough proteins and you're damaging your cells, yeah, definitely. If you're not feeding the heart the protein, and you've got all this excess weight, and you're putting stress on the heart, then you can damage it, overtax it.
 
@@ -750,7 +752,7 @@ A: Well, most women like you gain about five pounds because of water. As the bod
 
 Q: The other thing that I would say is I do have a lot of trouble with butter. [unintelligible] I know how much I need it.
 
-A: Then your liver is in pretty bad shape. [unintelligible]
+A: Then your liver is in pretty bad shape, so eat more cream for a while, which causes water retention and have some butter.
 
 Q: [unintelligible]
 

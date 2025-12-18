@@ -841,6 +841,8 @@ majorly of plastic? Anyone remember what movie that was?
 
 The Graduate?
 
+[Highlight: Plastic consumption might lead to sexual disorders]
+
 A: The Graduate, that’s it. 1967, but the screenplay was written back in the
 early ‘60s by someone who was in the elitist crowd that knew the king and
 queen of England started coding the cans in their countries, not in America, in

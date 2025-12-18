@@ -30,7 +30,7 @@ Q: That sounds criminal.
 
 A: It's all criminal. Any way they make food, it's criminal. Because there's no nutrient value, no true nutrient value in it.
 
-Q: The x-ray that you had, [unintelligible]?
+Q: The x-ray that you had, doesn't it help by you taking the butter and the cheese and the honey out?
 
 A: She asked was the x-ray harmful to me. And would it use up nutrients? Of course. That's why I didn't go back. And I'm going to wait until my leg completely heals before I do the other x-rays to show people how the leg can heal without medical help. But I'm going to wait until the leg is completely healed, because any x-ray slows healing. That's why I didn't want to have the x-rays. But the leg was in such bad shape, and it looked terrible. It nodded here. It looked like the leg had been completely twisted and broken. So that's why I had the x-rays, because I wanted it put back in place. But it was in place. It was just fragmented.
 
@@ -70,13 +70,13 @@ Q: Or meat that you find high quality?
 
 A: Absolutely. Because most of these farmers can't afford anything. And there's lots of grass. It rains practically every day. So the grasses grow rich, like in Hawaii, they're rich. You don't have to feed them anything else. There's so much food for them. The buffaloes and the cows, they'll just eat all this grass. And it's so tall and thick. You can graze like 50 cows on about five acres or four acres constantly, because they can't even eat all that grass. So it's pretty amazing. So if I go to an outdoor market and that's where I get my meat, and all the flies are on it, that's what I want.
 
-Q: You mentioned a pretty good adrenaline rush. [unintelligible]
+Q: You mentioned a pretty good adrenaline rush, in that panic kind of situation.
 
 A: No, I try to keep that down, because adrenaline causes me to get angry. And it might cause me to be a little short in my respect. Like that young intern. Oh my god, you're crazy. I mean, that's in bad shape. And if I had taken offense to that, if I had had high adrenaline, I might have taken offense to that as I would in my earlier days. So part of that is keeping the adrenaline from starting to pump.
 
 Q: Especially since they just walked away to [unintelligible].
 
-A: I just said, you know, these are sad people. They can just jump out in the street like that and then stand there and I'm coming at them and I hit. If they had jumped out of the way, it would have been different. But they just froze like a deer with lights in their eyes. They didn't even look. They just jumped right into the street. As if they were the only people. Of course, I was slightly on the left side of the road because I wanted to allow cars to go past me. They weren't paying attention to this inside of the road. 
+A: Yeah, I just said, you know, these are sad people. They can just jump out in the street like that and then stand there and I'm coming at them and I hit. If they had jumped out of the way, it would have been different. But they just froze like a deer with lights in their eyes. They didn't even look. They just jumped right into the street. As if they were the only people. Of course, I was slightly on the left side of the road because I wanted to allow cars to go past me. They weren't paying attention to this inside of the road. 
 
 Q: Regarding the cheese and honey, whenever you eat it, they should both be in the mouth together?
 
@@ -118,7 +118,7 @@ Q: You bought the property?
 
 A: Don't want to talk about that yet. Okay? Those are the only two that I know about. Those two products. The EMs and the primal defense. Okay, do you have a question? Can teeth regenerate the way bone can? She asked, can teeth regenerate the way bone can? No. Not in my experience. I've only found it happened with two people. They were under 25. One had a huge cavity and he didn't have it filled and within six months of starting to drink raw milk, it filled in. With the tooth or just the tooth? The whole tooth. The tubule filled in and then the dentine grew back. Now I've had teeth where it's only been in the last six years that I have feelings that the body starts growing back the facials, starts growing the tubules. It'll grow, it'll take that composite filling and grow it out so it's got all these edges on it. And I have to keep having it drilled down and filed down because the tubule is now growing. 60 years old. So now it's finally come to that I'm healthy enough.
 
-Q: Can't go back if you're on the diet long enough?
+Q: Can't grow back if you're on the diet long enough?
 
 A: If you're on the diet long enough, it's probably very possible. It depends upon how severe the damage is that you sustain. And my teeth were a mess from chemo and radiation. I'm lucky I got the bone back, you know, around my teeth because after irradiation therapy, I lost all the bone around my teeth. So my teeth dangled in my gums like this. So if I bit down on my own teeth, I lost about a half a cup of blood at a time. Couldn't stop the bleeding. So what I did was I blended my donuts and RC Cola and then drank it with a thick straw. That's how I was then. I didn't know any better. But then when I started drinking raw milk within a year and a half of drinking the raw milk on a daily basis, about anywhere from half a gallon to a gallon a day, my gum, my bone around my teeth all restored. Okay.
 
@@ -134,7 +134,7 @@ Q: Thank you.
 
 A: Okay.
 
-Q: Yes, Aajonus, I would like to ask you, is there a connection between [unintelligible] and a pH balance in the body?
+Q: Yes, Aajonus, I would like to ask you, is there a connection between aversion to meat and a pH balance in the body?
 
 A: The what and the pH?
 
@@ -200,7 +200,13 @@ A: Well, they can't help him.
 
 Q: I find that when I'm putting it into the weight loss phase, I go like carb crazy partway through the day. I'm like, and I just have trouble in that transition.
 
-A: Okay, you're talking about my weight loss program from the book? Okay, well some people have a hard time with that one. So I've come up with another one. It takes weight off a little too fast. So you need to slow it down if it's coming off too fast. Don't take advantage. I like people to be fat. Because the fat protects your cells. If you don't have fat in there, all the poisons you breathe and take in your body, they'll go into your live cells and damage your cells. And that's where disease develops. That's where fibromyalgia, pain everywhere, fatigue sets in. When your cells are damaged, you've got a problem. If you have lots of fat on your body, you're protected. So there's my type of lady right there. Perfect. Healthy lady. She is protected. She is healthier. And you've heard of that fat and happy? No, fat aware and happy.
+A: Okay, you're talking about my weight loss program from the book? Okay, well some people have a hard time with that one. So I've come up with another one. It takes weight off a little too fast. So you need to slow it down if it's coming off too fast. Don't take advantage. I like people to be fat. Because the fat protects your cells. If you don't have fat in there, all the poisons you breathe and take in your body, they'll go into your live cells and damage your cells. And that's where disease develops. That's where fibromyalgia, pain everywhere, fatigue sets in. When your cells are damaged, you've got a problem. If you have lots of fat on your body, you're protected. So there's my type of lady right there. Perfect. Healthy lady. She is protected. She is healthier. And you've heard of that fat and happy?
+
+Q: I've heard of fat, dumb and happy.
+
+[laughter]
+
+A: No, fat, aware and happy.
 
 Q: You could be somehow too fat.
 
@@ -216,15 +222,19 @@ A: One cup of milk in the middle of the night, a cup of milk before you go to sl
 
 Q: Now are there going to be those wild cravings of like, could be some honey, you know?
 
-A: If it is, then you have some honey. Honey's okay. Absolutely. Honey, as long as it's not heated over 93 degrees, is mainly enzyme. When the bee collects the nectar, it swallows it. It's predigested. It adds an insulin-like substance that converts the honey into mainly enzymes for digesting, mainly proteins, secondarily fat. So it will help you break down your fats in your body.
+A: If it is, then you have some honey. Honey's okay.
 
-Q: So how much?
+Q: When you're trying to lose weight?
+
+A: Absolutely. Honey, as long as it's not heated over 93 degrees, is mainly enzyme. When the bee collects the nectar, it swallows it. It's predigested. It adds an insulin-like substance that converts the honey into mainly enzymes for digesting, mainly proteins, secondarily fat. So it will help you break down your fats in your body.
+
+Q: So how much should you be using?
 
 A: Well, not too much, because it can cause a protein deficiency at the same time. So you need, let's say, a half a cup a day. No more than a half a cup a day.
 
-Q: What vegetables do you have to use?
+Q: What vegetables do do you recommend?
 
-A: Do something light that doesn't cause detoxification, like 90% celery, 10% zucchini. I mean 10% parsley.
+A: Do something light that doesn't cause detoxification, like 90% celery, 10% parsley.
 
 Q: Do you suggest wheatgrass?
 
@@ -294,7 +304,7 @@ Q: Yes. About six months ago I contracted shingles. It really left a lot of nerv
 
 A: Well, coconut cream is very detoxifying, so I usually say no more than five ounces a day for somebody your size. No more than five ounces a day for someone your size.
 
-Q: [unintelligible]
+Q: Does that regenerate the nerves?
 
 A: That doesn't regenerate. See, any time you have shingles, it's from penicillin or antibiotics. And the molds grow perpetually in some people, in a lot of people. So that comes and it stores in the joints a lot. Penicillin will usually come out as a black mold. It can cause a black mold on the hand. You see it in people's nails, on their feet. You see black areas in their feet. It's all penicillin discharging mold. That's the excrement from the penicillin. Tetracycline is a little different. It's like you have tetracycline or Cipro or something like that to cause your nerve damage. See, in some people it grows and you can't stop it. It grows and grows and multiplies like crazy.
 
@@ -382,7 +392,7 @@ A: Well, it just has an indication you're not digesting well. So take two days a
 
 Q: Last time [unintelligible] you talked about the yeast and candida. And so since then I noticed my body feels really good, but the urethra seems to still flare up. And I also noticed when I have honey and I do drink cream, I notice it starts flaring up again. So I was wondering what to do about the flaring up part, because I notice it really hurts when it flares up.
 
-A: [unintelligible] Because remember, the process, the urethra is the last tract of the urinary tract, so it's going to be the last place to defend itself against any of those high yeasts, those fungus that you have in the body. She was a vegetarian for a very, very, very long time, full of all these sugars that fungus feed on very easily. So when you get down to the end of the urinary tract or any part of the body, it's going to receive fewer nutrients. And lime juice helps destroy fungus. So just put a tablespoon of lime juice in there. In the formula that I've given in the newsletter, it's about a less dangerous way of doing it, and of using lime juice on a weekly basis. So go with that if you want to destroy. If you've ever had antibiotics in your life, you want to do that one day a week. That formula on the newsletter for destroying fungus.
+A: Well, when you have that combination put a tablespoon of lime juice in it in. Because remember, the process, the urethra is the last tract of the urinary tract, so it's going to be the last place to defend itself against any of those high yeasts, those fungus that you have in the body. She was a vegetarian for a very, very, very long time, full of all these sugars that fungus feed on very easily. So when you get down to the end of the urinary tract or any part of the body, it's going to receive fewer nutrients. And lime juice helps destroy fungus. So just put a tablespoon of lime juice in there. In the formula that I've given in the newsletter, it's about a less dangerous way of doing it, and of using lime juice on a weekly basis. So go with that if you want to destroy. If you've ever had antibiotics in your life, you want to do that one day a week. That formula on the newsletter for destroying fungus.
 
 Q: [unintelligible]
 
@@ -392,7 +402,7 @@ Q: And also, I need to ask one thing about douching.
 
 A: Douching, yes.
 
-Q: Because I know that sometimes, especially women, get bacteria from the tract into the vagina area, and I want to know, that also is a problem. 
+Q: Because I know that sometimes, especially women, get the bacteria from the tract into the vagina area, and I want to know, that also is a problem.
 
 A: Well, you've got a lot of fungus that are still discarding into that area. So the best way to douche is to take a kefir that you've made, not a foreign kefir. Now, you don't want to use a foreign kefir grain in this. You want the natural bacteria, because the grain bacteria works against your natural bacteria. It will even eat the natural bacteria. The bacteria that grows in milk naturally will not do that. So that's why I like to just encourage you with honey. It helps those bacteria grow quickly. So you just take that and dilute it with a little Gerolsteiner water. You don't shake it up. You just stir it lightly in there so you don't lose all the carbon. And then you douche with that. You can use a little bit of maybe a teaspoon of lemon and a teaspoon of lime juice mixed in the kefir before you mix it with the Gerolsteiner and then douche with that. Okay, you're welcome. Do you have a question?
 
@@ -400,11 +410,11 @@ Q: Yeah.
 
 A: Hold on.
 
-Q: [unintelligible]
+Q: My heart starts racing sometimes when I fall asleep and it seems like it's related to my thyroid, cause if I take something for my thyroid, I don't have it, but it will just hit me.
 
 A: What do you take for your thyroid?
 
-Q: [unintelligible]
+Q: It was like a supplement, like a thyroid gland? I know you hate it, but I've taken it. I've only take it like two, three times and then I'm okay.
 
 A: Is it the freeze-dried gland or is it some medication? It's a freeze-dried gland. Well, that's okay. That doesn't mean that that's causing, that that's keeping the heart from racing. The heart is racing any time poisons get into the blood. The faster the heart pumps during a time like that, it's very difficult for a heavy metal to settle anywhere it should not.
 
@@ -432,7 +442,7 @@ Q: You can see it.
 
 A: What you might want to do is eat a lot of cheese before you go to bed. Make sure you have lots of minerals. About maybe an hour and a half before you go to bed, lots of cheese and honey. Okay. Ebrahim, do you have a question? No. Behind Ebrahim. You with the red hair. Do you have a question?
 
-Q: [unintelligible] any kind of obsessive compulsive condition.
+Q: She asked me what you recommend for any kind of obsessive compulsive condition.
 
 A: You're talking about obsessive compulsive and physical activity or mental?
 
@@ -502,13 +512,13 @@ A: Yeah. Well, you've got a lot in there to remove. And you may get lots of acne
 
 Q: [unintelligible]
 
-A: You can get it at whole foods. Rawsome, you know, you get a better quality at Rawsome. Do you know where Rawsome is? No, you won't find it anywhere. 655 Rose Avenue. 665 Rose Avenue.
+A: You can get it at whole foods. Rawsome, you know, you get a better quality at Rawsome. Do you know where Rawsome is? No, you won't find it anywhere. 665 Rose Avenue.
 
 Q: Only on Wednesdays and Saturdays.
 
 A: Wednesdays and Saturdays.
 
-Q: Do you mix honey and butter for minor pain? How long of a process is that?
+Q: Do you mix honey and butter for nerve pain? How long of a process is that?
 
 A: A few minutes.
 
@@ -536,7 +546,7 @@ Q: When I was 18, that's what I was.
 
 A: That's when you were 18.
 
-Q: Anyway, I want to [unintelligible] my weight. I exercise and stuff like that. I want to get back [unintelligible].
+Q: Anyway, I want to dump a lot weight. I exercise and stuff like that. I want to get back into playing shape.
 
 A: Would you rather be happy or fit looking?
 

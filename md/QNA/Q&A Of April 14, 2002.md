@@ -1,3 +1,5 @@
+Aajonus.net & Rawmeatgang
+
 Q: Is it toxic to smell your own farts?
 
 [laughter]
@@ -54,7 +56,7 @@ A: Did they fuse it?
 
 Q: Well, they gave him an operation, and he's worse after the operation. I don't know what they did. But he's now having panic attacks and real serious depression. I guess he's just realizing that he's just going to have to deal with his pain.
 
-A: Not necessarily. Usually that kind of pain usually happens when they perform a surgery on someone who has a spine injury. And any kind of surgery, they'll use methylate, mercurochrome, or iodine as an antiseptic. Mercurochrome and methylate are all liquid mercury, very poisonous. So they coat that area. It causes severe toxicity in that area. It causes pain. It causes swelling. Doctors who use that are very ignorant. They just don't observe what's happening over the long run. Iodine does the same thing. Iodine's a little bit more accurate, and it'll melt surrounding tissue and cause more adhesions by acidity. Whereas the mercury will just poison cells and cause toxicity that way. Either way, they're both harmful. And that's usually the problem in that situation. Eating berries with cream and butter, coconut cream is the best. Blueberries, blackberries, raspberries, boysenberries, anything, strawberries, not so much, will help remove the metal poisonings like the mercury and the iodine. And the fats will help dissolve it also and bind with it. Coconut cream is the best. You take coconut cream after juicing it, and you put it on metal, you'll see within 24 hours, 48 hours, it eats metal away and turns black. So coconut cream is a lot better to remove metals. And usually what that creates is the same reactions he's having already, which are panic attacks, severe depression, suicidal tendencies, even homicidal tendencies at times.
+A: Not necessarily. Usually that kind of pain what usually happens when they perform a surgery on someone who has a spine injury. And any kind of surgery, they'll use Merthiolate, mercurochrome, or iodine as an antiseptic. Mercurochrome and Merthiolate are all liquid mercury, very poisonous. So they coat that area. It causes severe toxicity in that area. It causes pain. It causes swelling. Doctors who use that are very ignorant. They just don't observe what's happening over the long run. Iodine does the same thing. Iodine's a little bit more accurate, and it'll melt surrounding tissue and cause more adhesions by acidity. Whereas the mercury will just poison cells and cause toxicity that way. Either way, they're both harmful. And that's usually the problem in that situation. Eating berries with cream and butter, coconut cream is the best. Blueberries, blackberries, raspberries, boysenberries, anything, strawberries, not so much, will help remove the metal poisonings like the mercury and the iodine. And the fats will help dissolve it also and bind with it. Coconut cream is the best. You take coconut cream after juicing it, and you put it on metal, you'll see within 24 hours, 48 hours, it eats metal away and turns black. So coconut cream is a lot better to remove metals. And usually what that creates is the same reactions he's having already, which are panic attacks, severe depression, suicidal tendencies, even homicidal tendencies at times.
 
 Q: So is there anything that can help him decrease the pain too?
 
@@ -220,7 +222,7 @@ Q: I have a follow-up on the fruit issue. If you find that you can eat more frui
 
 A: Yes, but a lot of people can't determine their own... When they're emotionally involved in their own issues and their own stuff, they don't see that they're having a problem. Like this girl doesn't see that she's having a problem, but everybody around her has commented about it to me. She's not able to see that it's too much. And I tried to have a conversation with her about it, but she got very upset. She said, I feel great. What do you mean? This is a great diet. It's great. She said, I don't know how you can eat what you do because I wouldn't be enjoying it. I love the taste of my food.
 
-Q: [unintelligible]
+Q: Before the diet I used to eat a lot of fruit, [unintelligible], should I try adding more fruit?
 
 A: Well, I would say let somebody around you, as close to you who knows you, be a mirror or a sounding board. I can be clear about it now because I've been there and I'm removed from it. But when I'm there, like about last summer, I tried to do a lot of fruit for a week. And I didn't see it at first, but all of a sudden one day I realized I was getting irritable again. I was getting too excited, too irritable, too sexual, all of it. And it can be trying. Of course, I'm diabetic, so you know.
 
@@ -274,7 +276,7 @@ A: Yeah, exactly.
 
 Q: [unintelligible]
 
-A: But what you have to do is say, listen, that's vegetation coming from the cow. It's just predigested pasture. Edward Howell, the so-called father of enzyme nutrition, did an experiment to copy or to prove Pottinger's work with those 900 cats over a 10-year period to show that, yeah, to prove that yes, cooked foods do create diseases in animals, and raw foods allows for no disease. So, he did this experiment. It was a little over three years. I forgot how many rats. I think he had 58, 57 rats, something like that. Near 60 rats for the first experiment. Those that ate the cooked foods at the end of their lives in three years had all the diseases of man. Those that ate raw had no diseases, but they all lived three years. This was very different from Pottinger's work because the cats lived one-third less of their life than the cats on cooked food lived one-third less than the cats that ate raw food that didn't have any diseases. So, he was very concerned about that part of the experiment. He didn't know what was happening. He thought maybe it was just some bacterial activity or something was happening in the rat. Maybe they had a particular hormone that's different than cats. So, he's going over the notes over and over and over again for a year and finally realized that there was one very peculiar difference. The rats who ate cooked foods ate their feces. They ate each other's feces, but they ate all of it. They didn't have to clean out the cage. They ate all the feces or most of it. So, he decided to redo the experiment. Sure enough, he put a wire mesh down to the rats when they had a movement. The faecal matter fell through the screen. They only lived two years instead of three years this time. So, faecal matter is very beneficial. All animals know it except for humans. I've used it in a few situations. I've recommended it for people with very aggressive cancers that metastasize all over their systems. One fellow came to me about four months ago. This is the third time he's had cancer. He's only about my age, 55 in a few days. He's 56 or 57. When it was metastasized this time, he had the lungs, liver, intestines, and he had part of his intestines already [unintelligible] ten years earlier from cancer. I think it was in his pancreas. So, it was pretty aggressive. He was going quickly, just getting thinner and thinner. So, I had a lot of buffalo faecal matter and bowel tissue. I gave it to him and said, what I'd recommend is you use at least a tablespoon a day, probably two a day, five days off, six days, five days off, six days for about 30 days. I think he did it for only the first week because I didn't give him much. I told him where he could get more. I don't think he did, but he was taking morphine because of the pain. Every client that I have had his own morphine has never made it because it breaks their appetite and they can't eat enough. So, they just disintegrate, deteriorate. So, what it did for him, that faecal matter allowed him to have a hell of an appetite. So, he gained ten pounds in about ten days. The last time I talked to him, he was up 20 pounds. So, he was much more focused and able just due to that little bit of faecal matter. That was the first person I really, you know, I drove it into him to do it. It's very difficult to do with women who have cancer. I'd say most of the people come to me with cancer are women. And it's very difficult for you women to get into eating shit.
+A: But what you have to do is say, listen, that's vegetation coming from the cow. It's just predigested pasture. Edward Howell, the so-called father of enzyme nutrition, did an experiment to copy or to prove Pottenger's work with those 900 cats over a 10-year period to show that, yeah, to prove that yes, cooked foods do create diseases in animals, and raw foods allows for no disease. So, he did this experiment. It was a little over three years. I forgot how many rats. I think he had 58, 57 rats, something like that. Near 60 rats for the first experiment. Those that ate the cooked foods at the end of their lives in three years had all the diseases of man. Those that ate raw had no diseases, but they all lived three years. This was very different from Pottenger's work because the cats lived one-third less of their life than the cats on cooked food lived one-third less than the cats that ate raw food that didn't have any diseases. So, he was very concerned about that part of the experiment. He didn't know what was happening. He thought maybe it was just some bacterial activity or something was happening in the rat. Maybe they had a particular hormone that's different than cats. So, he's going over the notes over and over and over again for a year and finally realized that there was one very peculiar difference. The rats who ate cooked foods ate their feces. They ate each other's feces, but they ate all of it. They didn't have to clean out the cage. They ate all the feces or most of it. So, he decided to redo the experiment. Sure enough, he put a wire mesh down to the rats when they had a movement. The fecal matter fell through the screen. They only lived two years instead of three years this time. So, fecal matter is very beneficial. All animals know it except for humans. I've used it in a few situations. I've recommended it for people with very aggressive cancers that metastasize all over their systems. One fellow came to me about four months ago. This is the third time he's had cancer. He's only about my age, 55 in a few days. He's 56 or 57. When it was metastasized this time, he had the lungs, liver, intestines, and he had part of his intestines already [unintelligible] ten years earlier from cancer. I think it was in his pancreas. So, it was pretty aggressive. He was going quickly, just getting thinner and thinner. So, I had a lot of buffalo fecal matter and bowel tissue. I gave it to him and said, what I'd recommend is you use at least a tablespoon a day, probably two a day, five days off, six days, five days off, six days for about 30 days. I think he did it for only the first week because I didn't give him much. I told him where he could get more. I don't think he did, but he was taking morphine because of the pain. Every client that I have had his own morphine has never made it because it breaks their appetite and they can't eat enough. So, they just disintegrate, deteriorate. So, what it did for him, that fecal matter allowed him to have a hell of an appetite. So, he gained ten pounds in about ten days. The last time I talked to him, he was up 20 pounds. So, he was much more focused and able just due to that little bit of fecal matter. That was the first person I really, you know, I drove it into him to do it. It's very difficult to do with women who have cancer. I'd say most of the people come to me with cancer are women. And it's very difficult for you women to get into eating shit.
 
 Q: [unintelligible]
 
@@ -314,11 +316,11 @@ A: But that takes, I think that it took something like three weeks before one pe
 
 Q: The egg white's drying your lashes.
 
-A: Well, wipe that off. But if you take your little eye thing, you know, the eye curler, the eyelash curler with that egg white on there, what a curler it does. It also makes it very dark and thick. So there's a beauty tip for you. When I used to do acting, that's what I did to make my eyelashes thick. I took a little paintbrush with egg white and brushed it on my eyelashes. And it went like this, curling. That was all I did. It worked. It worked great for photographs. Because, you know, I didn't want them to put, because they go, you go on those sets, like soaps, they like to make everybody look pretty. And I was in general hospital for five and a half years. You put mascara on, there's no way.
+A: Well, wipe that off. But if you take your little eye thing, you know, the eye curler, the eyelash curler with that egg white on there, what a curler it does. It also makes it very dark and thick. So there's a beauty tip for you. When I used to do acting, that's what I did to make my eyelashes thick. I took a little paintbrush with egg white and brushed it on my eyelashes. And it went like this, curling. That was all I did. It worked. It worked great for photographs. Because, you know, I didn't want them to put, because they go, you go on those sets, like soaps, they like to make everybody look pretty. And I was in general hospital for five and a half years. We put mascara on, there's no way.
 
-Q: [unintelligible]
+Q: Is it okay for eyeliner? [unintelligible]
 
-A: What I suggest people do is take blueberry or some berry, press it, and just take a paintbrush and paint it on. It will stain. Put just a touch of vinegar in it, it will [unintelligible]. Put it on your lips, put it on your nose. That's what I used to do, too. Make me a funny character. That's what I did when I was on stage. That's what I do when I do stage play. Works very well.
+A: What I suggest people do is take blueberry or some berry, press it, and just take a paintbrush and paint it on. It will stain. Put just a touch of vinegar in it, it will set like an easter egg. Put it on your lips, put it on your nose. That's what I used to do, too. Make me a funny character. That's what I did when I was on stage. That's what I do when I do stage play. Works very well.
 
 Q: You know what I'd love to do? [unintelligible] I don't know where you can find it.
 
@@ -342,7 +344,7 @@ A: I don't recommend it for anybody unless they're very brave.
 
 Q: [unintelligible]
 
-A: Yes. I have a psychologist in Santa Fe, New Mexico. She came to me about five or six years ago, and she's an expert witness for the federal government. You know, she, you know, like McVeigh, she was a psychologist that, you know, questioned him and had, you know, interviews with him to determine whether he was sane to go on trial or not. So she's pretty high powered. She's had asthma most of her life on inhalers and Pregnizone and some other drugs. She's down to maybe taking a tenth of her medication and rarely takes an inhaler at all. She always had red eyes because of that. She said she always looked stoned when she was up on the witness stand. So she says, is there anything I can do about that? I said, yes, just drop a few drops a day. Take a, you know, eye dropper. Break an egg into a glass. Take some egg white and drop two drops into each eye. Put your head back and pull your eyelid lashes completely, eyelids completely away from the eye. And then roll your eye around for about a minute. So she did that about three days a week. And about, I think it was three months after, a year and three months after she's on the diet, she called me in a panic one day. She said, my eyes are so bad I can't see. I can't even read signs on the road anymore. This diet isn't working. I said, wait a minute, wait a minute, wait a minute. You have multiple problems. The diet's taking care of some of them and you've only been on the diet a year and three months. It's like they'll repair you and everything. You know, a year and three months, it takes 40 years to clean up everything and rebuild everything five times before you'll be optimal. So if you're still having eye deterioration, that's probably because of your medication that you're still taking, you need to go to the optometrist and get a new prescription. So she went to the optometrist and her eyesight was about 23, 30% better. So she had to have a reduction in her prescription. She's the first person I knew that put the egg white in her eye on a regular basis, but she got an instant improvement. So I started suggesting other people who wanted to improve their eyes that they put it regularly in their eyes, the egg white. And sure enough, it stops... In every case of people who had continued to degenerate even on the diet with their eyesight, it stopped it immediately. And for most people, it reverses it.
+A: Yes. I have a psychologist in Santa Fe, New Mexico. She came to me about five or six years ago, and she's an expert witness for the federal government. You know, she, you know, like McVeigh, she was a psychologist that, you know, questioned him and had, you know, interviews with him to determine whether he was sane to go on trial or not. So she's pretty high powered. She's had asthma most of her life on inhalers and prednisone and some other drugs. She's down to maybe taking a tenth of her medication and rarely takes an inhaler at all. She always had red eyes because of that. She said she always looked stoned when she was up on the witness stand. So she says, is there anything I can do about that? I said, yes, just drop a few drops a day. Take a, you know, eye dropper. Break an egg into a glass. Take some egg white and drop two drops into each eye. Put your head back and pull your eyelid lashes completely, eyelids completely away from the eye. And then roll your eye around for about a minute. So she did that about three days a week. And about, I think it was three months after, a year and three months after she's on the diet, she called me in a panic one day. She said, my eyes are so bad I can't see. I can't even read signs on the road anymore. This diet isn't working. I said, wait a minute, wait a minute, wait a minute. You have multiple problems. The diet's taking care of some of them and you've only been on the diet a year and three months. It's like they'll repair you and everything. You know, a year and three months, it takes 40 years to clean up everything and rebuild everything five times before you'll be optimal. So if you're still having eye deterioration, that's probably because of your medication that you're still taking, you need to go to the optometrist and get a new prescription. So she went to the optometrist and her eyesight was about 23, 30% better. So she had to have a reduction in her prescription. She's the first person I knew that put the egg white in her eye on a regular basis, but she got an instant improvement. So I started suggesting other people who wanted to improve their eyes that they put it regularly in their eyes, the egg white. And sure enough, it stops... In every case of people who had continued to degenerate even on the diet with their eyesight, it stopped it immediately. And for most people, it reverses it.
 
 Q: Do you do it in the morning or at night?
 
@@ -354,9 +356,9 @@ A: Pardon?
 
 Q: [unintelligible]
 
-A: Oh, absolutely. Well, your eye can't heal unless it's regenerating cells. Just the egg white. Put the yolk in there and you can be cloudy. Very cloudy.
+A: Oh, absolutely. Well, your eye can't heal unless it's regenerating cells. Just the egg white. Put the yolk in there and you can be cloudy, big time.
 
-Q: [unintelligible]
+Q: [unintelligible] fit in the jar at the bottom
 
 A: But then it starts decomposing, and then they cause an eye detox instead of an eye nourishment feeding. So I'd be careful with that. You might end up with pink eyes. That's not a bad thing, but it's a hell of a thing to go through, and everybody thinks you're contagious because medical professionals, it [unintelligible] contagious. People run for their lives. Okay, question.
 
@@ -422,7 +424,7 @@ Q: Meaning that it's...
 
 A: You have some neurological tissue that's probably dead.
 
-Q: Dead. Is it a brain injury or just a concussion?
+Q: Dead. Is it a brain injury or just a toxic condition?
 
 A: Well, it could be either. Either way. And an injured, when you have, let's say, mercury from, let's say, a vaccine or a flu shot or anything like that, they all carry thimerosal, which is liquid mercury. And they'll cause that repeatedly. That's why I [unintelligible] symptoms of autism in children.
 
@@ -446,7 +448,7 @@ Q: [unintelligible]
 
 A: High fish. It's making... It's letting meat rot on its own. You know, decompose on its own with its own bacteria. So what you do is you chop it up, you put it in a jar with equal amount of air. You have to take it out of the house because you don't want to stick it up your house. Take it out of the house, open it every three to four days. Move the jar into the air just twice with a figure eight. Put the lid back on tightly because as the gases build, they'll leak out into your refrigerator if you don't open them and let the gas out. A lot of people will do that. They say, I don't feel like doing it for a week or two weeks or three weeks. And this gas keeps building up in there. And it just leaks out in the refrigerator. And you say, I got a tight lid on that. Why is it stinking so badly? Because, hell, you got to take it outside and let it air. You know, and anyway, the bacteria stops growing because it's aerobic bacteria. So it needs to progress through all of its stages. And if you don't take it out every three to four days, it goes dormant at that point. It doesn't mean you can't use it. It's just that it goes dormant. And it takes an exposure and at least three to four days for the bacteria to get active again before you can take it. Because if you take it when it's not active, it just won't do you much good. You're just taking the stinky meat. And what that stinky meat does is your body cleans itself in three ways. I say this at every meeting. It's probably one of the most important things I talk about. We use solvents just like we use degreasers and compounds to dissolve other compounds, whether it's plastic, wood, metal. No matter what it is in the body, if it's inorganic, that's the only way your body can dissolve those toxins. Because bacteria, parasites, molds, they will not break down inorganic material, from pollution, cooked foods, stuff like that, that's stored in the body. So your body has to make these solvents, and it does it from about 80% fat, 15% protein, and 5% alcohol, which your body makes from fermenting carbohydrates in the body. So it goes in and dissolves whatever's in the body that needs to be dissolved. Some people have no bacteria. People like me who've had intense radiation and chemotherapy, it poisons the whole system. So parasites, bacteria can't live in the body. So the body has to do only the solvent process. It's a very slow, tedious process. And one of the byproducts of it is identical to turpentine. And it's as toxic to the human body. So it creates a low-grade lethargy, maybe depression, fatigue. So the body isn't real happy when it has to go through that. And you'll see people eat the high meat that they make after about four weeks. You need to let it go four weeks. If you eat that, all of a sudden you get this high, because what you've done is introduced bacteria into the body. And all of a sudden the body doesn't have to use only the solvent process, which is slow and very toxic. So the body can use virus, bacteria, molds, yeast, yeast is a mold, to dissolve compounds in your body, so your body has help. It doesn't have to do everything on its own. Like let's say you were the only person in this room, and we piled garbage all over the place, and you had to stay and clean it up, all by yourself. And you had 24 hours to do it, and it would take you 80 hours to do it on your own. So then all of a sudden we bring a bunch of people in here to help you to do it. That's what happens when you eat the high meat, high bacteria meat. Introducing bacteria into the body to help you clean up the garbage. And the byproducts from the virus, the bacteria, and the molds working, are half as toxic as the turpentine-like substance. And they work twice as fast. And the third way are parasites. They work five times faster than your body can use the solvent process. And a hundred times less toxic. That's why most people with parasites don't even know it. But the problem is that if you don't eat enough meat to regenerate cells, you have ulcerations, gut exchange, paralysis, death. On this diet, eating raw meats, it doesn't have to be high meats, just raw meats to regenerate cells, everybody gets well faster. In the animal tests, all animals got well faster if they had parasites.
 
-Q: [unintelligible]
+Q: What about doing high meat on the standard diet?
 
 A: I haven't worked with anybody on that basis, so I would hate to theorize and say.
 
@@ -456,9 +458,9 @@ A: Well, Dr. Joel Weinstock at the University of Iowa did experiments where he t
 
 Q: [unintelligible]
 
-A: Well, what I did, I took, in my experiment, when I found out about this, you know, I [unintelligible]. I went out and looked in the garbage cans. I knew the only place you're going to find massive parasites is in a garbage can outside of the fish market. So I went into a garbage outside of the fish market and found a piece of salmon that was undulating with pinworms. And I ate the worms and all, and I did not get parasites. But that was only eight years after having all the chemo and radiation, so I was still poisoned that no parasite could live in my body.
+A: Well, what I did, I took, in my experiment, when I found out about this, you know, I'm gung ho. I went out and looked in the garbage cans. I knew the only place you're going to find massive parasites is in a garbage can outside of the fish market. So I went into a garbage outside of the fish market and found a piece of salmon that was undulating with pinworms. And I ate the worms and all, and I did not get parasites. But that was only eight years after having all the chemo and radiation, so I was still poisoned that no parasite could live in my body.
 
-Q: [unintelligible]
+Q: High fish, does that have parasites in it?
 
 A: No. It's mainly bacteria. If you incubate it the right way and let it sit in the warm temperature, eventually it will grow parasites. But we make the high meat in the refrigerator so it won't generate parasites and doesn't move through the stages so quickly. And I also ate calf's brain infested with flutes, and chicken tripe infested with parasites, and I couldn't get one. I haven't tried it in probably 12 years. I probably could get them now. [unintelligible]
 
@@ -478,7 +480,7 @@ Q: So really their body had a detox.
 
 A: Yeah, that's exactly it. But it's a massive detox. The body's saying, thank God for this bacteria, now let's get the shit out. Literally. Vomit and diarrhea. Yes.
 
-Q: Do you think there are any viruses that are not good for you, [unintelligible]?
+Q: Do you think there are any viruses that are not good for you, like hepatitis?
 
 A: No, hepatitis is excellent. Because usually when a liver gets hepatitis, that liver is about to shut down for good. It's a serious progression of liver toxicity. So you get the hepatitis, any of those hepatitis, C, B, H, G, A, any of them, they're all beneficial. I've seen them, as long as people are on a good diet, where they're eating raw meats, that liver gets well faster than I've ever seen.
 
@@ -486,11 +488,11 @@ Q: [unintelligible]
 
 A: Well, see, they're just going on speculation. They speculate that, they believe in the germ theory, which is speculation, it's never been proved. In fact, it's mainly been disproved. Yet they hold on to it. So they're just, they have no idea. They don't know anybody who's done a raw meat diet. They've never tried it themselves, and yet they're postulating the bullshit. And there's not one clinical test proving that raw meat is a problem. Not one clinical test in any university. Not one. And you ask them to show you the science? Oh, well, the CDC says, well, where's CDC science. CDC doesn't have it either. They're the worst panic-stricken hysteria-mongers in the world. Because they're all a bunch of doctors who believe in the germ theory.
 
-Q: [unintelligible]
+Q: What is the CDC?
 
 A: CDC, Central Disease Control. Center. It should be control.
 
-Q: So when you travel anywhere in the world, [unintelligible].
+Q: So when you travel anywhere in the world, you should never [unintelligible].
 
 A: That's right. That's right. Forget it.
 
@@ -720,7 +722,7 @@ Q: Could there be a difference, though, in the lighter form of cancer? Or is it 
 
 A: You put anything in the liver, it keeps damaging the liver tissue. And that means you digest less and less fat, and the fat is what you majorly need with cancer, because that's what dissolves dead cells. But that doesn't mean he won't make it. I've had other people make it, you know, beyond five years, so that they have that kind of therapy.
 
-Q: [unintelligible]
+Q: What about the cow shit?
 
 A: Well, that would help him turn the cancer around, definitely. For permanent. Yeah.
 
@@ -728,7 +730,7 @@ Q: [unintelligible]
 
 A: Well, if you can get it down to where it's not, you know, they're not making... Not creating the hysteria that makes him go to get more chemo, and then he can repair it from there.
 
-Q: [unintelligible]
+Q: He stopped the chemo after about two months. [unintelligible]
 
 A: Two months is a lot of chemo. A lot of chemo. Plus, especially if they put what they call a liver bomb. And they put it in there. They literally used to call it a liver bomb, because it would just secrete the chemo like every four to twelve hours. It would secrete so much. And it was on like a timer. Actually, a mechanical timer. And they implant it in an organ or gland that's affected. And I know one fellow who's lived seven years beyond it. So he's doing okay, but others I see not making these liver bombs.
 
@@ -742,7 +744,7 @@ A: Yeah, that's what I'm saying. I have a lot of those, but only about 60% have 
 
 Q: Well, the lady in Scientology, did she continue with the chemo therapy?
 
-A: No. When she knew they were killing her, she stopped. And she was introduced to this doctor. And she came to me, and she did much better, doing great. And then a year ago, it started coming back. But she didn't come to me until a few months ago, so it was too late. Unless she ate the faecal matter. 
+A: No. When she knew they were killing her, she stopped. And she was introduced to this doctor. And she came to me, and she did much better, doing great. And then a year ago, it started coming back. But she didn't come to me until a few months ago, so it was too late. Unless she ate the fecal matter. 
 
 Q: That would make a big difference.
 
@@ -828,7 +830,7 @@ Q: [unintelligible]
 
 A: What aids is? That's a whole long subject that I'm not going to go into. But if you email me, I can send you a bunch of stuff on it. Okay?
 
-Q: [unintelligible]?
+Q: How long does it take without the honey?
 
 A: Without the honey? It depends upon room temperature and the temperature of the milk. It takes anywhere from, in the winter, in a cold house like mine, let's say it's 60 degrees in my house or 57 degrees. It could take three days. If it's 80 degrees in my house, it could take a day and a half to get to the kefir state. And then another 10 to 12 hours in that kind of heat to get to the yogurt state. And then you have a very brief period before you go into cottage cheese and it separates. But with the honey in it, it doesn't do that as much. Yes?
 
@@ -836,9 +838,9 @@ Q: [unintelligible]
 
 A: Oh, that's your question? We'll finish with this right now. You're the next questioner, though. You're the one who gets the next.
 
-Q: When they make certain cheeses [unintelligible],
+Q: When they make certain cheeses they also use bacteria to [unintelligible],
 
-A: Yeah, they usually do. No, it's fine. Well, when you're eating cheese, you're eating a mold. You're eating a moldy food. And that helps clean out a lot of garbage because it pulls poisons through the stomach and intestines and binds with them. You don't really digest much cheese. Cheese is there as you're absorbant. Also, it will help you utilize a lot of healthy minerals. So your body doesn't have to use the minerals from your juice and your other foods to bind with poisons. The minerals in the cheese will do that and leave your other minerals for utilization in the body. So it's great to get rid of pain. Question? Yes?
+A: Yeah, they usually do. No, it's fine. Well, when you're eating cheese, you're eating a mold. You're eating a moldy food. And that helps clean out a lot of garbage because it pulls poisons through the stomach and intestines and binds with them. You don't really digest much cheese. Cheese is there as your absorbent. Also, it will help you utilize a lot of healthy minerals. So your body doesn't have to use the minerals from your juice and your other foods to bind with poisons. The minerals in the cheese will do that and leave your other minerals for utilization in the body. So it's great to get rid of pain. Question? Yes?
 
 Q: [unintelligible]
 
@@ -872,11 +874,11 @@ Q: [unintelligible]
 
 A: Oh yes, that metal poisoning has gone into probably the nerves in the joint and all the connective tissue. It's sort of constantly irritated. The problem I find with it on this diet, even on this diet, is that that's probably one of the hardest to reverse because I need to put them in a stage that almost gets them into lupus, and they either go into lupus or they don't. I've had three clients go into lupus and then it's hell. You need to get lots of fat on their connective tissues, lots of cream and butter to get in there and absorb the fat. Whether they make it through with that kind of poisoning is very difficult to judge.
 
-Q: [unintelligible]
+Q: So, the raw fat is absorbing the cooked fat, is that what you mean by absorbing the fat?
 
 A: No, the fat absorbs the toxic metals from the chelation therapy. Yes, Roger.
 
-Q: The doctors claim [unintelligible] through the kidneys. In other words, it's pulled out, there's the metals. So what they really try to sell it is people who have been having bypasses to clean up the arteries, the veins, and they claim that it goes out through the kidneys.
+Q: The doctors claim that it goes out through the kidneys. In other words, it's pulled out, there's the metals. So what they really try to sell it is people who have been having bypasses to clean up the arteries, the veins, and they claim that it goes out through the kidneys.
 
 A: People who are not on this diet, 90% of the people I know who got chelation therapy, the first person I met who got chelation therapy was in 1971. That was when they first started chelation therapy. 90% of them had died. It's without being on this diet. No, I've had four people who had 30 to 50 chelation treatments who died.
 
@@ -932,7 +934,7 @@ A: Well, what I do is I put it in four-ounce jelly jars. They're pretty full, so
 
 Q: [unintelligible]
 
-A: No, the greenstar , you don't have to worry about that at all.
+A: No, the greenstar, you don't have to worry about that at all.
 
 Q: [unintelligible]
 
@@ -968,7 +970,7 @@ Q: [unintelligible]
 
 A: It's too high. 96 degrees for fats is the highest it could go without causing some problems, formation of toxic fats.
 
-Q: [unintelligible]
+Q: They say coconut oil is good for [unintelligible]
 
 A: They say olive oil is too. I can show you a terrible reaction having olive oil. They say you can cook with olive oil because it's stable. I can show you many cases where it creates damage, swelling in the throat, thyroid exhaustion.
 
@@ -980,7 +982,7 @@ Q: [unintelligible]
 
 A: No, he's not selling it to them. It's pressed by somebody else. But the Jeff Beverly Hills Juice Club in West Hollywood, you can call them on Tuesdays or Fridays between 8 and 9 o'clock. And they'll press as much as you want, coconut. So, you don't have to go through all that cracking it, cutting it, putting it in the juicer. And James Stewart is now carrying it. So, you can pick it up on Wednesdays and Saturdays.
 
-Q: [unintelligible]
+Q: Did you know about the coconut juice or something that Trader Joe's carries?
 
 A: That's all heated. Very high.
 
@@ -1108,17 +1110,17 @@ A: Pardon?
 
 Q: Repeat the question.
 
-A: The question is, how do you get a doctor to do what is compatible with... A dentist to do what is compatible with the diet? There is nothing compatible about anything a dentist does. Anytime they put anything in your mouth, they have to put an epoxy in there. It poisons. You have, just like you have veins going throughout the body, you have tubules in the teeth which take circulation and nutrients from the nerve into the tooth and it passes into the [unintelligible]. When your teeth are decaying, they're not decaying from the outside. They're decaying from the poison in the mouth, in the nerves, passing out. It weakens the dentine. Yes, bacteria can eat away at the outside if the dentine is fouled by the poison that are on the inside going out. The people who have strong teeth and strong bloodstreams do not get cavities like the Eskimos. Ninety percent of their diet was raw meat. And only ten percent that wasn't was, that ten percent was out of the three months of the year where they could get berries and other things. And they had no cavities until 1886. And that was, the first cavity was the fellow who was eating the breads and sugar that the Germans had brought over for fifty years. That was the first cavity. Anytime you put anything in the mouth and fill it, it has to be epoxied in. Therefore, you're going to contaminate the tooth mold. What I had done is when my cavities pop, I leave them alone. I don't put anything back. But that means some of them were almost all cavity, I mean all filling. So those teeth, I've had two of them, three of them break because there was hardly any tooth there. So I have a tooth that I had to make in Mexico. They will not do this here. They are not allowed to give you a tooth that you can remove. They have to cement it in. And I don't want it cemented in because I don't want that epoxy in my mouth. Because I'm experimenting to see whether teeth can regenerate on this diet, and I won't know for another twenty years. But I'm taking a chance. I'm taking a chance on losing my teeth. I've got another one here that's made the same way because the tooth broke. I mean those teeth, the one back here, the molar, two-thirds of the tooth had been a filling. And when it popped out, I let it go. It took, there was no more decay. I had a dentist look at it every year. No decay for about eight years. And I left the filling out of it. And it didn't break until I was ripping on some gristle once and it broke. But that's what it took. I mean no cavity. I don't have any more cavities. All these open cavities, teeth that are wide open, nerves that are wide open, no pain, no decay. I've got wide open fillings.
+A: The question is, how do you get a dentist to do what is compatible with the diet? There is nothing compatible about anything a dentist does. Anytime they put anything in your mouth, they have to put an epoxy in there. It poisons. You have, just like you have veins going throughout the body, you have tubules in the teeth which take circulation and nutrients from the nerve into the tooth and it passes into the [unintelligible]. When your teeth are decaying, they're not decaying from the outside. They're decaying from the poison in the mouth, in the nerves, passing out. It weakens the dentine. Yes, bacteria can eat away at the outside if the dentine is fouled by the poison that are on the inside going out. The people who have strong teeth and strong bloodstreams do not get cavities like the Eskimos. Ninety percent of their diet was raw meat. And only ten percent that wasn't was, that ten percent was out of the three months of the year where they could get berries and other things. And they had no cavities until 1886. And that was, the first cavity was the fellow who was eating the breads and sugar that the Germans had brought over for fifty years. That was the first cavity. Anytime you put anything in the mouth and fill it, it has to be epoxied in. Therefore, you're going to contaminate the tooth mold. What I had done is when my cavities pop, I leave them alone. I don't put anything back. But that means some of them were almost all cavity, I mean all filling. So those teeth, I've had two of them, three of them break because there was hardly any tooth there. So I have a tooth that I had to make in Mexico. They will not do this here. They are not allowed to give you a tooth that you can remove. They have to cement it in. And I don't want it cemented in because I don't want that epoxy in my mouth. Because I'm experimenting to see whether teeth can regenerate on this diet, and I won't know for another twenty years. But I'm taking a chance. I'm taking a chance on losing my teeth. I've got another one here that's made the same way because the tooth broke. I mean those teeth, the one back here, the molar, two-thirds of the tooth had been a filling. And when it popped out, I let it go. It took, there was no more decay. I had a dentist look at it every year. No decay for about eight years. And I left the filling out of it. And it didn't break until I was ripping on some gristle once and it broke. But that's what it took. I mean no cavity. I don't have any more cavities. All these open cavities, teeth that are wide open, nerves that are wide open, no pain, no decay. I've got wide open fillings.
 
 Q: [unintelligible]
 
 A: Oh yes. Because you have poisons that come out through the gums constantly, especially your milk drinking. Because milk can carry toxic substances and metals from the brain. The brain holds the most toxic metals in the entire body. And it pours, it comes out in the gums. And that can be a solvent reaction and dissolve dentine. So you definitely want to brush.
 
-Q: [unintelligible]
+Q: Dental cleaning?
 
 A: Oh no, I don't like that. Every time I go there, it causes my gums to recede more. And they're telling me, your gums are receding. Well every animal's gums recede throughout their whole life. And there's not a problem with it. They just make a lot of money on the cleanings and rip the shit out of the gums.
 
-Q: [unintelligible]
+Q: Whitening teeth [unintelligible] yellow
 
 A: No, you have to realize again, the contamination is coming through the tubules out of the tooth. Take for instance people who snort cocaine. You see their teeth turn gray? That's because all that cocaine has gone down, gone into the nerves, and is leaking into the nerves out the teeth, and it turns the teeth gray.
 
@@ -1234,7 +1236,7 @@ Q: [unintelligible]
 
 A: Powdered. What you do is you put it in the butter or the cream, in about two parts butter, two parts cream, to one part the clay. And I mean we're talking about, let's say, six drops of butter or clay, unless you're making a batch, you keep it in the refrigerator, then you make a larger batch. So it should be about one-third clay to two-thirds cream or butter.
 
-Q: [unintelligible]
+Q: And that'll make your teeth whiter?
 
 A: I doubt it. The whiteness comes, again, from the toxicity that's coming from the brain or the mandible going into the nerves. So I mean over the years, if you clean out those nerves, and you have nerves and tubules that go in to the tooth without fillings, of course their circulation can change over the compound of the tooth to make it white. Otherwise, no, it won't change it a bit.
 
@@ -1246,7 +1248,7 @@ Q: Even the ones from the health food stores?
 
 A: Yep. They say, tell your children not to swallow toothpaste. Warning notice on it, do not swallow it.
 
-Q: It doesn't say mercury up there.
+Q: It doesn't say mercury on it.
 
 A: Because it's trace amounts, they don't have to unless it's a certain amount.
 
@@ -1272,7 +1274,7 @@ A: Well, lemon or lime works better. Yeah, just squeeze it in and mix it around 
 
 Q: [unintelligible]
 
-A: Yeah, that helps that. You can rinse it with some, like, Gerolsteiner, Perrier, Romlusa, one of those.
+A: Yeah, that helps that. You can rinse it with some, like, Gerolsteiner, Perrier, Ramlosa, one of those.
 
 Q: [unintelligible]
 
@@ -1296,7 +1298,7 @@ Q: [unintelligible]
 
 Q: [unintelligible, same person as above]
 
-A: Well, as I was talking about, faecal matter is the only thing that I've seen stop that kind of metastasis. When you metastasize that much, that means it's pretty fast growing, pretty fast. I can't imagine that they're, you know, benign if you have that in any various areas. I have seen it occasionally, but not, you know, not very often. Benign tumors, very hard to dissolve. Coconut cream is your best. Using coconut cream with a little bit of pineapple is helpful to dissolve tumors. But with that many, it all depends. See, when the cells go malignant, that's a good thing, because only malignant tumors can dissolve overnight. Because when the malignant tumor, the malignant cell has like a battery acid in it, and mostly in tumors you have one live cancer cell surrounded by 50 dead cells. The cancer cell is like a hermit, like a monk. It's very psychic, it can keep the body in communication with that area. So it can keep that body, that part of the body alive even though it's in this state of disease. Benign tumor can't do that. There's no connection with that area of the body. So when the cancer cell dies, it sends out the serum and dissolves all the cells around it. That's why you can have remission overnight and dissolve within 2-7 days of each tumor. Like they did at the University of Toronto using E. coli, verotoxin to dissolve brain tumors in 2-7 days, including the vessels going to them, the tumors. So, faecal matter is your best way to make sure that it stops it. If you go in for a biopsy, you're opening yourself to a tremendous amount of metastases. 
+A: Well, as I was talking about, fecal matter is the only thing that I've seen stop that kind of metastasis. When you metastasize that much, that means it's pretty fast growing, pretty fast. I can't imagine that they're, you know, benign if you have that in any various areas. I have seen it occasionally, but not, you know, not very often. Benign tumors, very hard to dissolve. Coconut cream is your best. Using coconut cream with a little bit of pineapple is helpful to dissolve tumors. But with that many, it all depends. See, when the cells go malignant, that's a good thing, because only malignant tumors can dissolve overnight. Because when the malignant tumor, the malignant cell has like a battery acid in it, and mostly in tumors you have one live cancer cell surrounded by 50 dead cells. The cancer cell is like a hermit, like a monk. It's very psychic, it can keep the body in communication with that area. So it can keep that body, that part of the body alive even though it's in this state of disease. Benign tumor can't do that. There's no connection with that area of the body. So when the cancer cell dies, it sends out the serum and dissolves all the cells around it. That's why you can have remission overnight and dissolve within 2-7 days of each tumor. Like they did at the University of Toronto using E. coli, verotoxin to dissolve brain tumors in 2-7 days, including the vessels going to them, the tumors. So, fecal matter is your best way to make sure that it stops it. If you go in for a biopsy, you're opening yourself to a tremendous amount of metastases. 
 
 Q: [unintelligible] I knew not to jump into that, but I'm at the point where I think, well, won't I die if I don't go to a Western doctor and do something? I would never take radiation. [unintelligible] I saw this many years ago. [unintelligible] I know that people can do okay with surgery and they remove the tumor in their body, and when somebody else dies right away, I don't know that kind of thing.
 
@@ -1444,7 +1446,7 @@ Q: That's when I weighed 105.
 
 A: Yes. Right. Yeah, so she's calmer and happier, and she's on the diet too.
 
-Q: [unintelligible]
+Q: The weight gain you're talking about. Is it distributed?
 
 A: Yes, his is very nicely distributed. And usually in women, it may, if you have a lot of, women because of the high hormonal content around this area, they store lots of their toxic, they have more fat to bind with more toxins. And if it's a bad cholesterol, it'll store in certain areas, and it's usually around in here where they're generating a lot of hormones to bind with the poison. Especially if they're on a fat-free diet, or limit their fats, they're going to use hormones to chelate with poison instead of normal fats, blood fats. So the store in these areas cause cellulite, and it'll dry up, and it'll get harder and just keep growing, because the body will build on to it. And then when you have to go and dissolve it, it dissolves a little layer at a time, so it causes swelling temporarily, so you have this puffing out for two and a half to three years, like I say in the book. And then it goes away, unless you have cesarean, then it could last for eight to ten years.
 
@@ -1470,9 +1472,9 @@ A: Correct.
 
 Q: Are space heaters okay?
 
-A: Keep them three feet away from you. They also cause electromagnetic fields in the air.  I don't think it's a good idea. It's better to use, if you're going to use something like that, use the, you know, like the radiators, the oil fills. They're less contaminating.
+A: Keep them three feet away from you. They also cause electromagnetic fields in the air.  I don't think it's a good idea. It's better to use, if you're going to use something like that, use the, you know, like the radiators, the oil fills. They're less contaminating. Or gas.
 
-Q: [unintelligible]
+Q: If you cut your finger, just put a hot water bottle on it?
 
 A: No, you don't put it on top of the hand, because then it'll cut the circulation off. You put your hand on top of the hot water bottle. The heat will radiate up into the hand.
 
@@ -1564,7 +1566,7 @@ Q: [unintelligible]
 
 A: Well, clay does contain some, what is that, ultraviolet rays? And they do contain magnetic fields. And I have seen them work. I've seen the blankets. Nikken has them also, which has the clay in them, which helps the magnetics and the ultraviolet light, which helps people heal. So those can be beneficial. Just remember, don't overdo anything. When I was doing tests on them between 1990 and 1993, I found that if people were sleeping on the bed every night more than five hours, after about six weeks it caused more of a toxic effect on this diet. If you're on a toxic cooked diet, of course they're always having more toxins and more electromagnetic problems. So it's beneficial for them to be on it eight hours a day, every day, and it's fine. But on this diet, you don't want to be on it more than five hours a day for about six weeks, and then off for about six weeks, and on and off. It would probably be safer to do six weeks on, six weeks off, three weeks on, six weeks off, three weeks on, six weeks off, a pattern like that. And it's a thing you put under your blankets and stuff, with a pad over the magnetic cushion.
 
-Q: [unintelligible]
+Q: I just wanted to ask, you said ultraviolet light is good for you?
 
 A: No, ultraviolet when it's from clay.
 
@@ -1574,7 +1576,7 @@ A: Not the, not light. Sunlight, yes, but not from a synthetic light source.
 
 Q: Oh, I got it.
 
-Q: [unintelligible]
+Q: Not from a tanning bed.
 
 A: No, those are very toxic.
 

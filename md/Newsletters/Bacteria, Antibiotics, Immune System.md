@@ -197,6 +197,8 @@ the public.
 
 ===
 
+[PDF File - Michigan Raw Milk Report](/docs/michigan_raw_milk_report.pdf)
+
 ![[pdn27_report-1.jpg]]
 ![[pdn27_report-2.jpg]]
 ![[pdn27_report-3.jpg]]

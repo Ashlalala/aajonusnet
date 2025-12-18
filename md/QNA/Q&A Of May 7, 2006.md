@@ -1,1924 +1,925 @@
-(1) Cheese With Other Foods
-[2006],[Aajonus]
+Aajonus.net & Rawmeatgang
 
- I've said all this stuff already
+A: Plug it into a computer.
 
-[Attendee]
+Q: I have the instructions upstairs.
 
-Not about cottage cheese.
+Q: Does it give you a type?
 
-[Aajonus]
+Q: [unintelligible]
 
-No?
+Q: Additional recorder?
 
-Any kind of cheese, it's the same.
+Q: No, someone told me as well. They want a lot of money for it. They have now, they'll record for 19 hours.
 
-There's no enzyme activity, even in cottage cheese, it's too dry.
+Q: [unintelligible]
 
-So, there's no bacteria that is alive to help utilize the enzymes.
+Q: Right.
 
-So, it's an absorbent, unless you eat honey with it directly.
+Q: But that would be good for those who want to do those marathon weekends, huh?
 
-Now, you can eat cheese with a milkshake and still, the honey is already united with and chelated and bonded with the fats and the proteins and the other sugars in the food that you're eating.
+A: I got a digital one that's 19 hours.
 
-So, you eat cheese with a milkshake, the honey in it is not going to change the ability of the cheese to absorb and pass out without digestion.
+Q: You do? Do you know what the brand?
 
-You have to put the honey and the cheese together in the mouth to do that.
+A: Olympus.
 
-Cottage cheese isn't different, just a little dryer.
+Q: [unintelligible]
 
-That's like if you were dead and you were dead and you were half dry, are you more alive when you're half dry than completely dust, a hardened leather.
+A: It's got a little bit longer, flatter.
 
-So, it's like that?
+Q: Interesting, they're 19 hours.
 
-Once you've reached that point of cottage cheese, there's no live bacteria in it anymore to facilitate digestion.
+A: Yeah, probably about half that thickness. It was very expensive. I bought it in Bangkok for $200 there. Here it was about $360 something, $367. I got it for about $188, something like that in Bangkok. A lot cheaper there than here.
 
-I won't put it in the light, because the light has a tendency to cause fats to go bitter.
+Q: [unintelligible]
 
-Pardon.
+Q: Yeah, chocolate one.
 
-I put it in a dark cupboard?
+A: Chocolate orange.
 
-Just get more oxygen in, it'll dry out a little bit more.
+Q: Something to do with chocolate, how to make chocolate.
 
-It gets the aerobic bacteria to grow faster.
+A: Yeah, how to make a chocolate... Chocolate orange pie, cheesecake, chocolate orange cheesecake. And how to make the rum chocolate.
 
-.
+Q: Yeah, that's right. [unintelligible]
 
-(2) Colon Cleans, Prodbiotics
-[2006],[Dave]
+A: That's right. You have to email me and ask me for it. And I'll attach it and send it to you.
 
-I did a three month colon cleanse right before just happened and then I kinda started changing drinking a lot of milk and went into the bathroom, really hard like a brick
+Q: [unintelligible]
 
-So, butter will help that.
+A: Well, my partner is still doing the stem cell thing. That's their main focus, so when they finish with that, then we'll buy the land and start developing the clinic there.
 
-[Aajonus]
+Q: Which area?
 
-Yeah?
+A: Oh, it'll be near Chiang Rai, Chiang Sai Yen. Probably no more than 50 miles from the Laos border.
 
-Well, the colon cleanse destroyed all the bacteria.
+Q: Have you been to Koh Samui?
 
-[Dave]
+A: Yes.
 
-Yeah, I washed it out.
+Q: Is it near there?
 
-[Aajonus]
+A: No, Koh Samui is probably about 200 miles, 240 miles south of Bangkok. And Chiang Sai Yen is probably 450, 460 miles north of Bangkok.
 
-Absolutely, destroyed it.
+Q: [unintelligible]
 
-[Dave]
+A: Oh yes, definitely. It's only an hour's ride. It's like from here to San Francisco.
 
-So, to rebuild.
+Q: [unintelligible]
 
-Can I use worm probiotics.
+A: Yep. But I have some patients, or I have a patient in Aruba. And I visited him in February. I did my West Palm Beach workshop and then went down to Aruba and saw the patients there. And one of my clients there said, you know, Thailand is too far for me to go. He said, why don't you do it in Costa Rica? And I said, well, I wanted to originally do it in Costa Rica, but everything was so expensive. It would cost $3 million to build, it would cost a million in Thailand. And he says, well, I'll build it for you. I said, okay. So he picked up the phone and called somebody in Costa Rica and said, I need 100 acres. So, they're working on it. Sounds like I have two clinics at one time. They're starting to build it. That'll be nice. Because then I'll be able to train, you know, at least 12 people at each one. You know, it's going to be like medical school. It's going to be an internship. They have to see the patients every day. That's the only way I can really teach them. I've tried teaching in a school environment. It just doesn't work. You've got to see the people. You've got to see what happens. Otherwise, you know, it's like schools, they milk you. You go to school for eight years and then you go, you know, internship for four to six. Hello, you should be doing internship while you're learning. Because, you know, they're just doing that to stretch it out and make more money, I guess.
 
-[Aajonus]
+Q: [unintelligible]
 
-It doesn't really work, it's not the same bacteria?
+A: Yeah, right. So then I, you know, once I get people trained, then I can go off and do something else. Make movies. So that's, you know, that's probably looking about seven or eight years from now. What I was experimenting, you know, I was experimenting for the detoxification book still. So right before, I had a month before I had to travel again. So I went on a heavy detoxification trial run. And again, I was trying to get rid of a lot of the toxicity that's built up in cereals. Because I was, you know, I was an addict cereal eater as a child. And, pardon?
 
-Worm casings isn't the same as your own bacteria, E coli.
+Q: Sugar crisp.
 
-[Dave]
+A: Sugar crisp and four tablespoons of sugar in the sugar crisp. It was already deadly sweet. So all that heavy, heavy sugar with the pasteurized dairy. And I was, I'd go through a half gallon to a gallon of pasteurized milk a day. So I wanted to work at detoxing that again. And I thought, you know, I got my first parasite almost two years ago. It would be two years ago in July when I forced that milk and fermentation and the sugar cane juice fermentation. And, you know, the tapeworm lives on sugar byproducts. And the only people, or mainly the people who have tapeworms are people who eat lots of grains, lots of cereals that have no value. They've been processed. Like, you know, children in Africa that have no food. And, you know, we give donations to these companies to feed them. And then the companies go and give the money to Purina or General Mills or somebody like that. And they send over the worst cereals possible and water, cereal and water. So they make these hundreds of millions of dollars from all these donations and give the worst food they can to, you know, these children. And all that sugar product forces the tapeworm to eat up the excess sugars because if they don't, they'll just rot. So the tapeworm is a good thing for that environment. So analyzing that, I thought, well, you know, that tapeworm, I got tapeworm when I was in Cambodia and Vietnam and eating that fermented sugar cane and fermented milk. And that forced the tapeworm that I had. And like I said, one of the times when I talked about it here, I got this craving about three weeks later. I think it was three, three or six weeks. I have to look at my notes. And I, you know, I had a craving for onions. So I sat there and ate a half of an onion. And the next morning, you know, I shat out 45 to 48 feet of a tapeworm and I was devastated because it took me 38 years, you know, from after having the chemotherapy and radiation to get a tapeworm. I mean, any kind of parasite because I was so poisoned from the radiation and the chemotherapy that no parasite could live in my body and very few bacterias. So I had to do everything in a relationship with solvents, which are virus. And that's much more toxic and takes longer. And it isn't as efficient. So I said, well, let's see what happens if I take, drink, go on a milk diet with lots of honey in it. And let it get about 24 hours old before I do it. And I put it in a bowl of, you know, hot water, but, you know, only about 105 degrees. That's the highest a cow's body temperature gets unless it goes into fever. So I'd leave it in there for about, you know, two hours and keep warming the water every 20 to 40 minutes. And then I did that, add a little cream to it also. So I was drinking anywhere from a half gallon to a gallon of milk a day with that honey in it. And after about five days, all of these, if you go on the internet and look under dermatological diseases or skin diseases, and you ask for photographs or pictures, you come up with all these different rashes, these different things come out of the body. And one of them, it says fix drugs, and it has areas, you know, it could be on the penis, it was on somebody's back and on their sides. And that's what I started throwing off, all of these drugs, you know, like chemotherapy and everything I started. I had lots of diarrhea from it, and it smelled like the chemotherapy I had, you know, which was AZT back in those days. It was outlawed. The year after they gave it to me, it was outlawed, and then they brought it out of the vaults again when AIDS came up. Because they had billions of dollars of it in the vaults, and it was, they deemed it too toxic to give to cancer patients. So without any testing, they said, oh, it works for AIDS. No testing, they just wanted to get rid of this drug. You know, make money at it and kill people with AIDS. Kill them. So anyway, I started detoxing the AZT, and I still have it coming out. I mean, you know, big dry patches all over the place. My chest and back were just riddled with all these hard sores. And they would come up as hard spots first, and then, like this one, comes up as a hard spot. And it'll turn into a scab, and then, you know, it goes deep too, rip it off. So I took one of the, a few of them, and I, you know, lots around here right now, dissolved them in a, you know, in a distilled water solution, and then put them under an electronic microscope. And there was lots of crystallized structures, it looked like, in the AZT and other chemicals that I had, and even mercury molecules in it. So it started pulling out all this stuff. So I've had this for a month now, and sometimes it gets so itchy. Especially in my back, you'll see me rubbing my back up against the wall or a pole, going like this, because it's so itchy. Get some sun on it. Anyway, it was really, I mean, two weeks ago, it was intense. I mean, see the, see how these hard things come out all over? And then they'll scab. Pardon?
 
-What would rebuild the intestine.
+Q: [unintelligible]
 
-[Aajonus]
+A: But, you know, all over my legs, all the way down to my feet.
 
-Eating shit?
+Q: And so the detoxing things that you've done up until now were not sufficient to bring this up to the surface?
 
-Eating buffalo shit or cow shit, something like that would get it quicke.
+A: Drugs are hard to get removed, because they're so toxic. So that's why I was trying to see how much I could get moving with this. And guess what? I haven't seen that. Then parts of that, back to the old story. Parts of the tapeworm came up a few, maybe a month or a month and a half, six weeks after I dispelled, you know, with the diarrhea after eating the onion. Then I saw segments again, and then after about, probably a total of four months, I shut out another 45 to 50 feet. And never saw them again. That was the end of it. No sections, no anything, until I did this milk, you know, fermented milk cleanse again with all that honey in it. I was putting a half a cup of honey per half gallon of milk with a little cream in it to force this thing on. So then guess what came up?
 
-If you want to do it another way, take some soured milk and put it up there as a suppository like you would a light enema.
+Q: [unintelligible]
 
-Only you use soured milk and you put it up in there and you keep it in you, and that would help build the e coli again quickly, they could feed on it.
+A: Yeah, for only one day. And guess what came up? Tapeworm showed up again. So, you know, about a week ago I saw sections of them coming out again, and every time I have a bowel move I see a few sections. So he's in there helping me eat up all the sugar damaged tissue that's dumping into my lungs. That's what's not drug related, it's coming through my skin. So, and like I say, you know, I don't suggest, it's coming out everywhere. Here, I used to have psoriasis, Joe, you know, recognize this kind of thing. You know, I had psoriasis so bad, it's like on your hands, you know, I had it on my elbows. I had it on my knees and ankles, everywhere. And I haven't had this kind of condition, what, 30 years? Something like that. And this was, I didn't know that it was so much chemically related, the psoriasis. Because I thought psoriasis was mainly an organic disease that was from mainly cooking foods. Especially cooking meats, and if you, you know, it's like causing gout in some people and causing arthritis and rheumatism in others. But I found that when I did this and all the drugs started coming out and this started happening, in the tissue, the whole area was hard, like there was no, you know, nerve in it or anything. It just deadened everything. And the scraping from here, this was the worst area. The scraping from there showed the same kind of AZT and the other crystalline toxicities, you know, from chemicals. This is mild to what it was. It looked like your hands when I first met you.
 
-High meat is also helpful because it's broken down to a point where the bacteria can feed on it readily by the time he gets to the bowel.
+Q: What did you think created the hardening? Did you think it was the burning of the chemicals coming out?
 
-You can do it in about two weeks if you don't put it in refrigerator.
+A: Yeah, well, a lot of, you have to understand, with a chemical like that, it's already attached to dead cells. It's already a part of dead cells. The dead cells just moved out of the bones and out of the other tissue, and the ligaments and the tendons moved out through the skin to be, to drop off. You know, it doesn't come off easily. It's got to flake off and die. But this whole area here is numb.
 
-I explain how to do that in the recipe book.
+Q: So, you think detox and then you work on your, your filters first and over a long period of time, you think detox comes out in the cellular level.
 
-You have to open it every 2 days, instead for every 3 - 4.
+A: Well, that's, I mean, you can take it out of the intestines, but can you imagine this going out through the intestines? You'd have peritonitis, and you'd be very sick and probably die. So it has to come out the skin. And that's what I've been trying to do is get things out just to see what would happen. I'm not one that believes in forcing detoxifications, but I, you know, because I think it's just be patient and let it happen over a 40-year period rather than forcing it. But when I see the damage that chemicals have done in people's bodies from medication, I started thinking, you know, there's some things that are not going to be able to be removed unless you help it. So, and I knew that if you take a food that you've eaten a lot of, in a cooked or pasteurized form where all the bacteria and natural products in it that allow it to break itself down and ecologically recycle itself, all those are destroyed in cooking. So if a compound in your body, if the structure in your body is made of that kind of compound, there's no way to get it out unless your body goes through extreme measures like creating virus, which are not alive. Those are just solvents made, you know, by intracellular. So that's a long and hard process. And can the cells do it with those kinds of drugs and chemicals in the system which are meant to poison the body? AZT chemotherapy is meant to poison the body, to kill cancer cells. But like I said in We Want to Live, for every one cancer cell killed, kills one billion to two billion healthy cells. It doesn't make any sense. So that's why I decided to, in the last two years, experiment with detoxification regimes and putting fermented products in my body that I eat heavily to detox them from the system. And boy, it sure is working. It works like a charm. I did a little bit of that in the 70s and 80s with grains. You know, I'd ferment grains and then take the fermented juice and sometimes a little bit of the fermented grain and eat that.
 
-.
+Q: Is that the rejuvelacs?
 
-(3) COlostrum
-[2006],[Aajonus]
+A: It's like a rejuvelac, yeah. But I'd let it go further until little molds would form. They usually don't let it go that far. Because molds clean your body naturally like bacteria and parasites do. Your body resorts to virus, making virus which are not alive, to dissolve things that are too toxic that would destroy and kill any bacteria, parasite, or fungus. You know, like Candida, Giardia, all of those. Those are natural, those are healthy, but they're for detoxification. Even athlete's foot, all of that stuff. You know, I've been employing those things for the past two years, actually, to experiment and see what happens. It is feeding things, obviously. I didn't know I still had this much in my system. And I did not know it was systemic. Of course it's going to be systemic. It went right into my veins, so it's stored everywhere. The only place it hasn't broken out is on my face. I had a few spots on my face and just a few right here on my neck and some bleeding ones here and then one on my ear here which bled. But other than that, no, it wasn't. You know, it wasn't. It was systemic except on my face and scalp.
 
-Joe, do you have a question
+Q: Hi.
 
-[Joe]
+A: Hi. So it's working. And that's why I'm going to write the book on detoxification, the next book. And that's for people who have, you know, had exposure to lots of chemicals and things that were likely to store in the body and did not come out naturally out of the system.
 
-Colostrum, is that better than regular milk?
+Q: MSM has got a...
 
-[Aajonus]
+A: It's a terrible thing. It's sulfur. And sulfur dries out the system. It's like an antibiotic. We used to use sulfur as an antibiotic for kidney diseases and stuff like that, sinus diseases. MSM is a dangerous substance. Sure, it'll stop detoxifications and it'll get rid of your symptoms, but it makes the body worse. Sulfur stores in the body. Sulfur, you can't break sulfur down, especially when it's that concentrated. You know, I find in people all the time that it creates serious mental problems later down the line or intestinal. Sometimes it's systemic. But it just dries out the system. And back in the early 70s, there was a 60 Minutes or 20 Minutes, one of those. They did a segment on women who spontaneously combust. That means they'll be standing. Only women were taking that kind of sulfur drug to do it. What would happen was they'd be standing there and they spontaneously went up into flames. Not around any fire or anything, just went up in flames.
 
-It depends?
+Q: Is this real, not science fiction?
 
-Colostrum is the milk produced by the cow for the first five days after giving birth.
+A: No, no, no, this is real. You know, the burns of the body and everything. One woman, two-thirds of her body had been burned. Two-thirds or three-quarters, it was pretty bad.
 
-Most of the fat is not in a cream form, it's in a butter form.
+Q: So she's dead?
 
-Liquid butter form.
+A: Third degree, no. She survived. And this was, I think, somewhere around 1969, 67, that happened to her. This show was built and done about 70, I think it aired in 72. And then they showed other women, two other women who had gone through the same experience, but not as much as their bodies. So I was racking my brain out, you know, at that time, trying to figure out what would cause those women to spontaneously combust. I knew it had to be a chemical related to nitroglycerin that if it had a certain sulfur base, as soon as the oxygen would touch it, it would go up in flames. So that was a year later when I figured that out. So I thought, hmm, I wonder. So I called a friend of mine who was the head of publicity at MGM, and I said, listen, I need to find out who these women were. I need their names or phone numbers or addresses where I can write or call them. So he gave me the number of the show. Like I said, I remember it was 60 minutes or 20, 20. And I called the show, and they got permission to give me the numbers. So I called the three women, and the one who had had the worst burns had been on sulfur drugs for 32 years for kidney problems. The other woman who was next in about, what was that, I think a third of her body burned. She had been on the drugs for 27, sulfur for 27 years, sulfur drugs for 27. And the woman who had burned about a quarter of her body or a little less, 20% of her body, had been on for 13, 17 years, something like that, sulfur drugs. Sulfur is not a natural thing. No element in nature is high in the body except for calcium, potassium, and phosphorus. But the potassium and phosphorus don't hold up in the system. They're very transient. Calcium is more stable in the system. Sulfur is a very small part of the human body or any animal's body. And if it gets high, it will cause dryness, severe dryness. Most of your dristans, your antihistamines, are full of sulfur. Can you imagine, the body's trying to get rid of the poisons through the mucus discharge, and you're going to dry it up with sulfur. What's going to happen? The poisons that the body is trying to reject with the mucus are going to remain in the tissue. So you're going to have more advanced chronic disease as the years go by, because you're not going to be cleaning out the system. 
 
-So, it is much easier to digest.
+Q: Which is why, like my father, that's got these sinus problems, he did all the antihistamines that keep making it worse.
 
-Remember I stated before that cream has to go through quite a process, two-thirds have to go through quite a process of the enzymatic activity to separate the H2O from the fat to make it into a butter, to lubricate and strengthen two-thirds of the body's needs.
+A: Exactly. Progressively it gets worse and worse. He needs to just let the mucus flow. Like me, I haven't had a cold in three years. I'm throwing a party. I like colds because that means you've got enough health that you're using bacteria instead of virus. Again, virus are not alive, they're just solvents that dissolve matter. And if you're using a solvent, like if you're cleaning your driveway of grease, you have a water base with a solvent. What happens, you wipe it up and then it gets into the bucket, and you have this bucket of all this water, maybe two and a half to three gallons of water, and it's all contaminated. So it's a lot to cleanse and flush out of the system. If your body's using bacteria or parasites, they consume the degenerative tissue, and they put out a fraction of it as an excrement. So let's say a parasite can eat 100 times its weight in 24 hours and have 1% feces. That's like us eating 100 pounds and having 1 pound of feces the next day. I don't have to handle 100 pounds, I have to handle a pound. That's the way the body works. And if it's a bacteria, they can do about 50 times their weight in 24 hours and have about a 5% secretion, sometimes up to 8. So they even reduce it. We will eat 14 pounds and have a pound of excrement the next day, a whole pound of excrement. So it's much better to have bacteria and parasites rather than virus. This is the first bacterial cold that I've had in three years. I pray for them because it's so much cleaner. There are less symptoms. It can even be asymptomatic except for the mucous flow. Of course, it's partially in my brain, so if I cough, the brain hurts when I rattle it.
 
-Only a one-third of the cream can be utilized to help the nervous system, but the other two-thirds of that fat has to be made into like a butter fat.
+Q: So if you get a cold, it means your body is detoxifying. So there's no such thing as too many colds? Because I went through three of them in the last few months.
 
-So, the first five days is a butter fat and not a cream, so it stabilizes that baby as soon as it's born, that calf, as soon as it's born, gives it five days to firm solid, make things more solid in its skin and its hair, everything.
+A: No, that's wonderful. That means your body is dumping wonderfully. There's a team of doctors that I lectured to about 22 years ago at Yale who were involved in a study that found that 80% of cancer reverses immediately following a cold or a flu. 80% of the cases of cancer reversing immediately followed a cold or a flu.
 
-And if it just had cream, it would be anemic.
+Q: Can I ask you a question specifically about cancer? The reason why I'm here, actually, is because my brother's girlfriend, I just found out she has lung cancer, and it seems to be pretty severe, actually. Not to the bones yet, but they're still going through tests. Do you have any suggestions to face this kind of cancer?
 
-You having had psoriasis, I'd be eating, butter and cream.
+A: That's a hard one. It's a very difficult one if it's advanced. The two that I don't like to handle because they're so difficult is lung and esophageal. Lung, because the lungs keep filling up with fluid, and it takes medical intervention to get the fluid out of the lungs, and they'll usually puncture the lungs and then pull it out. If you keep poking the lungs like that, it doesn't help. So it's very, very difficult. Only 60% of those that I've worked with reverse. Medical profession, none reverse unless they remove the lungs. And then there's usually a five- to six-year period when they're dead. That's the longest they live. But about 90% of them die within a few years of getting lung cancer. Usually if they get treatment, they'll die within a few months unless they have surgery.
 
-I'm eating sheep's cream right now.
+Q: Right. She's against any kind of chemotherapy or stuff like that.
 
-and sheep's butter.
+A: Or, yeah, radiation.
 
-So, you need that lubrication formula.
+Q: Or radiation. And I talked to her about that. [unintelligible]
 
-[Joe]
+A: But still, if her lungs keep filling up with fluid, which it does to help eliminate it, she has to be able to cough it up to get it out of the body, or else it has to be aspirated through medical means, and that's complicated. And that creates sores, which makes more fluid collect in the lungs. So it's difficult. Esophageal is bad because it'll choke off the vocal, the esophagus, the ability to breathe and eat. If you can't breathe and eat, you're done. So it's difficult. One case I had was after it was removed, the man had esophageal cancer all the way down, so what they did was they had maybe three inches of esophagus left, so they cut it all out, put his stomach up in his shoulder, you know, and his lungs way over here, you know, so it's all attached right to his throat. He was on constant meds, and he was in constant pain. And he died, you know, even though he went on the diet and did it 100%, it only allowed him to live for another year and a half, a year and three months. He should have been dead, you know, probably within a month, month and a half. But he suffered, you know, the whole time, even on the diet. It reduced his pain by 50%, so he was taking less meds. But it was still very difficult, a difficult situation. Then there's some people who catch it early enough, and they go on the diet, and they'll get colds and flus and keep bringing stuff up properly with the mucus instead of water. They make it, you know. So we just, you know...
 
-I'm having it.
+Q: [unintelligible]
 
-[Aajonus]
+A: Right, yeah, right. Well, if she has fluid already collecting, then egg every half hour, waking hour, and a little honey and butter in between. And that's what she should eat until she gets the strength, until she's built some mucus instead of fluid. It should be almost exclusively that.
 
-One a day.
+Q: Is that eggs?
 
-[Joe]
+A: Eggs, raw eggs. Like one every half hour. And maybe a teaspoon of honey and butter, equal parts of honey and butter. You know, teaspoon to a half a teaspoon to a whole teaspoon every 15 minutes after each egg.
 
-Sometimes two?
+Q: How about veg juice, like celery?
 
-[Aajonus]
+A: That could cause water to build up in the lungs. Unless she sips it. Sipping it's okay.
 
-Keep up 2, as long as you have dryness, you need two a day.
+Q: Is there a way she could have, like, a consultation when she comes to the States?
 
-[Attendee]
+A: When she comes, yeah. Well, it depends on when she would come. Did you email me about Italy?
 
-The money you pay for the extra colostrum is not worth it.
+Q: I did. I did, and I decided to come today because I didn't have any answers. So I went and found out. About the connections that she could possibly find in Italy, to begin with, I was not really sure.
 
-[Aajonus]
+A: Well, I sent you the email with Massimilio, his email address. I sent you that.
 
-Well, for some people it would?
+Q: Oh, you did send it to me?
 
-[Attendee #2]
+A: Two, four, three o'clock in the morning.
 
-Which conditions is it recommended most for.
+Q: Oh, thank you.
 
-[Aajonus]
+A: You probably haven't seen it.
 
-Digestive problems and skin problems?
+Q: Thanks, I haven't seen it.
 
-Those are the main.
+A: But he's not in, he moved to Switzerland. So he's living, he's an Italian living in Switzerland, but I'm sure he knows people in Italy. Because he was trying to get the book published in Italian. He's still working on it, too.
 
-[Attendee #2]
+Q: Right.
 
-How do they get it when they're not having calves or are they having calves every week.
+Q: When you're talking about the sulphur, what about the sulphur dioxide that comes out when you go to hot pools? [unintelligible]
 
-[Aajonus]
+A: Well, you're, that's very small amount.
 
-Oh, they've have calves all year round in California?
+Q: Okay, I was asking, you're not going to worry about it.
 
-[Attendee #2]
+A: Yeah, that's not a concentration. Plus, there are other minerals involved. When they give you a MSM or supplement or an antibiotic of MSM, I mean of sulfur, it is concentrated sulfur. Did you ever see Time Bandits? Concentrated evil? Don't let any of that get by. Concentrated evil. And that's what chemicals are, that's what drugs are, they're concentrated chemicals that will disrupt the system. And that's why they use them, because they disrupt the system. They usually create an asymptomatic condition.
 
-But only for the first five days does it produce colostrum.
+Q: I have three kind of short questions.
 
-[Aajonus]
+A: Well, I'm going to go around and we'll start over here with Barbara.
 
-They have 450 cows?
+Q: I just wanted to go back to the egg that you gave me and what you give to other people. Like, at least a dozen eggs a day, no juice except every four or five days. [unintelligible] And not having the moisturizing liquid. What is the purpose? [unintelligible] What is the aim of that?
 
-They're having cows born every week.
+A: Usually when somebody is very, very ill, they're not digesting their food properly. So they can't digest complex nutrients. They can't digest meat, they can't digest sometimes even milk, even though that's already liquid. When you look at an egg, all of the fat and all of the proteins in complete liquid form. So there's almost, you know, just a fraction of the digestive time. It takes ten minutes to completely digest an egg. Completely digest it. Absorbed and already in your blood, in your nervous system, everywhere in your system. Milk can take an hour, a couple of hours, five or six hours even. Meat, sixteen to twenty hours.
 
-The Amish community, they may have, in their whole community, may have 50 calves born a week, all year round.
+Q: It's raw.
 
-It's a little warmer here than it is in New Zealand.
+A: Even raw. Because it's a hard substance that has to be broken down. So, if you're eating eggs, you don't have to spend all that energy on digestion. And you can heal and you can cleanse. And you can recuperate. That's why that woman I talked about that I gave as an example. In the recipe book that had emphysema that was supposed to die that weekend. And she'd been on oxygen for almost two years. And had been diagnosed seven years previously. And hadn't been out of the bed much in two years. Was out of the bed and walking around and off the oxygen.In two days of eating eggs. Sixty-six eggs over a two-day period. Thirty-three a day. So, the eggs can do that. But, oh, that's the only food that I can see that can create that miracle kind of experience with almost everybody who eats them. You know, there are other people. You can give them combinations or selective foods. And it'll change their whole life instantly. But it doesn't work on everybody or most people. But the eggs will work on almost everybody. People with environmental sensitivities that come to me. And, you know, they can't eat anything. They can maybe drink water or they'll have an allergic reaction to even water. Put them on the eggs and, you know, they can live on the eggs.
 
-New Zealand has all those high mountains that bring a hell of a cold front.
+Q: And the sulfur in the eggs is not a problem.
 
-And here in California, it's year-round, there's lots of them.
+A: It's not a concentrated sulfur. It's a lot of sulfur, but it's within a balance with the fat and the protein. If it were a problem, you'd better believe I would be a mess.
 
-There are some months though in winter where they don't have many calves as far as our Amish in Pennsylvania, getting it from them.
+Q: Trying to understand why it's not a problem so I can apply that logic to every situation.
 
-They're very limited supply.
+A: Right. And milk is very high in sulfur, too. But it's not a problem. It's just not as digestible, easily absorbable, and utilizable as an egg.
 
-But organic pastures, when I was there, they dropped five calves that day.
+Q: So it's not necessarily the context of the other minerals and stuff being present. It's more the concentrated dose is not so high. The reason why milk and egg sulfur is not such a problem at the dose level, not the context of the other minerals and proteins.
 
-I was there three years ago in December, first week in December.
+A: Well, yeah, it has to do with all of that.
 
-[Attendee #2]
+Q: All of that.
 
-But only for the first five days does it produce colostrum.
+A: Yeah, all of it.
 
-[Aajonus]
+Q: It's complex.
 
-They have 450 cows?
+A: Very complex. And man has his head up his butt because he can't even make anything grow. He can't make an apple from scratch or a seed from scratch to grow. He always has to use other elements of nature. And to think that he's smart enough to make something a balance is absolute stupidity. Because there are intelligence, micro-intelligence, micro-cosmic and macro-cosmic intelligence that are all partaking in the exchange of building something. It isn't just one human brain that's working it all out. That's pure stupidity. And when you cook something and you chemically treat it, you've gotten rid of all of those other cosms. And you're just working on one. And that's mainly where plants live. Most of those things you can feed plants. But if you put too much sodium somewhere, you'll kill certain plants. If you put too much sulfur somewhere, you'll kill plants. Do the same thing with plants. But plants eat rock. That's what they do. They eat non-bioactive substances. That's what they do. When the rain comes down, it dissolves rocks and they eat it. But we know that trees and plants will grow even faster and fuller if you're using biochemical mulch, where there is decaying vegetation or human excrement or animal excrement around. It'll thrive.
 
-They're having cows born every week.
+Q: It breaks down the water-soluble level.
 
-The Amish community, they may have, in their whole community, may have 50 calves born a week, all year round.
+A: Correct, yes. And, for example, I have a fern that was an indoor fern. The container was about this big and it was about this full. And I planted it in my garden because nothing else, the deer and the gophers eat everything. They don't leave anything for me. The only thing I can grow is peppermint or spearmint. I've got spearmint growing all over. And this fern and jasmine, they don't seem to eat them. One year they ate a lot of jasmine. Most of the time they don't eat jasmine. So I planted this one little bitty fern out there about three years ago. So I didn't fertilize it at all the first year. And it grew. It probably doubled in its size. You know, the fern spread. And the next year I thought, hmm, I'm going to see what will happen if I punch it with a lot of human nitrogen. So I collected my urine and I collected my eggshells. And I blended the eggshells until they were a powder. I mixed it with my urine and took some terramine clay and put a little bit of that in there. And then I went around, I took a container with a lid and poked holes in it. Went around sprinkling it all over the dirt around there. Everything doubled that year. So then last year I thought, well, I'm not going to put the hole in the cap. I'm just going to dump the stuff, you know, just dump it on the ground. I always do it in February, you know, low season when it's cold. And when things aren't thriving at that time, they're all about to come out in the springtime, about to blossom. And, you know, I was no holes and I'm just pouring it on the dirt. And it quadrupled. The fern now goes from that wall to here. And it goes from that post to here. That's one year growth from when I just poured it on. Now if you take urine from an animal that eats cooked food, like human urine or dog urine that's grown up on alpo and canned foods, it will destroy, it will actually burn and ruin the roots. Not help it grow, it will destroy growth. And here I saw it's causing all this tremendous growth.
 
-It's a little warmer here than it is in New Zealand.
+Q: And there's an irrigation system that was helping with the water, right?
 
-New New Zealand has all those high mountains that bring a hell of a cold front.
+A: Pardon?
 
-And here in California, it's year round, there's lots of them.
+Q: That fern was getting water from an irrigation system?
 
-There are some months though in winter where they don't have many calves as far as our Amish in Pennsylvania, getting it from them.
+A: No, it has a sprinkler system. So it gets water about every three days, 10 minutes, 15 minutes, every three days.
 
-They're very limited supply.
+Q: Going back to the other thing with the eggs, you say don't have too much vegetable juice. Is there a reason for that?
 
-But organic pastures, when I was there, they dropped five calves that day.
+A: Well, I found that if you have lots of eggs, that it causes a certain amount of acidity. Because there's a dryness and it starts pulling out a lot of toxins. And by having the green vegetable juice, it helps replenish and rebalance the system.
 
-I was there three years ago in December, first week in December.
+Q: But you don't want too much, you don't want it every day.
 
-.
+A: No, right.
 
-(4) Detoxing Toxins From Cereals
-[2006],[Aajonus]
+Q: Why is that?
 
-I'm experimenting for the detoxification book still
+A: Because then it interferes with the digestion of the eggs.
 
-I had a month before I had to travel again, so I went on a heavy detoxification trial run.
+Q: Because it's too alkaline.
 
-And again, I was trying to get rid of a lot of the toxicity that was built up in cereals cause I was an addict cereal eater as a child.
+A: I can theorize that.
 
-[Attendee]
+Q: But you don't know.
 
-Sugar crisp.
+A: But I don't know. I can theorize why.
 
-[Aajonus]
+Q: But you found once every four days is better than once every day.
 
-Sugar crisp, and 4 tablespoons of sugar in the sugar crisp?
+A: Well, it depends. Three days. Three to four days. Some people can go five days without eating, without having a juice.
 
-It was already deadly sweet.
+Q: Not every day.
 
-So, all that heavy, heavy sugar with the pasteurized dairy, and I'd go through a half gallon to a gallon of pasteurized milk a day.
+A: No, you don't want it every day. I found it does interfere. When you're eating like an egg every half an hour to an hour. And that's mainly what you're eating.
 
-So, I wanted to work at detoxing that again, and I thought, I got my first parasite almost two years ago, be two years ago in July when I forced that milk and fermentation and the sugar cane juice fermentation.
+Q: Just quickly then, following on from this alkalinity. Everyone now writes books and says alkalize or die. If you're drinking alkaline pH water like 7.4 to 8, you're not going to have cancer. [unintelligible] And all the chronic diseases of the day are a result of acidity in the system. And that means less oxygen in the system. Can you just quickly, because everyone who comes to people who are in health will say this. This is what's being spread. What do you have to say about this?
 
-And the tapeworm lives on sugar byproduct and mainly the people who have tapeworms are people who eat lots of grains, lots of cereals that have no value.
+A: Theoretical bullshit. You said the short answer? That's theoretical bullshit. There's no evidence of that. You take a look at the clinics like the Optimal Health Institute here near San Diego. Where is it?
 
-They've been processed like children in Africa that have no food and we give donations to these companies to feed them and then the companies go and give the money to Purina or General Mills or somebody like that, and they send over the worst cereals possible.
+Q: It's in Lemon Grove.
 
-Cereal, and water.
+A: Lemon Grove. And you've got one in Florida. Two thirds of those people drop dead in less than five years.
 
-So, they make these hundreds of millions of dollars from all these donations and give the worst food they can to these children and all that sugar product forces a tapeworm to eat up the excess sugars, cuz if they don't, they'll just rot.
+Q: No, no.
 
-So, the tapeworm is a good thing for that environment.
+A: Yes. Oh yes.
 
-So, analyzing that, I thought, well, that tapeworm, I got the tape worm when I was in Cambodian and Vietnam and eating fermented sugar cane and fermented milk and that forced the tapeworm that I had.
+Q: Really?
 
-And like I said one other time when I talked about it here, I got this craving about three weeks later, I think it was three, three or six weeks, I have to look at my notes and I had craving for onion, so I sat there and ate a half of an onion and next morning, you know, I shat out 45 - 48 feet of a tapeworm and I was devastated cause it took me 38 years from after having the chemotherapy and radiation to get a tapeworm or any kind of parasite because I was so poisoned from the radiation and the chemotherapy that no parasite could live in my body and very few bacterias.
+A: Yes, yes. Absolutely, yep. Two thirds drop dead within five years from that experience. Most of them do very badly. There used to be several therapists there that found out my method worked better. So undercover they had their meat and everything illegally in their rooms in little coolers or little bitty refrigerators. And they were sending people to me. One woman they sent had multiple myeloma and she had just come from the ISSO clinic to there. And nobody gave her hope. I put her on the diet and in 30 days her multiple myeloma was reversed. That kind of alkalinity, that whole idea is a stupid concept. It is really a ridiculous concept. They're just justifying their own... Pardon?
 
-So, I had to do everything in the relationship of solvents, which are virus and that's much more toxic and takes longer and it isn't as efficient.
+Q: Acidic conditions can cause problems. So you're saying it's a balance between the two, not just extremely one or the other?
 
-So, I decided, well, let's see what happens if I go on a milk diet with lots of honey in it and let it get about 24 hours old before I do it and I put it in a bowl of hot water, only about 105°, but that's the highest a cow's body temperature gets, unless it goes into fever.
+A: No, I would say probably you're going to get more disease if you go on alkaline for a long time for the human body. Because the human body is like all other animals. I mean all other omnivore, I mean omnivore and carnivore animals are mainly acidic. Their urine, their saliva is acidic. Children should not have vegetable juice under 16 years old unless they absolutely crave it. And it will disrupt their whole digestion because it causes over alkalinity. Your digestive juices and bacteria must be acid in your digestive tract to digest any animal products. We know we're not vegetarians. Very few people can sustain human life on vegetation. That's why there are very few vegetarians that don't get cancer and do very well on it. I mean I've only met 8 out of about 3,000. 8 people who could accomplish being pretty good vegetarians. They were even athletic, but that was because they had all this high testosterone, high adrenaline, and high thyroxine. And even a couple of them had high thymus production. But that's what generated their health. So they were naturally very over-acidic because of those hormone secretions. So they could take all that alkaline food and do okay with it. But the longest term when I met, he was on that raw food hygiene program, a raw food alkaline with no meat, no eggs, no dairy for 52 years. And then all of a sudden his whole spine started disintegrating. He used to come to the health shows that I did, and he'd be one of those hecklers in the audience. And he'd say, well I've been vegetarian for 47, 48, every year he'd show up that I was speaking. Seven years. And then all of a sudden at 52 he didn't show up anymore because he was doing my diet. Because his spinal cord just started disintegrating. He was in excruciating pain. He couldn't live. He became an invalid. And then when he started eating the raw meat and raw dairy, well he mainly ate raw eggs and raw meat and kept the dairy down. He still has a hell of a prejudice against dairy. But he'll use the butter. He was back on his feet within about six weeks. But he doesn't tell people. He tells people to still do the hygienic vegetarian diet. He eats the meat, he eats some dairy and eggs. But that's a mentality. We're not vegetarians. We need acid bacteria. We need acid digestive juices to break down meats and dairy and eggs. That's the nature of it. And if you're trying to digest fiber, it's not going to happen. Because we have two and a half times less digestive tract than an herbivore. We have one stomach, the duodenum and the stomach are one in us. And the herbivores have from two to four. And they have 60,000 times more enzyme to disassemble the cellulose molecule to get the protein and the fats. We can't do that. So, you know, their B12 goes down and they're sucking up this processed soy garbage as their protein. And 50% of my cancer clients were long-term vegetarians. 50%. People like Linda McCartney, I'm vegetarian and I'll never get cancer. She died of the most aggressive breast cancer there is.
 
-So, I had to leave it in there for about two hours and keep warming the water every 20 - 40 minutes, I did that, added a little cream to it also, so I was drinking anywhere from a half gallon to a gallon of milk a day with that honey in it and after about five days, if you go on the internet and look under dermatological diseases or skin diseases, and you ask for photographs or pictures, you come up with all these different rashes, these different things coming out of the body.
+Q: And that was why? Are you linking her cancer to her vegetarianism?
 
-And one of them, it says fix drugs and it has areas, it could be on the penis, it was on somebody's back and on their sides.
+A: To her vegetarianism, absolutely. Absolutely. You're alkalinizing the body and you're feeding it bad proteins, processed soy, and nuts, grains that you can't digest. If you're a bird, you can digest nuts. Or a squirrel, but we're not those.
 
-That's what I started throwing off, all of these drugs, like chemotherapy and everything, I had lots of diarrhea from it, and it smelled like the chemotherapy I had, which was AZT back in those days.
+Q: So all this undigested matter created this toxic environment in her body?
 
-It was outlawed, the year after they gave it to me was outlawed and then they brought it out of the vaults again when AIDS came up cause they had billions of dollars of it in the vaults and they deemed it too toxic to give to cancer patients.
+A: Well, the soy has a lot of toxic elements. It has estrogen precursors and it forces the female body, even male bodies, to make a lot of it. So it forces a lot of brain tumors and a lot of uterine and ovarian cancers.
 
-So, without any testing they said, "Oh, it works for aids", no testing.
+Q: I had a breast lump disappear when I stopped doing soy milk.
 
-They just wanted to get rid of this drug, make money and kill people with aids.
+A: There you go. So all that alkalinity is not what we're supposed to be. I use the vegetable juice because we're so toxic. We have so many acids. We're over-acidic from all the cooked foods that we've had. So that helps balance it a little bit. We put in those alkalinizing minerals, they attach to the acid minerals and can neutralize them so it doesn't interfere with us. But children, even though they're eating cooked diets, only need maybe a half a cup once every two weeks when they're eating cooked foods. If they're eating raw foods, unless they were born to a very, very toxic mother and those toxins went from the mother to the infant, to the fetus, only they should have just a minute amount of vegetable juice. I got one two-year-old on the diet and she has signs of... She looks like she was born to a vegetarian woman. Now, the mother had been vegetarian for six years before she went on to my diet. Ultra skinny. Well, she didn't recover enough and I told her, don't have a baby. Now you wait seven years and you've been on the diet. She had a baby, I think she got pregnant within six months. She gained all this weight, she felt so good and she said, I'm healthy enough to have a child. I said, no, you're not. So she had this baby and this baby looks like it's been a 20-year vegetarian. More than half of its body is full of dead cells.
 
-So, anyway, I started detoxing the AZT and I still have it coming out.
+Q: How can you tell the body is half dead cells?
 
-Big dry patches all over the place.
+A: In the irises, if there's a lot of scar tissue, I can see how much of the body proportion and 50% of that child's body is dead cells.
 
-My chest and back were just riddled with all these hard sores and then they would come up as hard spots first and then, like this one, comes up as a hard spot and then it'll turn into a scab and it goes deep too, rip it off.
+Q: Wow, that's terrible.
 
-So, I took a few of them, lots around here right now, dissolved them in a distilled water solution and then put 'em under an electronic microscope and then there was lots of crystallized structures that looked like the AZT and other chemicals that I've had, and even mercury molecules in it.
+A: And another vegetarian that had a baby, well, she had a fetus growing and had miscarried at about five months old. The baby was see-through. You can look at it, it looks like a plastic baby. Translucent, you can see the veins and the arteries and all the different parts, as if it were this plastic model. And when we looked at the tissue, and it was all nerve tissue. She had had spinal cancer and brain cancer. So her body took all these dead cells and built them into the fetus to get them out of her system. She called him her angel because she had something like 60 tumors in her spinal cord and brain altogether. And she reversed so many of those cancers dissolved during that pregnancy, and her body took those cancer cells and put them dead nerve brain cells, the neurons, and built them into this fetus. So this baby was built out of tumorous nerve tissue that was translucent. The wildest thing I've ever seen. So the body does phenomenal things. When a mother comes off of vegetarianism, just because she gets on the diet or anybody gets on this diet, they're not infallible. You have to be careful. This woman had that baby way too soon, and now the baby shows signs of anemia, can't digest well. She acts just like a 40-year-old vegetarian.
 
-So, started pulling outall this stuff.
+Q: But you've got to be better off than a vegetarian having a baby. As a vegetarian, as a full-blown vegetarian, they must be far worse.
 
-So, I've had this for a month now, and sometimes it gets so itchy, especially in my back.
+A: Oh yeah, definitely. This woman is a smoker too. She never stopped smoking, so that added to the problem.
 
-You'll see me rubbing my back up against the wall or a hole going like this because it's so itchy.
+Q: There's hundreds of thousands of vegetarians having babies.
 
-Get some sun on it.
+A: But this woman was a smoker too, so that compounded. There was a lot of damage in this child. Now, at two years old, the child's going for the raw meat and is starting to gradually move out of that. So it's thankful that she's able to. Some children who are raised like that in a vegetarian-type system, the meat repulses them, and they will never recover properly. But this child, all of a sudden, two weeks ago, starts devouring the raw meat.
 
-Anyway, two weeks ago it was intense.
+Q: Why does the meat repulse them?
 
-See how these hard things come out all over and then they'll scab.
+A: Because they have so much alkalinity in their intestines and systems that they don't have the acids to break down the meat, so it repulses them. A lot of vegetarians can't go into eating meat within the vegetarian diet if they continue to eat salads and drink a lot of juices. The meat repulses them because they don't have the digestive juices to handle the meat. They'll start vomiting, the food will pass through, go into diarrhea, all kinds of problems. Okay, you were going to ask a question.
 
-Got coming on my arm.
+Q: Actually, Aajonus, I've been on a track similar to yours, but not nearly as long, and I've studied several different people. And so I'm really just interested in the parallels that you have to offer to all the other people I've studied. And I've taken a lot and thrown it away, and taken the good and saved it. So I just have to compliment you. I think you've run on the right track. If I could say anything at all, I'd say I've learned that life exists on a physical, mental, emotional, and spiritual plane. I mean, you've been balanced, so I would treat everything in a balance like that. That's what I would say. So it's not really a question, it's just a compliment.
 
-All over my legs, all the way down to my legs and feet.
+A: Do you have a question?
 
-[Attendee]
+Q: No, I don't.
 
-So, the detoxing things that you've done up until now were not sufficient to bring this up to the surface.
+A: Thank you. Thank you for your time. Yeah, I'm interested in what works, not what's theoretical. Like I said, when I wrote the book, all of my books, I was putting in there what worked, and all the explanation was just, you know, this is probably why it works. But we're not that smart to be able to say this is absolutely what it is. But people like science, they like logic, they like rationale. So to me it's all bullshit, and I'll give it to them if that's what they need. But that doesn't really mean that is the reason. The meat works. The meat helps heal the body. The eggs help rebuild and revitalize the body faster than anything else. The butter helps lubricate the body and keep it good and solid and firm. And the cream soothes and relaxes the body. So these things are the key answers that I have. And how to combine it to get people out of diseases is how I manipulate a diet.
 
-[Aajonus]
+Q: You feel better, there's hope. Everything starts rolling right back.
 
-Drugs are hard to get removed because they're so toxic?
+A: Absolutely, yeah. So I didn't mean not to give your sister-in-law any hope, but it's one that scares me because it's so difficult, it's hard. When you see a cancer patient with lung cancer trying to get up the stairs, they're exhausted, their lungs are filling up, they can't breathe, they're sobbing and panting, and that's the way it is. And it could take them three to five years to get through that stage. Will they get through that stage without running to the doctors? And the doctors are promising this, oh, well, we'll cut it out and you'll be okay, or we'll give you radiation therapy and you'll be okay, or chemo and you'll be fine. And they always tell them this. And, you know, it's a lie. It's an outright lie. And they usually end up with a miserable life and dead, you know, within a couple of years. You know, if they've had all three. Surgery I've seen, with lung cancer I've seen less deaths than probably the medical therapy. The surgery helps people live a lot longer. One woman had, you know, I don't know if you remember who she is, Lurene Tuttle, she's like my second grandmother and a very good dear friend of mine. And she got lung cancer in 1969. And she had, this is just when I was barely a cripple myself.
 
-So, that's what I was trying to see, how much I could get moving with this and then the parts of the tapeworm came up a few, maybe a month or month and a half, six weeks after I dispelled with the diarrhea after eating the onion.
+[audio cut]
 
-Then I saw segments again, and then after about probably a total of four months, a shat out another 45 - 50 feet.
+A: She wouldn't eat the raw meat, she would eat it rare. But she wouldn't eat it completely raw. So, with that, I mean, she only had three lobes of the lung, that was half of her lungs gone. And she did quite well. Also, I knew John Wayne, and John Wayne had just one lobe left. And he lived three years with just one lobe. You know, but he was an alcoholic, you know, he just stayed numb all the time. You know, destroyed all bacteria because he was drunk all the time. You know, but he was able to survive that. But he was not a happy person and nobody liked him. Because when he was drunk, he was just obnoxious, constantly obnoxious. People can survive with medical therapy, but what is the quality of life? But the surgery, although Hardin B. Jones says that he thought that surgery was the worst therapy that you could do. I think that surgery is the least harmful of the therapies, in my experience. Yeah, of medical intervention. So, you know, in a case of cancer, there's definitely 60% chance you'll live doing this diet. And if you go with the medical profession, it's probably 17% chance you'll live over five years. And that's why the medical profession pulls out this magic number of five years. Do you know that if you reach the magic number of five years, you're considered cured of cancer? No matter if in the next day or next year you get it again, they consider it a whole new case of cancer. Which they cured you the first time. You know, it's an absurd thing.
 
-I never saw him again, that was the end of it.
+Q: Are they playing on cell regeneration? Like a seven-year cell regeneration or something? They're saying after five years you've gone through a set of cells.
 
-No sections, no anything, until I did this milk, fermented milk cleanse again with all that honey in it.
+A: Yeah, you know, and it takes seven, seven and a half years to do it one time. It's all pharmaceutical, you know, double talk to get you to do what they want you to do.
 
-And I was putting a half a cup of honey per half gallon of milk with a little cream in it to force this thing on.
+Q: I've heard ducks fart underwater, too.
 
-And guess who came up.
+[laughter]
 
-Tapeworm showed up again?
+A: They do. I've seen them. I've seen ducks fart underwater.
 
-About a week ago I saw sections of him coming out again, and every time I have a bowel move, I see a few sections, so he is in there helping me eat up all the sugar damaged tissues, it's dumping into my lungs.
+Q: I've seen ducks fart underwater, too.
 
-That's just not drug related, it's coming through my skin.
+A: That's true, they do. Especially if you've given them a lot of nuts. Ducks don't eat nuts, but I mean, ducks don't go out and find nuts. But they'll eat them if you feed it to them. And boy, they have the worst diarrhea and farts you can believe. And they'll stink up a lake real quickly. They do great with grains, but for some reason nuts and ducks don't get along. Chickens do okay, and other birds do okay. But ducks don't do well with nuts. They may be like humans. They don't have the enzymes to break down the phytic acid properly. Do you have a question?
 
-And it's coming out everywhere here, I used to have psoriasis, Joe, you recognize this kind of thing.
+Q: I'm heading off to India in August, [unintelligible], and it's an ashram atmosphere. It's vegetarian.
 
-I had psoriasis so bad, like when your hands, I had all my elbows, I had on my knees, ankles, everywhere, and I haven't had this kind of condition for what, 30 years.
+A: Speak to that man. He did it last year in Burma.
 
-Something like that?
+Q: I know. He was in a place where they had fried wheat and sugar and all that. He did this a little bit different.
 
-I didn't know that it was so much chemically related, the psoriasis, because I thought psoriasis is mainly an organic disease that was from mainly cooking foods, especially cooking meats.
+A: Vegetarian.
 
-It's like causing gout in some people and causing arthritis and rheumatism in others.
+Q: Indian vegetarian. Rice and dal and vegetables. I don't know if he was going to have any salads. It's western-oriented. I think it's going to have salads.
 
-But I found that when I did this and all the drugs started coming out and this started happening, in the tissue, the whole area was hard.
+A: Well, try to find some dairy. They accept raw dairy. They may be against eggs. I'm not sure, but you can ask.
 
-Like there were no nerves in it or anything, it just deadened everything and the scraping from here, this was the worst area, and the scraping from there showed the same kind of AZT and the other crystalline toxicities from chemicals.
+Q: They may have hard-boiled eggs. What ashram is it?
 
-This is mild to what it was.
+Q: It's the one in Chennai, southern India. So I'm just wondering if there's anything else. I'll bring butter with me. The focus is they're not going to want you to go running around trying to find dairy, because you focus on the program.
 
-[Attendee]
+A: Yeah, but you get there a day earlier.
 
-Why did it create the hardening.
+Q: I get there a week earlier.
 
-[Aajonus]
+A: Oh. There you go. You can find it. Just go to your outdoor markets. All Asian countries have outdoor markets. The peasants come in with whatever they grow or butcher or whatever, and they bring it. You can get fish on the street. You can get worms and everything. It's great. Rotten eggs. You get all that good stuff.
 
-Why do you think it caused the hardening?
+Q: [unintelligible]
 
-Did you think it was the burning, any of the chemicals coming out or, yeah?
+Q: I know for me, if I would have done that kind of research Aajonus said, I found raw coconut cream that was made on the street. They were making a quart of it. They made cream out of six or seven coconuts. Lots of water buffalo roam around India, and they make the best dairy out there, too. There are some dairy-based, Ayurvedic foods. [unintelligible], and things of that nature. You can find a lot of those. [unintelligible] You can find chicken. You can find raw chicken.
 
-Well, a lot of you have to understand with a chemical like that is already attached to dead cells.
+A: Just marinate it in lemon juice, and it will keep for a long time.
 
-It's already a part of dead cells.
+Q: That's what I lived on. I would get them to give me some of that. [unintelligible] I would marinate it in my room in lemon juice, and they would only give me four eggs a day. That's how I stayed. I'd say two-thirds of the people that I lived with, out of 120 people, got sick. Probably 20% of them had to leave because of it. Another half of them had to put on antibiotics. [unintelligible] The only way I got through it, I thought, was through raw eggs.
 
-The dead cells just moved out of the bones and out of the other tissue and the, and the, um, ligaments and the tendons moved out to the skin to be, uh, to drop off.
+A: That's right.
 
-Cause you know, it.
+Q: You could eat a dozen each a day and not worry too much about it.
 
-It doesn't come off easily.
+A: But you're going to lose a lot of weight if you just eat eggs.
 
-It's gotta flake off and die.
+Q: Yeah.
 
-But this whole area here is numb.
+Q: [unintelligible]
 
-So, you think detox and then you work on your, your filters first and over a long period of time, you think detox comes out in the cellular level.
+A: Yeah.
 
-Is that, well, that's the, I mean, you can take it after the intestine, but can you imagine this going out through the intestines?
+Q: I find water buffalo.
 
-You'd have peritonitis and you'd be very sick and probably die?
+Q: [unintelligible]
 
-So, it has to come out the skin and that's what I've been trying to do is get things out just to see what would happen.
+A: Well, all you have to do is eat a salad the last thing at night and can't get juice. Usually at those ashrams, they juice.
 
-I'm not one that believes in forcing detoxifications, but I think it's just be patient, let it happen over a 40-year period, rather than forcing it.
+Q: I was just in Hawaii, and I did the hassle of finding raw dairy.  I went down to Pangaia, finally. [unintelligible]
 
-But when I see the damage that out that chemicals have done in people's bodies from medication, I started thinking, there's some things that are not going to be able to be removed unless you help it.
+A: Yeah.
 
-And I knew that if you take a food that you've eaten a lot of in a cooked for pasteurized form, where all the bacteria and natural products in it that allow it to break itself down and ecologically recycle itself, all those are destroyed in cooking.
+Q: But I was living off of chicken and lemon and [unintelligible]. I was doing all of that. [unintelligible] But I got a couple of bad batches of honey that were cooked. [unintelligible]
 
-So, if a compound in your body, if the structure in your body is made of that kind of compound, there's no way to get it out, unless your body goes through extreme measures like creating virus, which are not alive and are just solvents made by intercellular.
+A: Yeah. Well, you can get raw milk. You just have to separate it. Yeah. You get the milk, and you separate it. You get the cream, and then you make cheese with the other and drink the whey. That's a good balance. It's funny how dairy can be. You can take milk, and you can separate the cream and have the cream or make it into butter. And then you take the whey from the buttermilk, and you take the whey from making the cheese. And each one of them favors a particular disease. And if you separate them, they become an individual remedy. Like the whey is great for arthritis, rheumatism, gout, stuff like that. You get sore. You get stiff. You drink a cup of that whey. It's almost gone by the next day. And then, you know, if you have a half a cup a day after that to keep it away completely, depending on if you're detoxifying a lot of urea in your body, then you're going to need about a half a cup to a cup a day, depending upon the size of your body. And the cheese absorbs toxins because cheese is dried. There's no active enzymes in cheese. So there's no microbes, no bacteria to help the enzymes facilitate enzyme activity. So cheese is a detoxifier. It will absorb poisons. It will help magnetize them out of the blood, the lymph, and the neurological system as those fluid channels run through the stomach and intestine. So it just detracts it out, and you get all those heavy metals and toxic substances into the bowels or in the stomach and the small intestine, locks onto them, and will pass it out without digestion. If you add honey to the cheese and eat honey directly with the cheese, it turns it into a mineral supplement. And then, of course, the butter is the only thing that will lubricate the bones and the skin and the tendons and the lymph system very well. The cream is the only thing that will soothe and completely take care of the nervous system. So even though you consume other elements of food, you can't separate like that and then have a favorable thing happen. Now, if you take a tribe like the Fulani or the Samburu and you start separating those too much and too often, then it will cause them imbalances. Now, the Himalayan, what are they called? That group of people who lived high up in the Himalayas, they were mainly dairy eaters. They ate a lot of yogurt and a lot of kefir and a lot of cheeses. Well, they could handle that kind of diet because when they ate meat, they ate it cooked. And they cooked meat maybe once every two weeks. I can't remember what the name of that was. The Hunzas. So they could maintain that diet as long as they were cooking their meat. But if they got rid of the cooked meat and ate raw meat, their whole diet would have to change. They couldn't be that constant base.
 
-So, that's a long and hard process and can the cells do it with those kinds of drugs and chemicals in the system, which are meant to poison the body.
+Q: [unintelligible]
 
-AZT chemotherapy is meant to poison the body to kill cancer cells, but like I said in We Want To Live, for every one cancer cell, kills 1 billion - 2 billion healthy cells.
+A: They would not be able to eat all that fermented food, all that separated dairy that they did. It helped balance them. Because eating cooked meat causes urea to form in the ankles and feet and throughout the body and joints. It's much too acidic. It causes putrefaction. Of course, the whey helped to break that down, the lactic acid helped to break that down, the urea, from all of the acids that would form. So there are diets that conform to exactly a balance within themselves.
 
-Doesn't make any sense.
+Q: Like the [unintelligible] and the German diet, where they cooked food.
 
-So, that's why I decided in the last two years experiment with detoxification regimes off putting fermented products in my body that I eat heavily to detox them from the system.
+A: Yeah, and also the Hunzas fermented some vegetables. Also to counterbalance their cooking. Sally Fallon does it. Sure, you have to eat those. If you're eating steamed vegetables, you're going to need some fermented vegetables to help break that down. It's the whole detoxification thing I was talking about. You eat a food that's fermented that you're eating cooked, it'll help deliver the bacteria that is natural to it to ecologically recycle it. To break it down when it's no longer valuable and take it back into another form where it can take on a new life form. But when you cook it, you destroy the bacteria that do that. That's why it's so good for packaging. Things don't ferment easily, they don't rot easily, they don't gain fungus easily, because they're cooked. So they'll stay packaged longer. And if they're dehydrated and cooked, it's like eating leather or wood. Not a diet for us, at all. So anyway, farmer's markets, go to your farmer's market. You'll find a lot there. And if they don't have it, you ask. You find out what is the word for raw. If you go into, let's say, Thailand, and you say, let's say, Nui Dip, raw meat. Now, Nui Dip to them can mean, usually, by the way they eat now, the old tribes people would know it. Nui Dip to them means raw meat, like we eat it. But Nui Dip to most of the younger Thais means you're eating meat alone without anything dressing with it, but it's still cooked. So I have to say, Nui Dip, soot soot, mai sook, means no cooking. I have to go through this whole thing to describe it. So you have to learn how to say to get exactly, specifically what you want. And all you, you know, let's say you learn, you know, 50 words and you can get all the food you need, that's all. You have to ask for the food correctly. And in Thailand, it's very difficult to find milk unless you ask. And almost all of the, what do they call that, the people who are supposed to be bad from Iraq and all that. Pardon? Muslims. Lots of Muslims in Asia, tremendous amount of Muslims, well they do dairy. They've got goats, they've got cows, they've got milk, but they never take it to the markets. So you see somebody, you know, wearing a Muslim outfit and you go up and say, they always have the best meat too. I always buy my meat from them because they know how to raise those animals. They're healthy, they're hardy, the people and their animals. So I always buy from them. And I'll say, you know, can I get some raw milk? And I say in Thai, they bring me goat's milk or cow's milk. They'll have a certain day that they'll bring it to me.
 
-And boy, it sure is working, it works like a charm.
+Q: And is this also like the best prevention when you're traveling? [unintelligible] And so what is it about the raw diet that helps not get sick in foreign countries?
 
-Now I did that a little bit of that in the 70s and 80s with grains.
+A: Well, you're already used to bacteria, so when you start getting bacteria in other countries, it's not foreign to your body, so it just adapts to a new bacteria. Also, there's the issue that when somebody goes to a foreign country, they're told not to eat anything raw. So they'll eat everything cooked. Then they have no enzymes and they'll go into diarrhea, sickness and cold. For example, there's a movie called Latino that was shot in 1984, I guess it was, 1984, 1985. And it was written and directed by Haskell Wexler. And one of my patients was the third lead in the movie, Tony Plana. And Tony Plana brought this legalized, legal-sized sheet of paper, both sides, with literature on it. You know, everything was kind of like this. You know, everything was centered, so it didn't take up all of the page. It would have all fit onto one page. They weren't so creative in the way they designed it. It was everything you should not do, and it's everything that you do on this diet. It was not to do. You don't drink the water, you know, unless it's boiled. You don't eat any food unless it's cooked or steamed, including fruit, even watermelon. You steam everything. If you go outside, you always wash your hands before you touch your face. It was endless about what you could not do. So he handed me that and says, what do you think? And I said, Tony, if you do the opposite, if you drink the swamp water, if you put all that bacteria everywhere, you eat your raw meat, you eat your raw eggs, you get some raw dairy. And they were shooting this, and they shot it in Nicaragua. It was about the American interference in Nicaragua, you know, at the time by Bush and Reagan. And he did exactly as I said. He was the only one out of the 42 people on that set. We're talking about cast and crew, only one who did not get set. Robert Beltran, who was the lead, got so sick he lost 50 pounds. They had to write a whole new segment into there showing he got sick because he lost 40, 50 pounds. Shut down the film for two and a half months. He was so sick. And Robert did a little bit of the diet before he went down there. But he didn't eat anything raw while he was down there. And everything was processed.
 
-I'd ferment grains and then take the fermented juice and sometimes a little bit of the fermented grain and eat that.
+Q: Whether it's Africa, Asia, South America, it's getting that indigenous bacteria in.
 
-[Attendee]
+A: It's fine. It just adapts as long as you're used to eating bacteria. You're already adapted. This whole garbage about, oh, let's vaccinate you, but watch bacteria. Wait a minute, you're just injecting disease into me, and you want me to adapt to that? And you don't want me to adapt to the natural bacteria that's in everyday life? What are you, crazy? Precisely, they are nuts. They are out of their minds.
 
-Is that the rejuvelac thing.
+Q: Well, I mean, it's also for malaria. Is that the same theory?
 
-[Aajonus]
+A: Again, yep.
 
-It's like a rejuvelac, but I'd let it go further until little molds would form?
+Q: So you wouldn't get malaria?
 
-They usually don't let it go that far because molds clean your body naturally like bacteria and parasites do.
+A: I've gone to the swamps, I've swam in them, I've drank the water.
 
-Your body resorts to making virus, which are not alive to dissolve things that are too toxic that would destroy and kill any bacteria, parasite, or fungus.
+Q: Bitten by all mosquitoes?
 
-Like candida, giardo, all of those.
+A: Well, I don't get bit by mosquitoes very often unless I eat watermelon. And if I eat watermelon, they're on me within five or six hours. I end up eating a piece of watermelon every time I'm in Asia. So I do get maybe ten bites out of two months, which is nothing. They get eaten alive. And I've never gotten malaria. It's all absolute stupidity.
 
-Those are natural, those are healthy, but they're for detoxification, even athlete's, foot, all of that stuff.
+Q: And like this whole West Nile virus thing?
 
-I've been employing those things for the past two years actually to experiment and see what would happen and it is speeding things, obviously, I didn't know I still had this much in my system and I did not know it was systemic.
+A: The West Nile virus and Ebola have been proved to be man-made, and so was AIDS. They use it to, what they did with the AIDS, they put it in the smallpox vaccine. Given to 75 million people, guess how many countries that forced into the world, the World Bank now runs those countries, 27 of those African countries. Because they said, oh, you've got this disease, we'll help you, but you have to pay us back. We'll give you all this medical supplies, all this chemotherapy to help your people survive this AIDS epidemic that you have. But you are indebted to us. Governments can never pay back, so guess what? They now own the resources of those 27 countries. It's a different way of playing war. No bombs. Just go in there and poison them. Get them sick and take over their assets. And now America and England, the UK, owns those banks, run that country from the UK and the United States. Not a nice thing. They don't care. The Ebola, according to Dr. Leonard Horowitz, he shows all the records that show the Ebola, which is the one you mentioned... West Nile is all created by, again, the military machine.
 
-Of course, it's gonna be systemic, it goes right into my vein, so it's stored everywhere.
+Q: As far as avoiding getting any of these things or dealing with it?
 
-The only place that hasn't broken out was on my face.
+A: Keep away from injections. You don't let a needle get near you and you'll never get it. It's got to be injected.
 
-I had a few spots on my face and just a few right here on my neck and some bleeding ones here, and then one on my ear here, which bled.
+Q: So all those cases of people in L.A. or whatever that were getting West Nile or wherever it was that they were getting?
 
-But other than that, no, it wasn't.
+A: They were getting injections. Joe, do you have a question?
 
-.
+Q: Colostrum, is that better than regular milk?
 
-(5) Different Dairy Products For Dif Remedies
-[2006],[Aajonus]
+A: It depends. Colostrum is the milk produced by the cow for the first five days after giving birth. Most of the fat is not in a cream form, it's in a butter form, liquid butter form. So it is much easier to digest. Remember I stated before, that cream has to go through quite a process, two-thirds of it has to go through quite a process of enzymatic activity to separate the H2O from the fat to make it into a butter to lubricate and strengthen two-thirds of the body's needs. Only one-third of the cream can be utilized to help the nervous system. But the other two-thirds of that fat has to be made into like a butter fat. So the first five days is a butter fat and not a cream. So it stabilizes that fetus, I mean that baby as soon as it's born, that calf as soon as it's born. It gives it five days to firm, solid, make things more solid in its skin, in its hair, everything. If it just had cream, it would be anemic.
 
-Well, you can get raw milk and you just have to separate it
+Q: [unintelligible]
 
-You get the milk and you separate it.
+A: I think both. But you having had psoriasis and if you get, you know, like this, I'd be eating, you know, butter and cream. I'm eating sheep's cream right now and sheep's butter.
 
-You get the cream, and then you make cheese with the other and drink the whey.
+Q: [unintelligible]
 
-That's a good balance.
+A: So you need that lubrication formula. One a day?
 
-It's funny how dairy can be, you can take milk and you can separate the cream and have the cream or make it into butter, and then you can take the whey from the butter milk And you take the whey from making the cheese and each one of them favors a particular disease.
+Q: I'm having it. Sometimes two.
 
-And if you separate them, they become an individual remedy.
+A: Well, keep up two. As long as you have dryness, you need two a day.
 
-Like the whey is great for arthritis and rheumatism, gout, stuff like that.
+Q: So colostrum doesn't do a lot?
 
-You get sore, you get stiff; you drink a cup of whey, almost gone by the next day.
+A: Pardon?
 
-And then you have a 1/2 cup a day after that to keep it away completely.
+Q: Colostrum is not a lot... The money you pay for the extra colostrum is not worth it?
 
-Depending if you're detoxifying a lot of urea in your body, then you're gonna need 1/2 - 1 cup a day, depending upon the size of your size of body.
+A: Well, for some people it is.
 
-And the cheese absorbs toxins cuz cheese is dried, there's no active enzymes in cheese, so there's no bacteria to help the enzymes facilitate enzyme activity.
+Q: Which conditions is it recommended most for?
 
-So, cheese is a detoxifier.
+A: Digestive problems and skin problems. Those are the main.
 
-It'll absorb poisons, it'll help magnetize them out of the blood, the lymph and the neurological system, as those fluid channels run through the stomach and intestines.
+Q: [unintelligible]
 
-So, it just attracts it out, and you get all those heavy metals and toxic substances into the bowels or in stomach or in the small intestines, locks onto them and will pass it out without digestion.
+A: Absolutely.
 
-If you add honey to the cheese and eat honey directly with the cheese, it turns it into a mineral supplement.
+Q: How do they get it when they're not having calves? How are they having calves born every week?
 
-And then of course, the butter is the only thing that'll lubricate the bones and the skin and the tendons and the lymph system very well.
+A: Oh, they have calves all year round in California.
 
-And the cream is the only thing that will sooth and completely take care of the nervous system.
+Q: I mean, but you said only for the first five days does it produce colostrum.
 
-So even though you can other elements of food, you can't separate like that and then have a favorable thing happen.
+A: They have 450 cows.
 
-Now, if you take a tribe like the Fulani of the Samburu, and you start separating those too much and too often, and then it'll cause them imbalances.
+Q: Yes, but if they don't have a cow born, a calf born every day.
 
-.
+A: They're having cows born every week.
 
-(6) Don;t Eat Seaweed Or Nori Sheets, Salt
-[2006],[Aajonus]
+Q: They are? That's not usual, is it?
 
-And you were eating seaweed with it every time
+A: You know, if the Amish community, they may have, you know, in their whole community, they may have 50 calves born a week.
 
-[Attendee]
+Q: All year round?
 
-Yeah, it did have this like sprinkle?
+A: All year round, yes.
 
-[Aajonus]
+Q: Oh, because in our country they would have them only in the spring.
 
-Yeah.
+A: Well, they kept them breeding that way.
 
-Well, that's salt.
+Q: They don't do that?
 
-That's what's causing your mind to go, hyperactivity.
+A: Naturally. Well, it's a little warmer here than it is in New Zealand. New Zealand has all those high mountains that bring a hell of a cold front.
 
-[Attendee]
+Q: [unintelligible]
 
-And then I went out to the Volcano National Park and they have all those sulfuric ephemeral holes and checking out those.
+A: And here in California, it's year round. There's lots of them. There are some months, though, in winter where they don't have many calves that are born. You know, as far as our Amish in Pennsylvania, getting it from them, they have limited supply. But organic pastures, you know, they're dropping. Let's see, when I was there, they dropped three calves that day. No, five, five that day. I was there three years ago in December. Three years ago in December. First week in December.
 
-And then I went out for a hike and I was just like.
+Q: You know, organic pastures have not delivered butter now for four out of the last five weeks. There's no butter.
 
-[Aajonus]
+A: I know. We're getting our butter from, we get all of our dairy for us, for our group, our buyer's group from the Amish. We don't buy anything that's organic pastures. We don't even carry it anymore. Because when he went to 32 degrees, you know, for everything, you know, his milk, he puts it at 30. Now he's denying it.
 
-Oh, you breathed in some sulfur.
+Q: So he's cooling it too much?
 
-[Attendee]
+A: As soon as it comes out, it goes down to 32 degrees. He puts it at 32 degrees. I told people about it, and now he's lying that he doesn't do that. But he does. Pardon?
 
-Yeah.
+Q: What temperature should it be set at?
 
-[Aajonus]
+A: Like I told him, it shouldn't go below 45 degrees.
 
-Woo.
+Q: [unintelligible]
 
-And you had already had the salt, which dries out the system and then your brain must have just closed.
+A: That's right. That's right. Milk won't freeze at 32 degrees unless it's held there for many hours and it's not churned.
 
-Don't ever have seaweed, high in salt, dry your system and cause you to be hyperactive.
+Q: Why do they shock [unintelligible].
 
-[Attendee #2]
+A: Bacteria. Bacteria. Afraid of bacteria. Insane. Yeah. Insane. So Mark McAfee, who, you know, runs, who owns and runs it, he put all of it in his son's name. So he doesn't own anything now because he knows. He owes me. He owes James Stewart. He owes Martin Sheen. We've got these people. Martin Sheen, his wife, put in like 40 grand, and he hasn't paid him back a dime. He keeps saying, oh, we'll pay you. We'll pay you. He just keeps getting bigger. He goes around bragging he makes $3 million a year already, and he doesn't pay us. And he went from, you know, he went from glass to plastic, and he went from, you know, 39 degrees to 32 degrees of chilling. You know, it just gets worse and worse and worse. And he goes around the world. He goes around literally around the world bragging that he has the best dairy in the world. He's nowhere near the Amish, any of them.
 
-It doesn't have mercury.
+Q: [unintelligible]
 
-[Aajonus]
+A: They're very good because they are on my diet. Those farmers are on my diet. A lot of the Amish are on my diet now, too. A lot of those people who are supplying us with food, they're getting on the diet because they're finding out it's working for them. Pardon?
 
-Well, they have some, and again, when it's cooked and dried like that, it's cooked?
+Q: Amos Miller?
 
-And it releases all the heavy metals in it.
+A: Amos doesn't, but some of the others around. Amos talked about it, and he says he's going to start doing it, you know, and I think he has. But he hasn't come back and said, yes, I'm doing it.
 
-[Attendee #2]
+Q: Where's that?
 
-But when the seaweed is growing in sea, it's incorporating that just like it is you utilizing anything in the garden.
+A: In Arizona. Scottsdale around there.
 
-That salt has been taken through and changed.
+Q: I didn't realize the fact that you said, you know, that it was cooled. We didn't know that. I wish we'd all known. I was trying to support the Californian dairy.
 
-It's like the minerals in the soil.
+A: You were trying to what?
 
-[Aajonus]
+Q: Support them. But I didn't know that they took it to 32. You hadn't told me.
 
-But it lives in a salt water environment.
+A: Well, yeah, I said it here. It's the second time I've said it.
 
-That's a different environment.
+Q: Oh, I didn't hear that. I'm sorry.
 
-The concentration of sodium in that plant is very different from a plant you'll have here on the earth.
+Q: Organic Pastures, that's from Whole Foods, right?
 
-You put that concentration of sodium in the soil there, and it will kill everything here.
+A: Yeah, it's California dairy.
 
-[Attendee #2]
+Q: Organic pastures.
 
-Well, when I use sea salt on my plants it doesn't do that, it does the opposite.
+A: Organic pastures.
 
-It doesn't kill them at all.
+Q: [unintelligible]
 
-[Aajonus]
+A: Yeah, he goes around. It's still better than nothing, you know. Still better than nothing. He also goes around bragging these purely grass fed. He feeds them grain at the time of milking, you know. And, you know, he was feeding them cooked grain for a while. He was giving them rolled oats. And then he was giving them a rice bran one time. And it was making the milk really bitter and nasty. Because there's gibberellic acid in rice bran. And it made it, you know. This guy, even though he's raised on a dairy farm, has no clue about dairy farming. You know, he left it as soon as he got out of high school. You know, because all he did was milk. That's obviously all he paid attention to from his father and mother. Because when he decided to make a lot of money and a killing going into the raw organic dairy business, you know, he saw big money there and didn't learn as he should.
 
-Where.
+Q: Why can't somebody else do it in California?
 
-[Attendee #2]
+A: You know how much it costs to set up a dairy? Extraordinary. Extraordinary amount of work to it. Extraordinary amount.
 
-I've been doing it for years?
+Q: How about converting one of the other commercial ones?
 
-[Aajonus]
+A: If you can get them to do it. It's very difficult.
 
-No, no.
+Q: Probably more likely than someone starting up one.
 
-I'm talking about a salt water environment.
+A: Yeah. But I tried to get one of the Stewie brothers up in Northern California. You know, Stewie used to be the raw dairy here. And, you know, they kept promising that they would do it, and they do it. And they didn't. And then Mark McAfee came around and got all this money together for him, and he did it, and now he doesn't give a shit about us. Without us, he would have never been in the business.
 
-I'm not talking about putting a little bit of salt.
+Q: How much did he need to start?
 
-[Attendee #2]
+A: Well, all together we gave him about, well, he had already had the dairy going, but he was selling to Horizon. But he doubled his herd, and plus he started making cheese. So we loaned him almost $100,000 altogether. And he hasn't paid, I think, but maybe $15,000 of it back.
 
-I mean, I used to get it by the trailer load and put it around the farm closed.
+Q: Is he still supplying to Horizon?
 
-[Aajonus]
+A: No. No. He sells every bit of everything he makes.
 
-In those mulch that you buy.
+Q: So where can you buy [unintelligible]
 
-[Attendee #2]
+A: You'd have to go to Arizona to get it or have them ship it to you. But, you know, I have everything shipped to us, you know. We truck it to us every week in L.A. But, I mean, I've got these Amish people who send it to, you know, Aruba. I've got patients in Aruba that have shipped all the way there.
 
-No, no?
+Q: Without chilling it too much?
 
-Off the beach.
+A: Yeah.
 
-[Aajonus]
+Q: By the way, you know, everything that's available in L.A. is available here. We have a co-op. Once a month, first Friday of the month, we order. [unintelligible]
 
-You're buying it and you put it there.
+A: And you're getting the same dairy we have up there, right? So we're getting it from the Amish in Pennsylvania.
 
-[Attendee #2]
+Q: Will it last a full month until you order it?
 
-I've done that for years?
+A: It will be sour. Raw dairy never goes bad. It just turns into bitter cheese. So if you don't mind eating sour, you know, milk, it's fine.
 
-[Aajonus]
+Q: Can you put a little honey in it?
 
-What plants did you fertilize with it.
+A: You can put a little honey in it. It'll last a couple of weeks without starting to turn.
 
-[Attendee #2]
+Q: But as it turns, does it get sweeter?
 
-All my vegetable done have been done with seaweed?
+A: Yeah, it's sweeter. Yes, definitely, it's sweeter. And it's more digested, you know. The more sour it is, the more digestible it is. So it's fine. It just may not be as enjoyable.
 
-[Aajonus]
+Q: [unintelligible]
 
-And how did you mulch it.
+A: And once it's kefir and it separates, all you do is shake it. And it's right back, you know, emulsified again.
 
-[Attendee #2]
+Q: Even the butter is a cultured butter.
 
-Chopped it, and put there?
+A: Yes?
 
-[Aajonus]
+Q: [unintelligible]
 
-You didn't mulch it first.
+A: What it means is just like with kefir or yogurt, they put a bacteria in it that favors sweetness. See, you have three bacterias. You have one that digests the sugar, which is acidophilus. And you have bulgarius, which digests the protein. And coccus. Excuse me, bulgarias digests the fats, coccus digests the protein. Bulgarius has a tendency to lead. And when it leads, it makes everything bitter and sour, because it breaks up fat. If you put honey in it or a culture in it that favors the acidophilus, then the acidophilus thrives more than the bulgarius. So it makes a sweeter product, soured product.
 
-[Attendee #2]
+Q: What does buttermilk mean?
 
-I do both?
+A: Buttermilk means that you've churned the butter, and the milk that's left is butter from churning. So it's a lactate butter. It's just like whey.
 
-I used to make compost and I used to put it round the plants.
+Q: [unintelligible]
 
-[Aajonus]
+A: Yeah, it's like whey. Whey will do the same thing.
 
-Okay.
+Q: So it's more medicinal.
 
-If it's composted, it'll break it down.
+A: Yeah. Well, no, it's medicinal for certain things.
 
-[Attendee #2]
+Q: For certain things. [unintelligible]
 
-Yeah, I understand, but I just put it round the plants and I had friends have done it.
+A: Everybody has to listen to this, because you weren't here when I said it. If urea builds up in the joints and the ankles or in the body, the lactate is very high in fermentation in the whey. It helps get rid of that. It also helps digestion. 
 
-[Aajonus]
+Q: [unintelligible]
 
-If you put it on top, it's just gonna dry up.
+A: Buttermilk is whey. It's just the whey from butter, not the whey from the whole milk.
 
-It's not gonna leak down into it till it breaks down.
+Q: Okay.
 
-[Attendee #2]
+Q: So acidophilus digests sugar, bulgarius digests?
 
-Yeah, but you put straw on top so that it won't dry out.
+A: Bulgarius digests fat. [unintelligible] just digests the protein.
 
-Otherwise, it doesn't lock down as quickly.
+Q: [unintelligible]
 
-[Aajonus]
+A: Bifidus is just a name that they attribute to digestion. But most of that is, well, you've got bifidus in milk, and bifidus helps break down fats. They're just different names given to different. I've just given you three. But there are probably about 20, 22 somewhere around there. Different bacteria. But those three are the prominent ones.
 
-But it's gotta break down to release the sodium.
+Q: [unintelligible]
 
-But how much of it going to hit the plant.
+A: Pardon? Not necessarily. It depends upon the digestive problems. I go for eggs more, most for digestive problems. And then cultured milk is next to be added. Because egg white and egg yolk are liquid, completely liquid. Liquid, so there's hardly any digestion to be done. Milk takes a lot of digestion. Pardon?
 
-[Attendee #2]
+Q: [unintelligible]
 
-Well, it all does cause you do it all the time gradually?
+A: It's the same thing, not the same. It's almost like a serum. Milk is a serum. Whereas egg is completely in liquid form.
 
-But I mean, it doesn't kill it.
+Q: [unintelligible]
 
-I don't even wash it.
+A: You ate some of what?
 
-[Aajonus]
+Q: Cottage cheese. [unintelligible]
 
-Yeah, but we don't have dirt in our body to filter it out.
+A: They have a whole way that they won't tell me. They don't tell me how they make those things. They don't heat it or anything. There's a certain way and they'll put it in certain kinds of wood containers and other containers to get that effect. And it's their Mennonite and Amish ways. And even within their communities, they don't tell each other. Like they've got one guy who makes incredible Swiss cheese and farmer cheese. Each one does differently, but they won't tell their secret how they make it.
 
-[Attendee #2]
+Q: [unintelligible]
 
-I realize that, but what I'm saying is that much, you only have a little bit of salt.
+A: I've said all this stuff already.
 
-Is it really that bad for you for all the minerals you put it with it.
+Q: Not about cottage cheese.
 
-[Aajonus]
+A: Pardon? Any kind of cheese, it's the same. There's no enzyme activity, even in cottage cheese. It's too dry. So there's no bacteria that is alive to help utilize the enzymes. So it's unabsorbed unless you eat honey with it directly. Now you can eat cheese with a milkshake and it's still, the honey is already united with and chelated and bonded with the fats and the proteins and the other sugars in the food that you're eating. So you eat cheese with a milkshake, it's not the honey in it, is not going to change the ability of the cheese to absorb and pass out without digestion. You have to put the honey and the cheese together in the mouth to do that.
 
-Well, you're asking what I've seen?
+Q: [unintelligible]
 
-Yes.
+A: Listening to me over there? [laughter]
 
-It causes what it did with him.
+Q: [unintelligible]
 
-It causes dehydration of the brain.
+A: No, cottage cheese isn't different, just a little drier. But that's like being, that's like if you were dead and you were half dry, is it, are you more alive when you're half dry than completely dust? You know, a hardened leather? You know, so it's like that. Once you've reached that point of cottage cheese, there's no live bacteria in it anymore to facilitate digestion.
 
-.
+Q: [unintelligible]
 
-(7) Eggs, Milk and Meat Digestion Time, Eat Eggs and Sulpher In Eggs and Milk
-[2006],[Aajonus]
+A: Is that funny? I won't put it in the light because the light has a tendency to cause the fats to go bitter.
 
-Well, usually when somebody is very, very ill, they're not digesting their food properly, so they can't digest complex nutrients
+Q: [unintelligible]
 
-They can't digest meat, they can't digest sometimes even milk, even though that's already liquid, when you look at an egg, all of the fat and all of the proteins are in complete liquid form.
+A: Pardon? It might keep out some of the radiation. I put it in a dark cupboard.
 
-So, there's just a fraction of the digestive time.
+Q: I don't cover it [unintelligible].
 
-It takes 10 minutes to completely digest an egg.
+A: Just get more oxygen in it, it'll dry out a little bit more. You know, it gets the aerobic bacteria to grow faster.
 
-Completely digested, absorbed, and already in your blood, in your nervous system, everywhere in your system.
+Q: [unintelligible]
 
-Milk can take hour, couple of hours, 5 or 6 hours, even meat, 16 - 20 hours.
+A: Mine will take a couple of days if I put a lid on it or don't put a lid on it.
 
-[Attendee]
+Q: [unintelligible]
 
-Raw.
+A: Yeah? Could be, yeah, temperature is everything in some circumstances. So probably it's cooler in your cupboards maybe. The ground's pretty wet here, so the cupboards would be cooler, unless you're putting it in an upper cupboard. Or near a heater. Do you have a question, Mike?
 
-[Aajonus]
+Q: [unintelligible]
 
-Even raw, because it's a hard substance, has to be broken down?
+A: I'm sorry, did you finish, Lisa?
 
-So, if you're eating eggs, you don't have to spend all that energy and digestion and you going to heal and you can cleanse and you can recuperate.
+Q: Yeah.
 
-That's why that woman I talked about that gave us an example in the Recipe Book that had emphysema that was supposed to die that weekend and she'd been on oxygen for almost 2 years and had been diagnosed 7 years previously and hadn't been out of the bed much in two years was out of the bed and walking around and off the oxygen in two days of eating eggs, 66 eggs over a two day period, 33 a day.
+A: I'm sorry, okay. Oh, and let's all give Lisa a hand for being our host. And Michael.
 
-The eggs can do that, but that's the only food that I can see that can create that miracle kind of experience with almost everybody who eats them.
+Q: [unintelligible]
 
-There are other people, you you can give them combinations or selective foods and it'll change her whole life instantly, but it doesn't work on everybody or most people.
+A: Wait a minute.
 
-But the eggs will work on almost everybody.
+[helicopter flies over]
 
-People with environmental sensitivities that come to me and they can't eat anything.
+A: I'm still hard of hearing from when my father broke both of my eardrums.
 
-They can maybe drink water or they'll have an allergic reaction to even water, put 'em on the eggs and they can live on the eggs.
+Q: How did he do that?
 
-[Attendee]
+A: Well, I was autistic, so, you know, half the time, or 99% of the time, I didn't know what he was saying. He didn't do something he wanted me to do, so he popped me in both ears. I said, he said, you've got to listen to me, or something like that, broke both eardrums. So I lost 60% hearing in this ear and 80% in this ear. Now I'm restored 60% in this ear and 70% in this ear.
 
-And the sulfur in the eggs, is that a problem.
+Q: From the diet?
 
-[Aajonus]
+A: Yeah. It's taken all these years. He did that when I was about 11 years old.
 
-It's not a concentrated sulfur?
+Q: The bird flu thing... How do you avoid it? What if they make it mandatory for people to take shots?
 
-It's a lot of sulfur, but it's within the balance with the fat and the protein.
+A: Do you think that they can police that? That would be like five highway patrolmen handling all the traffic on 405 freeway. They're just scaring everybody by demanding it. But it's not going to happen. 
 
-If it were a problem, you'd better believe I would be a mess.
+Q: In terms of the description of travel in India, [unintelligible].
 
-[Attendee]
+A: That's all bullshit, absolute bullshit. More birds have viruses now. Remember, like I said earlier, the body uses non-live substance called virus, which is a solvent. It's a soap made by the cell. The body makes that when there's too much pollution. Birds are flying in pollution all the time. They're getting sicker and sicker. The bacteria and parasites in them are dying, and they're not cleaning out as well. So to cleanse, they're using virus. Soaps to help clean their systems. Of course they have virus. But there is no virus that transforms species. They tried to pull that shit on us with the swine flu in the 70s. Oh, we're all going to get this disease from the pigs. So Ford gets on the television and gets his injection of swine flu shot. Who was our vice president? David Rockefeller. Who owned the pharmaceutical house? David Rockefeller. Seven billion dollars we paid for the swine flu. There was no epidemic, but they were giving out all this swine flu. What happened, Ida Honoroff, the big consumer advocate that was syndicated on something like 187 radio shows throughout the United States, consumer advocate, said this is going to kill people. There's no such thing as a swine flu. She got Dr. McBean down there in San Diego, a female MD, and they both filed suit on Ford, Rockefeller, and the federal government. With that kind of publicity, with Ida Honoroff, you know, fronting the battle, she got all the news media to watch it. 2,300 people dropped dead within almost three days of getting vaccines in the first two weeks. They shut it down. So seven billion dollars of the swine flu has been in the vaults since then, and guess what they're going to relabel as the swine flu. And we just spent another eight billion dollars paying for the relabeling of the swine flu. And they show these pictures on the news where they're taking eggs and they're injecting them. They're making it out like they're making this whole new vaccine, and all they're going to do is relabel the swine flu. It is all about money, nothing to do with anything else.
 
-I'm trying to understand why it's not a problem, so I can apply that logic in situations.
+Q: When they relabel, isn't that misbranding?
 
-[Aajonus]
+A: Absolutely. But the pharmaceutical house was great for that. You know, they were given five years to get rid of thimerosal, liquid mercury, in the vaccines. They claimed they were mercury-free. Lab tests show that there's almost as much mercury as there was before. And up until, you know, a couple of years ago, there was 76,000 trillion molecules of mercury per vaccine. 76,000 trillion molecules of mercury. If it takes 200 to 2,000 fat molecules or white blood cells to remove one molecule of mercury, will you ever get the mercury out of your body in your lifetime from one vaccine? Not likely. And these children are getting up to 128 by the time they're 16 years old now, depending on what state you're in. So this is massive genocide, it's massive disease. So the pharmaceutical house gets to make disease to help you take more medication to help those diseases. And it's good business according to them. Good business sense. They don't give a shit what happens to you. And they're running the government. Now, oh, you have to get this vaccine, or you're going to cause us all to suffer. Wait a minute, if everybody's getting a vaccine and I don't, you guys are protected. What does it matter if I get it? Hello? Does anybody get the rationale about this bullshit? If everybody's got the vaccine, it's protected. Why are they going to worry about me getting it? If they had the vaccine, they're going to be protected.
 
-The milk's very high in sulfur too, but it's not a problem.
+Q: You're setting a bad example for everybody else.
 
-It's just not as as digestible as easily absorbable and utilizable an egg.
+A: Exactly. But, I mean, that's the logic, you know.
 
-.
+Q: What about honey? [unintelligible]
 
-(8) Esophageal Cancer
-[2006],[Aajonus]
+A: Who was it?
 
-So, I didn't mean not to give your sister-in-law any hope, but it's one that scares me because it's so difficult, it's hard
+Q: I don't know, one of them.
 
-When you see a cancer patient with lung cancer trying to get up the stairs or exhausted.
+A: Yeah, I know, I know, one of them lies there like a rug.
 
-Their lungs are filling up, they can't breathe.
+Q: I was going to the farmer's market, but I found a better version of the farmer's market.
 
-They're stopping and panting, and that's the way it is.
+A: Just remember, always take it and put it on your tongue and let it sit in your throat. If it eats at your throat, it burns your throat, almost starts you coughing, it is definitely heated. And that's the way I test it.
 
-And it could take 3 - 5 years to get through that stage.
+Q: [unintelligible]
 
-Will they get through that stage without running to the doctors and the doctors are promising this, "Oh, well, we will cut it out and you'll be okay or we'll give you radiation therapy and you'll be okay or chemo and you'll be fine".
+Q: [unintelligible] Oh, yeah, well, I didn't eat that much of that. I put some seaweed on it [unintelligible].
 
-And they always tell them this.
+A: No, it's the high salt. High salt. It caused you to be very hyperactive.
 
-.
+Q: And so I was living on raw chicken and ahi in my farmhouse. And I'd get like a pound of ahi.
 
-(9) Finding Raw Dairy In Asian Countrie, Get From Muslims
-[2006],[Aajonus]
+A: And you were eating seaweed with it every time?
 
-You'll find a lot there
+Q: Yeah, they'd have this like sprinkle.
 
-If they don't have it, you ask, you find out what is the word for raw.
+A: Yeah, well, that's salt. That's what was causing your mind to go. Hyperactivity.
 
-If you go into, let's say Thailand and you say, um, let's say, neux dib, raw meat.
+Q: Yeah, and then I went out to the volcano. And I had honey for the day. I went out to the volcano at the National Park. And they have all those sulfuric fumaroles. And I was, you know, checking out those. And then I went out for a hike. And I was just like...
 
-Now, neux dib to them can mean usually by the way they eat now, Old tribes, people would know neux dib means raw meat, like we eat it.
+A: Oh, you breathed in some sulfur.
 
-But neux dib to most of the younger Thai's means you're eating meat alone without anything dressing with it, but it's still cooked.
+Q: Yeah.
 
-So, I have to say neux dib, suit suit, my suk, means no cooking.
+A: Woo! And you had already had the salt, which dries out the system. And your brain must have just closed. Closed.
 
-I have to go through this whole thing to describe it.
+Q: Yeah, I was like...
 
-So, you have to learn how to say to get exactly specifically what you want.
+A: Yeah.
 
-[Attendee]
+Q: [unintelligible]
 
-Brush up on your Hindi.
+A: Absolutely. Yeah, don't ever have seaweed. High in salt. Dry your system and cause you to be hyperactive.
 
-[Aajonus]
+Q: [unintelligible] nori? It doesn't have mercury.
 
-Yeah and let's say you learn 50 words and you can get all the foods you need that's all, ask for the food correctly.
+A: Well, they have some. And again, when it's cooked and dried like that, it's cooked. And it releases all the heavy metals in it. It's got mercury. It's a free radical.
 
-And in Thailand it's very difficult to find milk, unless you ask and almost all of the Muslims.
+Q: But when the seaweed is growing in the sea, it's incorporating that just like it is if you're fertilizing anything in the garden. That salt is being taken through the plant and being changed just like the plant out here takes in all the minerals out of the soil.
 
-Lots of Muslims in Asia, tremendous amount of Muslims, they do dairy.
+A: But it lives in a saltwater environment.
 
-They've got goats, they've got cows, they've got milk, but they never take it to the markets.
+Q: Yeah.
 
-So, you see somebody you know wearing a a Muslim outfit they always have the best meat too.
+A: That's a different environment. The concentration of sodium in that plant is very different from a plant you'll have here on the earth. You put that concentration of sodium in the soil there and it will kill everything here.
 
-I always buy my meat from them cause they knew how to raise those animals.
+Q: Well, I mean, I use seaweed on plants all the time. It doesn't kill them at all.
 
-They're healthy, they're hearty, the people and their animals.
+A: Where?
 
-So, I always buy from them and I'll say, can I get some raw milk.
+Q: I've been doing it for years.
 
-I say in Thai and they bring me goat milk or cows milk?
+A: No, no. I'm talking about a saltwater environment. I'm not talking about putting a little bit of -
 
-They'll have a certain day that they'll bring it.
+Q: I mean, I used to get it by the trailer load and put it around plants.
 
-.
+A: Yeah, but it's not all seaweed. It never is all seaweed. 
 
-(10) Getting Sick In Other Countries, Vaccines
-[2006],[Aajonus]
+Q: What do you mean?
 
-Well, you're already used to bacteria, so when you start getting bacteria in other countries, it's not foreign to your body, so it just adapts to a new bacteria
+A: Those mulch that you buy?
 
-Also, there's the issue that when somebody goes to a foreign country, they're told not to eat anything raw, so they'll eat everything cooked.
+Q: No, no. Off the beach.
 
-Then they have no enzymes, and they'll go into diarrhea, sickness, and cold.
+A: You're buying it and you put it off?
 
-For example, there's a movie called Latino that was shot in 1984, and it was written and directed by Haskell Wexler and one of my patients was the third lead in the movie Tony Plano and Tony Plano got this legalized legal size sheet of paper, both sides with literature on it.
+Q: I never buy it.
 
-It was everything was kind of like this, everything was centered, so it didn't take up all of the page, it would've all fit onto one page.
+A: You picked it up and put it there? And what plants did you fertilize with?
 
-They weren't so creative in the way they designed it.
+Q: For 30 years, all my vegetable gardens have been done with seaweed.
 
-It was everything you should not do, and it's everything that you do on this diet was not to do.
+A: And how did you mulch it?
 
-You don't drink the water, unless it's boiled.
+Q: Chopped it and put it around them. Really, I'm not kidding.
 
-You don't eat any food, unless it's cooked or steamed, including fruit.
+A: You didn't mulch it first. You just put it.
 
-Even watermelon, you steam everything.
+Q: I do both. I used to make compost and I used to put it around the plants straight.
 
-If you go outside, you always wash your hands before you touch your face.
+A: Okay, if it's composted, it'll break it down.
 
-It was endless about what you cannot do.
+Q: I understand, but I just put it around the plants and I had friends who've done it.
 
-So, he is handed me that and he says, what do you think.
+A: If you put it on top, it's just going to dry out. It's not going to leach down into it until it breaks down.
 
-I said, "Tony, if you do the opposite, if you drink the swamp water, if put all that bacteria everywhere?
+Q: Yeah, but you put straw on top so that it won't dry out. Otherwise, it doesn't rot down as quickly. I mean, you learn those things.
 
-You eat your raw meat, you eat your raw eggs, you get some raw dairy".
+A: But it's got to break down to release the sodium. But how much of this is going to hit the plants?
 
-And they shot it in Nicaragua.
+Q: Well, it all does because you do it all the time. Gradually. But, I mean, it doesn't kill it. I mean, I don't even wash it through.
 
-And it was about the American interference in Nicaragua at the time, uh, by Bush and Reagan.
+A: Yeah, but we don't have dirt in our body to filter it out.
 
-And, and he did exactly as I said.
+Q: I realize that. But what I'm saying is, you're only having a little bit of kelp. Is it really that bad for you? It's all the minerals you're getting with it.
 
-He was the only one out of the 42 people on that set, we're talking about cast and crew.
+A: Well, you're asking what I've seen?
 
-Only one who did not get sick.
+Q; Yeah.
 
-Robert Beltran, who was the lead, got so sick he lost 50 pounds.
+A: Yes. It causes what it did with him. It causes dehydration of the brain.
 
-They had to write a whole new segment into there showing he got sick cuz he lost 40-50 pounds, could have been more.
+Q: Right. Now, I don't use it now because he said not to, but I wonder why.
 
-Shut down the film for two and a half months he was so sick Robert did a little bit of the diet before he went down there, but he didn't eat anything raw while he was down there and everything was processed and cooked.
+A: Now, the only time, like I said in the book, the only times that I suggest people eat salt is if they have adrenal exhaustion. There's another situation. Let's say somebody has gone into intense vomiting and diarrhea and they're not holding anything down and they're starting to lose weight and they're starting to lose consciousness, you know, then I would use salt in a situation like that to help bring them back. And I would use salt in a mixture with whey to help bring them back. To bring the electrolytes in there and the salts back into the body. Instead of using Pedialyte or something like that. Gatorade. That's what they do in hospitals. Gatorade. You give Gatorade to a patient? Hello?
 
-[Attendee]
+Q: What would be the portions of salt and whey?
 
-Whether it's Africa, Asia, South Africa.
+A: Oh, it would be just a pinch. Like, you know, an eighth of a teaspoon to about a quart of whey.
 
-[Aajonus]
+Q: What's the point of the salt in the bath? I don't like to use [unintelligible].
 
-Doesn't matter?
+A: Well, it helps draw the toxic salts out of the body from years of eating table salt.
 
-[Attendee]
+Q: [unintelligible]
 
-Getting that indigenous bacteria in.
+A: No, no, no, no. It dries the skin a little bit. But you put the milk in with it so it doesn't do that. So if you got the milk the salt and the vinegar in there, it's not going to cause that.
 
-[Aajonus]
+Q: It's great for injuries. I used to race moto and enduro on the street a lot. And every time I hit the pavement and get road rashed, I'd get some salt. It would suck everything out of the wounds. You know, I could heal three times as fast. You might even try for what's going on with you.
 
-It's fine.
+A: No, I don't want to do it because it will stop it. I don't want to stop it. I want all that chemo, all that AZT out of my body. It's the whole reason I did it. You know, so I'm not going to stop it.
 
-It just adapts as long as you're used to eating bacteria.
+Q: Why would it stop it? By pulling it out a bit faster?
 
-You're already adapted, this whole garbage about, "Oh, let's vaccinate you, but watch bacteria".
+A: No, no, no. When it starts mixing with the skin, then the skin changes its whole ability to release. So I found that it stops detoxification, not helps implement. If you put it directly on. If you put it in, getting in bath water, it's diluted enough, it will help pull it out of your system. And I do that. I get into a hot tub, you know, several times a day.
 
-Wait a minute, you're injecting disease into me and you want me to adapt to that, and you don't want me to adapt to the natural bacteria that's in everyday life.
+Q: [unintelligible]
 
-What are you crazy?
+A: He said put it right on it. That's what he said.
 
-Precisely, they are nuts?
+Q: There's a different thing. What you're saying is detoxification. What I was talking about is healing a wound.
 
-They're out of their mind.
+A: Oh, yeah, healing it.
 
-.
+Q: You put two ounces of salt in the bath.
 
-(11) How To See If Honey Is Heated
-[2006],[Aajonus]
+A: No, I put two tablespoons. Only two tablespoons. Two ounces of vinegar. Or three to four tablespoons of vinegar and two tablespoons of salt. And one and a half to two cups of milk. Were you finished with your question?
 
-Just remember, always take it and put it on your tongue and let it sit in your throat
+Q: Yeah, no, you covered it very thoroughly.
 
-If it eats at your throat, it burns your throat almost starts you coughing.
+A: Okay, good. David, do you have a question? Dave, right? Okay.
 
-It is definitely heated and that's the way I test it.
+Q: I did a three-month colon cleansing, it happened right before I met you. And then I kind of started changing, drinking a lot of milk. I went into the bathroom, I feel really hard like a brick. So butter will help that.
 
-.
+A: Yeah, well, your colon cleanse destroyed all the bacteria.
 
-(12) Isolated Nutrients, Plants Eat Rock
-[2006],[Aajonus]
+Q: And I washed it out.
 
-Well, yeah, it has to do with all of it
+A: Absolutely. Destroyed it.
 
-Very complex.
+Q: So to rebuild, it needs milk. It needs milk and a probiotic.
 
-A man has his head up his butt because he can't even make anything grow.
+A: It doesn't really work. It's not the same bacteria. Worm casings isn't the same as your own bacteria, E. coli. Yeah, so if you want to...
 
-He can't make an apple from scratch or seed from scratch that grows.
+Q: What would rebuild the intestine?
 
-He always has to use other elements of nature and to think that he's smart enough to make something a balance is absolute stupidity because their intelligence, micro intelligence, microcosmic and macrocosmic intelligence that are all partaking in the exchange of building something.
+A: Eating shit. Eating, you know, buffalo shit or, you know, cow shit. Something like that would get it quicker. If you want to do it in another way, you just take some soured milk and, you know, put it up there as a suppository. Like you would a light enema. Only you use soured milk and you put it up in there and you keep it in you. And that would help build up the E. coli again quickly. So you can feed on it. High meat is also helpful because it's broken down to a point where the bacteria can feed on it readily by the time it gets to the bowel.
 
-Isn't this one human brain that's working it all out, that's pure stupidity.
+Q: [unintelligible]
 
-And when you cook something and you chemically treat it, you've gotten rid of all of those other cosms and you're just working on one and that's mainly where plants live.
+A: Well, you can do it in about two weeks if you don't put it in the refrigerator.
 
-Most of those things you can feed plants, but if you put too much sodium somewhere, you'll kill certain plants.
+Q: Do you leave it out?
 
-You put too much sulfur somewhere, you'll kill.
+A: Yeah, I explained how to do that in the recipe book. But you have to open it every two days instead of every three to four. Do you have a question for me?
 
-Plants do the same thing, but plants eat rock.
+Q: No, I'm trying to figure out how to make it simple. I feel like I have a couple short questions and then one that I'd like to elaborate. For sun exposure, is that fine?
 
-That's what they do, they eat non bioactive substances.
+A: Yes, sun is very important.
 
-The rain comes down, dissolves rocks and they eat it.
+Q: And then wheat germ, do you like wheat germ?
 
-But we know that trees and plants will grow even faster and fuller if you're using biochemical mulch where there is decaying vegetation or human excrement or animal excrement around, it'll thrive.
+A: Wheat germ, like I said in the book, there's no pure wheat germ. They have to solvent process or heat process.
 
-For example, I have a fern that was an indoor fern.
+Q: And then the whole deal with how much water you're getting [unintelligible].
 
-The container was about this big, and it was about this full and I planted it in my garden because the deer and the golfers eat everything.
+A: Pardon?
 
-They don't leave anything for me, the only thing I can grow is peppermint or spear mint.
+Q: How much water do you recommend people hydrate with? How often and how do you best sources of glass water?
 
-I got spearmint growing all over and this fern and the jasmine, they don't seem to eat- the one year they loved Jasmine, most of time they don't.
+A: Well, any of your water, like Gerolsteiner is my favorite. But that's higher in carbon dioxide. And it's the carbon dioxide from the cell, well. It looks like now Perrier is no longer buying the gas that they've lost in their well from them. They're using an artificial.
 
-So, I planted this one little bitty fern out there about three years ago, so I didn't fertilize it at all the first year and it grew, it probably doubled in its size as ferns spread.
+Q: [unintelligible]
 
-And the next year I thought, hmm, I'm gonna see what will happen if I punch it with a lot of human nitrogen.
+A: Yeah, yeah. So there's still Gerolsteiner, there's Ramlosa, San Pellegrino.
 
-So, I collected my urine and I collected my eggshells, and I blended the eggshells, until they were a powder.
+Q: And sometimes that will come in plastic, but you don't recommend any plastic water?
 
-I mixed it with my urine and took some Terramin clay and put a little bit of that in there and then I went around.
-
-I took a container with a lid and poked holes in, went around, sprinkling it all over the dirt around there.
-
-Everything doubled that year.
-
-So then last year, I'm not gonna put the hole in the cap, I'm just going to dump the stuff.
-
-I always do it in February, low season when it's cold and when things aren't thriving at that time, they're all about to come out in the springtime, about to blossom.
-
-I'm just pouring it on the dirt and it quadrupled.
-
-The fern now goes from that wall to here and it goes from that post to here.
-
-That's one year growth from when I just poured it on.
-
-Now, if you take urine from an animal that each cooked food, like human urine or dog urine that's grown up on Alpo and canned foods, it will actually burn and ruin the roots not help it grow.
-
-It will destroy growth.
-
-And here I saw mine was causing all this tremendous growth.
-
-[Attendee]
-
-That fern is getting water from an irrigation system.
-
-[Aajonus]
-
-Uh, no?
-
-It has a sprinkler system.
-
-So, it gets water about every three days.
-
-.
-
-(13) Lung & Esophogeal Cancer
-[2006],[Aajonus]
-
-That's a hard one, it's a very difficult one if it's advanced
-
-The two that I don't like to handle because they're so difficult is lung and esophageal.
-
-Lung, because the lungs keep filling up with fluid and it takes medical intervention to get the fluid out of the lungs and they'll usually puncture the lungs and then pull it out and you keep poking the lungs like that, it doesn't help.
-
-So, it's very, very difficult.
-
-Only 60% of those that I've worked with reversed, medical profession, none reverse unless they remove the lungs.
-
-And then there's usually a 5 - 6 year period when they're dead.
-
-That's the longest they live, but about 90% of them die within a few years of getting lung cancer.
-
-Usually, if they get treatment, they'll die within a few months, unless they have surgery.
-
-[Attendee]
-
-She's against any kind, chemotherapy or stuff like that or radiation.
-
-[Aajonus]
-
-But still, if her lungs keep filling up with fluid, which it does to help eliminate it, she has to be able to cough it up to get it out of the body or else it has to be aspirated through medical needs and that's complicated and that creates sores, which makes more fluid collect in the lungs, so it's difficult.
-
-Esophageal is bad because it'll choke off the vocal, the esophagus, the ability to breath and eat.
-
-You can't breathe and eat, you're dead.
-
-So, that's a difficult.
-
-The worst case I had was after it was removed, the man had esophageal cancer all the way down, so what they did was they, they had maybe three inches of esophagus left.
-
-So, they cut it all out, put his, put his stomach up in his shoulder, and his lungs way over here, so it was all attached right into his throat.
-
-So, the guy was on constant meds, and he was in constant pain and he died even though he went on the diet and did it 100%, it only allowed him to live for another year and a half, year and three months.
-
-He should have been dead probably within a month, month and a half.
-
-But he suffered that whole time, even on the diet, it reduces pain by 50%, so he's taking less meds, but it was still very difficult.
-
-A difficult situation.
-
-Then there's some people who catch it early enough and they go on the diet and they'll get colds and flus and keep bringing the stuff up properly with the mucus, instead of water.
-
-Well, if she has fluid already collecting, then egg every half hour or her waking hour, little honey and butter in between.
-
-And that's what she should eat until she gets the strength, until she builds the mucus instead of fluid, should be all the almost exclusively that.
-
-Raw eggs, one every half hour and maybe a teaspoon of honey and butter, equal parts of honey and butter.
-
-1/2 teaspoon - 1 teaspoon every 15 minutes after each egg.
-
-[Attendee]
-
-How about vegetable juice like celery.
-
-[Aajonus]
-
-Cause water to build up in the lungs, unless she sips it?
-
-[Attendee]
-
-Is there any way you can have a consultation with her if she comes to this space.
-
-[Aajonus]
-
-Yeah.
-
-Well, it depends on when she would come.
-
-.
-
-(14) Lung Cancer and Surgery Is Best Medical Therapy
-[2006],[Aajonus]
-
-Surgery, I've seen with lung cancer, I've seen less deaths in probably the medical therapy, the surgery helps people live a lot longer
-
-One woman had, I don't know if you remember who she is, Laurine Tuttle, she's like my second grandmother and very good dear friend of mine, and she got lung cancer in 1969 and she had, this is just when I was barely a cripple myself.
-
-She wouldn't eat the raw meat, she would eat it rare, but she wouldn't eat it completely raw.
-
-She only had three lobes of a lung, half of her lungs gone.
-
-And she did quite well.
-
-Also I knew John Wayne and John Wayne had just one lobe left, and he lived three years with just one lobe, but he was an alcoholic.
-
-He just stayed numb all the time, destroyed all bacteria cuz he was drunk all the time.
-
-But he was able to survive that.
-
-But he was not a happy person and nobody liked him because when he was drunk, he was just obnoxious, constantly obnoxious.
-
-So, people can survive with medical therapy, but what is the quality of life.
-
-But the surgery, although Harbin B?
-
-Jones says that he thought that surgery was the worst therapy that you could do, I think that surgery is the least harmful of the therapies in my experience of medical intervention.
-
-In a case of cancer, there's definitely 60% chance you'll live doing this diet.
-
-And if you go with the medical profession, probably 17% chance you'll live over 5 years.
-
-And that's why the medical profession pulls out this magic number 5 years.
-
-Do you know that if you reached the magic number 5 years, you're considered cured of cancer.
-
-No matter if the next day or next year, you get it again, they consider it a whole new case of cancer, which they cured you the first time?
-
-It's all pharmaceutical double talk to get you to do what they want you to do.
-
-.
-
-(15) Malaria
-[2006],[Aajonus]
-
- I've gone to the swamps; I've swam in and I drank the water
-
-[Attendee]
-
-Have you been bitten by mosquitoes.
-
-[Aajonus]
-
-Well, I don't get bit by mosquitoes very often, unless I eat watermelon?
-
-And if I eat watermelon, they're on me within 5 -6 hours.
-
-I end up eating a piece of watermelon every time I'm in Asia, so I do get maybe 10 bites out of two months, which is nothing.
-
-They get eaten alive and I've never gotten malaria, it's all absolute stupidity.
-
-.
-
-(16) Msm & Sulphur
-[2006],[Attendee]
-
-MSM
-
-[Aajonus]
-
-It's a terrible thing?
-
-It's sulfur and sulfur dries out the system, it's like an antibiotic.
-
-They used to use sulfur as an antibiotic for kidney diseases and stuff like that, sinus diseases.
-
-MSM is a dangerous substance.
-
-Sure, it'll stop detoxifications and it'll get rid of your symptoms, but it makes the body worse.
-
-Sulfur stores in the body, can't break sulfur down, especially when it's that concentrated.
-
-I find in people all the time, it creates serious mental problems later down the line, or intestinal.
-
-Sometimes it's systemic.
-
-But it just dries out the system and back in the early 70s, there was a- it was 60 minutes or 20 minutes, one of those.
-
-They did a segment on women who spontaneously combust.
-
-[Attendee #2]
-
-They showed it recently.
-
-[Aajonus]
-
-Really.
-
-Only women were taking that kind of sulfur drug to do it?
-
-[Attendee]
-
-What would happen.
-
-[Aajonus]
-
-What would happen was they'd be standing there and they spontaneous went up into flames?
-
-Not around any fire or anything, just went up in flames.
-
-[Attendee]
-
-Is this real or science fiction.
-
-[Aajonus]
-
-No, this is real?
-
-And they showed the burns of the body and everything.
-
-One woman, 2/3 or 3/4 of her body had been burned.
-
-It was pretty bad, third degree.
-
-[Attendee]
-
-Did she die.
-
-[Aajonus]
-
-No, she survived and this was, I think somewhere around 1967-1969 that happened to her?
-
-This show was built and aired about 1972.
-
-And then they showed other women, two other women who had gone through the same experience, but not as much as their bodies.
-
-So, I was racking my brain out at that time trying to figure out what would cause those women to spontaneously combust.
-
-I knew it had to be a chemical related to nitroglycerine, that if it had a certain sulfur base, as soon as the oxygen would touch it, it'd go up in flames.
-
-So, that was a year later when I figured that out.
-
-So, I thought, Hmm, I wonder.
-
-So, I called a friend of mine who was the head of publicity at MGM and I said, "Listen, I need this to find out who these women were.
-
-I need their names or phone numbers or addresses where I can write or call them".
-
-So, he gave me the number of the show.
-
-Like I said, I don't remember if it was 60 minutes or 20, and I called the show and they got permission to give me the numbers.
-
-So, I called the three women and the one who had had the worst burns had been on sulfur drugs for 32 years for kidney problems.
-
-The other woman who was next, I think a third of her body burned, she had been on the drugs for 27 and the woman who had burned about a quarter of her body or a little less, 20% of her body had been on for 13-17 years.
-
-Something like that.
-
-Sulfur is not a natural thing.
-
-No element in nature is high in the body, except for calcium, potassium, and phosphorus.
-
-But the potassium and phosphorus don't hold up in the system.
-
-They're very transient.
-
-Calcium is more stable in the system, sulfur is a very small part of the human body or any animal's body, and if it gets high, it will cause dryness, severe dryness.
-
-Most of your Dristan's, your antihistamines are full of sulfur.
-
-Can you imagine, the body's trying to get rid of the poisons through the mucus discharge, and you're gonna dry it up with sulfur.
-
-What's going to happen?
-
-The poisons that the body is trying to reject with the mucus are going to remain in the tissue.
-
-So, you're going to have more advanced and chronic disease as the years go by cuz you're not gonna be cleaning out the system.
-
-[Attendee]
-
-That is why my father that's got these sinus problems, he did all the antihistamines and keep making it worse.
-
-.
-
-(17) Next Book On Detox
-(18) Nothing Is Theoretical
-[2006],[Attemdee]
-
-Actually Aajonus, I've been on a track similar to yours, but not nearly as long, and, and I've studied several different people and so I'm really just interested in the parallels that you have to offer to all the other people I studied
-
-I've taken a lot and thrown it away and taken the good and saved it, so I just have to compliment you.
-
-I think you're on the track.
-
-If I could say anything at I'd say, I've learned that that life exists on a physical, a mental, emotional, and a spiritual plain, and then you can be balanced.
-
-So, I would treat everything in a balance like that.
-
-So, it's not really a question, it's just a compliment.
-
-[Aajonus]
-
-Yeah.
-
-I'm interested in what works, not with theoretical.
-
-Like I said, when I wrote the book, all of my books, I was putting in there what works, and all the explanation was just theory.
-
-This is probably why it works, but we're not that smart to be able to say this is absolutely what it is.
-
-People like science, they like logic, and they like rationale.
-
-So, to me it's all bullshit and I'll give it to them.
-
-If that's what they need, but that doesn't really mean that is the reason The meat works, hhe meat helps heal the body.
-
-The eggs help rebuild and revitalize the body faster than anything else.
-
-The butter helps lubricate the body and keep it good and solid firm and the cream soothes and relaxes the body.
-
-So, these things are the key answers that I have and how to combine it to get people out of the diseases is how I've been.
-
-.
-
-.
-
-.
-
-(19) Org Pastures Milk To 32 Deg
-[2006],[Aajonus]
-
-We get all of our dairy for our group, our buyer's group from the Amish
-
-We don't buy anything at Organic Pastures.
-
-Cause when he went to 32° for everything, his milk, now he's denying it.
-
-As soon as it comes out, he puts it 32°.
-
-I told people about it and now he's lying that he doesn't do that.
-
-He does.
-
-temperature.
-
-[Attendee]
-
-What temperature should it be.
-
-[Aajonus]
-
-I like I told him it shouldn't go below 45°?
-
-Milk won't freeze at 32°, unless it's held there for many hours and it's not churned.
-
-[Attendee]
-
-Why do they do that.
-
-[Aajonus]
-
-Bacteria?
-
-Bacteria.
-
-Afraid of bacteria.
-
-So, Mark McAfee, who owns and runs it, he put all of it in his son's name, so he doesn't own anything now cuz he knows he owes me, he owes James Stewart.
-
-He owes Martin Sheen, we got these people, Martin Sheen, his wife put in like 40 grand and he hasn't paid him back a dime.
-
-He keeps saying, oh, we'll pay you, we'll pay you.
-
-He just keeps getting bigger and he goes around bragging he makes $3 million a year already and he doesn't pay us.
-
-And he went from glass to plastic and then he went from 39° - 32° and chilling.
-
-It just gets worse and worse.
-
-And he goes around the world, he goes around, literally around the world bragging that he has the best dairy in the world.
-
-He's nowhere near the Amish, any of them.
-
-They're very good because they are on my diet, those farmers are on my diet.
-
-A lot of the Amish are on my diet now too.
-
-A lot of those people are supplying us with foods are getting on the diet cuz they're finding out it's working for them.
-
-[Attendee]
-
-Does Amos Miller.
-
-[Aajonus]
-
-Amos doesn't, but some of the others around us, Amos has talked about it and he says he's gonna start doing it and I think he has, but he hasn't come back and says, yes, I'm doing it?
-
-[Attendee]
-
-I didn't realize the fact that you said it was all cooled.
-
-We didn't know that.
-
-I was trying to support the Californian dairy, but I didn't know that they took it to 32°, you hadn't told me.
-
-[Aajonus]
-
-I said it here.
-
-, it's the second time I said it.
-
-[Attendee #2]
-
-Organic Pastures, that's from Whole Foods, right.
-
-[Aajonus]
-
-Yeah, it's California dairy?
-
-It's still better than nothing.
-
-He also goes around bragging that he's purely grass fed, he feeds them grain at the time of milking, and he was feeding them cooked grain for a while.
-
-He was giving them rolled oats and then he was giving them a rice bran one time and it was making the milk really bitter and nasty because there's gibberellic acid in rice bran, and this guy, even though he was raised on a dairy farm, has no clue about dairy farming.
-
-He left it as soon as he got out of high school, cuz all he did was milk, that's obviously all he paid attention to from his father and mother, cuz when he decided to make a lot of money and a killing going into the raw, organic dairy business, he saw big money there and didn't learn as he should.
-
-[Attendee #2]
-
-Why can't somebody else do it in California.
-
-[Aajonus]
-
-You know how much it costs to set up a dairy?
-
-Extraordinary?
-
-Extraordinary amount of work.
-
-Extraordinary amount.
-
-[Attendee]
-
-How about converting one of the other commercial.
-
-[Aajonus]
-
-If you can get 'em to do it?
-
-Very difficult.
-
-But I tried to get one of the Stuvy Brothers up in Northern California, you know, Stuvy used to be the raw dairy here, and they kept promising that they would do it and they didn't.
-
-And then Mark Mcafee came around and got all this money together for him, and he did it and now he doesn't give a shit about us.
-
-He wouldn't have never been in the business without us.
-
-[Attendee]
-
-How much did you guys give him.
-
-[Aajonus]
-
-Well, altogether we gave him about, well he had already had the dairy going, but he was selling to Horizon, but he doubled his herd and plus he started making cheese, so we loaned him almost a $100,000 altogether and he hasn't paid, I think, but maybe $15,000 of it back?
-
-[Attendee]
-
-So, what can you buy.
-
-[Aajonus]
-
-You'd have to go to Arizona to get it or have them ship it to you?
-
-That's why I have everything shipped to us, we truck it to us every week in LA, but I've got these Amish people who send it to Aruba.
-
-I've got patients in Aruba that have it shipped all the way there.
-
-[Attendee #2]
-
-You know everything that's available in LA, it's available up here.
-
-We have a Co-op; you order once a month.
-
-[Aajonus]
-
-And you're getting the same dairy we have up there, so we're getting it from the Amish in Pennsylvania.
-
-[Attendee]
-
-How long would the milk last.
-
-[Aajonus]
-
-It'll be sour?
-
-Raw dairy never goes bad.
-
-It just turns into bitter cheese.
-
-So, if you don't mind eating soured milk, it's fine.
-
-[Attendee]
-
-Can you put honey in it.
-
-[Aajonus]
-
-You can put a little honey in it, it'll last couple of weeks without starting to turn?
-
-[Attendee]
-
-But at the turn will it be a little bit sweeter.
-
-[Aajonus]
-
-Yeah, it's sweeter?
-
-Yes, definitely, it's sweeter and it's more digestive.
-
-More sour it is the more digestible it is, so it's fine.
-
-Just may not be as enjoyable.
-
-Once it's kefir and it separates, all you do is shake it and it's right back emulsified again.
-
-.
-
-(20) Psoriasis
-[2006],[Aajonus]
-
-I didn't know that it was so much chemically related, the psoriasis, because I thought psoriasis is mainly an organic disease that was from mainly cooking foods, especially cooking meats
-
-, it's like causing gout in some people and causing arthritis and rheumatism in others.
-
-But I found that when I did this and all the drugs started coming out and this started happening, in the tissue, the whole area was hard.
-
-Like there was no nerves in it or anything, it just deadened everything.
-
-In the scraping from here, this was the worst area, and the scraping for there showed the same kind of AZT and the other crystalline toxicities from chemicals.
-
-This is mild to what it was.
-
-.
-
-(21) Recommended Water
-[2006],[Attendee]
-
- I have a couple short questions and then like one that I'd like to elaborate for, like sun exposures, is that fine
-
-Do you encourage that?
-
-[Aajonus]
-
-Yes, sun is very important?
-
-[Attendee]
-
-And then weat germ, do you like wheat germ.
-
-[Aajonus]
-
-Wheat germ, like I said in the book, there's no pure wheat germ?
-
-Tthey have to solvent process or heat process.
-
-[Attendee]
-
-How much water do you recommend people go hydrate with.
-
-How often and best sources of glass water?
-
-[Aajonus]
-
-Gerolsteiner is my favorite, but that's higher in carbon dioxide and it's the carbon dioxide from the well?
-
-Well, it looks like now Perrier is no longer buying the gas that they've lost in their well from them, so they're using an artificial.
-
-So, there's still Gerolsteiner, there's Ramlosa.
-
-[Attendee]
-
-And sometimes that will come in plastic, but you don't recommend any plastic.
-
-[Aajonus]
-
-I don't get any water in plastic and water's the worst thing you could do besides the acid juices in plastic?
-
-.
-
-(22) Vegetable Juice With Eggs, Vegetarians
-[2006],[Aajonus]
-
-Well, I found that if you have lots of eggs that it causes a certain amount of acidity cause of the dryness and it starts pulling out a lot of toxins
-
-And by having the green vegetable juice, it helps replenish and rebalance the system.
-
-[Attendee]
-
-But you don't want too much, you didn't want it every day.
-
-[Aajonus]
-
-No?
-
-[Attendee]
-
-Why is that.
-
-[Aajonus]
-
-Because it interferes with the digestion of the eggs?
-
-[Attendee]
-
-Because it's two alkaline.
-
-[Aajonus]
-
-I can theorize that, but I don't know?
-
-I can theorize why.
-
-[Attendee]
-
-But you found once every four days it's better than once every day.
-
-[Aajonus]
-
-Well, it depends.
-
-Three days, three to four days.
-
-Some people can go five days without having a juice.
-
-I found that it does interfere when you're eating like an egg every half an hour to an hour and that's mainly what you're eating.
-
-[Attendee]
-
-Just quickly then from the following on from the alkalinity, everyone now writes books and says if you're drinking alkaline pH water, like 7.
-
-4, you're not going to have cancer, etc cause cancer and all the chronic diseases of the day are result of acidy in the system that there's less oxygen in the system.
-
-Can you just quickly, because everyone who comes to people who own themselves and say this, this is what's being spread.
-
-What do you have to say about this.
-
-[Aajonus]
-
-Theoretical bullshit?
-
-You said a short answer, that's theoretical bullshit.
-
-There's no evidence of that.
-
-You take a look at the clinics like The Optimal Health Institute, here near San Diego, or where is it.
-
-Lemon Grove and you've got one in Florida?
-
-2/3 of those people drop dead in less than 5 years.
-
-2/3 dropped dead within five years from that experience, and most of them do very badly.
-
-There used to be several therapists there that found out my method worked better so undercover they had their meat and everything illegally in their rooms and little coolers or little bitty refrigerator and they were sending people to me.
-
-One woman they sent had multiple myeloma and she had just come from the ISL clinic to there, and nobody gave her hope.
-
-I put her on a diet in 30 days, her multiple myelomas reversed.
-
-That kind of alkalinity, that whole idea is a stupid concept, it is really a ridiculous concept.
-
-[Attendee]
-
-Acidic conditions can cause problems, so you're saying it's a balance between the two, not just extremely one or the other.
-
-[Aajonus]
-
-No, I would say probably you're going to get more disease if you go on alkaline for a long time for the human body cause the human body is like all other animals?
-
-All other omnivore and carnivore animals are mainly acidic.
-
-Their urine, their saliva is acidic.
-
-Children should not have vegetable juice under 16 years old unless they absolutely crave it, and it will disrupt their whole digestion because it causes over alkalinity, your digestive juices and bacteria must be acid in your digestive tract to digest any animal products.
-
-We know we're not vegetarian, very few people can sustain human life on vegetation.
-
-That's why there are very few vegetarians that don't get cancer and do very well, and I've only met 8/3000 people who could accomplish being pretty good vegetarians, they were even athletic but that was cuz they had all this high testosterone, high adrenaline, and high thyroxine, and even a couple of 'em had high thymus productions, but that's what generated their health.
-
-So, they were naturally very over acidic because of those hormones secretions so they could take all that alkaline food and do okay with it.
-
-But the longest term one I met, he was on that raw food hygiene program, raw food alkaline with no meat, no eggs, no dairy for 52 years, and then all of a sudden, his whole spine started disintegrating.
-
-He used to come to the health shows that I did, and he'd be one of those hecklers of the audience.
-
-And he said, "Well, I've been vegetarian for 47, 48", every year he'd show up that I was speaking, and then all of a sudden, it's 52, he didn't show up anymore because he was doing my diet, because his spinal cord just started disintegrating.
-
-He was in excruciating pain, he couldn't live.
-
-He became an invalid and then when he started eating the raw meat and raw dairy, well, he mainly eat raw eggs and raw meat and kept the dairy down, he still has a hell of the prejudice against dairy, but he'll use the butter and he was back on his feet within about six months.
-
-So, but he doesn't tell people, he tells people to still do the hygiene and vegetarian die.
-
-He eats the meat and eats some dairy, but that's a mentality.
-
-So, we're not vegetarians.
-
-We need acid bacteria, we need acid digestive juices to break down meats and, and dairy and eggs, that's the nature of it.
-
-And if you're trying to digest fiber, it's not going to happen because we have 2.
-
-5x less digestive tract than an herbivore.
-
-We have one stomach, the duodenum and the herbivores have from 2 - 4 and they have 60,000x more enzyme to disassemble the cellulose molecule to get the protein and the fats.
-
-We can't do that, so their B12 goes down and they're sucking up this processed soy garbage as they're protein.
-
-50% of my cancer clients were long-term vegetarians, 50%.
-
-It was people like Linda McCartney.
-
-"I'm vegetarian and I'll never get cancer".
-
-She died of the most aggressive breast cancer there is.
-
-[Attendee]
-
-Are you linking her cancer to your vegetarianism.
-
-[Aajonus]
-
-Absolutely?
-
-You're alkalinizing the body and you're feeding it bad proteins, processed soy and nuts, grains that you can't digest.
-
-If you're a bird you can digest nuts or you're a squirrel, but we're not those.
-
-.
-
-(23) Vegetable Juice, Vegejuice For Children
-[2006],[Aajonus]
-
-So, all that alkalinity is not what we're supposed to be
-
-I used the vegetable juice cause we're so toxic.
-
-We have so many acids, we're over acidic from all the cooked foods that we've had.
-
-[Attendee]
-
-See, that's confuses me.
-
-[Aajonus]
-
-So, that helps balance it a little bit, we put in those alkalizing minerals, they attach to the acid minerals and could neutralize them so it doesn't interfere with us.
-
-But children, even though they're eating cooked diets only need maybe 1/2 a cup once every two weeks, even if they're eating cooked foods.
-
-If they're eating raw foods, unless they were born to a very, very toxic mother, and those toxins went from the mother to the infant to the fetus, only they should have just a minute amount of vegetable juice.
-
-I got one two year old on the diet and she has signs of she looks like she was born to a vegetarian woman.
-
-Now, the mother had been vegetarian for six years before she went onto my diet, ultra skinny.
-
-Well, she didn't recover enough and I told her, don't have a baby now, you wait seven years til shes been on the diet.
-
-She had a baby.
-
-I think she's got pregnant within 6 months as she got gained all this weight, she felt so good and she said, "I'm healthy enough to have a child".
-
-I said, "No, you're not".
-
-So, she had this baby and this baby looks like it's been a 20 year vegetarian.
-
-More than half of its body is full of dead cells.
-
-[Attendee]
-
-How can you tell the body is half dead cells.
-
-[Aajonus]
-
-In the irises if there's a lot of scar tissue and I can see how much of the body proportion and 50% of that child's body is dead cells?
-
-[Attendee]
-
-Wow.
-
-That's terrible.
-
-[Aajonus]
-
-Yeah.
-
-And another vegetarian that had a baby, well, she had a fetus growing and it miscarried at about five months old, the baby was see through.
-
-You can look at it, it looked like a plastic baby, translucent.
-
-You can see the veins and the arteries and all the different parts as if it were this plastic model.
-
-And when we looked at the tissue and it was all nerve tissue, she had had spinal cancer and brain cancer.
-
-So, her body took all these dead cells and built them into the fetus to get 'em out of her system.
-
-She called him her angel.
-
-She had something like 60 tumors in her spinal cord and brain altogether, and she reversed so many of those cancers dissolved during that pregnancy.
-
-But the body took those cancer cells and put dead brain cells, the neurons and built them into this fetus.
-
-This baby was built out of tumorous nerve tissue that was translucent, it's the wildest thing I've ever seen.
-
-So, the body does phenomenal things and when a mother comes off of vegetarianism, just cuz she gets on the diet or anybody gets on this diet, they're not infallible.
-
-You have to be careful.
-
-This woman had that baby way too soon and now the baby shows signs of anemia.
-
-can't digest well, just like a 40 year old vegetarian.
-
-[Attendee]
-
-But she's gotta be better off than a vegetarian having a baby as a vegetarian.
-
-[Aajonus]
-
-Oh yeah, definitely.
-
-Well, this woman's smoker too and she never stopped smoking, so that added to the problem.
-
-[Attendee]
-
-Hundreds of thousands of vegetarians have babies.
-
-[Aajonus]
-
-Yep.
-
-But this woman was a smoker too, so that contributed to it so there was a lot of damage in this child.
-
-Now, at two years old, the child's going for the raw meat and is starting to gradually move out of that, so it's thankful she's able to.
-
-Some children who are raised like that in a vegetarian type system, the meat repulses them, and they will never eat it and never recover properly.
-
-But this child, all of a sudden, two weeks ago to start devouring the raw meat.
-
-[Attendee]
-
-Why does the meat repulse them.
-
-[Aajonus]
-
-Because they have so much alkalinity in their intestines and systems that they don't have the acids to break down the meat, so it repulses it?
-
-A lot of vegetarians can't go into eating meat within the vegetarian diet if they continue eating salads and drink a lot of juices.
-
-The meat repulses them because they don't have the digestive juices to handle the meat, they'll start vomiting.
-
-The food will pass through, go into diarrhea, all kinds of problems.
-
-.
-
-(24) West Nile Vairus
-[2006],[Aajonus]
-
- With the aids, they put it in the smallpox vaccine, was given to 75 million people
-
-Guess how many countries, the World Bank now runs those countries.
-
-27 of those African countries cuz they said, "Oh, you've got this disease, we'll help you, but you have to pay us back?
-
-We'll give you all this medical supplies, all this chemotherapy to help your people survive this AIDS epidemic that you have, but you are indebted to us".
-
-Governments can never pay back, so guess what.
-
-They now own the resources of those 27 countries?
-
-It's a different way of playing war.
-
-No bombs just go in there and poison them, get them sick, and take over their assets.
-
-So, now America and England, the UK, those banks run that country from UK and and United States.
-
-Not a nice thing.
-
-They don't care.
-
-And the Ebola, according to Dr.
-
-Leonard Horowitz, he shows all the records that show that Ebola and West Nile is all created by again, the military mission.
-
-[Attendee]
-
-As far as avoiding getting any of these things or healing.
-
-[Aajonus]
-
-You keep away from injections, you don't let a needle get near you and you'll never get it?
-
-It's got to be injected.
-
-.
-
-(25) WHen To Eat Salt, Salt In Bath
-[2006],[Attendee]
-
-You said not to, but I wondered why
-
-[Aajonus]
-
-The only time, like I said in the book, the only times that I suggest people eat salt if they have adrenal exhaustion?
-
-There's another situation, let's say somebody has gone into intensive vomiting and diarrhea and they're not holding anything down and they're starting to lose weight and they're starting to lose consciousness then I would use salt in a situation like that to help bring them back.
-
-And I would use salt in a mixture with whey to help bring them back to bring the electrolytes and the salts back into the body instead of using Pedialyte or something like that.
-
-Gatorade, that's what they do in hospitals.
-
-Gatorade You give Gatorade to a patient.
-
-Hello?
-
-[Attendee]
-
-What would be the proportions of salt and whey?
-
-[Aajonus]
-
-Oh, it would be just a pinch, about a 1/8th of a teaspoon to about a quart of whey?
-
-[Attendee]
-
-Why do you put the salt in the bath.
-
-[Aajonus]
-
-Well, it helps draw the toxic salts out of the body from years of eating table salt?
-
-Dries the skin a little bit, but you put the milk in with it, so it doesn't do that.
-
-So, with the milk, the salt and the vinegar in there, it's not going to cause that.
-
-[Attendee #2]
-
-It's great for injuries.
-
-I used to race Moto and Durham on the street a lot and every time I hit the pave, I'd get road rash.
-
-I'd get some salt suck it right out, heal the wound 3x faster
-
-Might even try for what's going on with you.
-
-[Aajonus]
-
-No, I don't want to do it cause it will stop it and I don't want to stop it.
-
-I want all the chemicals, all that AZT out of my body, it's the whole reason I did it, so I'm not gonna stop it.
-
-[Attendee]
-
-Why would it stop it.
-
-By pulling it out a bit faster?
-
-[Aajonus]
-
-No, no, no?
-
-When it starts mixing with the skin then the skin changes its whole ability to release, so I found that it stops detoxification, not helps implement if you put it directly on.
-
-Getting in bath water it's diluted enough; it'll help pull it out of your system and I do that.
-
-I get into a hot tub several times a day, if at all.
-
-He said put it right on it.
-
-I put 2 tablespoons of salt and 3 - 4 tablespoons of vinegar and 1.
-
-5 - 2 cups of milk.
+A: I don't get anything, I don't get any water in plastic. Water is the worst thing you can do besides acid juices in plastic.

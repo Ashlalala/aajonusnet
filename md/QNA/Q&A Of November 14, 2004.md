@@ -1,2293 +1,1197 @@
-(1) 40 Years To Clean Out The Body, 21 To Reach Ful Maturity
-[2004]   Like I said the Recipe Book, it takes 40 years to clean out the body
+Aajonus.net & Rawmeatgang
 
-It took 20 to 21 years to build your body, to come to full maturation.
+A: Ok, first I'm going to talk to you about my next book is on detoxification. So I've been experimenting with detoxification. And because a lot of people talk about going gung-ho and doing a lot, I want to caution you on it because two months ago, I decided to do an intense detoxification and do the limit with it. Now over the years, the only thing that, you know, what I do when I detoxify is you create fermentations, which are because bacterias cause fermentation. Bacterias are in the foods before you cook them. When you cook them, the bacteria is out. All the bacteria, all the enzymes, vitamins, everything is gone. So when you take those properties into your body, when the body is finished utilizing them, there is no natural ecological recycling. It hardens in the system and it stays there waiting for some bacteria to help ferment it and detoxify it, like with a virus. And especially if you're so poisoned that you can't harbor a parasite or a bacteria. Those are the easiest ways to detoxify. When your body uses bacteria or parasites, they consume up to 100 times their weight in a day and then excrete very small amounts, about 1% of what they digest. So it's a very small amount of toxin that we have to neutralize and secrete or excrete. So it's very easy for the body to handle. When the body has to make a fermentation and make a virus, because viruses are not alive, the whole idea of having a vaccine for a virus is the most absurd thing in the world. It's like taking a vaccine because you have Tide soap in your house. The body, the cells, make virus. When they take virus out of a body and put it in a petri dish, it will breed a cell and keep cells growing. There is no increase in virus. Whatever they put in there is all that exists. However, when there's a cellular environment in that petri dish, then all of a sudden there are more of them. They increase. That's because cells make them. We used to make soaps for our bodies. We used to take coconut and 90% of all soaps were made with coconut 100 years ago, 50 years ago. When you make something from organic substances, you're going to have organic matter in it. They say a virus has DNA in it. Sure. The cell, when it makes an agent to dissolve toxicity, it puts a DNA in it of this tissue that it wants the virus to dissolve. That's like putting a certain chemical, a certain agent in that solution so that it only addresses certain kinds of toxic cells. Otherwise, you'd be disintegrating because you've got a lot of toxic cells in your body. You've been eating cooked foods all along. Over the years, starting in 1976, I started fermenting the different foods that I consumed. I consumed a lot of Rice Krispies, a lot of cornflakes with lots of sugar on it. I fermented all these foods over the years, but I never let my milk go to a high-alcohol state because I used to consume a half a gallon of milk a day. Then when I got away from home at 16, I was drinking a gallon a day because there was no restriction then on how much milk. It was always pasteurized, unless I was on the farm, and that was only for a few weeks a year. Then my grandmother got to boiling it on the stove. Anyway, probably the most consumed food that I had was the milk, the dairy. I knew that that was going to be a hell of a detoxification when I did it. What I did was I took a quart of milk, put it in a half-gallon jar, put some maca in it, which is a high-carbohydrate substance that was sun-dried because it would cause [unintelligible] fermentation, and it would give it that cereal variety because I ate tremendous amounts of cereal when I was a child with milk. I knew that those two would be connected well together, so I put them together and fermented it for a little over two weeks, out of the refrigerator, in a cupboard, in the hottest time of the summer. When I popped the top off of it, it was so fermented that the alcohol burned my nose. So what did I do? I had three cups in one day. Because everybody talks about these gung-ho issues on the Internet. So I wanted to see what would happen. Well, I was in diarrhea every 20 minutes for 36 hours. Diarrhea lasted about three weeks. I lost 20 pounds in six days. What it did was, whenever your body has a tremendous amount of sugar in the system, and it's in overabundance, and your body can afford to make a tapeworm, tapeworms eat excessive sugars in the intestines. So I kept dumping all these sugars from all that toxic milk that I had, and it caused detox. So I had all this destroyed tissue, alcohol destroyed, and sugar destroyed, and carbohydrate destroyed tissue from the milk. So it was the heaviest detox I've ever done. And I got a tapeworm, first time I've had a parasite in my life. It was great. I just passed it out three days ago. So thank God it was there to help me detox, because for about four weeks I was basically unable to work. I still had to travel, but I didn't want to. I had to sleep like 10, 11 hours a day, which is unlike me, because I sleep usually four and a half to five. So if you want to do detoxification, do it in a mellow way, because I am suffering right now. I mean, from all that radiation that I had cauterized my spine, there was one part of my back that was in constant pain for years, about 15, 16 years. And when I put on a lot of weight and I hold the weight, there's very little pain. Even if I have a little sore or something and detoxification is going on, they are very mild. The symptoms are mild. However, at this weight, the symptoms aren't mild. I can go into a pain in the chest. I mentioned the last time when I was eight years old, in first grade, I swallowed a nickel and got stuck in my diaphragm, in the esophagus right at the bronchial. And in those days, nickel was a third mercury. So the mercury was in there so long, because I was autistic and I didn't know how to tell anybody that I had a nickel lodged in my esophagus. So finally, I went to the principal, Sister Virginia, and I kept pointing, you know, I had something wrong, you know, swallow or something, I knew that word. And I was, you know, caught here. So she got me some milk, and I washed it down with milk, and it went right down, washing down with milk. But that sat there for about three hours. And, you know, whenever you had anything go into the esophagus like this, your body secretes a tremendous amount of hydrochloric acid. So it dissolved some of that nickel, and that mercury went all into that area. And that's part of what started giving me angina at 15 and a half, with all the other medical drugs. Angina is heart attacks, and I used to have anywhere from four to seven a week. So all of a sudden, a few months ago, right before I did that heavy detox, I was dealing with that. The pain would get so bad that I couldn't move. And the only thing that would resolve it, I mean, I did everything, pain formulas, heat packs and everything. I felt like I was going to die from a heart attack, but I knew it wasn't the heart. The pain was excruciating. So I started, you know, just moaning aloud. Every, with the vibration, every vibration, because I moaned from here, oh, it just kept going like this. It was just vibrating, and within a minute, the pain stopped. So now, any time it comes on, I sing or, you know, just moan like that, and it goes away. Otherwise, it just gets worse and worse and worse until I can't even move. And it shoots back to that pain right back in the center. So, again, this low weight that I have is a problem. Now that the tapeworm's gone, I'm starting to put on weight quicker, and that also means that since the tapeworm left, the head came out, so I knew it was all over, and all of its parts from the feces in a 3-day period. So I know that it's over. It's finished that heavy milk detoxification. My body has finished a major part of it. So I do feel better in many, many ways. But, you know, I just want to caution you, if you're going to do anything, don't do anything over what I suggest when the detoxification book comes out, because you may suffer a lot more than I did. So, anyway, that's what I had to say this week.
 
-Then your growth hormones reduced to a minimum, unless you eat lots of meat and then you can keep them going your whole life.
+Q: When's the book coming out?
 
-Raw meat, if you don't you won't do it.
+A: It'll probably be next summer.
 
-  It takes just as long to tear the body down and rebuild it.
+Q: Oh, really?
 
-   So, it takes you 21 years to disassemble it and 20 years to rebuild it.
+A: I was hoping it would come out last summer, but with all these detoxifications and my injuries, you know, two severe accidents, you know, it hasn't been easy.
 
-  So, you're doing it all the time, so it's weaving in and out.
+Q: Can you clarify one thing for me? You said that the virus creates itself with the DNA.
 
- So, it takes 40 years according to Howell and his work with rats and Pottenger and his work with cats.
+A: No, no, no. Cells make the soaps. Cells make virus. Virus are nothing other than soaps, solvents to dissolve certain kinds of tissue, because your body can't use bacteria or parasites.
 
-  It was the same way; they took very diseased animals, and it took them five generations before they became optimal.
+Q: Right. And what did you say about DNA?
 
-  For us, five generations that takes 7 to 7.
+A: When the cell makes the protein body that becomes the solvent, the virus, it puts a DNA in it so that the virus only addresses certain tissue. If your body made a virus that would dissolve every cell in your body, because every cell is toxic because you've been on a cooked food diet all of your life, you would be a mess. You would die. So when a body makes a virus, it puts a DNA in there to say, to tell that, to restrict that virus's activity to dissolve only particular cells. That's why when you get a virus, like a flu, it's either intestinal or it's muscular or it's neurological. It's always a selected part of your body.
 
-5 years to regenerate every cell in the body one time.
+Q: So you're saying the body actually makes the virus. Were you saying the body also makes the tapeworm?
 
-Five times that, it's about forty years, and I've still got 18 years to go, but I'm already satisfied.
+A: Well, the tapeworms exist intercellularly. The body doesn't have to make them. Every cell contains virus and bacteria and, I mean, parasites and bacteria. Every cell has every kind of bacteria and every kind of parasite that exists for animal tissue.
 
-35 years ago, I was a worm on the floor, severe pain constantly and I couldn't sleep unless I was in a bath.
+Q: So it's like a tool that the body has whenever it needs it.
 
-  .
+A: Correct. Exactly.
 
-(2) 50% White&Red Meat Mitigates Pain
-[2004],[Aajonus]
+Q: And people who are eating cooked food and everything, just wondering why they're getting so sick. The body's not delivering the goods and helping them out with that.
 
-We can only help those who need help
+A: Well, because they may be too toxic. And if you're eating bad stuff like coffee and alcohol, what that does is it creates a condition in the blood that prevents you from doing anything other than controlling the contamination that's in the blood, neurological system, and lymph and intestines, just from the contamination of what you're eating. So a lot of people aren't able to detoxify normally. They'll go into their colds, they'll go into their flus, they'll have their aches and pains, and that's always the detoxification. Whether it's thorough and correct and they can regenerate from it depends upon what they eat. And on this diet, it's the only diet that will ensure that the detoxification you do is thorough and that it may not be all done at one time because of a particular area, and that you will heal following the detoxification. Fever is always an indication that the detoxification is completed. You could have had a detoxification existing for a year and a half or two years in your body. And all of a sudden, when the body says, I got too much of the garbage accumulated, now it's time to dump, it goes into a flu or a cold, and you start dumping all this mucus, tearing, all of this. That's the poisons leaving the body in the mucus or in the earwax or in the tear ducts or in the, you know, the tears or the mucus in the mouth or the salivary glands or perspiring vaginal discharge, fecal discharge, builds it into the hair and the nails. Wherever the body can discharge it will. Let's say that you had a vaccine and the thimerosal went into a shoulder, and that shoulder goes into a detoxification, you can better believe that you're going to suffer pain. Most people will suffer pain because it takes about 1,000 white cells to harness one molecule of mercury to keep it from causing damage or 2,000 fat cells for one molecule of mercury. That's why when you have pus come out of a pimple, you may have three or four molecules of the toxin and all the rest are white cells, hundreds of thousands of white cells. That's mainly what you're discharging is white cells in a very toxic environment.
 
-Do you have a question.
+Q: Does bacteria do the same as the virus?
 
-[Attendee]
+A: No. Bacteria consumes the substance and reduces it to a small amount of what it consumed. So it reduces the waste that you have to eliminate. But if you take, say, a solvent, you're going to clean the floor. You dilute it in water, and then when you finish, you've got this whole bucket of contaminated water. That's what happens in the body because the virus doesn't consume it and reduce it. The virus spreads it all around in a fluid. That's why virus is so nasty. But if we weren't so poisoned, we'd be able to use virus and parasites. Thank God my body was able to handle a parasite the first time. When I saw that worm that came out of it, wow, finally! You know, the poisons were out of my body and I could actually breed some bacteria and parasites finally. And if I hadn't had that to help me during that detoxification, I probably would have been in some serious, I would have created some serious damage in my intestines. It was very helpful. Any more questions about that? Okay, we're going to start around. Yes?
 
-I read an article recently that claim that if you took a teaspoon of Cod liver oil for each 50 pounds of body weight, in other words, 150 pounds it takes three, and you put it in either milk or fresh squeezed orange juice once a day, do you think that has any affect?
+Q: So if you say that the cell can produce the virus, so how about when people say some kind of a virus is contagious?
 
-[Aajonus]
+A: Is Tide soap contagious? Because it's found in every household? Is Tide soap contagious?
 
-Well, any of your pressed oils helps your body makes solvents to dissolve toxicity?
+Q: No.
 
-[Attendee]
+A: Okay, that simple as that. People make money by you going for medical treatment for a virus. It's just a soap that your body makes. And it can't be contagious if it's a soap, if it's manufactured in your cells. I mean, if I inject it in you, your body might say, okay, I can use that virus and I will replicate it and manufacture and utilize it. But it usually has to be injected.
 
-It has omega-3s.
+Q: [coughing]
 
-.
+A: What she's going through right now, it's not going to be contagious for us. The only things that are really contagious are things that live on the skin or the tissue that the tissue is feeding on, like yeasts. If I had sex with a girl who had yeast, and I have lots of cellular toxicity that is sugar-bound, I'm going to have a yeast there eating it, helping me detoxify. And crabs are contagious. They live on the skin. Salmonella is contagious, it lives on the skin. Not internal salmonella, there are 2,300 varieties of salmonella. And most of them went internally. But the way we used to shower in the old days, when we didn't take baths every day, we had all these little salmonella that went around eating up all the dead cells on the body. And there are about 100 varieties that do that. So when your pet lizard, whenever your dog or cat has salmonella running around on it, that's the way nature always functions. It doesn't go around bathing. All these little creatures go around taking care of it. It's a symbiotic relationship.
 
-.
+Q: Eat up the dead cells?
 
-[Aajonus]
+A: Yeah, dead cells on the skin.
 
-Again, that's another stretch.
+Q: Don't you have to pick up a tapeworm somewhere from something you eat?
 
-If you have more toxicity in the body, you need all nutrients.
+A: What did I just say? I said that each cell contains all of the eggs for any worm, any parasite that exists in human flesh, that eats on human flesh. Every bacteria. It's a natural innate part of every cell. Now, when you take a tapeworm out of a person who's eating just cooked, and mainly people who have, in fact all people who have tapeworms, it lives on a high sugar environment. So when we send just cereals over and grains for these third world children to eat, they all get tapeworms because that's all they're eating. And our bodies are not meant to eat that. Our bodies are meant to eat animal foods, animal matter. They have all this excessive sugar going through the system, poisoning them. They have these bloated stomachs. They need the tapeworm to help them from having all that advanced glycation end product and acrylamide toxicity. Without that tapeworm, they'd all die very quickly. Probably within a year. With that tapeworm, they can live without tapeworm for 20-some years in their body. Because that's the major part of what they eat. Is that sugar or high carbohydrate food. Now, when you take... I've seen pictures of tapeworms from animals, humans that eat, and other animals that eat only cooked foods. And when it shrivels and shrinks, it turns into either a hard rice or it turns into a shrunken, flattened piece of corn. However, I kept a segment of the tapeworm to see what would happen for me. And the thing shriveled up into a thread and disappeared into a what? An egg. That's what it does in the body. That egg exists in every cell in the body. And when your body needs it, and it only exists in the intestines, it will discharge that egg and that egg will hatch.
 
-Not just omega-6 and omega-3.
+Q: It doesn't happen all the time that you can get this.
 
-[Attendee]
+A: If your body has the ingenuity to utilize it and do it, it will. But most people don't. I haven't. I've been too toxic. I had all the medications all the time. All kinds of medications. And then I had the chemo and radiation. So if any bacteria or parasite tried to help me, they would be poisoned to death. So none could thrive in my body. So I went through all these years with no parasites, no bacteria in my body, and I was sick all the time.
 
-I'm focusing on arthritis.
+Q: But now you're getting rid of the radiation chemotherapy.
 
-[Aajonus]
+A: Right. So now, finally, I'm at the point where I can breed a parasite, which is wonderful. And in my book, in the recipe book, I talk about Joel Weinstock, the gastroenterologist at the University of Iowa. He had these long-term patients that suffered anywhere from 10 to 30 years with inflammatory bowel syndrome. And, you know, I gave a lecture about 20 years ago at Yale, and he was a part of that. And I was talking about how they are beneficial, and if we had them, we would have half the symptoms or none because they would be helping us discharge all the poisons. So about 10 or 12 years ago, 11 years ago, he took the whipworm from a pig and got the eggs from it and then put it in Gatorade and gave it to six people that suffered incurable inflammatory bowel syndrome. Five of the six completely lost all symptoms just like that. We're talking five days. All their symptoms. And this is a painful thing because every time you eat anything, you have instant diarrhea and pain. It's always painful. And if it goes into Crohn's, you have the poisons get into the joints and cause joints to swell. It's like arthritic rheumatoid, rheumatoid arthritic condition. And it is very, very painful. And these people suffered the most. These six people, they were his worst clients. Five of them out of the six completely resolved all the problems. They were back five months later knocking on the door for more because what was their body? Obviously, their body was so contaminated that it couldn't keep breeding because it was poisoning the parasites, so they had to go back for more of them. I tried to spike bacteria and parasites in people and in animals, but was unable to do it. But I never thought of putting it in an alkaline substance like Gatorade. I could have put it in vegetable juice, but I thought you don't put an animal product in a vegetable juice. But if I had done that, it might have worked. I don't have a laboratory anymore, so I can't do the experiment, but that would probably work. Because if you put it in an acid solution or even water, the hydrochloric acid will dissolve the eggs and they'll never get past your stomach. Yes.
 
-Arthritis is mainly toxicity in the joints that's built up in the joints.
+Q: I know I've had this before with people. I've studied parasitology for years. Amoeba can kill you. I mean, you can die very nicely. I've seen pictures of people, their organs [unintelligible]. Their liver, half the liver is gone, eaten away. Half of the heart is missing. I mean, they eat away at your whole intestines.
 
-So, you've got bacteria in there trying to eat up the dead toxicity or the toxicity in the cells that have been destroyed by the poisons that have gone to that joint.
+A: That's right, that's right.
 
-So, the bacteria is not your problem.
+Q: And they're lethal.
 
-It's the toxins that have destroyed the tissue that the bacteria is feeding on.
+A: No, just in a few people. They're so toxic that it doesn't stop, it isn't controlled. But that's very rare that it happens, but it mostly happens in third world countries where they've just fed them garbage. They get no meat. And their animal tissue, their muscles and their animal tissue is so weak that the amoeba just wants to go in there and clean them up. The people who are doing this diet don't have a problem.
 
-Usually if you'll eat, you know, don't eat as much red meat cut down to 50-50, 50% red meat, 50% white meat, and you're eating the lubrication formulas.
+Q: I don't know, I picked it up when I was out of the country years ago.
 
-You'll mitigate .
+A: You weren't eating a good diet.
 
-(3) Baths
-[2003],[Kathy]  
+Q: No, I wasn't, but I almost died from it.
 
-  Can I bring that up now, what would the problem would be
+A: Yeah, you almost died from it, yeah. You were very thin, very dry and very ill. So they're going to eat what it can.
 
-I was going into the bath without waiting 7 to 10 minutes before going into the bath cause I thought that's what you're supposed to do?
+Q: But I didn't get it until I left the country. I went somewhere away and then came back. Otherwise, I was fine before I left the country.
 
-[Aajonus]   No, I always said, wait 7 to 10 minutes before going into the bath.
+A: Ninety percent of the cases who have amoebic dysentery don't leave anywhere, don't leave their own country. So that's another myth that they like to put out there to scare people so that every time you go out of the country, you'll take their medications, their malaria pills or their vaccine, yellow fever vaccines, so that they can make money. It's a business. You have to realize it's a business. I'm not saying that people don't die. People die. Some children die. And it isn't the tapeworm that's done it. It isn't the amoeba that's done it. It's the toxicity in their body. The amoeba and the tapeworm are just trying to help out, trying to reduce the symptoms. But if somebody is so deteriorating, they're going to die. That's it. This diet doesn't save everybody. It saves 95% of the people that I know and it reverses their disease. If you're one of those 5% of the dozen. But the medical profession, they reverse almost no disease. They just make you get worse and worse until you're a cripple or you have a very poor quality of life. Some people, we're talking about 5% of the people that they help have that ability to heal themselves after that kind of an assault. But it's only 5%. So 95% I help, 5% they help, or those survive in spite of their therapies. What I say is this is a much better average than theirs. So if you want to take Quell and all the other anti-parasiticals, anti-bacterials, that's your choice. I'm not going to judge you for it. That's your life experience. But it's certainly not my choice. Because I didn't like being a worm crawling on the floor only able to move my head and my shoulders and my arms. There was no joy and that's what they did to me. For me to take 30 minutes to go from the couch, which was about there, to the kitchen, 30 minutes to get there. Crawl 10 feet, pass out from exhaustion. And wait, crawl another 10 feet. And I had piles of urine, I mean jars of urine, and pans of feces, diarrhea and everything, sitting by me. They had to sit there for sometimes three days before the volunteers came. So I had to live in that odor and I had to live in that pit and I had to live that way because of the medical profession. Not going back there, ever.
 
-[Kathy]   So now, I mean, after all these years, I don't know.
+Q: When was this?
 
-.
+A: After the chemotherapy and radiation. Yes?
 
-.
+Q: Quickly, it's related to what you're talking about. You said that the chemotherapy and the radiation prevented your body from allowing the bacteria to exist. How long approximately does the body prevent bacteria from existing until getting a relatively large dose of antibiotics that could last for 20 years as well.
 
-[Aajonus]   Just eat your regular diet.
+A: It can last for 50, it can last all your life if you don't eat properly and reverse it. If you can't clean those poisons out, any time a virus or a parasite goes, I mean any time a bacteria or parasite goes in there to eat, it's going to be killed after a few meals. A few days, it's gone. No help. So your body has to make a solvent, which all that toxicity is dispersed all throughout your fluids in your body. That's why you get sore all over. You know, if you're getting sore all over, virus is working. 
 
-It's going to have to detox gradually, getting in the bath is going to help because it's going to discharge a little bit of it out your skin.
+Q: So be grateful.
 
-[Kathy]   Did you say the thyroid.
+A: Yes.
 
-[Aajonus]   That's what I was going to say.
+Q: How many years ago did you, what was the last time you had chemotherapy, radiation, or whatever, any kind of... 
 
-I'm already answering you.
+A: 1968 was the last time I had.
 
-When the throat, lungs and sinuses, it's always this part of the body.
+Q: Any kind of drugs or anything like that?
 
-Anywhere from the throat, all the way up to the top of the head.
+A: No. The last time I had the... I got a terrible... My throat started closing off. I got a terrible sore throat in about 1972. And it came to the point, I resisted it, but I was a fruitarian. So I wasn't eating the fats or the fruits, you know, the foods that I needed to repair. So I just got to the point where I couldn't breathe. So the neighbor called a doctor, a friend of mine, came over and gave me a shot of penicillin. Allergic to penicillin, but at least it opened my throat. So I had terrible reactions for months, but I didn't die because my throat was shut down, nor did I have to have a tracheotomy. But I didn't know a good diet at that point.
 
-Brain, eyeballs, sinuses, thyroid, parathyroid, lymph glands, whatever's detoxing.
+Q: So approximately 1970 is when you started getting... 
 
-Could go on for a year.
+A: 72 was the last time I took any kind of medication.
 
-Some people I see it.
+Q: So from that point forward, whatever you've done, your diet is getting better. Your diet has been getting better, but it's still taking 30 years and more to process...
 
-I had one person had diarrhea for a year and four months, and he functions fine and he's big as Clay.
+A: To clean out that toxicity. Like I said in the recipe book, it takes 40 years to clean out the body. It took 20 to 21 years to build your body, to come to full maturation. Then your growth hormones reduce to a minimum. Unless you eat lots of meat, then you can keep them going your whole life. Raw meat. But if you don't, you won't do it. It takes just as long to tear the body down and rebuild it. So it takes you 21 years to disassemble it, and 20 years to disassemble it, and 20 years to rebuild it. So you're doing it all the time. So it's weaving in and out. So it takes 40 years. According to Howell and his work with rats, and Pottinger's work with cats, it was the same way. They took very diseased animals, and it took them five generations before they became optimal. For us, five generations, it takes seven to seven and a half years to regenerate every cell in the body one time. Five times that is about 40 years. So I've got 18 years to go. But I'm already satisfied. Thirty years ago or 35 years ago, I was a worm on the floor. Severe pain constantly, and I couldn't sleep unless I was in a bathtub because the pain was so severe. I'd fall asleep for five, ten minutes and wake up in severe pain. I'd have to move or turn over or something. But in the bath, with certain things in the bath, I've mentioned many times, having the milk, the sea salt, and the vinegar in the water allows the body to be slightly buoyant. When you're in, buoyant. And when you're in there for about 40 minutes, the electrical system reverses. It doesn't send the charges to the brain. It starts sending them out through the skin into the water. And that's what takes away the pain. So I say if somebody has systemic pain or even a severe pain in a particular spot, like the back, the spine, get in a bath, a hot bath, with those ingredients and spend an hour in there minimum. You'll be free. It's like a miracle. 
 
-  Here's a guy who has diarrhea and he can still put on the weight.
+Q: What if you're sensitive to chemicals in the water?
 
-Most people with diarrhea, can't put on the weight, but he was really skinny when he started.
+A: Like I said, if you put the milk in there, you put two to three cups of milk in there, two tablespoons of sea salt, that neutralizes all the chemicals in the water.
 
-Now he over the diarrhea and it doesn't ever affect him.
+Q: Oh, without having a filter?
 
-[Kathy]   1 year and 4 months.
+A: Without having a filter, it's always good to have a filter because then some of those nutrients that you put in the bath will feed your body. But otherwise, it's going to go... We have 192 chemicals in our water in LA.
 
-[Aajonus]   Yeah, 1 year and 4 months?
+Q: So you can't use the shower water for that problem?
 
-[Kathy]   He's not getting rid of this bacteria or something.
+A: You can't use the shower for that problem.
 
-Flora, the bacteria?
+Q: But if you've got a filter on the shower?
 
-[Aajonus]   Well, it isn't working as well?
+A: Any filter. If you have a three-filter system on the outside of your house, major ones, the most you can remove is 50% of the toxins. If you have one as little filter as you do in the shower, the most you're going to remove is a third.
 
-He's not absorbing all the fluids is the system, but he still retains- I think drinks too much water, but people only listen so much.
+Q: But you said that if you put those salt and vinegar, then you don't [unintelligible].
 
-  But he's doing well, so I don't get on his case, anybody that does well with what they're doing, even when they're doing things that I suggest they don't do, as long as they're doing okay, I won't get on their case.
+A: In the bath water. It has to sit in the bath water seven to ten minutes before you get it in it. But you can't mix it with water and send it out to shower.
 
-But if they call me about a problem, and I know it's hindered by what they're doing, then I'll say you've got to stop.
+Q: No, I meant to have it all filled up. [unintelligible]
 
-[Kathy]   Glen Ivy is also good because of the hot water.
+A: Yes.
 
-[Aajonus]   Yeah, but you've got clay in that water.
+Q: Because once you put the stuff in the water, you can go right in.
 
-[Kathy]   That could draw it out too.
+A: No, you have to wait seven to ten minutes.
 
-[Aajonus]   Yeah, but you don't have the chemicals and poisons in that water, so you don't have to put the ingredients in the water.
+Q: How much milk did you say?
 
-[Kathy]   Yeah, I know.
+Q: Why is that?
 
-I'm saying for people that took baths without putting it in to draw out the poisons.
+A: Two to three cups.
 
-[Aajonus]   Yeah, we're talking about city water.
+Q: Because it hasn't absorbed into it?
 
-[Kathy],[Aajonus]   I know that, but I'm saying if they did use city water- 
+A: It has to absorb those poisons in the water. Now, if I got into LA City water when I first did it, at that time there was only 158 chemicals in the water. And that was, you know... Because I moved here in 1966. And when I get into the city water here, and if I took a bath, in seven minutes I'd be just like this. Literally shaking. I couldn't stop. My heart would pound. My blood pressure would rise. And I'd just shake. I'd tremble. I couldn't hold anything. I couldn't pick up anything. It was that bad. That's when I experimented putting different things in the water to neutralize those toxins. And that was the best formula I could come up with. And it works perfectly. Because I could spend 10 to 18 hours in the bathtub and be able to sleep and enjoy and never get up with nervousness. I also discovered that I let out about... I had a tall foot tub during most of that time, which is pot metal. So metal holds heat much longer than plastic does. So I could go an hour and a half to two hours without waking, freezing to death when I was waking. But I just let two or three, I mean three or four inches out of the tub and then put scalding hot water and just keep it moving around me until it gets so hot again, I'd just go back to sleep for another hour and a half to two hours. And I never had to put more ingredients in the water. That I handled it. Well, three cups.
 
-  It still wouldn't help as much; you need those ingredients in the water to help draw some of those out because they're already imbedded in your skin.
+Q: You have to wait...
 
-They get absorbed deep into the connective tissue.
+Q: [unintelligible]
 
-[Kathy]   No, I'm saying it will draw out what you have.
+A: One question at a time, right?
 
-[Aajonus]   No, it won't draw out everything.
+Q: You have to wait 10 minutes before...
 
-That's why there are certain nutrients in that combination that can pull out a lot more than.
+A: Seven to 10 minutes for ingredients in the water.
 
-.
+Q: Before you put the ingredients in. You could put it in right away.
 
-.
+A: It depends upon how hot you have the water. What I do is I... To heat the tub up so the tub doesn't cool down quickly, to cool the water quickly, I put scalding hot water in. So the first half of that water is nothing but hot scalding water. Let it sit for 10 minutes and it heats the entire tub. Then I put lukewarm water in and make it to a temperature that's just maybe a degree or hotter than I like, maybe 106, 107 degrees. When I get in, I like it to be 105 degrees max. And I put all the ingredients in when it hits about 105, 107. And then I let it sit for seven to 10 minutes before I get in.
 
-  .
+Q: How much salt is there?
 
-(4) Baths & Toxic Water
-[2004],[Aajonus]  
+A: Two tablespoons of sea salt.
 
-  You have to move or turn over or something, but in the bath, I have certain things in the bath
+Q: And nonfat milk?
 
-You know, I've mentioned many times having the milk, the sea salt and the vinegar in the water allows the body to be slightly buoyant and when you're in there for that 40 minutes, the electrical system reverses, it doesn't send the charges to the brain, it starts sending them out through the skin into the water.
+A: Pardon?
 
-  That's what takes away the pain.
+Q: Nonfat milk.
 
-  So, I say to somebody who has systemic pain, or even a severe pain in particular spot like the back, the spine, get in a hot bath with those ingredients and spend an hour in there, and then you'll be free.
+A: Oh, no. Fatty milk. Don't use anything to make skim milk but cheese.
 
- It's like, it's like a miracle.
+Q: But you have to wait before you put the ingredients in because it's going to be too hot for the milk.
 
-[Attendee]   What if you're sensitive to chemicals in the water.
+A: If it's too hot, you have to wait for it to cool down. Or you have to put more cold water in to cool it.
 
-[Aajonus]   Like I said, if you put the milk in there?
+Q: Otherwise you could just put it in right away.
 
-You put two to three cups of milk in there, that neutralizes all the chemicals in the water.
+A: Yeah.
 
-[Attendee]   Without having a filter.
+Q: Does it have to be raw milk.
 
-[Aajonus]   It's always good to have a filter because then some of those nutrients that you put in an bath will feed your body?
+A: Yes. Definitely does, yeah.
 
-  We have the 192 chemicals in our water in LA.
+Q: So 107 is okay? [unintelligible]
 
- So, the shower for that.
+A: Yeah, because mostly what it's going to do is absorb the poisons and help pull poisons out of your cells. The good thing, and people say, well, you know, they can do that in a sauna or steam bath. When you're doing a sauna or steam bath, those toxic substances stay in the tissue a lot of the time [unintelligible] skin. So a third of them may penetrate your skin and make you reabsorb or damage your skin. So if you're doing a sauna, you have to get out every three minutes to rinse off. You can't stay in there a long time. You're going to cause some damage. Sure, you're going to secrete a lot of stuff, but one third of it may cause more damage. That's why I like baths. It's discharged into the water. It goes right into the water. It doesn't stay on your skin. When those ingredients are in the water. It just draws it out.
 
-   If you have a three-filter system on the outside of your house, major ones, the most you can remove is 50% of the toxins.
+Q: What happens if you're in the water without waiting?
 
-If you have one of those little filters, you're going to remove is a third.
+A: Without waiting for what?
 
-  You have to let it sit in the bath water up to 7 to 10 minutes before you get in, but you can't mix it with water and then send it out the shower.
+Q: For seven to ten minutes.
 
-[Kathy]   Because once you put this stuff in the water, you can go right in.
+A: Then you're going to have some of that garbage in the water absorb into your body, into your skin. And then it's going to get into your nervous system and into your blood. And you're not going to do so well.
 
-[Aajonus]   No, you have to wait seven to 10 minutes?
+Q: Would you recommend that kind of tub that you talked about? With that metal?
 
-[Attendee]   How much milk.
+A: Yes. It's good in that it's still more electrical. It'll stay hot longer, and for me that was necessary. Plastic may gas a little bit, but it doesn't have the electrical field. What are you supposed to do? It depends on how would you handle that. Can you handle the radio waves that metal draws to it? Or do you handle the gases from the phthalates from the bath? And I would say the ingredients in the bath is going to handle the phthalates better than your body's going to handle the electromagnetic energy that's absorbed. But then the water may absorb that too. So you just have to see what you're comfortable in. You'd have to stay for about an hour and a half to find out.
 
-[Aajonus]   2-3 cups?
+Q: What do you do to get rid of those poisons? Do you just keep doing what you're doing?
 
-[Kathy]   Because it has to absorb.
+A: Don't get in the bath.
 
-[Aajonus]   It has to absorb those poisons in the water?
+Q: No, I already did. I didn't know before.
 
-If i got into LA city water when I first did it, and that time there was only 158 chemicals in the water.
+A: Well, you eat lots of eggs. It's the best thing to do. Eggs and butter and cream and milk.
 
-I moved here in 1966, and when I'd get into the city water here, and if I took a nap, in seven minutes I'd be just like this, literally shaking.
+Q: How many eggs would you recommend?
 
-I couldn't stop.
+A: This is getting too personal.
 
-  My heart would pound, my blood pressure would rise and I'd just shake, Id tremble.
+Q: I'm going to call tomorrow.
 
-I couldn't hold anything.
+Q: So what if you eat a substance and you notice that afterwards you have pains? Is that the detoxing?
 
-It was that bad.
+A: Yes. Just remember, any pain is swelling.
 
- That's when I experimented putting different things in the water to neutralize those toxins and that was the best formula I could come up with and it works perfectly because I could spend 10 - 18 hours in the bathtub and sleep in it.
+Q: Right.
 
-  And I also discovered that if I let out about, you know, I had a tall foot tub during most of that time, which is pot metal.
+A: Pressure on the nerves. How do you relieve the pressure? You have everything around to relax so it can expand without ripping, without the pressure. So applying a hot water bottle or getting into a bath is going to do that.
 
- So, metal holds heat much longer than plastic does.
+Q: But I mean, if you like eating eggs or something like that, you know immediately that you're going to get a knee problem.
 
-So, I could go 1.
+A: After eating something?
 
-5 - 2 hours without waking freezing to death but I just let 3-4 inches out of the tub and then put scolding how water and keep it moving around until it got so hot, and I'd go back to sleep for another hour or two and I never had to put more ingredients in the water, the animal.
+Q: Like eggs. So you know you're detoxing, right?
 
-[Kathy],[Aajonus]   You have to wait 10 minutes before- 
+A: Yeah. But it may be unrelated to the egg.
 
-  7 - 10 minutes.
+Q: Well, but the egg could be helping it process out.
 
-[Kathy]   How long before you put the ingredients in, do you put it in right away.
+A: Well, the body will use the nutrients from the egg to help get rid of it, yes. 
 
-.
+Q: Right.
 
-[Aajonus]   It depends about how hot you have the water?
+A: But it usually takes a while to get into the blood. Before I mean into the... It has to go through the duodenum. It has to digest. The fat has to be digested. You're talking about 45 minutes to an hour before it leaves the duodenum. So it doesn't happen instantly.
 
-What I do is when I heat the tub up, so the tub doesn't cool down quickly, I put scolding hot water, so the first half of that water is nothing, but hot scalding water.
+Q: [unintelligible]
 
-Let it sit for 10 minutes and it heats the entire tub.
+A: Sometimes the lubrication form, I mean the pain formula that works within 20 minutes, that's because when you put the bee pollen in it, the bee pollen is a very finite protein. And the bees, when they collected it, they put their saliva on it so it's pre-digested. It's broken down the shell. It's like a nut and it has a hard shell on it. That's why you can't dry it. Because once it's dried, the shell is hardened and it's like eating a walnut. There's no way you're going to break that shell down and digest it. But when it's moist, then your body can utilize that protein instantly. Also egg whites. That's why you use so much egg in the diet. The liquid, you know, the egg white is full of easily absorbed and digested protein instantly. That's why it worked for that woman with emphysema who was supposed to die. She had 66 eggs and she was out of bed and off the oxygen for the first time in two years. Okay, I'm going to start going around and asking your personal... 
 
-Then I put lukewarm water in, and they get to a temperature that's just maybe a degree or two hotter than I like it, maybe 106-107 degrees.
+Q: 66 eggs in one day?
 
-When I get in, I like it to be 105 degrees and I put all the ingredients in when it hits about 105-107 and then I let it sit for seven to 10 minutes before I get in.
+A: Two days.
 
-[Attendee]   How much salt.
+Q: Two days.
 
-[Aajonus]   Two tablespoons of sea salt?
+A: Okay, do you have a question?
 
-[Attendee #2]   Nonfat milk.
+Q: Oh yeah, about what you were just saying. Because I bring that up now. What the problem would be, I've been... I was going into the bath without waiting 7 to 10 minutes during different times of when I was going in the bath. Because I thought that's what you're supposed to do.
 
-[Aajonus]   Oh no, fatty milk?
+A: No, I've always said wait 7 to 10 minutes in the bath after you put the ingredients in.
 
-You don't use skim milk, except to make cheese.
+Q: Now, I mean, after all these years, I don't know.
 
-[Kathy]   So, you have to wait before you put the ingredients in because it's too hot for the milk.
+A: You just eat your regular diet. You know, you just have to detox gradually. Getting in the bath is going to help because you're going to discharge more of it out of your skin.
 
-[Aajonus]   If it's too hot you're gonna have to wait for it too cool down or you could put some cold water in to cool it?
+Q: Oh, by waiting, though.
 
-[Kathy]   Otherwise, you could just put it in right away.
+A: Yeah.
 
-[Aajonus]   Yeah?
+Q: So this coughing is continuing, it's okay.
 
-[Kathy]   It doesn't have to be raw milk.
+A: It's your detoxing. Most of the detoxing patients...
 
-[Aajonus]   Yes, it definitely does?
+Q: Where's my thyroid? Did you say the thyroid?
 
-Because mostly what it's going to do is pull poisons and absorb poisons out of your cells.
+A: That's just what I'm going to say.
 
-  .
+Q: Oh, okay.
 
-(5) Cells Make Virus
-[2004],[Attendee]  
+A: I'm already answering your question. When the throat, lungs, and sinuses detox, it's always this part of the body.
 
-  You said the virus creates itself with the DNA
+Q: The brain.
 
-[Aajonus]   No, cells make the soaps, cells make virus?
+A: Anywhere from the throat all the way up to the top of the head.
 
-Virus are nothing other than soaps, solvents to dissolve certain kinds of tissue because your body can't use bacteria or parasites.
+Q: You're referring to the brain.
 
-  When the cell makes the protein body that becomes the solvent, the virus.
+A: Brain, eyeballs, sinuses, thyroid, parathyroid, lymph glands in here, whatever is detoxing.
 
-  It puts a DNA in it so that the virus only addresses certain tissue.
+Q: It could go on for weeks and weeks. That's what I'm noticing.
 
-   If your body made a virus that would dissolve every cell in your body, because every cell is toxic because you've been on a cooked diet all of your life, you would be a mess.
+A: It could go on for a year. Some people I've seen, I have one person who's had diarrhea for a year and four months. He functions fine and he's as big as Clay. Here's a guy who has diarrhea and he's as big as Clay. He can still put on the weight. Most people who have diarrhea can't put on the weight, but he was really skinny when he started. Now he's still with diarrhea and it doesn't ever affect him. It doesn't bother him.
 
-You would die.
+Q: A year and four months like that?
 
-So, when the body makes a virus, it puts a DNA in there to restrict that virus's activity to dissolve only particular cells.
+A: A year and four months now, yeah. No, it has to be longer than that because I saw him in Chicago. Yeah, a year and four months.
 
-  That's why when you get a virus like a flu, it's either intestinal or it's muscular or it's neurological, it's always a selective part of your body.
+Q: He's not getting rid of his bacterial flora or something? The flora, the bacteria.
 
-[Attendee #2]   So, you're saying the body actually makes the tapeworm.
+A: Well, it isn't working as well. He's not absorbing all the fluids in his system, but he's still retaining weight. I think he drinks too much water. But people only listen so much. But he's doing well, so I don't get on his case.  Anybody that does well with what they're doing, even if they're doing things that I suggest they don't do, as long as they're doing okay, I won't get on their case. But if they call me about a problem and I know it's helped by what they're doing, then I'll say you've got to stop this or reduce it.
 
-[Aajonus]   Well, the tapeworms exist intercellularly, the body doesn't have to make them?
+Q: Well, one thing, going to Glen Ivy is also good because of the hot water.
 
-Every cell contains parasites and bacteria.
+A: But you've got clay in that water.
 
-Every cell has every kind of bacteria and every kind of parasite that exists for animal tissue.
+Q: Yeah, that could draw it out too.
 
-[Attendee]   So, it's like a tool that the body has whenever it needs to use it.
+A: Yeah, but you don't have the chemicals and poisons in that water, so you don't have to put those nutrients in the water.
 
-[Aajonus]   Correct?
+Q: No, I know that, but I'm saying for people that took baths without putting it in, it could draw out those poisons.
 
-[Attendee #2],[Aajonus]   So, people who are eating cooked food, just wondering why they aren't sick 
+A: Yeah, but we're talking about city water here.
 
-  Because they may be too toxic and if you're eating bad stuff like coffee and alcohol.
+Q: Oh, I know that, but I'm saying if they did go in the city water and go to Glen Ivy, mineral pool and clay.
 
-What that does is it creates a condition in the blood that prevents you from doing anything other than controlling the contaminations in the blood, neurological system, lymph and intestines.
+A: It still wouldn't help as much. You need those ingredients in the water to help draw some of those things out. Because they're already embedded in your skin and get absorbed deep into the connective tissue.
 
-Just from the contamination, which you're eating.
+Q: No, what I'm saying, it will draw out what you have, wasn't it?
 
-  So, a lot of people aren't able to detoxify normally.
+A: No, it won't draw out everything. That's why there are certain nutrients in that combination that can pull out a lot more than clay can by itself. Even if it's mineral water. I have well water that's great. I still put those ingredients in the water. Do you have a question?
 
-They'll go into their colds, they'll go into their flus, they'll have their aches and pains, and that's always a detoxification, whether it's thorough and correct and they can regenerate from it depends upon what they eat and on this diet, it's the only diet that will ensure that the detoxification you do is thorough and that it may not be all done at one time because of a particular area and that you will heal following the detoxification.
+Q: Yes. [unintelligible]
 
-  Fever is always as an indication that the detoxification is completed.
+A: I eat all raw. I don't go off at all. So what I always do is I know that I can get butter in those places. I'm going to France, I can get dairy anywhere. In really regular grocery stores. When I was traveling there, I started going there in 1993 when I had a girlfriend that lived there. So I went to Paris like three months a year. A month at a time. And I was on their case. Because I could get raw milk at the outdoor markets. They have farmers markets right there in Paris. Right in the streets. Different parks and different locations. So I could get all the raw milk, raw cream, raw butter right there. And there was a company that was producing it. And had it there on the market. But no health food store was carrying it in Paris. I had to go 50 miles out of Paris to get the dairy.
 
-You could have had a detoxification existing for year and a half or two years in your body and all of a sudden, when the body says I got too much of the garbage accumulated, now it's time to dump.
+Q: We've got to go to another state. [unintelligible]
 
-It goes into a flu or a cold and you start dumping all this mucus, that's the poisons leaving the body in the mucus or in the ear wax or in the tear ducts.
+A: But I got on their case and now they're carrying it everywhere. Even the supermarkets are carrying it. I was on their ass for three years.
 
-  Or though the tears or the mucus in the mouth or the salivary glands or perspiring, vaginal discharge, fecal discharge builds it into the hair and the nails, whatever the body can discharge it will.
+Q: In the United States?
 
-   Well, let's say that you had a vaccine, and the thimerosal went into that shoulder, goes into a detoxification.
+A: No, in Paris. But in other states, I've got connections everywhere. So in the States, I can get anything I want anywhere.
 
-You can better believe that you're going to suffer pain.
+Q: Do you have it on your website or something like that? Because when I go to Texas, they don't have it. [unintelligible]
 
-Most people will suffer pain because it takes about 1000 white cells to harness one molecule of mercury to keep it from causing damage or 2000 fat cells.
+A: You just have to have it sent to you in Texas.
 
-That's for one molecule of mercury.
+Q: Oh, really?
 
-That's why when you have puss come out of a pimple, you have 3 or 4 molecules of a toxin and all the rest are white cells, 100,00s of white cells.
+A: Yeah. I know no excess farmers in Texas. I've had farmers in probably 25 states where I can get product. In the other 25 states, it has to be sent there. But my clients already get it sent to them. So when I go there, they provide it for me. I just tell them what I want ahead of time. But I have clients who travel like that. They just have it sent to them where they're going. So it's waiting for them when they get there.
 
-  And that's mainly what you're discharging is white cells in a very toxic environment.
+Q: James ever send it?
 
-[Attendee]   And does bacteria do the same.
+A: Pardon?
 
-[Aajonus]   No, bacteria consumes the substance and reduces into a small amount of what it consumed, so it reduces the waste that you have to eliminate?
+Q: James send it to them?
 
-But if you take, let's say a solvent, you're going to clean the floor, you diluted water and then when you finish, you've got this whole bucket of contaminated water.
+A: No. Companies that are people who have farms, they'll send it. When I go to a foreign country, I always take a half a pound of butter for every day that I'm going to be there. So like Tuesday night, I'm leaving for Asia. And I'll be gone until December 22. And I will take 17 pounds of butter with me.
 
-That's what happens in the body because the virus doesn't consume it and reduce it.
+Q: In your suitcase?
 
-The virus spreads it all around in a fluid.
+A: No, I take it in my cooler. And I have a cool pack with it. And I take a quart of honey for that whole 40-some days.
 
-That's why viruses are nasty, but if we weren't so poisoned, we'd be able to use virus in parasites.
+Q: So that's yours?
 
-[Think he meant bacteria and parasites]   Thank God my body was able to handle a parasite the first time.
+A: That's my stash because I can get meat anywhere. I can get eggs anywhere. You can get better meat and eggs in Asia.
 
-When I saw that tapeworm come out, I thought wow! Finally, the poisons are out of my body, and I can actually breed some bacteria and parasites finally, and if I hadn't had that to help me do that detoxification, I probably would have created serious damage in my intestines.
+Q: Do you have to take a lot of jars with you, glass jars you put in your bag?
 
-  So, it was very helpful.
+A: Yes, I do.
 
-Any more questions about that.
+Q: Do you let it go through the metal? I mean, the x-ray?
 
-[Attendee #3]   You say the cells produce the virus, why do people say some virus are contagious?
+A: Well, when I'm going to Asia, what I do now is I can travel. I can be on a plane five hours. I can get anywhere in the United States in five hours. So if they don't let me get through, and I have a doctor's note that says, you know, his food is his medicine, don't x-ray him, all this shit. They've gotten really nasty leaving L.A. 
 
-[Aajonus]   Is tide Soap contagious because it's found in every household?
+Q: Yeah, it is nasty.
 
-  That's as simple as that?
+A: And so they're just obnoxious. Even in communist countries, I have more freedom. In China, and people talk about the freedom we have there. It's so full of shit. It's ridiculous. It pisses me off.
 
-People make money by you going for medical treatment for a virus, it's just a soap that your body makes, and it can't be contagious if it's a soap.
+Q: Remember, we're worried about the terrorists.
 
-If it's manufactured in yourself.
+A: Yeah.
 
-I mean if I inject it into you, your body might say, okay, I can use that virus and I will replicate it and manufacturer utilize that.
+Q: Oh, my gosh, no.
 
-  What she's going through right now, she's not going to be contagious for us, the only things that are really contagious  .
+A: The terrorists are right here. So anyway, when I go, I go through Chinese airlines usually, or any of those Japanese airlines. They will take my food, and they'll hand it to a guy who walks it out, puts it, brings it, and hands it to me on the plane. So it doesn't go through scanning. Because, you know, I'll be on that plane 19, 20 hours.
 
-(6) Chia Seeds To Help Regular Bowel Movements
-[2004],[Aajonus]  
+Q: Do you know who domestic will not do that?
 
-  Yeah
+A: No. Here, nobody will do it. So that's what I mean. If they don't let me do it, I will stand there and eat the raw eggs in front of them, and half a quart of milk, you know, and the honey and butter and the raw meat, and I'll do it right... They get so mad because they get really paranoid. Most of them are paranoid of getting something. You know, I'm sucking raw eggs in front. They get really nasty. I've been threatened that if I didn't leave the area and go eat somewhere else, I'd be in trouble. I said are you going to arrest me for eating? Do you think a jury is going to find me guilty for eating? You know? I said, what's going to end up is eventually I'm going to get you in court, and you'll be tied up for two days in deposition. And it's going to cost you guys a lot of money and a lot of time, you know? So I said, you think about that. And will a jury find you guilty when I've got a doctor's note that says my food is my medication, and you refuse to let me have it, and you endanger my life? No. Well, they used to up until six months ago. And then all of a sudden, something, just a big curtain came down. The iron curtain came down. The communist fascist iron curtain came down. And that's it. When I was in China and in Vietnam, you know, I mean, I gave them the letter. They said, okay, they were very friendly. And they said I had a fork in my bag, so I couldn't take that through. So they went and found my bag and put it in my bag. These were the security people. They're so friendly and so nice. You know, so all this crap about communism is garbage. They were on the same as anybody else. But they happened to be more friendly for some reason. You know, maybe Russia was different. You had to wait in line all day to get a loaf of bread. But, you know, other communist countries isn't that way. Okay, your question.
 
-If you want to use a non-binder or something to help you move and become regular, you use chia seeds.
+Q: Okay, when you walked me through taking care of my, whatever's going on with my shoulder, I suppose it could be a detox, I did. I've just been, like, lifting really heavy things. And I placed a really heavy backpack on it. But my diet's been horrible.
 
-Chia seeds are very fine, they are the size of a poppy seed, about the size of a pinhead and they're round and they're not divided into a half like flax seed and a lot of the other seeds, they are a round like a poppy and completely integrated.
+A: The what?
 
-  So when they open up, they have like a volcano top and they secrete this gelatin out the top and there's no sharp edge at any time ever and if you can take about, depending upon your size, 3 to 4 tablespoons of that, soak it in 6 - 8 ounces of good water for 24 hours, the seeds secrete a solution that turns the water into a jello, a gelatin.
+Q: My diet's been horrible.
 
-  And then you mix that stirred into a lubrication formula, and then you eat that at night then you have some good bowel movements.
+A: Then how do you expect me to help?
 
-  .
+Q: I'm asking you to help, to suggest how to eat now, to make up for all the bad things I've done.
 
-(7) Cilantro 5% Metal Detox
-[2004],[Aajonus]
+A: Just follow the diet. Use a hot water bottle wherever you hurt. Use a pain formula if you're in pain.
 
-Maybe you're having too much of it
+Q: What's up with the tingling?
 
-I'm sure you need some parsley.
+A: Well, let's say if you're discharging mercury from infections or injections in the arm, and that mercury travels down your nerves, you're going to have tingling, you're going to have nerve damage. Especially if you don't eat right, you're not going to have the proper nutrients in the body. That mercury is discharging from damaging your nerve tissue. When I went through it this year and the year before, last year in this arm, this year in this arm, my whole arms turned gray from the mercury. It smelled just like mercury. I've had so many injections, especially tetanus shots. They use a lot of thimerosal in tetanus than they do anything else, any other drug. So my whole arm turned gray from it. If I hadn't been eating a good diet and been in that tub, discharging those poisons quickly out through the skin, I would have had severe nerve damage, but I didn't. Back when I was, after the chemotherapy, everything tingled. Because I was poisoned everywhere and I wasn't on a good diet. But I also lost all the nerve control from here all the way down.
 
-[Attendee]
+Q: How long do you sit in that tub?
 
-I use cilantro.
+A: Depends upon the person. I suggest a minimum of an hour, up to an hour and a half. If you want to stay in all night like I used to and you need to sleep, do it all night. Okay, do you have a question?
 
-[Aajonus]
+Q: Yeah, what causes and how do you deal with athlete's foot?
 
-Cilantro causes heavy metal detox, so don't use more than 5% or your juice.
+A: Athlete's foot is a fungus. That's another helper. You know how molds deteriorate and dissolve certain things?
 
-Well, it creeps up on you and when it gets you.
+Q: Right.
 
-It's not easy to get out of the metal detox.
+A: Those particular cells are degenerated best with fungus, which is, you know, you can have yeast, Giardia, various different kinds of molds. The yeast go after sugar-related ones. Other molds go after non-sugar-related damaged cells. So that's a good thing. I give several remedies in the book. Coat your foot with honey and wrap it overnight. Don't smother it. That doesn't kill it. Stop it. You don't want to kill it. There's no way you can. It's part of, just like you have bacteria and parasite eggs in every cell, you also have molds. It's part of nature. That's why you let a fruit sit. You don't have to expose that fruit to a mold. It molds on its own. You can put it in a hermetically sealed environment and that will mold. When I took a lamb and we butchered it in the laboratory, everything was completely sterilized. We had one area where it was glassed in case it was hermetically sealed. No bacteria could get involved in it. We had a couple of corn dracaenas to produce oxygen to get over into that area. We had two HEPA filters, so it had to pass through. Then we kept it at the sheep's body temperature, which was about 96 degrees, 96.7, 96.8. Within three days, parasites came out. Where do the parasites come from? It's a natural part of every animal cell. It's like any fruit will mold. It's a natural part of fruit. All of a sudden, you can also put, you know, one time I let a fruit sit in a hermetically sealed environment like that for 20 days. Flies appeared. Where the frick are the flies coming from? There are worms in the fruit cells that allow it to come out and work on it. Those are called fruit flies.
 
-It may sneak up on you and once it hits, I'm warning you.
+Q: I guess my thought was, is it a symptom of any, like, some imbalance in my body or something like that?
 
-If you're using 100 oz of juice, that means 5 oz would be cilantro.
+A: Well, it's toxicity stored in his molds. [unintelligible]
 
-.
+Q: This is now part of the process of detoxification.
 
-(8) Cod Liver Oil
-[2004]
+A: Of detoxification, absolutely. And, you know, the way you can mitigate it is by using the primal facial body care cream. You know, when I had it, I hadn't had it since. I had it all the time as I was a child. It wasn't until I went on a raw diet, started eating raw dairy, that it went away. Well, last year it came back for the first time. And only in the foot, where I had had a bad bicycle accident in 1981, I broke seven bones in the foot. I was on a bicycle and in the desert, and somebody had let their sprinkler on all night to create a moss. You know, algae, very slippery algae, in the gutter. And I was going close to the gutter, you know, and the wheels would slip out from under me. And my toes caught on the curb and ripped. This one was ripped out to here, so it was ripped all the way down to here. This one was ripped to here, and this one was ripped to here. And this one was just barely torn. But I'd broken two bones here, and then four bones here, and then one over here. And it was pretty painful. And those were the only areas where the mold. And all I did was I packed mud and clay, you know, to stop the bleeding. I had a little 14-year-old girl who loved to go around cracking people's knuckles, you know, put my toes back in place. So that's how I had an adjustment. 
 
-Cod liver oil is completely solvent treated
+Q: What kind of clay did you use? [unintelligible]
 
-The FDA requires it.
+A: No, I just pulled up holes underground in the desert.
 
-So all that from Norway they say is pure.
+Q: What was the significance of getting the athletes foot in this place?
 
-It's solvent treated because they have to purify it.
+A: Well, when I packed the, you know, when I didn't, a lot of the dead tissue remained in there, and it sealed over. And probably dirt and a lot of other things that, you know, I should have been just, I should have used clay or something. But I was out in the wild. What was I going to do? So I used what was available. And it was, you know, after I'd been out living outdoors for a long time. So I didn't have a clean clay or anything else. And I didn't take time to clean out all the torn tissue or maybe move it back into place. I packed it, put a sock over it.
 
-Even though it's not heated, they solvent purify and that solvent is almost identical to brake fluid.
+Q: Now it's new.
 
-.
+A: Yeah, but now it's new. I mean, you know, this toe, for years, was stuck out here. You know, and then when I went through the athlete's foot, this one is still a little bent out. You know, you see that one bent out slightly. But before I went through that athlete's foot for a year, this toe was out here. And all of a sudden, that mold, that fungus, went in there and cleaned out the tissue, so now it's right. The only place that's still a little bit itchy is here. So I'm hoping that, you know, after another year, that will be aligned properly, too.  And the athlete's foot will have been helpful to do that.
 
-(9) Cucumber Cools The Body
-[2004]
+Q: You didn't have any cast on it?
 
-Cucumber sometimes cools the body too much
+A: No, no. In fact, I went walking. I went to see a caddyshack that day. I was in so much pain. I had a headache. So I walked to caddyshack, which was about five miles. The next day, I bicycled 12 miles. You have to get over the pain by doing something. If you don't take drugs, you've got to distract yourself. Do you have a question?
 
-You'd get cold too easily.
+Q: Yeah, I've got a couple quick questions.
 
-.
+A: Just one first. 
 
-(10) Detox & Eggs
-[2004],[Aajonus]
+Q: I know you had skin cancer. What did you do to get rid of it at the time? I know somebody that has it.
 
-But it may be unrelated to the egg
+A: Well, I had it several places. Once I had it here, here, and here, all at the same time. And, you know, I just did a lot of praying and a lot of controlled eating. Because my nose, I lost a third of the nose. I lost the whole, you know, went into the bone here. Ate into the bone here, ate into the bone here. It leaked into my eye and damaged my eye. So I had six layers of scar tissue over the cornea. So I lost my good sight in the left eye. And they said the only way, I went to an ophthalmologist to see about it once the cancer was over. And they said that the only way that eye could be corrected is to have someone donate the cornea and have a transplant. But since it happened seven years ago, four layers of the cornea had been removed. So the vision is getting better and better. I mean, I can see your eyebrows, but I can't see the very hairs.
 
-[Attendee]
+Q: Did you put something on the skin itself?
 
-Well, but the egg could be helping it process out.
+A: Well, what I did was I put butter, butter burned, but I put butter around trying to... See, when you have cancer, the cell involved has a virus in it. There's a solvent that dissolves the surrounding tissue. That's why it melts the system away. It dissolves the whole surrounding dead cells. And even if they're not dead cells, they'll dissolve cells, whatever they come in contact with when people are eating a bad diet. When people are eating a better diet, there's less of it, there's still some. So I put butter all around, sometimes cream around, to help mitigate that, you know, disfiguration. I still have a huge scar. The scar used to go very deeply all through here. Now there's just a main scar here and here. And you can still see a heavy scar here and then one right here. But I had a hole here and a hole here and a huge hole here. But it was just keeping on the diet. When I got it here, I had been experimenting with a fecal matter. So I put the fecal matter on it three times over a two-week period. It disappeared like that.
 
-[Aajonus]
+Q: You know the actress Rhonda Fleming? Her husband just had a major stroke. She's a friend of mine. I was recommending hyperbaric oxygen chambers. Are you familiar with those? I've heard that they reverse a lot of the damage of stroke. Is there anything else besides the diet that you can?
 
-Well, the body will use the nutrients from the egg, yes, but it usually takes a while to get into the blood.
+A: Those hyperbaric chambers only work in very rare cases, and it doesn't have anything to do with the chamber. It's just that you've got that certain amount of people that reverse that condition. If they get into a hyperbaric chamber, they're going to get into the chamber.
 
-It has to go through the duodenum, the fat has to be digested.
+Q: Doesn't it bring oxygen into the system?
 
-It takes 45 minutes - 1 hour before it leaves the duodenum.
+A: Your oxygen isn't what causes nerve damage. It's got nothing to do with it. Oxygen just means that you won't transmit and relay certain kinds of information in and out of the nervous system, and you'll be weak because the oxygen doesn't get into the muscles. You don't have the ability to utilize fat as energy, whether the fat is from an acetone or from a regular fat. 
 
-So, it doesn't happen instantly.
+Q: He had high blood pressure too.
 
-.
+A: Anybody who has high blood pressure, just remember, anybody who's got a body functioning in a certain way, that body's functioning because it needs to. High blood pressure is very important for anybody who's got collapsing intestines. Somebody's tapered quarter shut down here. They need that high blood pressure to keep the veins and arteries open. Otherwise, they'll collapse. So you've got all these doctors giving them things that their body's trying to correct, and they just get worse and worse and worse. Everybody that I've known who's had that condition is dead within seven years, no matter what age they are. It's ridiculous.
 
-(11) Drinking Blood
-[2004],[Attendee]  
+Q: [unintelligible]
 
-  How about getting fresh blood
+A: Because we're getting into a whole field that we're going on and on about different things. The only thing that will help that reverse, that stroke damage reverse, is eating chicken and fish together with some butter and cream. Chicken and fish together. Raw chicken, raw fish with some raw cream and raw butter, equal amounts of raw cream and raw butter with it. And that can reverse it. You can only help those who will be helped. Do you have a question?
 
-Does it detox or does it do what meat does?
+Q: Could it wait until the end?
 
-[Aajonus]   No?
+A: Yes. Do you have a question, Roger?
 
-Your red blood cells just help red blood cells, they're full of the nutrients that red blood cells are concentrated in.
+Q: I read an article recently that claimed that if you took a teaspoon of cod liver oil for each 50 pounds of body weight, in other words, 150 pounds you take three, and you put it in either milk or fresh squeezed orange juice once a day, do you think that has any effect on [unintelligible]?
 
-It's just another food.
+A: Well, any of your pressed oils help the body make solids to dissolve toxicity. That's why I say...
 
-I've eaten blood many times and I don't like it, cause it coagulates so quickly and to drink it instantly.
+Q: Well, does omega-3 have...
 
-  I've killed many chickens and ducks and stuff like that and it almost makes me nauseous drinking in that way.
+A: Again, that's another stretch. I hear a lot of people saying that. If you have more toxicity in the body, you need all nutrients, not just omega-6 and omega-3. You need all nutrients. It's just that certain ones will reverse certain just little elements of the body.
 
-  But 3 years ago, I was in Hawaii, Pangaea and we had decided to do a celebration since I was there, and nobody had ever killed an animal and butchered it.
+Q: Focusing on arthritis, though, what do you think about that?
 
- So I agreed to do it while I was there.
+A: Arthritis is mainly toxicity in the joints. It's built up in the joints. So you've got bacteria in there trying to eat up the dead toxicity or the toxicity in the cells that have been destroyed by the poisons that have gone, the toxins that have gone to that joint. So the bacteria is not your problem. It's the toxins that have destroyed the tissue that the bacteria is feeding on. Usually if you don't eat as much red meat, cut down to 50-50, 50% red meat, 50% white meat, and you're eating the lubrication formulas, you'll mitigate any kind of pain sensation while that bacteria works in your joints. But it's not going to go away overnight.
 
-  So, we had drummers.
+Q: It's been claimed that if you took it over time, the toxicity...
 
-We had about five vegetarians around the group and from the surrounding community and they just want to watch us.
+A: And, you know, if you want to dissolve toxicity, pressed oils are a good way to do it. But, you know, your seed oils are like vegetable oils.
 
-So, there were about 15 of us all together and we took the goat and we put a harness around it and spun it around.
+Q: Well, cod liver oil, though, when it comes to...
 
-and I would chant to it as his eyes came to try and put it to sleep and the other guy would spin it around every time the back legs came to.
+A: Cod liver oil. Yeah, but cod liver oil is completely solvent-treated. The FDA requires it. So all that from Norway, all that stuff, they say it's pure, it's solvent-treated because they have to purify it.
 
-So, he just kept spinning the goat until he went to sleep and then we took the front harness off and just had the back harness and had them hanging, legs up and head down.
+Q: Really?
 
-I cut his juggler vein and we had two gallons jars, half with goats' milk.
+A: Yeah. Even though it's not heated, they solvent-purify it. And that solvent is almost identical to brake fluid.
 
-  When we bled it, I cut the jugular vein and bled a half a gallon of blood into each gallon jar and mixed it with the milk and then it didn't coagulate.
+Q: Flax oil, too?
 
-It was great, and I watched everybody, even the vegetarians tried it.
+A: No. Flax oil, no. But remember I've said that vegetable oils turn into rock? This is a vegetable oil right here. They sell them at wild oats. And you can buy a variety of them. They are a rock. Animal fats never do that.
 
-   It's like some people were even painted with blood like it's part of a ritual, some people get into that, and it doesn't hurt me, but I guess like a costume party and even the vegetarians accepted as we passed it around to drink some and you see everybody's face going, expecting this awful taste and then they got into their mouth, and you see their eyes brighten.
+Q: What do you use them for?
 
-   We drank the 2 gallons with 15 people in 45 minutes, gone.
+A: Oh, just for fragrance.
 
-[Attendee #2]   It just tastes like milk.
+Q: Oh, wow.
 
-[Aajonus]   Tastes like ice cream?
+A: You know, because I only bathe once every five days. And some people say I smells like cheese.
 
-The blood makes it so rich; it tastes like ice cream.
+Q: Can you rub this on your skin?
 
-I mean, it's just so bizarre how it can taste so incredibly different than you'd expect.
+A: No, I just put it between my clothes. So it fragrances my clothes. But the whole point here is that this is what vegetable fats become, rock. That's what's causing all the hardening of the arteries of heart.
 
-[Attendee #2]   How did you feel.
+Q: How do they make this? Including flax?
 
-[Aajonus]   Oh, I was charged for a couple of days, sexually, everything?
+A: No, they just collect it. You collect it and let it sit. And then here you have rock.
 
-Everything was going.
+Q: Does that include flaxseed oil?
 
-  .
+A: Yes, flaxseed oil has the same nature. It just doesn't get as hard as quickly. And so I say in my book when you're using, you know, for cancer, use a very small amount so the body can, you know, get rid of it.
 
-(12) Enzyme Supplements
-[2004]
+Q: Where does olive oil fit into this picture?
 
-So in your raw fresh foods you have enzymes that are all easily disassembled and reassorted, and what those enzyme supplements seem to do is kick ass on the pancreas
+A: Olive oil is a fruit oil. It's a good solvent, it will not harden. Soy will harden terribly. So will flax oil. You put those vegetable oils and the seed oils with dirt, and it will be rock in a year.
 
-Keeps the pancreas from being able to work.
+Q: Borage.
 
-cause the pancreas has to deal with all the enzymes, so it isn't that it does it in a helpful way.
+A: Yes, absolutely. Borage is one of the worst. You have rock. You want your cells to be built out of something that's going to harden like that in five to seven years?
 
-Causes more toxicity.
+Q: I said that's resin.
 
-.
+A: Resin is the fat from a tree. That's a pinyon tree. But that's what vegetable oils are. All vegetable oils are resins.
 
-(13) Every Joint Hurts = No Fat Reserves
-[2004],[Attendee]  
+Q: You would put this on your clothing, [unintelligible] oil on your wrists or anything.
 
-  Basically, what I'm dealing with is every joint in my body hurts
+A: Scratch the hell out of you if you try.
 
-[Aajonus]   You're much too thin.
+Q: Just put it between your clothes?
 
-You have no reserved fats to help pull the poisons out, and that's how viruses work.
+A: Yeah. Not in that. I have, you know, those cloth teabags. You just put a few in there and put it between your clothes. If you're like me and you don't bathe often.
 
-They make everything sore.
+Q: What about the omega-3, 6, and 9s that they say?
 
-  if you have toxins that are in the joints, and they're deteriorating tissue, and you have bacteria eating up the deteriorated tissue, yes.
+A: We just talked about that. You have concentrations of nutrients that are needed, but you need every nutrient as much as 3 and 6. And in a certain ratio, you know, they come up with these wild theories because they want to be published. But nobody's done long tests to prove anything. And when you're doing that, you're usually going to end up with, you know, some kind of imbalance when you're creating a concentrated substance. But even [unintelligible]' oils are heated beyond what they should be, beyond 96 degrees, plus he uses a solvent or something.
 
-  If you have arthritis, you would be in severe pain.
+Q: When they say cold-pressed, it doesn't mean?
 
-  You just need to use a lot of fat, especially butter, and no more than 50% red meat at a time with white meat and they should be eaten together.
+A: Cold-pressed doesn't mean that it's really cold-pressed. It means that, you know, that they don't use heat in the process, and they use a machine that doesn't heat but has friction. It starts pounding and gnashing and juicing, and it gets up to 175 degrees. Like, you know, when they're making walnut butters, that's the lowest temperature. It's about 155 degrees for some nuts, soft nuts, when you're making nut butters. All the other oils will get much hotter, flax oil. You have to have a radiator-type system to cool the system, because flax seeds are very hard.
 
-  .
+Q: What about putting flax seed in a coffee grinder?
 
-(14) Fat From Carbs Is An Acetone With Little Strength
-[2004]
+A: That'll just tear your intestines up. It'll act like glass.
 
-The high carbs in terms of when you're making a fat from a carb is an acetone that has very poor strength to it, very little calories in it
+Q: Flax seed in what?
 
-A molecule of fat has 2.
+A: Coffee grinder. And you're also going to have phytic acid. It's going to prevent you from digesting. If you want to use a non binder or something to help you move and become regular, you use chia seeds. Chia seeds are very fine. They're the size of a poppy seed, about the size of a pinhead. And they're round, and they're not divided into a half like flax seed and a lot of the other seeds. They are round like a poppy and completely integrated. So when they open up, they have like a volcano top, and they secrete this gelatin at the top. And there's no sharp edge at any time ever. And if you take about, depending upon your size, 3 to 4 tablespoons of that, soak it in 6 to 8 ounces of good water for 24 hours, the seeds secrete a solution that turns the water into a jello, a gelatin. And then you mix that and stir it into a lubrication formula. And then you eat that at night, and then you have some good bowel movement.
 
-5 calories.
+Q: So [unintelligible] would be toxic too.
 
-Molecule of acetone made from a carb that has got 1.
+A: Absolutely.
 
-So it has less than half the energy producing ability.
+Q: Everyone's giving it to their little kids.
 
-Previously, a lot of your athletes suck eggs.
+A: It used to be, you know, when I was working in a health food store at a vitamin department, we could get it from Japan or Norway, and it was cloudy and stunk, you know. Now everything has to be purified and clean. And the only way you can do that is with solvents, chemicals. So even though they're cold-pressed or cold-processed, they're chemically treated.
 
-Back when I was a kid, all the bodybuilders were throwing 5, 6, 8 eggs into a milkshake.
+Q: Did they do that years ago with the cod liver oil?
 
-Everything else was pasteurized and cooked except for the fruit that they would put and the eggs, but they used to have protein powder, which was garbage.
+A: They started it about in 79.
 
-.
+Q: Oh, so when I was growing up, it was okay.
 
-(15) Flax Oil Will Harden & Vegetable Oils Are Rock
-[2004],[Attendee]  
+A: Well, it depended upon the brand you had. Cheaper brands, you know, were solvent-processed or heat-processed. If you got the expensive ones, they were good.
 
-  Flax oil too
+Q: Even the Norwegian oil is the same.
 
-[Aajonus]   Flax oil, no?
+A: This is what I said. All left in Norway is all chemically treated. Yes?
 
-But remember I've said that that vegetable oils turn into rock.
+Q: [unintelligible] He says that the terramin is rough and that's why you want to take the...
 
-Here's a vegetable oil right here.
+A: It's what?
 
-They sell them at Wild Oats, and you can buy a variety of them.
+Q: He said it's rough. He said it has a kind of brazen action that...
 
-They are rock, animal fats never get that way.
+A: That's why I say you have to soak your clay for five days before you eat it. You have to soak your clay for five days before you eat it.
 
-  Cause I only bathe once every five days is when people say I smell like cheese on like the 4th or 5th day.
+Q: Really? But what if you put it in the juice?
 
- No, I put it between my clothes.
+A: Well, even if you put it in the juice, you have to soak it beforehand. You want the molds and all of that to be active. If it isn't, it's going to be a little sharp on your intestine.
 
-So, it fragrances my clothes.
+Q: Soak it in mineral water?
 
-  But the whole point here is that this is what vegetable fats become, rock.
+A: Yes. But you don't want to... You want to shake the carbon out of it if you're using that kind of mineral water. Because there are bacterias in the clay that will start becoming very active after a few days in the water. You don't want to destroy them and the carbon will destroy them.
 
-That's what's causing all the hardening of the arteries and the heart.
+Q: And what's the ratio of water and clay?
 
-[Attendee]   How do they make it.
+A: Just make a paste.
 
-[Aajonus]   No, they justt collect it?
+Q: Make a paste?
 
-You collect it and let it sit and in a year, you have rock.
+A: Yeah, like you do for, let's say, plaster of Paris before it dries. Okay, do you have a question?
 
-[Attendee]   Does that include flax seed oil.
+Q: I was curious about something.
 
-[Aajonus]   Yes, flax seed oil has the same nature, it just doesn't get as hard as quickly?
+A: Wayne, is that right?
 
-That's why I say in my book if you're using it for cancer, use a very small amount.
+Q: Eric.
 
-  .
+A: Eric.
 
-(16) Forced Detox & Fermented Foods
-[2004],[Aajonus]  
+Q: In your book, We Want to Live, there's a small section where you're talking about enzyme mutations against different colored cooked fruits and vegetables. I wonder if you could talk a little bit about how you came across that information or where you got that information. Like, how do you know that if you don't have the right enzyme mutations for eating cooked red fruits and vegetables, I think you said it could cause acne and other things like that and that resins or something could cause certain problems. So i wonder if you could talk about where you got that information.
 
-  First, I'm going to talk to you about- my next book is on detoxification
+A: Well, it wasn't my idea to explore it that way. It was the Owanzas idea. So she oversaw that particular phase of the laboratory experiments that we did. And I saw the documentation by the laboratory technician and she explained it to me what it all meant. And when I was dealing with patients, I could stop acne easier and better and reduce it majorly if they cut out red cooked foods.
 
-   So, I've been experimenting with detoxification because a lot of people all about being gung-ho and doing a lot.
+Q: I think there's a part of where you said that about which color, a certain color of fruits and vegetables could cause a lot of...
 
-  I want to caution you on it because two months ago, I decided to do an intense detoxification to the limit.
+A: Cooked.
 
-   What I do when I detoxify is pre-fermentations, bacteria's cause fermentation, bacteria's are in the foods before you cook them.
+Q: Yeah, cooked. Could cause a lot of bronchitis and lung type infections, colds and stuff. But I've always thought that usually people that have a lot of bronchitis and stuff, if that's going to be from pasteurized dairy products, I would never have thought it came from cooked fruits and vegetables. 
 
-When you cook them, the bacteria is out.
+A: Well, if you look at all the experiments and the laboratory tests that they've done with milk and pasteurized milk, it's never created bronchitis. It's never one of the symptoms. They say it creates diabetes, osteoporosis, and diseases like that. It has never been attributed to bronchitis, never been attributed. I mean, it's a myth now. A lot of alternative people make that claim, but it comes from no research. It's just they're hypothesizing.
 
-All the bacteria, the enzymes, vitamins, everything is gone.
+Q: But a lot of people's experience is that if they eat pasteurized dairy, they start to get a lot of mucus, and then they get a cold.
 
-So, when you take those properties into your body, and when the body is finished utilizing them.
+A: Yes, because the body's trying to discharge the poisons through the mucus. And if it's discharging out the mucus, that's not a problem. They're getting rid of it.
 
-There is no natural ecological recycling, it hardens in the system, and it stays there waiting for some bacteria to help ferment it and detoxify it, like with a virus.
+Q: So what you're saying is pasteurized dairy products cause a lot of mucus, but they don't cause the poisons of mucus?
 
-  Especially if you're so poisoned, then you can't harbor a parasite or any bacteria?
+A: Not unless the mucus is taking the poisons out. It's not going to cause bronchitis.
 
-Those are the easiest ways to detoxify.
+Q: So that's a healthy person that's having this mucus after pasteurization?
 
-When your body uses bacteria or parasites.
+A: Well, it means that their body's discharging it quicker, so the body's trying to protect itself.
 
-They consume up to 100 times their weight in a day, and then excrete very small amounts about 1% of what they digest.
+Q: So if you're having a cough, you're releasing all the poisons from the pasteurized milk?
 
-So, it's a very small amount of toxin that we have to neutralize and secrete or excrete.
+A: Correct. As much as possible.
 
-So, it's very easy for the body to handle it.
+Q: I mean, yes. I mean, the longer it lasts, the more you can release.
 
-When the body has to make a fermentation and make a virus, because virus are not alive.
+A: Yeah, depending upon how you break it down in the system.
 
-The whole idea of having a vaccine for viruses is the most absurd thing in the world.
+Q: Is there any way you could describe any experiment that Owanza did where she developed that information about different colors?
 
-It's like taking vaccine because you have tide soap in your house.
+A: What she did was she asked a laboratory technician to see if there was any kind of a fat residue that was connected in certain tissue. So what he had to do, he had to use certain kinds of enzymes, which are solvents, to dissolve the tissue and then separate it so he could study it. And, you know, how exactly would he use all that, I didn't take notice of. But this is, when he said these were the results, and when you looked at those results, then you could see that in this kind of condition, there were a lot of the resins from the red foods, resins from the yellow foods in these different conditions. That's how it was resolved and concluded. Do you have a question? Do you have a question?
 
-  The cells make virus.
+Q: Yes. Not that I'm in dire need at this minute, but what do you suggest as preventative measures for graying hair?
 
-When they take virus out of a body and put it in a Petri dish, it'll breed a cell and you can keep cells growing.
+A: I think it's a difficult one because graying hair is a result of toxic metals leaving the brain, if it's in the brain, if it's in the chest, of course. Wherever the hairs are turning gray, you've got heavy metals leaving and the body is building them. The lymph system is carrying them to the follicle to get rid of them by building them into the hair. If it causes follicle damage, it's gray. Often it reverses after the chemotherapy. I just had a few patches of hair, and when it came back, I was gray for two years. Then it reversed. Two years ago, I had a huge patch of gray hair, and it was there for three months and went away. Then the next year, the last year, I had a huge patch here, and it came and went. The only place that it stays is right here. Then it goes in and out in degrees. A year ago, this was completely gray. Now it's salt and pepper again. It goes in and out.
 
-There is no increase in virus.
+Q: What about white hair? Is that the same?
 
-It is whatever they put in there is all that exists.
+A: The ability for the follicle to use para-aminobenzoic acid, which is a B vitamin, which controls pigmentation, when the body can no longer utilize para-aminobenzoic acid, or that you're not eating it, then your hair will turn colors if heavy metals get into the follicles. There's nothing you can do about it. 
 
-However, when there's a cellular environment in that petri dish, then all of a sudden there are more of them.
+Q: It's another way of detox.
 
-They increase, that's because cells make them.
+A: I had one guy go on the diet at 51 years old. He was completely gray, and after five years on the diet, his hair went red again.
 
-It's like how we used to make soaps for our bodies.
+Q: Some people can make it?
 
-We used to take coconut and 90% of all soaps are made with coconut 100 years ago, 50 years ago.
+A: Some people can reverse it, yeah. Do you have a question?
 
-So, when you make something from organic substances, you're going to have organic matter in it.
+Q: Yeah. How about getting fresh blood? Is it good for the detox, or is it as good as what meat does?
 
-So, they say virus has DNA in it, sure the cell makes an agent to dissolve toxicity, it puts a DNA in it of the tissue that it wants the virus to dissolve.
+A: No, your red blood cells just help red blood cells. They're full of the nutrients that red blood cells are concentrated in. It's just another food. I've eaten blood many times, but I don't like it because it coagulates so quickly. You have to drink it instantly. I've killed many chickens and ducks and stuff like that. It almost makes me nauseous eating it, drinking it that way. Two years ago, or was it three years? Three years now, I was in Hawaii at Pangaia, and we had decided to do a celebration since I was there. Nobody had ever killed an animal and butchered it. I agreed to do it while I was there, so we had drummers. We had about five vegetarians surrounding the group and from the surrounding community, and they just wanted to watch us. There were about 15 of us all together, and we took the goat and we put a harness around it and spun it around. I would chant to it as its eyes came, trying to put it to sleep, and the other guy would spin it around every time the back legs came to him. He just kept spinning the goat until he went to sleep. Then we took the front harness off and just had the back harness and had him hanging legs up and head down. I cut his jugular vein. We had two gallons, jars, half with milk, goat's milk. When we bled it, I cut the jugular vein, bled a half a gallon of blood into each gallon jar and mixed it with the milk. Then it didn't coagulate. It was great. I watched everybody, even the vegetarians, tried it. It's like some people were even painted with blood and everything. It's part of the ritual. Some people get into that. It doesn't hurt anything. It's fun, I guess, like a costume party. Even the vegetarians accepted as we passed it around to drink some. You see everybody's face expecting this awful taste. They got it to their mouth, and you see their eyes brighten. We drank the two gallons with 15 people in 45 minutes. Gone.
 
-So, that's how that's like putting a certain chemical, a certain agent in that solution, so that only addresses certain kinds of toxic cells.
+Q: It just tastes like milk?
 
- Otherwise, you'd be disintegrating because you've got a lot of toxic cells in your body from eating cooked foods all of your life.
+A: It tastes like ice cream. The blood makes it so rich. It tastes like ice cream. It's bizarre how it can taste so incredibly different than you expect.
 
-  So, over the years, starting in 1976, I started fermenting the different foods that I consumed.
+Q: How did you feel?
 
-I consumed a lot of Rice Krispies, a lot of corn flakes with lots of sugar on it.
+A: I was charged for a couple of days.
 
-So I fermented all these foods over the years, but I've never let my milk go to a high alcohol state because I used to consume a half a gallon of milk a day and then when I got away from home at 16, I was drinking a gallon a day cause there was no restriction and I had a lot of milk, but it was always pasteurized unless I was on the farm and that was only for a few weeks a year, and then my grandmother got to boiling on the stove.
+Q: Like a buzz?
 
-   Anyway, probably the most consumed food that I had was the milk, the dairy.
+A: Sexually. Everything was going.
 
-So, I knew that that was going to be a hell of a detoxification when I did it.
+Q: Does the animal have to be cleaned, or can I just go and get chicken from it?
 
-So, what I did was I took a quart of milk, put it in a half gallon jar, put some maca in it, which is a substance, it's higher carbohydrate substance.
+A: You want to get healthy animals, not garbage.
 
-It was sun dried because it would cause a heck of a fermentation and it would give it that cereal variety, like tremendous amounts of cereal when I was a child with milk.
+Q: What do you get in Los Angeles? Is there anywhere you get?
 
-  So, I know that those two would be connected well together.
+A: Nowhere that I know of.
 
-So, I put them together and fermented it for a little over two weeks out of the refrigerator in a cupboard and the hottest time of the summer and when I popped the top off of it, it was so fermented that the alcohol burned my nos.
+Q: I could give you that number. That's Pomona.
 
- So, what did I do.
+A: Pomona?
 
-I had three cups in one day because everybody's talks about these gung-ho issues, you know, on the internet, you know, and all that?
+Q: Lizzie's. Not Pomona. Chino, yeah.
 
-  S,o I wanted to see what would happen.
+A: Chino isn't that far. A couple of hours. Do you have a question?
 
-Well, I was in diarrhea every 20 minutes for 36 hours.
+Q: Do you want to go over there and get some?
 
-Diarrhea lasted about three weeks.
+Q: Maybe. I'll wait.
 
-I lost 20 pounds in six days.
+Q: I want to compliment you on your recipe for getting rid of... I had a problem with my jaw. I'd gotten ahold of some mangoes down in Imperial Valley, and [unintelligible] pesticides on them. And I ate them, and my jaw just... I was in pain for two days. I couldn't sleep. I was in pain. And I went to your book, and there was this bee pollen recipe in the book. I just took it, and the pain was gone. Thank you.
 
-I am still having it, and what it did was- whenever your body has a tremendous amount of sugar in the system, and it's an overabundance and your body can afford to make a tapeworm, tapeworms, eat excessive sugars in the intestines.
+A: You're welcome. And do you have a question, too?
 
-  So, I kept dumping all these sugars from all that toxic milk that I had, and it caused a detox, so I had all this tissue alcohol destroyed, sugar destroyed, and carbohydrates destroyed tissue from the milk.
+Q: [unintelligible] Yeah, I think...
 
-So, it was the heaviest detox I've ever.
+A: It's under dental.
 
-done and I got a tapeworm.
+Q: Yeah, it's under dental.
 
-First time I've had a parasite in my life, it was great.
+Q: I'm having a good time listening to all the questions, so...
 
-I just passed it out three days ago.
+A: Okay.
 
- So, thank God it was there to help me detox because for about four weeks I was basically unable to work.
+Q: This is great.
 
-I started to travel, but I didn't want to.
+A: Come up with one.
 
-I had to sleep like 10, 11 hours a day, which is unlike me because I sleep usually 4.
+Q: Yeah, thank you.
 
-5 to 5.
+Q: I have a little different question in terms of... It's not really a toxin, but if you inhale fiberglass into your blood...
 
-  So, if you want to do detoxification, do it in a mellow way cause I'm suffering right now.
+A: That's a terrible toxin.
 
-I mean, you know, from all that radiation that I had, cauterized my spine, there was one part of my back that was in constant pain for years, about 15, 16 years and what I put on a lot of weight, and I hold the weight, there's very little pain.
+Q: You call it a toxin, too?
 
-Even if I have little sores or something, detoxification's going on, they are very mild.
+A: It is a terrible toxin.
 
-The symptoms are mild.
+Q: How do you handle that?
 
-However, this way the symptoms aren't mild.
+A: Not easily. Because you have to understand, it's put together with a resin. A...
 
-I can go into a pain in the chest.
+Q: Fiberglass.
 
-   I mentioned the last time I was eight years old, first grade I swallowed a nickel and it got it stuck in my diaphragm and the esophagus right at the bronchial, and in those days, nickel was a third mercury.
+A: What do you call that?
 
-So, the mercury was in there so long, cause I was autistic and I didn't know how to tell anybody that I had a nickel lodged in my esophagus.
+Q: A formaldehyde?
 
-So finally, I went to the principal Sister Virginia, and kept pointing I had something wrong, swallowed something, and it was caught here.
+A: Well, formaldehyde is one of the agents in it that they use, but there's an epoxy in it. Because it's a plastic, basically. It's a plastic. And you've got phthalates, you've got all kinds of toxins. And can you imagine eating plastic? That starts melting in your tissues. It's worse than cancer. I mean, it causes a lot of cancer. We have so much cancer. The cancer is going to grow incredibly because people are wearing synthetic clothing. Clothing. Plastic clothing. And when you wear, you know, polyester, any of those that aren't silk or wool or cotton, you're in trouble. Even if you have flax, you know, or what is the... Hemp. Hemp. It's a problem because you've got all these resins from the vegetables. You're breathing those. Those are going to turn into a rock if they've been in your lungs or in your sinuses somewhere. Any of those are plastic. And you're going to have to have a pretty severe virus solvent to break it down. And what happens with all that toxicity? Where does it disperse? Everywhere in your system. Bacteria and parasites can't eat it. It's not on their diet. It will kill them instantly. So the amount of cancer that's going to, you know, we're going to have by, you know, 2015, 2017 is going to be astronomical. Because people have synthetic carpeting, synthetic bed sheets and bed covers and clothing. Everything in the household is toxic. And they're breathing this lint. I mean, let the sun shine through and see how much lint is traveling around, you taking a walk through your house one time. That lint, if it comes from your carpet or your couch or your clothes, that's how much you breathe in in a day. Tremendous amount.
 
-So, she got me some milk and I washed it down with milk and it went right down, but that sat there for about three hours.
+Q: Is there anything to help break it down?
 
-Whenever you have anything going into the esophagus, your body secretes tremendous amount of hydrochloric acid.
+A: That's a difficult one. To experiment, I would have done some pretty severe damage with animals and I wouldn't do it. And so what I would suggest is probably using some, you know, olive oil to help break it down. But, you know, no more than two tablespoons a day with a meat meal. But you've got to have butter and or cream with it.
 
-So, it dissolved some of that nickel and that mercury went all into that area and that's part of what started giving me angina at age 15.
+Q: Okay.
 
-5, with all the other medical drugs.
+A: Do you have a question?
 
-Angina is heart attacks, and I used to have 4 to 7 a week.
+Q: Yeah. I kind of made an observation recently. I don't know if, but it's just like a partial observation. I don't know if you've observed the same thing. Particularly like among older athletes, not younger athletes. I've noticed that guys that like run a lot or bicycle, they don't look so good. Like they look like, they look kind of gaunt and lean. Whereas, you know, like I saw a picture of Sylvester Stallone. He's like 56 and he works out with weights. He actually looked good. But I don't know if, you know, he was actually healthier. But I just...
 
-So, all of a sudden, a few months ago, right before I did that heavy detox, I was dealing with that.
+A: He is healthier. He eats raw eggs and he eats raw chicken. He won't advertise it.
 
-The pain would get so bad, and I couldn't move and the only thing that would resolve it.
+Q: Oh, really?
 
-I did everything.
+A: When I worked, right before Rocky came out, he and his wife used to shop in the health food store I worked in. And I substituted for a friend of mine who had to go on a vacation or had a heart surgery. So he was out for a couple of months. So I worked there and, you know, Sasha, his wife, came in and we talked about what he ate. And he was eating lots of raw eggs and chicken, lots of raw chicken.
 
-Pain formula, the heat packs, everything.
+Q: I noticed like just guys who are like muscle builders or, you know, weight lifters, they, to see pictures of them, they do look better than like runners. Is that because they eat differently?
 
-I felt like I was going to die from a heart attack, but I knew it wasn't the heart, the pain was excruciating.
+A: Your runners and your bicyclers believe they have to be really lean.
 
-So, I started just moaning aloud, and every vibration cause I mom from here, uhhh, just kept going like this.
+Q: Okay.
 
-  It was just vibrating, and within a minute the pain stopped.
+A: So they have no fat and got no lubrication in their bodies. So they're drying out inside. So they're becoming cerotic, you know, like multiple sclerosis.
 
-So, now anytime it comes on, I sing or just moan like that, and it goes away.
+Q: Whereas your weight lifters are actually trying to put on weight.
 
-Otherwise, it just gets worse and worse and worse until I can't even move, and it shoots back to that pain, right back into the center.
+A: Oh, weight lifters have to be fat. You see all your weight lifters are fat. Your bodybuilders aren't fat. They're lean and cut.
 
-Again, this low weight that I have is a problem.
+Q: Yeah.
 
-Now that the tapeworms gone, I'm starting to put on weight quicker.
+A: They still have fat in their tissue.
 
-  And that also means that since the tapeworm left, the head came out, so I knew it was all over and all of its parts were in the feces.
+Q: Yeah.
 
-A three-day period.
+A: But your weight lifters, you can see they're all fat. You don't see one lean weight lifter. You've got to have fat to do it.
 
-So, I know that it's over, it's finished that heavy milk detoxification.
+Q: So basically the difference is not the type of exercise. It's just the diet then.
 
-My body is finished the major part of it.
+A: It's the diet. Yeah. Those bicyclers, I've had a few of them. And runners, you know. Oh, I have to eat high carbs, you know.
 
-So, I do feel better in many, many ways, but, you know, I just want to caution you if you're going to do anything, don't do anything over what I suggest when the detoxification book comes out, because you may suffer a lot more than I did.
+Q: Oh, yeah.
 
-  So anyway, that's what I had to say.
+A: And eat high carbs. And in terms of when you're making a fat from a carb, it's an acetone that, you know, has very poor strength to it. Very little calories in it. A fat, you know, a molecule of fat has two and a half calories. A molecule of acetone made from a carb has about one. So it has less than, you know, half of this energy producing.
 
-[Attendee]   When's the book coming out.
+Q: Okay.
 
-[Aajonus]   It'll probably be next summer.
+A: You see a lot of your athletes suck eggs all the time.
 
-I was hoping it would come out last summer, but with all these detoxifications and my injuries, two severe accidents, you know, hasn't been easy.
+Q: Really?
 
-  .
+A: Yeah. Bodybuilders and things like that. They do. You know, back when I was a kid, all the bodybuilders were throwing five, six, eight eggs into a milkshake. Everything else was pasteurized and cooked, except the fruit that they would put in it, and the eggs. But they used to have protein powder on top of it, which was garbage. But they'd eat all these eggs. And they would suck all, you know, quart and a half of it at a time. Yeah.
 
-(17) Fungus Is From Anti Biotics Penicillin
-[2004],[Aajonus]  
+Q: This is related to that. How do you explain Lance Armstrong?
 
-  99% of the time when I did skin scrapings on people who had fungus in their hands, it was antibiotic related
+A: How do I explain what?
 
-I always found tetracycline, mostly penicillin.
+Q: How do you explain Lance Armstrong? Because, you know, he had major cancer in his brain and other parts of his body. And he had supposedly underwent chemotherapy and went on to win.
 
-  Just discard, because that's a mold and penicillin is a mold because antibiotics are molds.
+A: He was one of those bodies that just was able to turn it all around and make good at it.
 
-So, then the body produces its own molds to help break those down to eliminate them.
+Q: You don't really know all the details?
 
-[Attendee]   I noticed it after I had a manicure.
+A: Yeah, I read something about it. But it all had to do with his body, not what he did. Of course, they love to flaunt him out. You know, he's the only person like that in the world. And you don't make that a person, only one person out of the world who reacts that way. You don't want to try to be like him because there's only one in, you know, four and a half billion people. That's not the kind of guy you want to emulate.
 
-[Aajonus]   Well, it could because that chemical that they use.
+Q: But they advertise him.
 
-In fact, three of their chemicals are pretty potent and they can cause a lot of tissue damage underneath, even to the bone and molds can work on that too.
+A: Oh, they push him.
 
-[Attendee]   Is that related to the penicillin.
+Q: Oh, yeah.
 
-[Aajonus]   No, that would be the 1% that people are having it from cosmetic stuff?
+A: Because then the medical profession takes credit. [unintelligible] This is the way to do it. But he's the only one surviving that kind of severe treatment. Do you have a question?
 
- I've also seen mechanics.
+Q: Yes. I noticed when I use the cream or butter that's been kind of like a little too sour, you know, it has that kind of bitterness to it, that it makes me really kind of irritable and it will make me look really tired. I'll get like this puffy circle under my eyes. And it will actually make my hair sometimes a little bit grayer. What is it doing when you, do you know? 
 
-I don't get that many mechanics, but i've have maybe five mechanics in 30 years, and when I did scraping on the hands with their mold, it was all solvent related.
+A: Well, you're already having the bacteria, the bulgaricus, is already breaking down the fats, predigesting it. And when you have predigested fats like that, you can do a lot of detoxification with it. See, any cream and butter that's fresher and that has a balance of bulgaricus, caucasicus, and acidophilus working in it, it won't concentrate on one particular kind of toxicity. But once the bulgaricus is the major bacteria that's breaking down the fats in it, then that's an excessive amount of a particular type of solvent that can be utilized. And the body has a tendency sometimes when it's like that, not to utilize it to build the body, but to make solvents to dissolve toxicity. That's why I don't like Mark feeding his cows this crappy garbage, you know, like the rice bran, because he's trying to save a buck. And he blames it on bacteria. That's such bullshit. I just hate that when people think that everybody's stupid. We owned a dairy. My grandparents owned a dairy. Bacteria was sky high. We never had sour milk. Unless the cows were out, you know, we missed a couple of patches of thistle. And they ate that thistle, that cream was sour the next day. But it wasn't sour every day. It's what you feed the cow.
 
-In fact, we found the compounds of brake fluid were the worst.
+Q: So he's not feeding them just organic pasture?
 
-   .
+A: No, well, he'll feed them organic rice bran. And organic rice bran has, you know, he did this last year. We told him, don't do that. It's got gibberellic acid in it, and it'll turn the milk bitter. But he gets cheap. He's cutting corners. Well, he just stopped it again last week, so he had good cream last week, because he started losing money. And the only way we can hurt him is to stop buying his cream.
 
-(18) Ground Flax Seeds Destroy Stoamch
-[2004],[Attendee]
+Q: There's no other cream out there.
 
-What about putting flax seed on top of it
+A: Yes, there was. We had the Pennsylvania cream.
 
-[Aajonus]
+Q: But that's not organic.
 
-That will tear your intestines up , it'll act like glass.
+A: It's pretty close to it. 
 
-[Kathy]
+Q: It is raw.
 
-Flax seed in what.
+A: It's pretty close to organic, too.
 
-[Aajonus]
+Q: I should throw out the cream that I bought [unintelligible]. It's no good.
 
-Coffee grinder?
+A: Well, I wasn't able to eat it.
 
-You're also going to have phytic acid, it's going to prevent you from digesting.
+Q: I mean, it's no good. I should...
 
-.
+A: I just mix it with water and put it in with my compost heap.
 
-(19) Inhaling Fiberglass
-[2004],[Attendee]  
+Q: Just throw it away?
 
-  If you inhale fiberglass
+A: That's what I did.
 
-.
+Q: Besides not buying it, I mean, he needs feedback as far as, like, all the people that... Or I guess maybe that's the best feedback for him. 
 
-.
+A: That's the best feedback. You hurt his pocketbook, and he changes what he does. We had to do it twice that way. You know, James rejected his cream for four weeks.
 
-[Aajonus]   That's a terrible toxin.
+Q: Did he admit last week that he was feeding rice bran?
 
-[Attendee]   How do you handle that.
+A: No, no, no. I know what it tastes like. I know what it tastes like.
 
-[Aajonus]   Not easily, because you have to understand, it's put together with a resin?
+Q: I just wondered if he admitted it.
 
-  Well, formaldehyde is just one of the agents in it that they use.
+A: No, he won't admit it. He said it was some bacteria. Let me tell you, when we grew up, when my grandparents produced the milk, some of that bacteria was 10,000 parts, you know, bacteria. You know, per gram.
 
-There's a epoxy in it, because it's a plastic basically.
+Q: I didn't know that.
 
-It's a plastic and you got phthalates, you got all kinds of toxins, and can you imagine eating plastic, that starts melting in your tissues.
+A: You know, intense amount of bacteria. Nobody ever got sick. Such garbage. But that was when it was raw milk.
 
-It's worse than cancer?
+Q: When I started the diet, I started eating the milk. I was having a lot of gas problems, which is [unintelligible], right?
 
-  .
+A: Right.
 
-(20) Lance Armstrong Cancer
-[2004],[Attendee],[Aajonus]  
+Q: I started having gas like crazy.
 
-  How do you explain Lance Armstrong because he had major cancer in his brain and other parts of his body, and he underwent chemotherapy- 
+A: Well, not only that, not only that. Milk pulls a lot of chemicals out of the body like eggs. And when those chemicals come in and mix with your digestive juices, it causes gas.
 
-  He was one of those bodies that just was able to turn it all around and be good at it
+Q: Right, but what happened was, like a week after I had the milk, and I had two bottles. One was in the fridge for a little while. It started to turn a little bit. And it got actually pretty sour. And when I drank that, after that, I was perfect. No more gas. No matter what, whether the milk was fresh or a little bit sour, no more gas.
 
-[Attendee]   You don't really know the details about it.
+A: Your body was able to utilize the bacteria.
 
-[Aajonus]   Yeah, I read some about it, but it all had to do with his body not what he did?
+Q: Well, now, yeah, I need that to shift it.
 
-Of course, they love to flaunt him out.
+Q: [unintelligible] Organic pastures?
 
-You know, he's the only person like that in the world, and you don't make only one person out in the world who reacts that way.
+A: Well, I wasn't able to eat it. Because I'm so light right now, I'm still going through the detox, I couldn't eat it. It was causing me headaches.
 
-You don't want to try to be like him because there's only one in 4.
+Q: So what should I do?
 
-5 billion people.
+A: So I couldn't eat this cream.
 
-  That's not the kind of guy you want to emulate.
+Q: So what do you do? Do you just spill it out?
 
-[Attendee]   But they advertised him.
+A: I mixed mine with water and put it in the soil.
 
-[Aajonus]   Oh, they push him, oh yeah! Cause then the medical profession takes credit.
+Q: But what about the erewhon? No, I mean, the erewhon, they have the plastic cream bottles. Are you still allowed to buy those?
 
-This is the way they do it.
+A: Yeah, just take it out of the plastic when you get it home.
 
-He's the only one that survived that kind of severe treatment.
+Q: Yeah, right, I mean, it's okay for this week.
 
-  .
+A: It's fine if you want. Do you have a question?
 
-(21) Last Time Aajonus Received Chemo
-[2004],[Aajonus]
+Q: Fungus on my fingers. [unintelligible]
 
-1968 was the last time I had any drugs
+A: Ninety-nine percent of the time when I did skin scrapings on people who had fungus in their hands, it was antibiotic related. I always find tetracycline, mostly penicillin.
 
-Last time I had the.
+Q: So it's my body's trying to...
 
-.
+A: Just discard. You know, because that's a mold. And penicillin is a mold. Antibiotics are molds. So then the body produces its own molds to help break those down, to eliminate them.
 
-.
+Q: I noticed it after I had a manicure about two years ago that it broke out. After I had the manicure, did it have something to do with it?
 
-my throat started closing off.
+A: Well, it could because the chemical that they use, in fact, three of their chemicals are pretty potent, and they can cause a lot of tissue damage underneath, even to the bone, and molds can work on that too.
 
-I got a terrible sore throat in about 1972 and it came to the point I resisted it, but I was a fruitarian.
+Q: Is that related to the penicillin?
 
-So, I wasn't eating the fat or the fruits that I needed to repair.
+A: No, that would be the one percent that people are having it from the cosmetic stuff. Or, you know, I've also seen it in mechanics. I don't get that many mechanics, but I've had maybe five mechanics in, you know, in 30 years. And when I did scrapings on that hand, you know, with their mold, it was all solvent-related. In fact, we found the compounds of brake fluid were the worst.
 
-So, I just got to a point where I couldn't breathe, so the neighbor called a doctor, a friend of mine and he came over and gave me a shot of penicillin, allergic to penicillin, but it's at least it opened my throat, you know.
+Q: So it's becoming, it flares up off and on, and that's just...
 
-So, I had terrible reactions for months, but I didn't die because my throat was shut down nor did I ever have to have a trachea.
+A: Well, you can put your primal facial body care cream on it, and that'll help reduce the damage.
 
-So, but I didn't know a good diet.
+Q: I was cutting jalapeno and it got in there.
 
-[Attendee]
+A: Burn?
 
-So, approximately 1970.
+Q: [unintelligible]
 
-[Aajonus]
+A: Yeah, you can coat your hands. When I had that problem, I coated my hands with butter, and now you can use primal facial body care cream. It's even better. And then you, you know, cut your food. 
 
-1972 was the last time I took any kind of medication?
+Q: Yeah. Okay.
 
-[Attendee]
+Q: [unintelligible]
 
-So, from that point forward, whatever you've done lately- your diet is getting better, but it's still taking 30 years and more to process that toxicity.
+A: No such thing as short questions. Frank, do you have a question? Okay, back to...
 
-.
+Q: I do have a question. I'm going to have mercury taken out of my teeth in about a week. Is there anything that I should eat, like bee pollen and milk before and after?
 
-.
+A: It depends. Are you going to let them give you Novocaine?
 
-.
+Q: I don't know. I should take Novocaine?
 
-(22) Lots Of Eggs &Butter & Honey Before Surgery
-[2004],[Aajonus]
+A: You know, I had 16 teeth drilled in 1978, four hours one morning, four hours the next morning, with no Novocaine.
 
-You better suck a lot of eggs
+Q: Oh, my gosh.
 
-What I suggest for surgeries in the first book, eating eggs, at least 6 to 8 a day, 9 a day, 10 a day, 12 a day for nine days before the surgery, and then that after the surgery, lots and lots of eggs and honey and butter.
+A: What happens is, is the pain comes when the bit gets hot. So I had a signal. Any time that bit started getting warm, I'd tap the dentist's elbow, and he'd stop and let that bit cool down. Or he'd stick it in water and cool it.
 
-[Attendee]
+Q: I don't think I'm that brave.
 
-Bee pollen.
+Q: Yeah, I don't think so.
 
-[Aajonus]
+Q: They have water coming out of the bits.
 
-Bee pollen can be helpful, but you're going to need that more after?
+A: Pardon?
 
-.
+Q: [unintelligible]
 
-(23) Milk In Plastic
-[2004],[Attendee]  
+A: You better suck a lot of eggs. I have that, you know, what I suggest for surgeries in the first book. You know, eating eggs, you know, about at least six to eight a day, nine a day, ten a day, twelve a day, for nine days, before the surgery. And then that many after the surgery. Lots and lots of eggs and honey and butter.
 
-  I currently have milk in a plastic jar, is that a problem
+Q: And bee pollen?
 
-[Aajonus]   Yes, it does, and he'll claim that it doesn't, but I can taste the difference?
+A: Bee pollen can be helpful. But you're going to need that more for after. But just remember that Novocaine is a pretty toxic drug. There's somebody in here that's having facial rashes.
 
-They make the jar, the plastic container.
+Q: Kimberly.
 
-It has a film on it that to keep it from sticking in the pressing, and maybe just a tiny bit, but he gets into the milk.
+A: Kimberly, or she left. And that's when I did some skin scrapings on some people that had pretty constant facial rashes. There was Novocaine compound in that tissue. A lot of people who have abscesses in their teeth, predominantly Novocaine discharge. Some, you know, about 15% of the time it was just deteriorated nerve cells in and around the tooth that may have been caused by, you know, mercury filling. Because there was mercury, a small amount of mercury bound in it. Other heavy metals that were in the silver filling to the amalgams. But mostly the discharge had Novocaine in it. And the new one they have, I forget what it was, Procain or something like that. It's worse.
 
-It doesn't damage you or harm you, it just takes up some of the fat in the milk, so it doesn't get utilized and it changes the taste.
+Q: Lidocaine?
 
-  I don't leave anything in plastic because I take my milk and cream out of the refrigerator and let them sit for a couple of days and there's a high bacteria.
+A: Lidocaine. It's worse. I found more molecules of that. I found more molecules of that when I found it in pus. And I did Novocaine. And they say it's better. Better for whom? You know, it's like the pharmaceutical company can just say anything they want just to sell a product. It's ridiculous.
 
-I'm not going to sit it sit in plastic.
+Q: [unintelligible]
 
-  As long as it's refrigerated it's not going to be big deal, but I tell everybody not to get any milk that's refrigerated cold.
+A: Well, yeah.
 
-[Kathy]   The cream that they delivered on Tuesday.
+Q: They don't use laughing gas anymore. I remember when I was a child I had a tooth pulled out.
 
-.
+A: Nitric oxide. Nitric oxide.
 
-.
+Q: Yeah.
 
-[Aajonus]   You mean the cream.
+A: So many people had heart attacks with it. They're afraid to use it. Some people go into comas from it. So it's more dangerous for the anesthesiologist and the other doctors involved. So they don't like to use it. Okay, so I've covered everybody's questions. What time is it? We don't have time.
 
- As long as it's been refrigerated it's going to be okay?
+Q: Twelve to five.
 
-[Kathy]   You can still get it from James in a glass bottle.
+A: It's what?
 
-  .
+Q: Twelve to five.
 
-(24) Mold & Viruses Form On Their Own In Sterile Environment
-[2004],[Aajonus]  
+A: Okay, so we have 12 more minutes. We're going to go around again. Go ahead.
 
-  I give several remedies in the book, like coat your foot with honey and wrap it overnight and that will smother it
+Q: I have a question.
 
-Doesn't kill it or stop it.
+A: All right.
 
-You don't want to kill it and stop it.
+Q: [unintelligible] 
 
-   There's no way you can, because it's part- just like you have bacteria, parasite, eggs in every cell.
+A: The parsley or the zucchini?
 
-You also have molds, it's part of nature.
+Q: Parsley and the zucchini.
 
-That's why when you let a fruit sit, you don't have to expose that fruit to a mold.
+A: You don't like either?
 
-It molds on its own.
+Q: No, I don't like either.
 
-You can put it in a hermetically sealed environment, and that will mold.
+A: Well, then just raise the celery to 95% and put the parsley at 5%.
 
-   When I took a lamb and we butchered it in the laboratory, everything was completely sterilized, and we had one area where there it was glass encased, medically sealed, no bacteria can get involved in it.
+Q: So my question actually is that if something I reject so much, does that mean it's not good for my body?
 
-[plants] to produce oxygen to get over into that area with two HEPA filters.
+A: It may mean you're having too much of it.
 
-So, it had to pass through, and they kept it at the sheep's body temperature, which was about 96 degrees, 96.
+Q: Okay.
 
-7 96.
+A: And I'm sure that you need some parsley.
 
-8, and within three days, parasites developed.
+Q: I use cilantro. It's okay.
 
-Where did the parasites come from.
+A: Cilantro causes heavy metal detox. So don't use more than 5% of your juice. Well, it creeps up on you when it gets you. It's not easy to get out of the metal detox.
 
-It's a natural part of every animal cell?
+Q: Oh, really? [unintelligible]
 
-  It's like any fruit molds, it's a natural part of fruit.
+A: It may sneak up on you. And once it hits, I'm warning you, you know. Don't do it. Don't do over 5% of your juice.
 
-, you know, fruit.
+Q: [unintelligible]
 
-One time I let fruit sit in a hermetically sealed environment like that for 20 days, flies appeared.
+A: It depends on the quantity that you're eating. If you're having 100 ounces of juice, that means 5 ounces would be, you know, cilantro.
 
-Where the frick were the flies coming from.
+Q: Okay.
 
-There were worms in the fruit cells that allowed it to come out and work on it, and those are called fruit flies?
+A: If you're having, like I had 96 ounces in a 3-day period, you know, I'd have 4 and a quarter ounces of cilantro to make 5%.
 
-  Well, it's toxicity stored in his moles.
+Q: Thank you.
 
-   Detoxification, absolutely, and you can mitigate it by using the primal facial body care cream.
+A: Any other questions?
 
-You know, when I had it, I had it all the time as I was a child and it wasn't till, I went on a raw diet, started eating raw diet that it went away.
+Q: It's about the zucchini. Because I don't really like the zucchini and other squash, you can use cucumber instead.
 
-  Well, last year, it came back for the first time and only in the foot where I had a bad bicycle accident in 1981, I broke seven bones in the foot.
+A: That's fine.
 
-I was on a bicycle in the desert, and somebody had left there a sprinkler on all night, so it created a Moss, really slippery algae in the gutter, and I was going close to the gutter.
+Q: Cucumber is fine because in your book you say occasionally cucumber. I don't know what's the reason.
 
-Wheels just slid out from under me, and my toes caught on the curb and ripped.
+A: Well, cucumber sometimes cools the body too much.
 
-This one was ripped out to here, so it was ripped all the way down to here.
+Q: What do I do if that happens?
 
-This one was ripped to here and this was ripped to here and this one was just barely torn, but I'd broken two bones here and in four bones here and then one over here, and it was pretty painful.
+A: You get cold too easily.
 
-   Those were the only areas where the mole.
+Q: [unintelligible]
 
-All I did was I packed mud in it, clay.
+A: Then it doesn't affect you that way. 
 
-Stopped the bleeding.
+Q: Okay.
 
-I had a little 14-year-old girl who'd love to go around and cracking people's knuckles, put my toes back in place.
+A: So that's fine.
 
-So that's how I had them adjusted.
+Q: Okay. Thank you.
 
-[Kathy]   What kind of clay did you use.
+A: You're welcome.
 
-[Aajonus]   I just pulled out what was in the ground?
+Q: I've been on the diet for a few years. [unintelligible] But basically what I'm getting is every joint in my body hurts.
 
-What was it.
+A: You're much too thin. You have no reserve fats to help pull the poisons out. You know, like viruses work. So they make everything sore. That's what I said earlier.
 
-[Attendee]   What was the significance of getting?
+Q: [unintelligible]
 
-.
+A: If you have toxins that are in the joints and they're deteriorating tissue, you have bacteria that's eating that deteriorating tissue, yes, it can be that.
 
-.
+Q: [unintelligible]
 
-[Aajonus]   A lot of the dead tissue remained in there and sealed over and probably dirt and a lot of other things that- I should have used clay or something, but I was out in the wild.
+A: If you had arthritis, you'd be in severe pain.
 
-What was I going to do.
+Q: Well, it's pretty painful, especially in the morning.
 
-So, I used what was available, and it was after I'd been out living outdoors for a long time, so I didn't have a clean clay or anything else, and I didn't take time to clean off the torn tissue or maybe move it back into place, I just packed it and put a soft coat?
+A: You know, you just need to eat a lot of fat, especially butter. And, you know, you have no more than 50% red meat at a time with white meat, and they should be eaten together.
 
-That's new, this toe three years was stuck out here.
+Q: Okay. [unintelligible]
 
-  Then when I went through the athlete's foot.
+A: Well, you do.
 
-This one is still a little bent out.
+Q: Yeah.
 
-You see that they're ben out slightly, but before I went through that athlete's foot for a year, this toe was out here and all of a sudden that mold, that fungus went in there and cleaned out the tissues, and now it's right.
+A: [unintelligible]
 
-The only place that's still itching is here.
+Q: What about MSM?
 
-  So, I'm hoping that after another year that will be aligned properly too, and the athletes would be helpful to do that.
+A: MSM? MSM is a chemical.
 
-[Kathy]   You didn't have a cast on it.
+Q: It's sulfur, isn't it?
 
-[Aajonus]   No, no?
+A: Yeah. What does sulfur do in the body? It dries it out. That's why MSM works. It destroys nerve tissue, so you lose the symptoms. Not because you're curing anything, it's because you're drying out the nerves and they no longer have an impulse.
 
-Like I went walking, I went to see Caddyshack that I was in so much pain and headache.
+Q: One of the things I did, like I tried to put away the pain, [unintelligible].
 
-So, I walked to Caddyshack, which was about five miles the next day, I bicycled as well.
+A: Well, that's, you know, that's a chemical way to do it.
 
-  You have to get over the pain by doing something, but you don't take drugs, you got to distract yourself.
+Q: [unintelligible]
 
-  .
+A: Yeah, but still, what that does, remember that no enzymes are active unless the pancreas realigns them. So in your raw food, fresh food, you have enzymes that are all easily disassembled and reassorted. And so what the supplements, those enzyme supplements, seem to do is kick ass on the pancreas, you know, beats the pancreas to make it work. Because the pancreas has to deal with all enzymes. So it isn't that it does in a healthful way. It causes more toxicity.
 
-(25) MSM & Sulphur
-[2004],[Attendee]  
+Q: [unintelligible]
 
-  What about MSM
+A: Tomatoes are good.
 
-[Aajonus]   MSM is a chemical?
+Q: So, just to review, the remedy for any joint pain is a 50% meat combo of red and white?
 
-[Attendee]   With the Sulphur.
+A: No, no, no, that's arthritis. For some reason, red meat has a tendency to cause an over acid condition with people with arthritis. But other pain, other kind of joint pain, that's not associated with the bacteria, doesn't seem to be effective. You've got a virus in the joints? Reducing the meat, red meat? Why that is, I don't know, that's just experimentation. I didn't create the world, I just studied it.
 
-[Aajonus]   Yeah, what does Sulphur do in the body?
+Q: [unintelligible]
 
-It dries it out, that's why MSM works, it destroys nerve tissues, so you lose the symptoms?
+Q: The more you cough, you can't have any red meat.
 
-  Not because you're curing anything because you're drying out the nerves and they no longer have impulse.
+A: And also the pain formula, the honey butter mixture also helps.
 
-  Yeah, that's a chemical way to do it, but still, that remember the no enzymes are active, unless the pancreas realigns them.
+Q: I mean, the coughing, as long as it lasts, it'd be six months, you don't eat red meat.
 
-So, in your raw fresh food, we have enzymes that are all easily disassembled and reassorted.
+A: Cough, what's that got to do with it?
 
-So, what those enzyme supplements seem to do is kick ass on the pancreas to make it work cause the pancreas has to deal with all the enzymes.
+Q: Because you're having a cough, as you're going to have a cold.
 
-  So, it isn't that it does it in a helpful way.
+A: Cold or flu.
 
-Causes more toxicity.
+Q: Cold or flu, so you're not supposed to eat red meat.
 
-  .
+A: I didn't say you're not supposed to eat red meat, I just said there's a time you should eat mostly white meat. That doesn't mean if it'll last for six months, that you do it all in that time. The cold normally lasts three to five days, and the flu lasts from a day to 14 days. That's when you want to concentrate on that. But if you've got a chronic cough, it has nothing to do with the cold or flu.
 
-(26) Nitric Oxide
-[2004],[Attendee]
+Q: Oh, so you could eat red meat after two weeks.
 
-They don't use nitric oxide anymore
+A: Yes.
 
-I remember when I was a child I had a tooth pulled out?
+Q: Okay.
 
-[Aajonus]
+A: Then you know it's not a flu anymore, it's not a cold.
 
-Nitric oxide, so many people had heart attacks with it that they're afraid to us it.
+Q: Yeah.
 
-Some people go into comas from it, so it's more dangerous for the anesthesiologist and the other doctors involved.
+A: Okay, folks.
 
-So they don't like to use it.
+Q: [unintelligible] they have the milk in a plastic jar, is that really a problem for the milk?
 
-.
+A: Yes, it does. And he'll claim that it doesn't, but I can taste the difference. There's, you know, when they make the plastic container, it has a film on it that they keep, you know, from sticking in the pressing. And, you know, maybe just a tiny bit, but it gets into the milk. It doesn't damage or harm you, it just takes up some of the fat in the milk. You know, so you don't get to utilize it. And it changes the taste. Pardon?
 
-(27) Non Natural Clothing & Break Down Polymers
-[2004],[Aajonus]  
+Q: Especially after [unintelligible]
 
-  You have so much cancer
+A: Absolutely, I have many jars, I don't leave anything in plastic. Because I take my milk and cream out, you know, of the refrigerator, and let them sit for a couple of days, you know, with the high bacteria, I'm not going to want to sit in plastic. As long as it's refrigerated, this is not going to be a big deal. But I tell everybody not to eat any milk that's refrigerated, cold.
 
-The cancer's going to grow from incredibly because people are wearing synthetic clothing.
+Q: But then cream that we can get now is going to be okay. Erewhon if they deliver it on Tuesday, Monday night delivers the cream.
 
-Plastic clothing, and when you wear polyester, any of those that aren't silk or wool or cotton, you're in trouble.
+A: You mean the plastic?
 
-Even if you have flax, or hemp.
+Q: Yeah.
 
-It's a problem because you've got all these resins from the vegetable oils, you're breathing those in and they are going to turn to rock if they embed in your lungs or in your sinuses somewhere.
+A: As long as it's refrigerated, it's going to be okay.
 
-Any of those are plastic and you're going to have to have a pretty severe virus solvent to break it down and what happens with all that toxicity, where does it disperse.
+Q: You bring it home and [unintelligible].
 
-Everywhere in your system?
+Q: You can still get it at James in a glass bottle.
 
-   Bacteria and parasites can't eat it.
+A: Yes.
 
-It's not on their diet, you will kill them instantly.
+Q: When is it coming in the glass, you know?
 
-So, the amount of cancer that we're going to have in like 2015, 2017 is going to be astronomical because people have synthetic carpeting and synthetic bedsheets, bed covers and clothing, everything in the household is toxic and they're breathing this lint.
+A: Only at James.
 
-  I mean, let the sunshine through and see how much lent is traveling around if you're taking a walk through your house on time.
+Q: I know, but do you know when?
 
-That lint, if it comes from your carpet or your couch or your clothes, that's how much you breathe in, in a day.
+A: It came in last week.
 
-Tremendous amount.
+Q: I always saw the plastic there.
 
-[Attendee]   Is there anything to help break it down.
+A: Well, I got the glass, and there was plenty there. Cases and cases of it. When you got there, what time? I didn't get there until what, 2 o'clock? 2.30? What was the time?
 
-[Aajonus]   That's a pretty difficult one?
+Q: [unintelligible]
 
-To experiment with that I would have done some pretty severe damage with animals, and I wouldn't do it, but I would suggest is probably using some olive oil to help break it down, but no more than two tablespoons a day with a meat meal, but you've got to have butter and or cream with it.
+Q: I don't really have a question about a specific ailment, but I'm just watching the diet and seeing different areas of my body, you know, at different times. My question is kind of, is it good to just eat the [unintelligible] diet and let the body timing unfold, and I'll have different things happening at different times, but is eating the diet consistently will be the best thing? I don't need to do something specific, have this combination.
 
-  .
+A: Well, if you have a certain ailment, it will help you to have the things I've suggested.
 
-(28) Novacane
-[2004]   Novocain is a pretty toxic drug
+Q: For those things. But I'm just saying, in general, the diet is going to allow the body's timing to cleanse whatever it is when it can. Like, for example, the first three days, I had a major metal taste in my mouth.
 
-There's somebody in here that were having facial rashes.
+A: And it may have been doing the diet or not, because people who are not doing the diet have that same experience. However, I found that people who are not on this diet detoxify anywhere from 18 to 20 percent of the population that's in a detoxification, on this diet, it's only 8 to 12.
 
-When I did some skin scrapings on some people that were having very constant facial rashes, there was Novocain compounds in that tissue.
+Q: I don't understand. What was the point?
 
-  A lot of people who have abscesses in their teeth, predominantly Novocain discharge.
+A: Take all the population out there, and they are in detoxification 18 to 20 percent of the time. People who are on the diet are only in detoxification, over the whole majority, 8 to 12 percent of the time.
 
-About 50% of the time, it was just a deteriorated nerve cells in and around the tooth that may have been caused by mercury filling cause there was mercury and a small amount of other heavy metals that were in the silver fluent, the amalgams.
+Q: They're detoxing less because they have less toxins they're eating?
 
-  And the new one they have procaine or something like that.
+A: Because they're not dealing with all the toxicity that they're eating constantly.
 
-It's worse, I found more molecules in that than I found in Novocain.
+Q: Well, we're still in the period of time where we're rebuilding our bodies.
 
-They say it's better, better for whom.
+A: Forty years.
 
-The pharmaceutical company can just say anything they want just to sell a product?
+Q: Right, I know, but I'm just saying, I mean, from what you said.
 
-  .
+A: Yeah, so it's about half. That's because we're not poisoning ourselves with those toxins. There are 30 varieties of toxins that we've identified that I stated in the risk paper, in the back page. Those are only the ones we identify. And your body has to deal with that much toxicity all the time.
 
-(29) Old Athletes Don't Look Well From Poor Diet
-[2004],[Attendee]  
+Q: I don't want to hurt myself or do something special.
 
-  Uh, yeah, I kind of made an observation recently
+A: Don't do it.
 
-I don't know, but just sort of like a partial observation.
+Q: I don't need to do any of those things, just let it.
 
-I don't know if you've observed the same thing, particularly like among older athletes, not younger athletes.
+A: Yeah, that's what I suggest. I'm going to, for those people who are antsy and want to push it, I'm going to suggest how to detoxify the body and cause detoxification. But, like I was going to say, like I said to everybody here, don't push it.
 
-I've noticed that guys that like run a lot or bicycle.
+Q: Right.
 
-They don't look so good.
+A: You're having a tablespoon, an ounce, two tablespoons a day, you're going to do it. Don't do three cups a day like I did. Kick your butt. I have no ass. For me, I've had a big ass all my life. It just took all of it away. All of it away. In like two weeks, my whole butt was gone. Of course, that's where I got an awful lot of injections. The majority of my injections were back there. So I'm sure that I had a big butt probably because of the detoxing. But I still like that butt because the girls like it. Now I don't have it anywhere.
 
-Like they look like they look kind of gaunt and lean.
+Q: If I have to, I'll get it in the plastic.
 
-  Whereas, you know, like I saw a picture of Sylvester Stallone.
+A: Don't worry about it. Okay, folks. Okay. Thank you.
 
-He's like 56 and he works out with weight.
+Q: Thank you.
 
-[Aajonus]   He is healthier.
+Q: Thank you so much.
 
-He eats raw eggs and raw chicken.
-
-He won't advertise it.
-
-  Right before Rocky came out.
-
-He and his wife used to shop in the health food store I worked at and I substituted for a friend of mine who had to go on vacation for a heart surgery, so he was out for a couple of months.
-
-So, I worked there and Sash his wife came in, and we talked about what he ate and he was eating lots of raw eggs and chicken, lots of raw chicken.
-
-[Attendee]   But I just noticed guys who are like muscle builders or weightlifters, to see pictures and they do look better than runners.
-
-[Aajonus]   Your runners and your bicyclers believe they have to be really lean.
-
-So, they have no fat and got no lubrication, and their bodies are drying out inside, sort of becoming cirrhotic, multiple sclerosis.
-
-[Attendee]   Whereas your weightlifters.
-
-They actually trying to put on weight.
-
-[Aajonus]   Weightlifters have to be fat.
-
-Bodybuilders aren't fat, they're lean and cut tissue.
-
-They still have fat in the tissue, but your weightlifters, you can see they're all fat.
-
-You don't see one lean weightlifter; you've got to have fat to do it.
-
-[Attendee]   So, basically the difference is not the type of exercise.
-
-It's just the diet.
-
-[Aajonus]   It's the diet, you know, those bicyclers.
-
-I've had a few of them and runners, "Oh I have to eat high carbs.
-
-"  .
-
-(30) Olive Oil Is Fruit Oil, Won't Harden
-[2004],[Lewis]
-
-Where does olive oil fit into this picture
-
-[Aajonus]
-
-Olive oil is a fruit oil?
-
-It's a good solvent and it will not harden.
-
-.
-
-(31) Omega - Don't Worry About It
-[2004],[Attendee]
-
-What about the omega-3, 6, and 9's
-
-[Aajonus]
-
-We just talked about that?
-
-You have concentrations of nutrients needed, but you need every nutrient, not just 3 and 6, and in a certain ratio.
-
-You know, they come up with these wild theories because they want to be published, but nobody's done long tests to prove anything.
-
-[unclear] , oils are heated beyond what they should be.
-
-.
-
-(32) Only Things That Are Contagious Are Skin Bound
-[2004],[Aajonus]  
-
-  The only things that are really contagious are things that live on the skin or the tissue that the tissue is feeding on
-
-Like yeasts.
-
-If I had sex with a girl that had yeasts, and I have lots of cellular toxicity that is sugar bound, I'm going to have a yeast there eating it helping me detoxify.
-
-  Crabs are contagious.
-
-They live on the skin.
-
-Anything- salmonella is contagious that lives on the skin, not internal salmonella.
-
-There are 2300 varieties of salmonella and most of them internally, but the way we used to shower in the old days, when we didn't take baths every day, we had all these little salmonella that went around eating up all the dead cells on the body, and there are about a hundred varieties that do that.
-
-So, when your pet lizard, your dog or cat has salmonella running around on it, that's the way nature always functions.
-
-Doesn't go around bathing, all these little creatures go around and taking care of them.
-
-  It's a symbiotic relationship, to eat up the dead cells on the skin.
-
-[Attendee]   Don't you have to get the tapeworms some way, from something you eat or.
-
-[Aajonus]   What did I just say, I said that each cell contains all of the eggs for any worm, any parasite that existed that eats on human flesh?
-
- Plus, every bacteria, it's a natural innate part in a part of every cell.
-
-  .
-
-(33) Organic Pastures Feeds Cows Bad
-[2004],[Aajonus]  
-
-  That's why I don't like Mark feeding his cows this crappy garbage, like rice bran cause he's trying to save a buck
-
-He blames it on bacteria.
-
-That's such bullshit.
-
-I hate when people like that think that everybody is stupid.
-
-We owned a dairy.
-
-My grandparents owned a dairy, the bacteria, the sky high.
-
-Never had sour milk, unless the cows were out, and we've missed a couple of patches of thistle and they eat that thistle and that cream will sour the next day, but it wasn't sour every day.
-
-It's what you feed the cow.
-
-[Attendee]   So, he's not just feeding them organic pasture.
-
-[Aajonus]   No, he'll feed them organic rice bran, and he did this last year and we told them, don't do that?
-
-It's got gibberellic acid in it and it can we turn the milk bitter, but he gets cheap.
-
-  Well, he just stopped it again last week.
-
- So, we had to get cream last week cause he started losing money and the only way we can to hurt him is to stop buying his cream.
-
-[Kathy]   So, just throw out the cream we got from him.
-
-[Aajonus]   Well, I wasn't able to eat it?
-
-I just mixed it with water and put it in my compost.
-
-[Attendee]   Not buying it.
-
-.
-
-.
-
-that's the best feedback.
-
-[Aajonus]   That's the best feedback, you heard his pocket, that he changes what he does?
-
- So we had to do it twice that way.
-
-James rejected his cream for four weeks.
-
-  He said it was some bacteria.
-
-Let me tel, when my grandparents produced milk, some of that milk was 10,000 parts bacteria per gram.
-
-We had an intense amount of bacteria, nobody ever got sick.
-
-Such garbage.
-
-[Attendee #2]   When I started this diet, and I started drinking the milk I was getting a lot of gas problems.
-
-.
-
-.
-
-[Aajonus]   Well, not only that, milk pulls a lot of chemicals out in body like eggs, and when those chemicals come in and mix with your digestive juices, it causes gas.
-
-[Attendee #2]   What happened was, like a week after I had the milk, I had two bottles, one was in the fridge for a while.
-
-It got actually pretty sour, but when I drank that, after that I've been perfect.
-
-No more gas, no matter what, whatever it is, whether the milk fresh or a little bit sour, no more gas.
-
-[Attendee #3]   Organic pastures.
-
-.
-
-.
-
-[Aajonus]   Well, I wasn't able to eat it because I'm so light right now and I'm still going through a detox.
-
-I couldn't eat it.
-
-It was causing me headaches, so I couldn't eat his cream.
-
-[Kathy]   So, what do you do with it.
-
-Just throw it out?
-
-[Aajonus]   What did I tell you?
-
-Mixed mine with water and put it in the compost?
-
-You can do whatever you want to do with it.
-
-[Kathy]   When they have the plastic cream bottles, are you allowed to buy those.
-
-[Aajonus]   Yeah, just take it out of the plastic when you get home?
-
-  .
-
-(34) Pain Formula & Bee Pollen
-[2004]
-
-Sometimes the lubrication formula works within 20 minutes
-
-That's because when you put the bee pollen in it, the bee pollen is a very finite protein and the bees, when they collected it, they put their saliva on it.
-
-So, it's predigested, broken down the shells, like a nut has a hard shell on it, it's why you can't dry it.
-
-Cause once it's dry, the shell is hard and it's like eating a walnut.
-
-There's no way you can break that shell down and digest it, but when it's moist, then your body can utilize that protein instantly, also egg whites.
-
-That's why I use so much egg in the diet because t the egg white is all easily absorbed and digested protein, instantly.
-
-That's why I worked for that women with emphysema who supposed to die on the weekend.
-
-She ate 66 eggs, and she was out of bed off the oxygen for the first time in two years.
-
-.
-
-(35) Pain Is Swelling
-[2004]
-
-Just remember any pain is swelling
-
-Pressure on the nerves.
-
-How do you relieve the pressure.
-
-You have everything around relaxed, so it can expand without ripping, without the pressure?
-
-So, applying hot water bottle or getting to a bath is going to do that.
-
-.
-
-(36) Pasteurized Dairy Bronchitis
-[2004],[Attendee]
-
-But I've always thought that usually people that have a lot of bronchitis and stuff, that's coming from pasteurized dairy, I would've never thought it came from cooked fruits and veggies
-
-[Aajonus]
-
-Well, if you look at all of studies and the laboratory tests that they've done with milk and pasteurized milk, it's never created bronchitis, it's never one of the symptoms.
-
-They say creates diabetes, osteoporosis, and diseases like that, it has never been attributed to bronchitis.
-
-I mean it's a myth now, a lot of alternative people make that claim, but it's come from no research.
-
-It's just, they're hypothesizing.
-
-[Attendee],[Aajonus]
-
-A lot of people experience is they eat pasteurized dairy, they start to get a lot of mucus, and they get a cold
-
-Yes, because the body's trying to discharge the poisonous of the mucus, and it's discharging out the mucus.
-
-That's not a problem.
-
-They're getting rid of it.
-
-[Attendee],[Aajonus]
-
-So, what you're saying is pasteurized dairy causes a lot of mucus, but it doesn't cause the poisons in the mucus-
-
-If the mucus is taking the poisons out it's not going to cause a bronchitis.
-
-Well, it means that their body's discharging it quicker, so the body's trying to protect itself.
-
-[Kathy]
-
-So, if you were having a cough, you're releasing all the poisons from the pasteurized milk.
-
-[Aajonus]
-
-Correct, as much as possible.
-
-[Kathy]
-
-The longer it lasts the more you release.
-
-[Aajonus]
-
-Yeah, depending upon how you break it down in the system?
-
-[Attendee]
-
-Is there any way to describe the experiment that Owanza did where she developed that information about the different colored fruit.
-
-[Aajonus]
-
-Well, what she did was she asked the laboratory technician to see if there was a fat residue that was connected in certain tissue.
-
-So, what he had to do was use certain kinds of enzymes, which are solvents to dissolve the tissue and then separate it, so he could study it.
-
-How exactly and what he used and all that.
-
-I didn't take notice of.
-
-When he said these were the results, and when you looked into those results, then you can see that in this kind of condition, there were a lot of the resins from the red foods, resins from the yellow foods in these different conditions.
-
-And that was how it was resolved and concluded.
-
-.
-
-(37) Radiations Kills Bacteria&Parasites
-[2004],[Attendee]  
-
-  You said that the chemotherapy and radiation prevented your body from allowing bacteria to exist
-
-How long approximately does the body prevent bacteria from existing after a relatively large dose of antibiotics.
-
-[Aajonus]   It can last for 50- it can last all your life if you don't eat properly?
-
-If you can't clean those poisons out, anytime a bacteria or a parasite goes in there to eat, it's going to be killed after a few meals.
-
-Few days, it's gone, no help.
-
- So, your body has to make a solvent, which all that toxicity is dispersed all throughout your fluids in your body, and so you get sore all over.
-
-If you're getting sore all over, viruses working.
-
-  .
-
-(38) Resin Is A Vegetable Oil
-[2004]
-
-Resin is a fat from a tree, that's a pinyon tree, but that's a vegetable oil as well
-
-All vegetable oils are resins.
-
-.
-
-(39) Saunas & Steambaths
-[2004],[Aajonus]
-
-People say, well, I can do that in a sauna or steam bath when you're doing a sauna or steam bath, those toxic substances stay in the tissue a lot of times
-
-So, a third of them may penetrate your skin and maybe be reabsorbed or damage your skin.
-
-So, if you're doing a sauna, you have to get out of every three minutes to rinse off.
-
-Can't stay in there long time cause they're going to cause some damage.
-
-Sure, you're going to secrete a lot of stuff, but one third of that may cause more damage as well.
-
-That's why I like baths, it's discharged into the water, right into the water.
-
-It doesn't stay on your skin and those ingredients are in the water.
-
-It just draws it out.
-
-[Kathy]
-
-What happens if you went in the water without waiting 7 to 10 minutes.
-
-[Aajonus]
-
-Then you're going to have some of that garbage in the water absorbed into your body, into your skin?
-
-[Attendee]
-
-Would you recommend that kind of tub you talked about with the metal.
-
-[Aajonus]
-
-Yes?
-
-Well, it's good in that.
-
-It's still, you know, it's more electrical, so it'll stay hot longer, and for me that was necessary.
-
-Plastic, it may gas a little bit, uh, but it doesn't have the electrical field turns on.
-
-Depends on what you handle better.
-
-Can you handle the radio waves that metal draws to it, or do you handle the gases from the phthalates from the bath.
-
-The ingredients in the bath is going to handle the phthalates better than your body's going to handle the electromagnetic energy that's absorbed.
-
-Then the water may absorb that too.
-
-So either.
-
-.
-
-(40) Should You Force Detox On Diet
-[2004],[Attendee]
-
-Let the body timing unfold, different things happen at different times, but just eating the diet consistently will be the best thing
-
-I don't need to go something specific, have this combination.
-
-[Aajonus],[Attendee]
-
-If you have a certain ailment, I will help you to have things that I've suggested that for those-
-
-For those things, but I'm saying in general, the diet is going to allow the body time to cleanse whatever it is needs?
-
-For example, first three days, I had major metal taste in my mouth.
-
-[Aajonus]
-
-It doesn't matter if your on the diet or not because people who are not doing the diet have that same experience.
-
-However, I found that people who are not on this diet detoxify anywhere from 18 to 20% of the population is in a detoxification.
-
-On this diet it's only 8-12%.
-
-Taking all the of population out there and their detoxification 18 to 20% of the time, people on the diet are only in detoxification over the whole majority, 8 to 12% of the time.
-
-[Attendee]
-
-They're detoxing less because the toxins move quicker.
-
-[Aajonus]
-
-Because they're not dealing with all the toxicity that they're eating constantly?
-
-[Attendee]
-
-Well, we're still in a period of time where we're rebuilding their bodies.
-
-[Aajonus]
-
-40 years.
-
-So, it's about half of theirs, but that's because we're not poisoning ourselves with those toxins, and there are 30 toxins that we've identified I stated in the recipe book in the back pages.
-
-Those are only the ones we've identified.
-
-Your body has to deal with that much toxicity.
-
-[Attendee]
-
-I don't want to hurt myself or do something special.
-
-[Aajonus]
-
-Yeah, don't do anything.
-
-That's what I'd suggest.
-
-For those people who are antsy and want to push it, I'm going to suggest how to detoxify the body and cause detoxification, but like I said to everybody here, don't push it.
-
-Tablespoon, an ounce.
-
-Two tablespoons a day if you're going to do it?
-
-Don't do three cups a day, kick your butt.
-
-I have no ass, you know me I had a big ass all my life, all of it away in like two weeks.
-
-My whole butt was gone.
-
-Course that's where I got a lot of injections.
-
-So, I'm sure I had a big butt because most of it was toxic, but I still liked that butt because the girls liked it.
-
-Now I don't have it anymore .
-
-(41) Skin Cancer &Eye Healing
-(42) Soak Clay For 5 Days
-[2004],[Aajonus]
-
-That's why I say you have to soak your clay for five days before you eat it
-
-[Attendee]
-
-Even when you put it in the juice.
-
-[Aajonus]
-
-Well, when you put it in the juice you have to soak it before hand, you want the molds and all of that to be active?
-
-If it isn't it's going to be a little sharp on your intestines.
-
-[Attendee]
-
-It's okay in mineral water.
-
-[Aajonus]
-
-But you want to shake the carbon out of it?
-
-Cause there are bacteria's in the clay that will start becoming very active after a few days in the water, you don't want them to destroy them.
-
-Carbon will destroy them.
-
-[Attendee]
-
-What's the ratio of water to clay.
-
-[Aajonus]
-
-Just make it a paste?
-
-Like you do for plaster repairs before its dries.
-
-.
-
-(43) Sour Butter Irritable & Tired
-[2004],[Attendee]
-
-Um, I noticed when I used the cream or butter that's kind of too sour, that it makes me really kind of irritable, I'll get tired circles in my eyes
-
-What does it do.
-
-[Aajonus]
-
-Well, you're already having the bacteria, the bulgaricus is already breaking down the fats, predigesting them, and when you have predigested fats like that, you can do a lot of detoxification?
-
-[bacteria] , and acidophilus.
-
-It won't concentrate on one particular kind of toxicity.
-
-But once the bulgaricus is the major bacteria that's breaking down the fats, and that's an excessive amount of a particular type of solvent that can be utilized, and the body has a tendency sometimes when it's like that, not to utilize it to build the body, but to make solvents to dissolve toxicity.
-
-.
-
-(44) Soy, Flax, & Seeds Oils Harden
-(45) Stroke & High Blood Pressure Fish & Chicken
-[2004],[Attendee],[unclear]  
-
-  Do you know the actress from , well her husband just had a major stroke
-
-She's a friend of mine.
-
-I was recommended hyperbaric oxygen chambers.
-
-Are you familiar with those.
-
-I've heard that they reverse a lot of the damage of stroke?
-
-Is there anything else besides the hyperbolic chambers.
-
-[Aajonus]   Those hyperbolic chambers only work in very rare cases, and it doesn't have anything to do with the chamber?
-
-  It's just you've got that certain amount of people that reverse that condition.
-
-[Attendee #2]   Doesn't it bring oxygen into the system.
-
-[Aajonus]   Your oxygen isn't what causes nerve damage?
-
- It's got nothing to do with it.
-
-Oxygen just means that you transmit and relay certain kinds of information in and out of the nervous system, because the oxygen just doesn't get into the muscles.
-
-  You don't have the ability to utilize fat as energy, whether the fat was from an acetone or a regular fat.
-
-[Attendee]   He has high blood pressure too.
-
-[Aajonus]   So, anybody who has high blood pressure, just remember anybody, who's got a body functioning in a certain way, that body's functioning because it needs to.
-
-High blood pressure is very important for anybody who's got collapsing intestines.
-
-They need that high blood pressure to keep the veins and arteries up, otherwise they'll collapse.
-
-  So, you got all these doctors giving them things that their body is trying to correct, and they just get worse and worse and worse.
-
-Everybody that has that condition is dead within seven years.
-
-No matter what age they are.
-
-It's ridiculous.
-
-  The only thing that will help that reverse that stroke damage is eating chicken and fish together with some butter and cream.
-
-  .
-
-(46) Sylvester Stallone Eats Ra WChicken
-(47) Tapeworms Live On High Sugar Diet
-[2004],[Aajonus]  
-
-  What did I just say
-
-I said that each cell contains all of the eggs for any worm, any parasite that existed that eats on human flesh?
-
- Plus, every bacteria, it's a natural innate part of every cell.
-
-   Now, when you take a tapeworm of a person who's eating just cooked and mainly old people who have tapeworms, it lives on a high sugar environment.
-
-So, when we send just sugar cereals over and grains for these third world children to eat, they all get tapeworms because that's all they're eating, and our bodies are not meant to eat that, our bodies are meant to eat animal foods and all that excessive sugar going through the system poisoning you, they get these bloated stomachs.
-
-  They need the tapeworm to help them from having all that advanced glycation end product and acrylamide toxicity.
-
-Without that tapeworm, they'd all die very quickly, probably within a year, but they can live with that tapeworm for 27 years in their body if that's the major part of what they eat is that sugar or called high-carbohydrate food.
-
-  I've seen pictures of tapeworms from animals, humans that eat and other animals that eat only cooked foods, and when it shrivels and shrinks, it turns into either like a hard rice, or it turns into a shrunken flattened piece of corn.
-
-However, I saved a bit of a tapeworm to see what had happened for me, and the thing shriveled up into a thread and disappeared into an egg.
-
-That's what it does in the body.
-
-  That egg exists in every cell in the body and when your body needs it, and it only exists in the intestines, you will discharge that egg and that egg will hatch.
-
-[Kathy]   Does your body do that every time.
-
-[Aajonus]   If your body has the ingenuity to utilize and do it, it will, but most people don't?
-
-I haven't I've been too toxic.
-
-  I had medications all the time, all kinds of medications, and then the chemo and radiation.
-
-So, if any bacteria or parasite tried to help me, they would be poisoned to death.
-
-So, none could thrive in my body.
-
-So, I've went through all these years of no parasites, no bacteria in my body, and I was sick all the time.
-
-[Kathy]   But now you're getting rid of the radiation from the chemotherapy.
-
-[Aajonus]   Right.
-
-So, now finally I got to the point where I can breed a parasite, which is wonderful, and in my book, in the recipe book, I talked about Joel Weinstock.
-
-The gastroenterologist at the university of Iowa, he had these long-term patients that suffered anywhere from 10 to 30 years with inflammatory bowel syndrome.
-
-I gave a lecture about 20 years ago, Yale, and he was a part of that, and I was talking about how they are beneficial, and if we had them, we would have half the symptoms or none because they would be helping us discharge all the poisons.
-
-   So, about 10 or 12 years ago, 11 years ago, he took the whip worm from a pig and got the eggs from it and then put it in Gatorade and gave it to six people that suffered incurable, inflammatory bowel syndrome.
-
-   Five of the six completely lost all symptoms, just like that.
-
-We're talking five days, all their symptoms, and this is a painful thing because every time you eat anything, you have instant diarrhea and pain is always painful, and if it goes into Crohn's, you have the poisons get into the joints, and cause joints to swell guys like rheumatoid arthritic condition.
-
-It is very, very painful, and these people suffered the most.
-
-These six people here were his worst clients.
-
-five of them, out of the 6 completely resolved.
-
-  They were back about five months later, knocking on the door for more because what was their body.
-
-Their body was so contaminated?
-
-They couldn't keep breeding because it was poisoning the parasites.
-
-So, they had to go back for more of them.
-
-   I tried to spike bacteria and parasites in people and animals, but was unable to do it, but I never thought of putting it in an alkaline substance like Gatorade.
-
-  I could've put it in vegetable use, but I thought you don't put an animal product in a vegetable juice, but if I had done that it might have worked.
-
-I don't have a laboratory anymore, so I can't do the experiment, but that probably work because if you put it an acid solution or even water, the hydrochloric acid will dissolve the eggs and all that.
-
-  .
-
-(48) Teeth Surgery &Novacane
-[2004],[Attendee]
-
-Is there anything that I should eat like meatball and an egg before and after
-
-[Aajonus]
-
-It depends, are you going to let them give you Novocain.
-
-[Attendee]
-
-I don't know?
-
-I should dig a little deeper.
-
-[Aajonus]
-
-I had 16 teeth drilled in 1978.
-
-4 hours one morning, four hours the next morning with no Novocain.
-
-What happens is the pain comes from when the bit gets hot.
-
-So, I had a signal, every time that bit started getting warm.
-
-I tapped the dentist's elbow and he'd stop until that bit cooled down or he'd stick it in water and cool it.
-
-[Attendee]
-
-I don't think I'm that brave.
-
-.
-
-(49) Throats Lungs & Sinus Detox
-[2004],[Aajonus]
-
-When the throat, lungs and sinuses detox, it's always this part of the body
-
-[Kathy]
-
-The brain.
-
-[Aajonus]
-
-Anywhere from the throat all the way up to the top of the head?
-
-[Attendee]
-
-You're referring to the brain.
-
-[Aajonus]
-
-Brain, eyeballs, sinuses, thyroid, parathyroid, lymph glands?
-
-Whatever's detoxing.
-
-.
-
-(50) Too Much Red Meat Over Acidic For Arthritis
-[2004],[Aajonus]  
-
-  For some reasons red meat has a tendency to cause over acid condition with people with arthritis
-
-Any kind of joint pain that's not associated with the bacteria doesn't seem to be affected.
-
-You've got the virus in the joints we do seem to need more red meat to do the healing.
-
-  Why that is.
-
-I don't know?
-
-That's an experimentation.
-
-I don't create the rules, I just study them.
-
-[Kathy]   The more you cough, you can't have any red meat.
-
-[Aajonus]   And also, the pain formula, and the honey/butter formula help?
-
-[Kathy]   For the cough as long as it lasts you don't eat any red meat.
-
- Well, you said you're taking the cough as you would a cold or a flu?
-
-So, you're not supposed to eat red meat.
-
-[Aajonus]   I did say you're not supposed to be eating red meat, I just said there's a time you should eat mostly white meat?
-
-That doesn't mean it lasts for six months.
-
-   A cold normally lasts three to five days and the flu lasts from a day to 14 days.
-
-That's when you want to concentrate on that, but if you've got a chronic cough, that has nothing to do with a cold or a flu.
-
-[Kathy]   So, I could eat red meat after two days.
-
-[Aajonus]   Yes?
-
-  .
-
-(51) Travelling
-[2004],[Aajonus]  
-
-  So, what I always do is I know that I can't get butter in most places
-
-If I'm going to France I can get dairy anywhere, in any regular grocery store.
-
-I was travelling there in 1973 when I had a girlfriend.
-
-So, I would stay in Paris like three months a year, a month at a time, and I was on their case because I could get raw milk at the outdoor markets, like they have a farmer's market right there in Paris right in the streets.
-
-   Different parks and different locations, so I'd get all the raw milk, raw cream, and raw butter right there, and there was a company that was producing it and had it there on the market, but no health food store was carrying it.
-
-It barely had to go 50 miles up here to get the dairy.
-
-  But I got on their case and now they're carrying it everywhere, even the supermarkets are carrying it, and I haven't been to Paris in 3 years.
-
-   But in other states I've got connections everywhere.
-
-So, in the states I can get anything I want anywhere.
-
-  You just have to have it sent to you in Texas.
-
-I don't know.
-
-Excess farmers in Texas, but I've met farmers in probably 25 states where I can get product, but in the other 25 states, it has to be sent there, but my clients already get it sent to them, so when I go there, they provide it for me.
-
-I just tell them what they want ahead of time.
-
-  But I have clients who travel like that.
-
-They just have it sent to where they're going.
-
-So, it's waiting for them when they get there.
-
-  People who have farms they'll send it.
-
-When I go to a foreign country, I always take a half a pound of butter for every day that I'm going to be there.
-
-So, like Tuesday night I'm leaving for Asia, and I'll be gone till December 22nd, and I will take 17 pounds of butter with me.
-
-[Kathy]   In your case.
-
-In your suitcase?
-
-[Aajonus]   No, I'll take in my cooler, and I have a cold pack with it, and I take a quart of honey for that whole 40 some days?
-
- That's my stash because I get meat anywhere, I get eggs anywhere, you get better meat and eggs in Asia.
-
-[Kathy]   You have to take glass jars, and put it in your bag.
-
-[Aajonus]   Yes, I do?
-
-[Attendee]   Do you let it go through the x-ray.
-
-[Aajonus]   Well, when I'm going to Asia, you know what I do now, I can travel, I will be on a plane five hours?
-
-I get anywhere in the United States.
-
-So, if they don't let me get through, I have a doctor's note that says his food is his medicine, don't x-ray it all the shit, they've got really nasty leaving LA, and so they're just obnoxious.
-
- I've been in communist countries; they have more freedom.
-
-I was in China and the people talk about the freedom we have here, it's so full of shit.
-
- It's ridiculous, it pisses me off.
-
-And we cherish right here our life here.
-
-   So anyway, when I go through China airlines usually or any of those Japanese airlines, they will take my food and they'll hand it to a guy who walks it out brings it and hands it to me on the plane.
-
- So it doesn't go through the scanner because you know, I'll be on that plane 19-20 hours.
-
-[Attendee]   So, when you fly domestic, they won't do that.
-
-[Aajonus]   No, here nobody would do it.
-
-If they don't let me do it, I will stand there and eat the raw eats in front of them, half a quart of milk, they honey, butter, and raw meat.
-
-They get so mad cause they are really paranoid Most of them are paranoid of me sucking raw eggs in front of them, really nasty.
-
-  I've been threatened if I didn't leave the area, go eat somewhere else I'd be in trouble.
-
-I said you're going to arrest me for eating.
-
-Do you think a jury is going to find me guilty for eating, and I said, what's going to end up is eventually I'm going to get you in court.
-
-You will be tied up for two days in that possible, nd it's going to cost you guys a lot of money and a lot of time.
-
-  So, I'd say you think about that, and will a jury find you guilty, when I've got a doctor's note that says my food is my medication and you refuse to let me have it, and you've endangered my life.
-
-  Well, they used to up until six months ago, then all of a sudden something, just a big curtain came down.
-
-The iron curtain came down.
-
-They caught as fast as I entered, and that's it.
-
-When I was in China and in Vietnam, I gave them the letter and they said, okay, they were very friendly, and they said, I had a fork in my bag, so I couldn't take that through.
-
-So, they went and found my bag and put it into my bag.
-
-   These are the security people, they're so friendly and so nice.
-
-So, all this crap about communism is garbage.
-
-They run the same as anybody else, but they happen to be more friendly for some reason.
-
- .
-
-(52) Vaccines In Arm
-[2004],[Attendee]
-
-Can you walk me through taking care of whatever's going on in my shoulder
-
-I suppose it could be detoxing.
-
-I've just been like lifting really heavy things and I placed a really heavy backpack on it, but I'm not on the diet.
-
-[Aajonus]
-
-Well, then how do you expect me to help.
-
-Just follow the diet, put a hot water bottle wherever it hurts, and use a pain formula if you're in pain?
-
-Well, let's say if you're discharging mercury from a vaccine in the arm, and those were injections in the arm and that mercury travels down your nerves, you're going to have nerve damage.
-
-Especially if you don't eat, right, you're not going to have the proper nutrients in the body when that mercury is discharging from damaging your nerve tissue.
-
-When I went through it this year in this arm, and last year in this arm my whole arm turned gray from the mercury and smelled just like mercury.
-
-I've had so many injections, especially tetanus shots, and they use a lot of time thimerosal in tetanus then they do anything else and the other drugs.
-
-So, my whole arm turned gray from it.
-
-If I hadn't been eating a good diet and been in that tub, discharging those poisons quickly out through the skin, I would have had severe nerve damage, but I didn't.
-
-After the chemotherapy, everything tingled because I was poisoned everything, I wasn't on a good diet, but I also lost all the nerve control from here all the way down.
-
-[Attendee #2]
-
-How long do you sit in that tub.
-
-[Aajonus]
-
-Depends upon the person?
-
-I suggest a minimum an hour, an hour and a half.
-
-If you want to stay in all night like I used to, you can sleep and do it all night.
-
-Do you have a question.
-
-[Attendee #3]
-
-What causes and how you do heal athlete's foot?
-
-[Aajonus]
-
-Athletes foot is a fungus?
-
-That's another helper.
-
-You know how colds help deteriorate and dissolve certain things.
-
-Those particular cells are degenerated best with fungus?
-
-The yeasts go after sugar related ones, the molds go after non sugar related damage.
-
-So, that's a good thing.
-
-.
-
-(53) What Prevents Greying Hair
-[2004],[Lewis]
-
-Not that I'm in dire need at this minute, but what do you suggest as preventative measures for graying hair
-
-[Aajonus]
-
-That's a difficult one because greying hair is a result of toxic metals leaving the brain?
-
-If it's in the brain, if it's in the chest, of course, wherever the heirs are turning gray, you've got heavy metals leaving and the lymph system is carrying them to the hair follicle to get rid of them by building them into the hair.
-
-If causes follicle damage it turns gray.
-
-Often it reverses.
-
-After the chemotherapy, I just had a few patches of hair.
-
-When it came back, I was grey for two years, then a reverse, and two years ago, I had a patch of gray hair, and it was there for three months and went away.
-
-Then the next year, the last year I had a huge patch here and it came and went.
-
-The only place that it stays is right here.
-
-Right, and then he goes in and out in degrees.
-
-You know, a year ago, this was completely gray.
-
-Now it's salt and pepper again, it goes in and out.
-
-[Attendee]
-
-What about white hairs.
-
-[Aajonus]
-
-The ability for the follicle to use para hydroxybenzoic acid, which is a B vitamin, which controls pigmentation?
-
-When the body can no longer utilize para hydroxybenzoic acid or that you're not eating it, then your hair will turn colors if heavy metals get into the follicle.
-
-[Lewis]
-
-Okay.
-
-[Aajonus]
-
-There's nothing you can do about it.
-
-[Lewis]
-
-It's another way of detox.
-
-[Aajonus]
-
-Yeah.
-
-You know I had one guy go on the diet at 51 years old.
-
-He was completely gray, and after five years on the diet his hair went red again.
-
-Some people can reverse it.
-
-.
-
-(54) Women Studied Parasitology
-[2004],[Attendee]  
-
-  I've studied parasitology for years; amoeba can kill you
-
-I've seen pictures of people, their organs, their liver half as long, eaten away.
-
-I mean they eat away at your whole intestines.
-
-[Aajonus]   That's right.
-
-Just in a few people that are so toxic that it doesn't stop, and it isn't controlled, but that's very rare that it happens, but it mostly happens in third world countries where they're just fed garbage.
-
-They get no meat and their muscles, and their animal tissue is so weak that the amoeba just wants to go in there and clean them up.
-
-The people who are doing this diet don't have a problem.
-
-[Attendee]   I don't know, I picked it up when I was out of the country.
-
-[Aajonus]   You weren't eating a good diet.
-
-[Attendee]   No, I wasn't, but I almost died from it.
-
-[Aajonus]   Yeah, you almost died from it.
-
-You were very thin, very dry and very ill.
-
-So, they're going to eat what it can.
-
-[Attendee]   But I didn't get it until I left the country and then I can back and then I was fine.
-
-[Aajonus]   90% of the cases who have the amoeba don't leave anywhere, don't leave their own country.
-
-So, that's another myth that they like to put out there to scare people, so that every time you go out of the country, you'll take their medications, their malaria pills, or their yellow fever vaccines, so that they can make money.
-
-  It's a business.
-
-You have to realize it's a business.
-
-I'm not saying that people don't die, people die, some children die, and that isn't the tapeworm that's done it.
-
-Isn't the amoeba that's done it, it's the toxicity in their body.
-
-The amoeba and the tapeworm we're just trying to help out, trying to reduce the symptoms.
-
-  But if somebody is so deteriorating, they're going to die.
-
-That's it.
-
-This diet doesn't save everyone.
-
-Saves 95% of the people that I know and reverses their disease.
-
-If you want to lose 5% of the dozen.
-
-  But the medical profession, they reverse almost no disease.
-
-They just make you get worse and worse till you're a cripple, you have a very poor quality of life.
-
-Some people, you know, we're talking about 5% of the people that they help have that ability to heal themselves after that kind of an assault, but it's only 5%.
-
-  So, 95% I help, 5% they help, or those survive in spite of their therapies.
-
-So, now what I say is this is a much better average than theirs.
-
-[unclear] and all the other anti-parasiticals, anti-bacterials, that's your choice.
-
-I'm not going to judge you for that.
-
-It's your life, it's your life experience, but it's certainly not my choice cause I don't like being the one I'm crawling on the floor, only able to move my head and my shoulders and my arms.
-
-   There was no joy, and that's what they did to me.
-
-For me it would take 30 minutes to go from the couch, which was about there to the kitchen, 30 minutes to get there.
-
-I'd crawl 10 feet, pass out from exhaustion, and wait and crawl another 10 feet, and I had jars of urine and pans of feces, diarrhea and everything sitting by me.
-
-I had to sit there for sometimes three days before the volunteers came.
-
-  So, I had to live in that odor and live in that pit.
-
-I had to live that way because of the medical profession.
-
-Not going back there ever.
-
-[Attendee #2]   When was this Aajonus.
-
-[Aajonus]   After the chemotherapy radiation?
+Q: Thank you.

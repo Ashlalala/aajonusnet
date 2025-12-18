@@ -272,7 +272,7 @@ A: No, you see my teeth dissolving? No, my teeth dissolved when I ate all the fr
 
 Q: If there's remaining 5.5 in your mouth, you will [unintelligible] your tears.
 
-A: I don't have any more tears. I mean, that's a different kind of acidity. If you're talking about cooked food acidity, 5.5 will dissolve the teeth. But on a raw 5.5, it was not going to dissolve the teeth. If that did, the Masai, the Sambusas, the Fulani, the Estaba wouldn't have any teeth. They're all 5.5, even in the salivary gland. You have to understand there's a lot of bad conception out there that was started without science and without a thorough investigation way back with Bragg and a lot of those people back in the early 1900s. So we have analytical tools now where you can check the feces, you can check the urine, you can check what's going on and watch somebody's behavior. That was a problem. So Price started investigating the different tribes to see how they lived. And even on highly acidic diets, they had good teeth. But he never lived with the tribe long enough to come to the conclusions that he came to, to say, yes, this is definitely what happened. He just made a lot of assumptions and surmised a lot. Whereas Pottinger was experimenting... He wanted to see the actual, what they did with animals and changing their diets. And so they were the true scientists. That doesn't mean Price was bad. It just meant Price could never prove what he said.
+A: I don't have any more tears. I mean, that's a different kind of acidity. If you're talking about cooked food acidity, 5.5 will dissolve the teeth. But on a raw 5.5, it was not going to dissolve the teeth. If that did, the Masai, the Sambusas, the Fulani, the Estaba wouldn't have any teeth. They're all 5.5, even in the salivary gland. You have to understand there's a lot of bad conception out there that was started without science and without a thorough investigation way back with Bragg and a lot of those people back in the early 1900s. So we have analytical tools now where you can check the feces, you can check the urine, you can check what's going on and watch somebody's behavior. That was a problem. So Price started investigating the different tribes to see how they lived. And even on highly acidic diets, they had good teeth. But he never lived with the tribe long enough to come to the conclusions that he came to, to say, yes, this is definitely what happened. He just made a lot of assumptions and surmised a lot. Whereas Pottenger was experimenting... He wanted to see the actual, what they did with animals and changing their diets. And so they were the true scientists. That doesn't mean Price was bad. It just meant Price could never prove what he said.
 
 Q: So you're saying under 5 you should not drink?
 
@@ -470,7 +470,7 @@ A: You had medication during that?
 
 Q: No.
 
-A:You never took any medication?
+A: You never took any medication?
 
 Q: No.
 
@@ -1146,7 +1146,7 @@ A: BioClean is the brand name. There's cleanser degreaser. It's passing around.
 
 Q: They buy it at the convenience of people. They can buy it.
 
-A:Yes, you can. I would put some of that in vinegar and a little baking soda and rinse it thoroughly.
+A: Yes, you can. I would put some of that in vinegar and a little baking soda and rinse it thoroughly.
 
 A: No, drain it. Take a bucket. Spread all over. Wear gloves. Wear a mask. I don't care if it's all biodegradable or not. This is the only soap that I found that is 96 biodegradable. Your 7th generation. Only about 38% of their soap is biodegradable. So, again, it's bullshit.
 

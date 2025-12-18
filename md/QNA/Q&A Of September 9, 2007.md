@@ -46,7 +46,7 @@ A: What about them?
 
 Q: I would like to know ah how to eradicate it.
 
-A: Well, it depends on if its a sty or is it a wart.
+A: Well, it depends on if its a stye or is it a wart.
 
 Q: Pterygium.
 
@@ -88,7 +88,7 @@ Q: [Laughing]
 A: That's why you'll hear me say double. For this time I'll just call it the
 moisturizing formula when I talk to a woman. When I talk to a man it'll be the
 lube formula, okay? So remember they're the same thing. So the lubrication
-formula , you have that a couple of times a day for about ten days and then once
+formula, you have that a couple of times a day for about ten days and then once
 a day after that. Usually within about thirty days you can tolerate the sun.
 Okay, that means its lots of butter in there, the raw unsalted butter, okay.
 Right, do you have a question?
@@ -160,7 +160,7 @@ level.
 
 Q: So don't do it if you don't have mold issues?
 
-A: Correct. Well, it's good as an anti-biotic. Lets say you have a case of
+A: Correct. Well, it's good as an antibiotic. Lets say you have a case of
 spinal meningitis or cerebral meningitis and it's too much. You know your going
 to panic and end up going to the hospital. Rather than go to the hospital, have
 that and that'll slow the detoxification down, okay.
@@ -223,7 +223,7 @@ to make sure these are dissolved and don't stay growing as crystals.
 
 Q: Is there anything you can do to mitigate it?
 
-A: Yeah, beon the diet forty years.
+A: Yeah, be on the diet forty years.
 
 Q: Forty?
 
@@ -386,22 +386,21 @@ Q: ...and that's safe?
 
 A: That's safe, yeah.
 
-Q: If you did like a hundred and ten would that be okay? is that a good idea?
+Q: If you did like a 110 would that be okay? is that a good idea?
 
-A: It's not a good idea. A hundred and ten is pretty hot. You're going to start
+A: It's not a good idea. 110 is pretty hot. You're going to start
 cooking the enzymes and vitamins in your skin.
 
 Q: So whats the top temperature?
 
-A: A hundred and five.
+A: 105.
 
 Q: A hundred and five?
 
 A: Yeah. Theres a misprint in the first book. In fact all the way up until this
-last print theres a misprint. It says a hundred and ten. It says a hundred and
-ten; it should be top a hundred and five.
+last print theres a misprint. It says 110. It says a 110; it should be top 105.
 
-Q: How do you know if its gonna be a hundred and five?
+Q: How do you know if its gonna be 105?
 
 A: You can have a thermometer.
 
@@ -445,7 +444,7 @@ Q: Would that count as a lymphatic bath?
 
 A: If you stay in for an hour to an hour and a half.
 
-Q: Let you put all your coconut cream in there.
+Q: Do they let you put all your coconut cream in there.
 
 A/Q: "Laughing"
 
@@ -629,7 +628,7 @@ Q: We had a pool that uses a float that's solar powered. They still make them
 out of copper. Solar powered. Its called 'float tron' and its an extremely good
 de-chlorinator. You add just enough...you float one small chlorine tablet. Just
 enough to burn off the the body loaf...You can actually drink the water. It's
-that safe. Keeps the copper below. I think its made in Arizona.
+that safe. Keeps the copper below. It's called Flowtron. I think its made in Arizona.
 
 A: I've tested it. It's not good.
 
@@ -685,7 +684,7 @@ A: No, water dries out the skin, so you still want something on the skin.
 
 Q: Like coconut cream?
 
-A: Like coconut cream. Coconut cream is not all that. heavy and that's a nice
+A: Like coconut cream. Coconut cream is not all that heavy and that's a nice
 thing to use. Nice for the skin because coconut cream has water soluble vitamins
 and minerals as well as the oil soluble. Oil in the coconut cream is only five
 percent of the coconut cream. Anything else about the pools?
@@ -777,7 +776,7 @@ high meat is?
 
 Q: No. I don't.
 
-A: Oh ,you don't? High meat is when you take meat, you chop it into small
+A: Oh, you don't? High meat is when you take meat, you chop it into small
 pieces, then you put it in a jar and you let it start rotting. Decaying bacteria
 in the meat will start decaying itself, digesting itself and when that happens
 then it will cause - if you are psychotic, neurotic (it doesn't matter what it
@@ -843,7 +842,7 @@ Q: Does he have bad breath?
 
 A: No he doesn't.
 
-Q: [laughing"]
+Q: [Laughing]
 
 A: No...yeah...no he doesn't. I think your body adapts to it.
 
@@ -882,9 +881,9 @@ category.
 
 Q: Chicken is white?
 
-A: Yeah,any poultry is in the white category okay?
+A: Yeah, any poultry is in the white category, okay?
 
-Q: Can wereview again because I read it but can we review again that theory
+Q: Can we review again because I read it but can we review again that theory
 behind eating the spoiled meat, the high meat.
 
 A: The high meat again. The bacteria in the meat starts digesting itself.
@@ -1048,7 +1047,7 @@ up to two days. So that’s the way I will have it.
 
 Q: Doesn't the honey kill the bacteria though?
 
-A: No, it doesn’t. It doesn't act as an anti-bacterial in milk. In fact it
+A: No, it doesn’t. It doesn't act as an antibacterial in milk. In fact it
 encourages the lactobacillus acidophilus to be more active than the bulgaricus
 and coccus. If you don't put honey in it, the coccus and mainly the bulgaricus
 will be more active. That’s to break down the fats and the proteins so
@@ -1521,7 +1520,7 @@ Q: Were talking about raw milk though.
 
 A: Yeah raw milk, we're talking about an all raw milk diet. She’s asking can
 a raw milk diet cure diseases. Yes it can cure some definitely. It's cured
-emphysema, tuberculosis, diabetes of all sorts. So yes it’spossible.
+emphysema, tuberculosis, diabetes of all sorts. So yes it’s possible.
 
 Q: ...and that’s just raw milk that’s no vegetables?
 
@@ -1953,8 +1952,8 @@ long as you’re on a good diet - that'll speed it. Okay um...we're going
 here...
 
 Q: I've been on the diet a little over a year and I go to the doctors for the
-regular test. One of the blood tests - I've never had this problem before - I
-just had it redone after I saw you the last time. I'm showing pre -diabetes with
+regular tests. One of the blood tests - I've never had this problem before - I
+just had it redone after I saw you the last time. I'm showing pre-diabetes with
 the very high sugar. And I do notice that sometimes when I eat certain things I
 feel my heart rate going really fast and of course I'm eating the dairy and the
 honey and all that and I started cutting down on the honey but I was wondering
@@ -2085,10 +2084,8 @@ know, and this was a man who was into hygiene. He was a hygienist. Only ate
 fruit. Raw fruit, lots of fasting. All of a sudden, man, his spine started going
 in a flash.
 
-Q: Yeah. I have been on raw diet for about 7 years with signs of complications
-and so on. One thing that hasn't been resolved is my body hasn't.... I feel like
-I'm in my 20s or 30s and if I don't exercise regularly , my muscles just go
-tight. If I don't stretch, go to the gym, exercise, they just like really tight
+Q: Yeah. I have been on the raw diet for about 7 years as you know, I'm going through signs of detoxifications and so on. One thing that hasn't been resolved is my body hasn't.... I was very active in my 20s or 30s and if I don't exercise regularly, my muscles just go
+tight. If I don't stretch, go to the gym, exercise, they just like, they're really tight
 like where they pull bones out of place. Is there any kind of dietary
 recommendation to take care of that?
 
@@ -2107,7 +2104,7 @@ minerals. And needing lubrication for those will keep you lubricated.
 Q: Uh, what kind of thing would you recommend then, cause I don't eat much of
 that.
 
-A: For you I would recommend six ounces of egg.
+A: For you I would recommend six ounces a day.
 
 Q: Okay.
 
@@ -2115,7 +2112,7 @@ A: You're six three right? Six five??
 
 Q: Six four.
 
-A: Four. Yep, I mean you could have more,. You could probably have up to eight
+A: Four. Yep, I mean you could have more. You could probably have up to eight
 ounces a day.
 
 Q: Wow. I've been doing raw eggs every half an hour, the last four weeks. Uh,
@@ -2277,7 +2274,7 @@ Q: Had a brain injury and I am hyperactive
 A: Fish and cream together.
 
 A: She had a head injury. A year ago was it? And she has - her brain is over,
-hyper active.And she wanted to know how to calm it. And I suggested fish and
+hyper active. And she wanted to know how to calm it. And I suggested fish and
 cream together. Not a lot of cream, but fish and cream together. Now don't sit
 down and drink a half a cup with your fish, its gonna coat your fish and you
 won't digest it. But you could use three tablespoons with a fish meal. And
@@ -2462,7 +2459,7 @@ A: Well...
 
 Q: Can you explain what they are?
 
-A: Well, when I do the iris's...pupils that don't shrink when I shine the light
+A: Well, when I do the irises...pupils that don't shrink when I shine the light
 in their eye - that's a sign that they have certain lanes in their brains
 closed. That doesn't mean a whole...that the whole area is...the whole area or
 cognitive center or motor center is shut down. That just means that there's a
@@ -2626,14 +2623,14 @@ Q: I've been doing a lot of traveling where I change airports...[inaudible] and
 I had it all taken from me. I've asked for supervisors and I've said I'm
 diabetic I mean I've...
 
-A: You have to take a letter.Do you have a letter?
+A: You have to take a letter. Do you have a letter?
 
 Q: No I haven't tried it but after all that's happened. I'm afraid that the
 letter won't do anything.
 
 A: It works for everybody I know who takes a letter.
 
-Q: Lets say, lets just say that we can't take any.thing..any suggestions to
+Q: Lets say, lets just say that we can't take anything..any suggestions to
 help us get through.
 
 Q: You can you can take the three ounce.
@@ -2656,10 +2653,6 @@ that pass through and if hes sitting and waiting you know that that's the last
 one, then you put your food on there when he starts it up again, your foods
 going to go through and they'll just pass through because there won't be any
 metal.
-
-Q: I always thought I was nuts.
-
-A: Pardon?
 
 Q: I always thought I was nuts for doing that.
 
@@ -2924,11 +2917,13 @@ A: Yes, you can put,... Yeah that will help. That only will help.
 
 Q: So you don't recommend, I'm sorry you don't recommend woman use tampons??
 
-A: Uh no I don't, I don't recommend that woman use anything up them.?
+A: Uh no I don't, I don't recommend that woman use anything up them.
 
 A: Well something..... to collect the blood. I don't think that's a good idea.
 
-(laughter)?A: But you could put coconut cream up it, you know, oil, things like
+Q: (laughter)
+
+A: But you could put coconut cream up it, you know, oil, things like
 that. wouldn't use olive oil up in there cause that could be a little acidic and
 prevent the mucus from forming as easily. ?You know so, as a lubricant I use
 coconut cream. And boy does that work really well!
@@ -2944,7 +2939,7 @@ Q: Coconut cream it is.
 
 A: Right. Jim?
 
-Q: ........ What can people do to back you up to getRon Paul acceptanQ:.of raw
+Q: ........ What can people do to back you up to get Ron Paul acceptance of raw
 milk in the US?
 
 A: Dr. Ron Paul, M.D Is championing the bill for raw milk, to make it legal on a
@@ -2959,7 +2954,7 @@ facts.
 
 Q: Hmm... good.
 
-A: Okay? So you don't have to go through the processQ:H making up the letter
+A: Okay? So you don't have to go through the process making up the letter
 and faxing it yourself. Just click and that company will fax it for you. It is
 very expensive though.
 
@@ -3081,15 +3076,17 @@ A: So same difference. You know you use the lubrication formula or the
 moisturizing formula. And you can put coconut lime juice on the crack. And then
 coconut cream on top of that. And then honey on top of that. And you can put a
 band aid on it. But you know a gauze band aid not a regular plastic band aid.
-Okay folks,?
+Okay folks?
 
 Q: That's it, that's a wrap.
 
-A: Thank you! Q: Dried skin, its a cracQ:Tould that ....
+A: Thank you! 
+
+Q: Raw steak on a dry crack, would that also work?
 
 A: No it won't work. It could cause an acidity so sometimes you usually won't
 seal it. Only a fresh tear or cut or scrape. But I always put the lime juice on
-first, coconut cream, honey and then the meat on top of that.?
+first, coconut cream, honey and then the meat on top of that.
 
 Q: Okay?
 

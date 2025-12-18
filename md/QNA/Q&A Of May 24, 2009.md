@@ -1,3079 +1,1467 @@
-(1) Aajonus Ate Mad Cow Disease
-[2009],[Aajonus]
+Aajonus.net & Rawmeatgang
 
-I ate Carrefour supermarkets when I was in Paris for 3
+A: Well folks I had another motorcycle accident six weeks ago.
 
-5 years and that was that maw cow meat.
+Q: Oh my God!
 
-I don't have a problem.
+A: Yeah, took all the skin off from here to here, all of it off there. The reason this isn't healing like the last one healed in 12 days, is I put the lime juice on it, and then the honey, and then the coconut cream, and then the meat. But this one didn't because when I hit, I didn't hit pavement, there was a road under construction in the Philippines, and they used big rocks, not gravel, and they used layers of gypsum. Gypsum is what they use in drywall because it's very drying. Five times more drying than sulfur. So they had layers of gypsum on this, and they had a section where there was a part of the road done, it was coned off so you couldn't use it, and then this was gravel with gypsum, and the traffic is supposed to wait for one direction to finish before the next. They didn't wait for me to finish, and a van came barreling 100 kilometers an hour, knocked me right off the bike and hit the gravel, didn't even stop. So this is all gypsum in here, you can see it looks like sandpaper. The lime in the Philippines is not real lime, it's like orange. So even though it's very green and small, it's more like orange, it's even orange flesh.
 
-[Attendees],[Aajonus]
+Q: So what would be something that would be drawing that would pull the gypsum out?
 
-Laughs
+A: Well, gypsum is going to draw itself out. And I did find that aloe helped, I strapped a piece of aloe to it which helps for about a week, but I had to let the white cells take it out, so I lost a lot of white cells. Looks like they're very thin right now, because I lost a lot of fat. White cells are mainly fat. So it pulls the gypsum out. It's almost finished now, but it's still very painful. 
 
-And I started eating that in 1993 - 1996 and they said it's a 10 - 15-year incubation period.
+Q: How long is that, how many weeks?
 
-Y
+A: Six weeks.
 
-ou have to eat the brain and nervous system to have that kind of toxicity from mad cow, so you eat the muscle meat and you'll be pretty assured of being okay.
+Q: Six weeks?
 
-.
+A: When I had the accident two years ago, when I split this femur down the center, and broke the tibia, I mean the tibia here, broke the tibia off into the femur joint, that took me only six weeks to heal. And I had twice as much skin gone, this whole bone here was shaved off, this bone was shaved off, and this bone was shaved off. And I healed fast because I didn't land on the gypsum like the leg did. So this skin was all gone, this was ripped all the way down to the bone, and all that was gone to the bone, but you see how quickly that was without the gypsum. Another problem was, I went to get some honey, and this woman sold me honey that wasn't truly honey, and I didn't find that after nine days of putting this other junk on. What they do is they make a honey, they've got a fruit in the Philippines that tastes, if you put it with sweet and low, that's what they do, it's sweet and low, it tastes like Thai honey. So I had just come from Thailand, so I just, Thai honey, I thought, oh, they get Thai honey. So after putting that on for nine days, and it was looking worse and worse, and I knew it wasn't from the, just from the gypsum. So I asked a taxi driver to help me apply it, to work on it, because it was, I mean, it was still open this far, and it was quite a mess. So he came in, and I said, go put that honey on. He said, wait a minute, this isn't honey. This is a mixture that they make, and they call it Thai honey, and it's really not. They make it with sweet and low, or aspartame, and all these chemicals. So I was drinking, I drank about a cup of that, plus put it on my leg for all that time. So for nine days I poisoned my body with this stuff. And then it caused an insulin detox. A lot of people who take insulin, as they get older, the insulin builds up, and it causes toxicity like this. And, of course, they have their toes amputated and feet on up. So I hadn't had insulin since I was 22 years old, but for some reason that forced an insulin detoxification. So every, and I used to shoot it here, my thigh, because I didn't like shooting in my arms. I shot in my arms a lot. So I started getting the same detoxifications of insulin, and it smelled exactly like the insulin I used to shoot up. So I had a big sore here that got this big, one on the back of the arm and another one here. You can still see these here.
 
-(2) Aajonus Clinic, Volcanoes In Phillipines
-[2009],[Attendee]  
+Q: Those are from the insulin?
 
-  What are you going to do with your clinic
+A: All insulin.
 
-You talk about this clinic several times?
+Q: Insulin coming out of the body?
 
-What are they going to do there.
+A: Coming out, and I haven't had insulin for 42 years.
 
-[Aajonus]   I will mainly have locals, at least 50% of the clientele will be local that don't pay, that just work part of the land in exchange for my help?
+Q: And how did you detect that that was what it was?
 
-  And we will grow all the foods, all herbs, everything that the people will use to get well.
+A: The smell.
 
-   So, let's say people have cancer and they wanna go to someplace other than Hippocrates that starves them to death.
+Q: Oh.
 
-They'll be able to go to a place where they can get nourished and get stronger and healthier.
+A: Just like the stuff I used to inject.
 
-[Attendee]   So, you will raise the cow.
+Q: Oh, yeah.
 
-[Aajonus]   Everything?
+A: It's got that sweet, odd odor to it. At least they did. I haven't had it in 42 years, so I don't know what it's like now. What's the insulin like now?
 
-I've already made a deal with the government in Palawan Island.
+Q: I never took it.
 
-They have a dairy experimental farm and it's going under because Filipinos aren't used to milk, so I'm buying their cows and their milking machine and there's the portable ones attach on it, hook up.
+A: Oh, you never took it?
 
-It isn't like a big tank or anything.
+Q: They wanted me to, but I never would have.
 
-   So, I'm getting three cows that are imported from New Zealand and I'll start with that.
+A: So I will force it to puss a little bit. And most of the time it will run the liquid the same color as the insulin.
 
-I'm putting it all together, hopefully in July or August, one of the other, l'll put it all together and have everything finalized.
+Q: And that smells just like the insulin?
 
-[Attendee #2]   The island that you found that had the indigenous people.
+Q: Oh, my God.
 
-[Aajonus]   No, no, no?
+Q: You force it out of there?
 
-  That was almost 2000 miles away.
+A: Yeah. I just bring it. See, I won't break these because I want it to keep pussing until it's clean. It will stop pussing once it's clean. Now, most people would run to the doctor, and the doctor would say, oh, you've got a staph infection. We need to give you a lot of antibiotics. So what happens? The poison stays in the body. It poisons the body. The body stops digesting. It can no longer detoxify. So then all that matter would stay in there and cause problems. Now, since I was about 16 years old and started taking the insulin, I had these lumps in my thighs, and my thighs were always very large. Right now, you can see it on this leg too, a little bit, the insulin. But my legs are thinner than they've been since I was 15 years old, 15 and a half, since I started taking insulin. But I had huge lumps in there that were sore. So any time I got a massage, even if it were a light massage, I would have pain there. So I would say you have to be very gentle with my calves. So here I can push. There's no more lumps. So you just have to get through these things. You can't freak out because the medical profession, you know, they get all their training in emergency wards. So everything is panic time. And then the pharmaceutical industry wants them to think that way because anybody will make a bad decision in panic. So that's how they do it.
 
-Oh.
+Q So initially when that happened to you, did you just get lime on it right away?
 
-The reason I chose Palawan Island because all the other islands are in the volcano district.
+A: Like I said, the lime they have there aren't actually limes. They're oranges, really. They're tiny oranges. So that didn't work. If I had had the lime, it probably would have coated both insulin as it was coming out and the gypsum. But they didn't have the lime, and plus I didn't have the proper honey. I didn't have honey at all until that taxi driver showed me that it wasn't honey. And then he took me to a place and we got honey right from the beekeeper. And then the next day, 90% of the pussing stopped. 90% of the irritation stopped.
 
-You've got the Ring of Fire, it goes all the way from Japan, all the way down to the the lowest island, South Island of the Philippines.
+Q: So will that scar over or not? Do you think that will scar?
 
-  There are 47 volcanoes in the Philippines.
+A: Probably not. This right here was just like this and this, and there's no scarring there. It takes time. You just have to be patient. You can't freak out in panic. 
 
-And they're like this.
+Q: So you put the honey on the scars.
 
-If you look at the map, you've got Manila with the big island, Luong here and then you've got all these other bigger islands spread all the way down till you get to Menal, the biggest island.
+Q: So now what are you doing when you're home?
 
-And then over here you've got Palawan Island, which is a very long island.
+A: I don't do anything but put urine on it. Anything else irritates you, coconut cream, anything irritates you except urine. So I put old stinky urine on it.
 
-  Now all of these islands are in that big crevice that's 20 times the size of the Grand Canyon and all these volcanoes underneath it.
+Q: And that does what?
 
-So, if that goes off, Japan, all of that's going under.
+A: And that keeps it from drying out, getting very sore, and it soothes it. Now the urine is nothing other than the blood that's ever in the blood without the red and white blood cells. So all the nutrition that's in your blood is what's in the urine with a little ammonia added. When I put that on, it gets a good supply. Now right now, everything that it's getting up through the skin is irritated because of the chemicals. So when I put the urine on, it's getting a fresh coat of nutrients like it would from the blood from the outside in.
 
-But Palawan is an island that's on the shallowest sea floor of anywhere, only that island.
+Q: Just once a day?
 
-[Attendee]   Won't you get like tidal waves from that.
+A: I usually do it once a day.
 
-[Aajonus]   No, because I'll be 1900 feet up in the mountains, they're selling me the mountain top?
+Q: And you just pour it on?
 
-That's why I'm up there.
+A: I pour it on. If I run my fingers over these areas right here, they're like crystals from the mineral buildup and the insulin, because the insulin has a tendency to crystallize. So it's very sharp. So if I touch this, it'll stab inside and be painful. Even my pants can cause pain if they rub it the wrong way.
 
-  .
+Q: And how about here, the one on your shoulder?
 
-(3) Aajonus Work Schedule Philipines Land
-health centre aajonus thailand aajonus plans malaria honey lime
+A: I just live with the pain. I just ignore it as much as possible.
 
-(4) Aids, Swine Flue, Vaccines
-[2006],[Attendee],[Aajonus]
+Q: And the shoulder, you put urine on that too?
 
-I think you had a radio interview and as part of the interview you'd talked-
+A: Yes. But that's almost all over. These were huge.
 
-About the radio interview on swine flu
+Q: Did those pus out too?
 
-[Attendee]
+A: See, I used to shoot. Because I was right handed, I used to shoot my insulin in this arm until I couldn't take it anymore. Then I started shooting it mainly in this side, but once in a while in this side.
 
-Yes.
+Q: So you'll probably feel better after.
 
-And as part of that interview, I think you one of the topics was aids and I think you said the development of AIDS took place at UCLA.
+A: Yeah, that's what I mean. I think I'll not have that same soreness in the calf now. I'll be able to run better, and I'll be able to take massages better.
 
-I got from the article that you were saying that the only way that you could get aids was by injection or vaccination.
+Q: Are you swollen quite a bit?
 
-[Aajonus]
+A: Oh yeah, this whole calf, this whole ankle is swollen. But if you consider the size of my calf, normally my calves were huge. So actually my calf is smaller, even with the swelling. So when the swelling of both legs goes down, my calves are going to be as small as they've been since I was probably 13 years old.
 
-Correct or blood.
+Q: And you knew you didn't break anything?
 
-Or a transfusion contaminated blood.
+A: No, I didn't break anything.
 
-[Attendee]
+Q: You didn't have any x-rays, right? You didn't go anywhere?
 
-So, you don't really, it's not really a sexually transmitted disease.
+A: I didn't have to. I mean, when I had the accident two and a half years ago, the pain was so excruciating in the knee and the shin that I knew I had broken.
 
-[Aajonus]
+Q: Did you ever have a follow-up with that doctor?
 
-Impossible?
+A: No, I wanted to wait until the leg could straighten, and it's still not completely straightened.
 
-In my laboratory experiments, I've only found, let's say two bodies of congested so-called virus of AIDS.
+Q: Did you have a short pants on when you [unintelligible]?
 
-Virus is not contagious in the first place.
+A: No. Short pants, short sleeved shirt, and a helmet. I did have a helmet on.
 
-You have to have a chemical injected in you, just like swine flu.
+Q: Did that help you?
 
-There's no way for you to get swine flu, impossible.
+A: Yeah, a rock flew up and hit me here, so I had an abrasion there and a couple here. This time I tumbled. I just didn't let myself slide. When I saw this, I was falling over. I kicked the bike away, hit the gravel, and then flipped. So I probably didn't skid on this for more than probably two feet before I started tumbling.
 
-Swine flu means that you have pig tissue inside of your body that your body is using a solvent, not a bacteria, not a parasite, not a fungus to break that tissue down.
+Q: So the lesson is?
 
-Now, even if you had pig tissue in you from inhaling pig tissue, let's say you worked on a pig farm and it was a toxic pig farm where the pigs had a lot of dandruff and you inhaled it regularly, you would end up with a flu to break down the swine tissue, still is not the same as the swine flu.
+Q: Don't ride a motorcycle.
 
-The swine who makes a solvent to dissolve its own tissue is different from ours.
+A: Don't trust any... When I drove back, see, I left at sunrise from the hotel to go down Palawan Island. I had just gotten there the night before, late, and I'd rented the motorcycle just before this place closed at like 9 o'clock. And it was just a motorbike 125. It wasn't like a big motorcycle like the one I had in [unintelligible]. That was a big one, a 350 pound bike. This was probably 150, 175 pounds. And I left very early on a Sunday morning to go take a tour down the end of the island. And they said most of the island doesn't have paved roads. So I knew I was getting into, but I had no idea there were crazy drivers that had no respect for anybody on a motorcycle or motorbike. So as soon as I had the accident, I was two hours down the island. And I had to drive two hours back. And I saw everybody on a motorbike. When a car would come, they'd go over to the side and almost slow down to a stop. Now I've been on six other islands in the Philippines, and nobody drove like that. But here they do. No respect for motorcyclists.
 
-So, it's still not the same flu that a pig would get to clean its own tissue.
+Q: Well, I thought you were going to say not to trust anything that anybody says that's honey and this and that.
 
-So, you cannot get AIDS unless it's injected.
+A: That too. I mean, I was really upset with that woman.
 
-And if you read Horowitz's stuff, you see they put it in the Hepatitis B vaccine to give it to people in the states.
+Q: You couldn't taste it?
 
-They put it in the smallpox vaccine in Africa, 125 million donated by the US government and the British government.
+A: Well, see, they'd learned to mix it so well. It tastes identical to Thai honey. The thickness and everything. But it didn't react that way. I was getting dizzy, I was getting nauseous, and I thought it was just the gypsum getting into the blood. And it was the honey. It wasn't until the ninth day until I got the true honey. And then a lot of the symptoms stopped right away.
 
-Why.
+Q: So you applied the honey for what? To heal?
 
-They took over 27 countries in Africa?
+A: Yeah, it helps heal. You read my books?
 
-How did they do that.
+Q: Yeah.
 
-They went in and said, oh, you've got a disease?
+A: Okay. I talk about it increases healing five times.
 
-We gave you these free- ur government's not gonna give freeway anything, unless there's something attached to it.
+Q: I agree with that. I use honey for any kind of injury I get. It's fabulous. Now what's the true honey?
 
-So, the British and the American government gave 125 million shots of vaccine to Africa for free and paid for them to be injected into the Africans.
+A: Well, I got a Philippine honey. We just went to the beekeeper. No, there were three keepers there, three people taking care of the honey. And they gave me honey straight from the hive.
 
-Paid for all the doctors and nurses to do that.
+Q: So I have doubt of the honey here, because they say if the honey crystallized, that means it's real honey. So I have honey that's just liquid.
 
-Hundreds and hundreds and hundreds of millions of dollars.
+A: Well, all honey will crystallize if it's raw. Sage honey can take up to a year, year and a half to crystallize. It depends upon the honey.
 
-It was estimated about 2 billion to do.
+Q: So how about if it doesn't crystallize in three months? That's not sage.
 
-What did they get.
+A: That's not, still. It depends upon the type of honey. It could take anywhere from, you know, three months to a year and a half for honey to crystallize.
 
-They went into the country and said, Oh, you've got an AIDS problem?
+Q: So the question is how do I get to know that's real honey?
 
-We have drugs and they pulled AZT out of the vaults.
+A: You have to go to the place who makes the honey.
 
-AZT is the chemo they gave me.
+Q: Oh, true. Okay.
 
-AZT was found a year after it was given to me to be so toxic for humans, they were no longer given to humans, so they put it in the vaults.
+A: What brand is it?
 
-When the AIDS came out, they said, AZT is good for aids.
+Q: It's a brand that they sell at Henry's, Cream of Cobb, one of the health food stores.
 
-No tests, no nothing.
+A: You've got to say unheated. We do not heat this honey at all in processing. I have a list of the good ones.
 
-They just wanted to pull it out of the vault to kill everybody who had aids.
+Q: It says raw.
 
-So, they took the, the AZT also over to Africa and they killed everybody that they could.
+A: Raw doesn't mean a thing. Raw, that can heat it up to 170 degrees. Never heat it over 93 degrees.
 
-And so, what happened was they went to government and said, "Oh, we'll give you this medical help, we'll give you this chemotherapy, we'll treat your people", killed them, put 'em in debt.
+Q: In the book it says just say raw, unheated honey.
 
-Debt that they could never repay.
+A: In my book? No, it says we do not heat this honey in processing, unheated. And then you have to ask the beekeeper.
 
-So, now the World Bank runs for the British and American governments runs those 27 countries and if you read a book called, "Confessions of an Economic Hit Man", then you'll understand that's what they do, the governments do.
+Q: Okay.
 
-It's a way of waging war and take over resources without having to really send people in to fight, you poison 'em to death.
+A: It's got to say unheated. Raw doesn't mean a thing. I say that in the book. 
 
-[Attendee]
+Q: Don't take his word for it.
 
-What's the name of that book again, confessions of what.
+A: No, don't take the word for it.
 
-[Aajonus]
+Q: Watch him take it out of the hive. That's the only way to know.
 
-Confessions of A Financial Hitman?
+A: It's the only way to truly know.
 
-[Attendee]
+Q: No, beekeepers don't heat the honey. Only the big ones do.
 
-Can you just say one more time and exactly what is it they put in the vaccine.
+A: No, little ones will do it too, to bottle faster.
 
-Likes Aids, it's not some sort of virus?
+Q: They also heat it when it crystallizes. They'll water bath it up to 120. And then I'll ask them, have you ever heated the honey? And they'll say no. And then I ask them, what's your belt heater for your 5-gallon bucket or your water heater? What do you set the temperature at? And they'll tell me 120 to 140. Thank you very much.
 
-[Aajonus]
+Q: They say it's from a small beekeeper close by.
 
-Well, what they did was, according to Strecker, who found it was created at UCLA in 1961 and 1962, they claimed that they had produced it from the lymphomic virus of the sheep and the waste products and the leukemic virus of a bovine, cow
+A: You just have to go to them. You have to say, listen, when you spin some honey, I'd like you to bottle some for me right then and there. Don't strain it.
 
-So, they took those two toxic substances, put them together, and then put it in the hepatitis and the small pox vaccine.
+Q: Okay.
 
-[Attendee]
+A: Because you want it completely unheated. Because what they do is they spin it, put it in cauldrons. It will set, it will get very thick, and then they have to heat it to pour it fast.
 
-So, virus isn't a bacteria or anything.
+Q: But the guy in the store didn't want to give me the beekeeper's address.
 
-[Aajonus]
+A: It doesn't say on the bottle?
 
-No, it's not alive, it's a chemical?
+Q: No.
 
-And the chemicals that they put in there allowed the chemicals to infiltrate the RNA and DNA chains and damage them.
+A: It doesn't say a name on the bottle? It's supposed to have a name and address of the producer.
 
-That's a biochemical electromagnetic science that the military is very keen on.
+Q: No, he gets from a bulk he put in place.
 
-[Attendee]
+A: Then if he doesn't give it to you, I'd take it back to him.
 
-So, that's what aids is.
+Q: Is that right?
 
-Destruction of RNA, DNA?
+A: Yep, I wouldn't take it.
 
-[Aajonus]
+Q: But so I don't know where there is a beekeeper.
 
-Chains, yes?
+A: Well, there's some honeys that are available here. You can get right out of the store. There's Y&S. There's quite a few of them, Really Raw. Those brands.
 
-Breaks down the system.
+Q: Pacifica?
 
-[Attendee]
+A: Honey Pacifica. But they don't sell that in the regular market. Okay. Okay, now I'm going to start a round. So we'll start with you, Daniel. You have a question?
 
-I've talked to a shaman in Africa, and he said that they, they're people would make these marks on their arm as if they had vaccination, so they would avoid it.
+Q: Yes. You previously said grasses are acidic. Once you told me if I want any...
 
-[Aajonus]
+A: They're acidic to the blood. They're alkalinizing in the intestines. It's exactly the opposite of what you want.
 
-Poisoning.
+Q: But you said if I wanted to take some wild-grown grass that's not wheatgrass. It's not sweet, especially for the mineral content and salt content for that. I could put a couple ounces into the milk. Besides those grasses, is there a reason you don't use kale or dandelion, spinach in your juices? Are they also acidic?
 
-[Attendee]
+A: Well, I said you can use those, but never more than 5% of the juice because they will be very detoxifying or chemically changing to the body. So any kind of herb that is that strong, you need to keep it at a low ratio, no more than 5%.
 
-Not poisoning, but they actually even accessed some kind of a soul DNA in a way that actually altered their capacity for consciousness.
+Q: What do you mean chemically changing? What does it change?
 
-He was not gonna let his people.
+A: It can change your blood. It can change your intestines. It can change the chemistry of everything. All of a sudden, you find yourself way out of whack.
 
-[Aajonus]
+Q: You get kidney stones or...
 
-Right.
+A: I've seen all kinds of issues, endless issues.
 
-Well, Vietnam, when they started vaccinating the children, the adults, the ones who were like shamans and there were a lot of shamans in South Vietnam and North Vietnam and the elders would come out and cut their arm off up the shoulder because they knew the poison was gonna go back and do damage in the body.
+Q: So when should you use any of those?
 
-They preferred to cut the arm off, they could see what was going to happen.
+A: Any of those times you want to use it. I mean, it doesn't matter. As long as it's never more than 5% of your juice.
 
-Even better to cut the arm off, then to let that poison circulate to the system.
+Q: What would be the purpose and what the nutrient is in that particular...
 
-And then, the American medical profession, these barbarians.
+A: If you're after that particular effect of that particular herb.
 
-Instead of the medical provision being the barbarians for injecting these poisons, the grandparents became the savages for cutting off the arm.
+Q: Like dandelion might be your liver. Would it be like...
 
-But they could see what, of course, the Americans are not able to see at all.
+A: Well, dandelion is very high in vitamin C, so it helps the citric acid cycle of utilizing fat as fuel. So it could give you more energy. There's different things that you can do with dandelion. Some people take it to clean the liver and the blood. Can't say it necessarily does that. But the vitamin C is very good for oxidizing fats to be able to use as fuel, as energy.
 
-.
+Q: Would you be able to get everything we need without all those? [unintelligible]
 
-(5) Allergie, Low Mucus
-[2009],[Attendee]
+A: No, I'm saying they're all good if you can get them organic and juice them fresh.
 
-Family member has been on the diet for a while and they have severe allergy to dust mites
+Q: We have clover in our yard. We have all that clover. We were thinking about fresh organic clover grass. We were wondering if we could juice it.
 
-What do you recommend.
+A: Out of your yard?
 
-[Aajonus]
+Q: I got all organic soil a few years ago.
 
-That's a low mucus?
+A: It doesn't matter. You've got chemtrails galore. And you had all those fires that sent you into a tizzy. And a lot of people into a tizzy. So all that, you know, all those burned home products that burned up in the homes, which were highly toxic, radioactive, everything. 
 
-Like I said, if you look at mucus under a microscope, it's like a bunch of s like a bunch of material put together, layers of material.
+Q: It gets into the soil.
 
-If the fibers are tight, nothing's going to get through and it can be as much 20 layers thick when you're dumping mucus or it could be as small as three layers thick.
+A: It gets into the soil.
 
-If the fibers are open, if you don't have enough protein fibers.
+Q: It's going on for years now.
 
-All of those dust and the mites will just get right through that mesh and right in irritate the mucus membrane.
+A: Yep, for years. That'll go on for 10 years.
 
-And that's an issue, it's a problem.
+Q: There's still soot from that coming off my roof.
 
-[Attendee]
+A: Yeah. You should hose that and get it all right away. You don't want to be breathing that a little at a time.
 
-What do you do.
+Q: How do you know that you're getting it from somebody who doesn't have the same issue? Like if you buy it organic somewhere, how do you know they make it?
 
-[Aajonus]
+Q: Yeah, everywhere's toxic now.
 
-So, they need to build mucus?
+A: Unless you follow up and say, you know, give me the name of the producer. And then you call the distributor. And then the distributor will give you the producer's name. And then you go through those channels. I've done it.
 
-Milkshakes are your best.
+Q: Is anywhere not toxic though? Everywhere's got toxins in there now.
 
-Milk and eggs together with little honey, extra cream.
+A: It's true, but I wouldn't trust anything around here. In fact, I stopped buying cherimoyas and avocados from down here for the last year since that fire.
 
-Helps build mucus fast.
+Q: Where do you get them from?
 
-.
+A: The Fresno area. I mean, the lower part of Fresno, in the Santa Maria area.
 
-(6) Big Gut, Aajonus Weight
-[2009],[Aajonus]
+Q: So that goes for the organic farmers that are local here?
 
-If you're asking me, I say, no, you don't want to get rid of it
+A: Absolutely.
 
-I kept mine for 23 years.
+Q: I mean, that's what we're all eating.
 
-[Attendee]
+Q: They're also being watered with fluoride water, too.
 
-Flat now.
+A: Yes, it is.
 
-[Aajonus]
+Q: [unintelligible]
 
-Now, yes.
+Q: There's a lawsuit right now to stop that.
 
-But for 23 years I kept it, it's like a baby.
+A: Do you have a question?
 
-A baby's not gonna grow and get healthy fast unless it has that gut.
+Q: Yes. Just a couple of weeks ago I had another one of these major stomach pain episodes, like an hour, four hours. And I've been getting them less and less, but I really didn't know what to do. I mean, I tried cheese, but it's hard to keep that down.
 
-You notice that all babies who have no gut, their bones grow thin and feeble.
+A: And what were your symptoms?
 
-You want a baby to be fat, you have to be fat cause you're on a new diet.
+Q: Nausea, vomiting, just serious stomach pain.
 
-You're growing yourself anew, you have to consider yourself a baby.
+A: No diarrhea?
 
-So, you need all those extra nutrients to be able to distribute them.
+Q: No, not at all.
 
-If you run into a detox, what's gonna happen if you don't have the excess nutrients.
+A: Okay, what happens when you get nauseous and have vomit? Poisons dump into the stomach. For example, now she'll put bacteria on you. Whenever a dog or cat licks you, they're putting bacteria, janitorial bacteria on to eat the dead cells and the dead tissue. We used to have a lot of salmonella. Now that we take showers and baths and we're so toxic in our environment, the 6,000 varieties of salmonella that used to live on the skin and eat the skin are no longer present. So dogs and cats will come up and lick and give you a dose of their bacteria from their mouths. We have more bacteria than they do, so you can lick your own. I do that. I do that. I'll put saliva on here and go over it after I put the urine on it. Because the urine's, you know, because the ammonia in the urine is antiseptic, and I need to re-infiltrate the bacteria.
 
-You're gonna fall and crash hard?
+Q: Why don't you just pee on it? Why do you get the old urine?
 
-[Attendee]
+A: Because the old urine doesn't absorb the same for some reason. Don't know why. I think probably as you let it sit, the ammonia breaks down, and the antiseptic effect leaves.
 
-This is the only place the fat is, right here.
+Q: So it's better fresh.
 
-[Aajonus]
+A: No, it's better non-fresh.
 
-That's good.
+Q: Non-fresh.
 
-But it goes from there to the rest of your body if you just keep eating.
+A: Because if you have it fresh, your ammonia's... See, the body creates... the kidneys manufacture ammonia to be able to separate the red and white blood cells from the blood serum. If you pissed out all of your red and white blood cells from your blood, and not just the fluid out of it, you'd be anemic all the time. You couldn't function. So, and you can only replace about four to five tablespoons of red blood cells in a day. So if you urinated, let's say, a quart a day, that would be a huge amount of blood loss. Red and white blood cell loss. So the ammonia is very active when your kidney first makes it to separate the red and white blood cells from it, so you can lose fluids. You lose fluids to get rid of some toxins sometimes, but that's not the major reason. It's usually to keep the body warmer. Notice that when you get cold, you urinate a lot, thicken the blood, and then when you get very warm, then you stop urinating so much, and your blood thins itself. You have more fluid in the bloodstream. Less red and white blood cells. So the kidneys are mainly for that. Regulating body temperature. The spleen can help there, because it holds extra red blood cells. The spleen doesn't manufacture anything like the kidney does, but the spleen holds excess red blood cells. Like say, let's say, when you were a cave person, you're swinging around in a tree, you, you know, branch broke, and another branch, you're falling down the tree, cut your jugular, and you lost a cup of blood. Now you'd be very anemic with a cup of blood loss. And you'd probably be good dinner, because you wouldn't be able to run fast enough from a tiger or a lion. So the body has this reserve of red blood cells in the spleen, so you can dump up to almost two pints of blood, red blood cells, right back into the bloodstream, so you're not anemic. You know, that was a long answer. Anyway, the poisons dump into the stomach. That causes nausea. Any time you have nausea, poisons are dumping into the stomach. And it's a good passage for that, because we have hydrochloric acid there. The highest concentration in our bodies is in the stomach. So it's like the Indians, when they used to get a snake bite, a poisonous snake bite, they knew it went to the stomach, so they'd try to get some milk or some corn, which has a lot of hydrochloric acid precursors, or beets, root beets, and eat those and shave those. And they usually kept some around, buried, in case there were poisonous bites from a snake, scorpion, or spider, whatever. And they would drink the milk or eat the corn or the beets, and that would create more hydrochloric acid and help neutralize the poison. You know, you can take any kind of rattler poison, the worst in the world, copperhead, and you mix a little hydrochloric acid and it neutralizes it like that. So that's what our stomach, that's what happens with our stomachs, used that way. So when you get nauseous, your body, dumping the poisons there, wants to vomit it, or enough hydrochloric acid. And when you get nauseous, more hydrochloric acid. The more nauseous you get, the more hydrochloric acid dumps, when more of the stomach manufactures, dumps it into the stomach, the interior, so it neutralizes the poison. However, you can eat cheese, raw unsalted cheese, and it will absorb those poisons, so you don't have to use so much hydrochloric acid, and you don't have to experience all that nausea.
 
-And I say that in my books.
+Q: Why not salt in it?
 
-Get fat.
+A: Because when you add salt in it, it fractionates the molecules, acts like cook, and you will reabsorb and digest the cheese. And you don't want to digest the cheese, you want the poisons to send through the body and pass out with your feces.
 
-[Attendee]
+Q: You're talking about a snake bite, if you got...
 
-Thank you very much, Aajonus laughs.
+A: Any kind, any kind of a poisonous bite.
 
-[Aajonus]
+Q: So with the salt, would the sea minerals do the same thing, that's bad too, or...
 
-You know I'm still fat 18.
+A: Sea minerals won't do it as well. However, clay can. Now there was a man in 1917 or something, or 1890 something, I forgot the dates completely, but I remember the story. He advertised that he was going to drink a half a cup of arsenic. And they publicized that and he made a ton of money. And only on his deathbed did he give the secret away, because he pulled the stunt several times. He drank a half a cup of clay an hour before he drank, or 40 minutes, something like that, before he drank the arsenic. So the clay absorbed it. Minerals won't do that. Pardon?
 
-Last night I was 18.
+Q: What type of clay?
 
-7% body fat.
+A: They didn't say. I like to stay away from any clay that's from molten lava, because you've got a lot of molten metals. Your minerals like calcium, phosphorus, potassium and magnesium are alkalizing. When they reach volcanic temperatures, they go off into a gas. So they're no longer part of that rock. And then when the algae in water starts eating that, algae and moss eat rock. And all plants eat rock. So when the water mixes and the plants, whether it's algae or whatever, breaks those down into a clay, it's still a toxic-laden clay. It's a clay that I won't eat.
 
-Athletes who are my size are like 9% - 12% body fat.
+Q: Which one would you eat?
 
-But when the fat molecules are very tiny, like when they're raw, they don't take up much space.
+A: Any from, well, terramin clay is the best. It's from an old aqua bed. Do you have a question?
 
-But when you cook a fat, it swells anywhere from 5 - 50 times its normal size.
+Q: Let me follow up on that. So the nausea is from the toxin that's just irritating the stomach, right?
 
-So, you have all this bloating from all this old fat, and I've been on this diet eating all raw foods and no cooked fats since 1972, February of 1972.
+A: Absolutely.
 
-So, I don't have any of those toxic fats in my body anymore.
+Q: And I usually make myself throw up and I feel much better after that.
 
-All of the molecules of fat are small so I can stay and still be fat.
+A: Absolutely.
 
-But I wish I had had more fat on me when this happened cuz I would've gotten to this quicker and easier cuz my body got poisoned.
+Q: But it didn't. I mean, it just kept on going. Is that just because there's more?
 
-[Attendee]
+A: You're constantly dumping. There's something very poisonous that I wanted to get rid of. I've seen people nauseous for six months. But you can see that it wasn't dumping into your bowels. If it were dumping into your bowels, you'd have diarrhea.
 
-Did you lose muscle mass too.
+Q: And I also did the cheese and the clay, but that really didn't help. But just more of that. Keep on doing as much of that.
 
-You look like you lost muscle mass?
+A: Absolutely.
 
-[Aajonus]
+Q: And dilute the clay?
 
-I lost everywhere.
+A: Always take moist clay.
 
-I lost muscle and fat.
+Q: Moist clay, yeah. So put it in water.
 
-So, I'm down to like a 29-inch waist, which I haven't has since I was 16.
+A: Because you've got probiotics involved there.
 
-.
+Q: Okay.
 
-(7) Butter and Cilantro For Mecrury
-[2009],[Aajonus]
+A: So it'll protect the walls. You could also have some aloe vera, which can coat the stomach.
 
-You can take it all day long and it's not gonna change the color of your hair
+Q: Okay.
 
-You have to give rid of the aluminum first.
+A: And then you won't have so much pain.
 
-[Attendee]
+Q: But milk wouldn't really be a good idea.
 
-I read somewhere that you said to do like a tablespoon of cilantro juice with a tablespoon of butter or something every two hours to get rid of mercury.
+A: Milk is okay, but it's still slightly acidic.
 
-[Aajonus]
+Q: Okay.
 
-It'll help?
+A: And the aloe vera will coat it without doing that. Also, egg white can coat the stomach.
 
-[Attendee]
+Q: Okay.
 
-Would that help him to do something like that.
+A: Okay. Jim, do you have a question?
 
-[Aajonus]
+Q: Yeah. I read your book this morning. And what I wanted to understand is you said that if you ate three-quarters of a cup of unheated honey, it would help heal the pancreas over a period of time. So my question is, having so much sugar, honey is a sweet...
 
-Well, depends?
+A: Honey isn't sugar when it's completely raw.
 
-If it's just mercury, I'd have to look in his eyes to see what kind of metals are coming outta his skin.
+Q: Okay.
 
-He could have a fungus involved with it.
+A: The bees collect the nectar. Nectar is 90% carbs, so it's sugar. When the bee collects it, it swallows it. It produces an insulin-like substance, which converts 90% of those carbs into enzymes for digesting proteins and fats. Let me give you an example. While I was in Thailand a few months ago, three months ago, before I went to the Philippines, I went to see some patients on the Koh Samui Island, and they spearfished. So I went spearfishing with them. And one of the big fish that we caught had these big vertebraes. And his Thai girlfriend, who's almost 50 years old, she is 50, she grew up in the old country where they ate lots of raw food, so she's a total raw fooder and eats everything perfectly, even better than her American boyfriend who's on the diet. So she's the ideal primal dieter. She'll go in and pick all the Japanese beetles off of her flowers, and all day long she'll eat them live. So, you know, you have to understand, Thais eat a lot of insects, because there isn't a lot of meat there, because they overhunted, and the population got so large. They eat a lot of insects. I mean, scorpions, cockroaches that are this big. They eat all these things.
 
-He could have that tetracycline or something like that because that looks like it's an antibiotic irritated along with the metals.
+Q: Eat them raw?
 
-So, he is got a fungus in the skull too.
+A: Yeah, eat them raw.
 
-[Attendee]
+Q: Even alive.
 
-And the only time it ever went away was when we used to have a swimming pool and it was chlorine, it was years ago.
+A: Even alive. So she had these vertebraes, you know, big vertebraes like this, and her teeth are so good, 50 years old, perfect teeth, and she's eating these bones. I wish I could have eaten a bone, you know? So, I mean, she gave me a little piece of one, and I just kept it in my mouth for hours. I took half a teaspoon of honey and put it in my mouth, and the bone, it disintegrated the bone in five minutes.
 
-[Aajonus]
+Q: My question is, eating the honey, isn't that going to spike the blood sugar?
 
-Yeah, killed the fungus.
+A: What did I just say? You've got insulin in the honey. The bee has created an insulin. If you heat that honey over 93 degrees, you distort the insulin, it goes back to sugar. You're going to spike. However, honey can cause all toxic glycogen in your body to detox, then you're going to spike. But you never look for your sugar level, you look for symptoms. If you're passing out, if you can't breathe, you've got an insulin problem. That's the only time, if you're passing out, not because you're getting up too fast, but you don't have enough blood sugar to run the brain and nervous system and lungs, you've got diabetes. Eighty-five to 90% of the people who are in the medical profession who put on insulin and call diabetic are not diabetic.
 
-[Attendee]
+Q: What are they?
 
-It would go away in the summer when he was in a pool all the time.
+Q: Okay, what are they?
 
-[Aajonus]
+A: They're just sugar problems. They have sugar balancing, sugar level problems. If you've got a true insulin problem, you're not metabolizing your sugars to run your brain and nervous system. You're not going to breathe. You're going to go into a coma in three days. If you don't have any of those symptoms, you are not diabetic.
 
-But you can put vinegar on it, it will help destroy it too.
+Q: I read that to tell if you have an insulin problem, if you weigh yourself in the morning, and then if you're a pound or two, a pound and a half to two pounds the next day.
 
-But to keep your head strong, to get it to be able to withstand that kind of toxicity, the bone marrow would be good.
+A: Absolute bullshit, absolute bullshit. You can have water retention. You can have high blood pressure, it will do the same thing. You have to understand, the pharmaceutical industry makes their money off of you taking drugs. They're going to do everything they can to get you to take drugs. Every test in the world they're going to show you need to take drugs. Now, like let's say cholesterol. Now, they used to say that 50 years ago cholesterol levels of 300 were okay. Now they're not saying that. They want people to take all these anti-cholesterol medications to lower cholesterol, so they've dropped it way down into 150 and 160.
 
-So, one day you could put vinegar, diluted vinegar by 50%, rub it in into the scalp, and then just let it sit for a day, and then the next day, rinse it out and then put bone marrow in and let that sit for a day.
+Q: To keep making it possible.
 
-[Attendee]
+A: To keep making money. It's all about making money.
 
-Put on the bone marrow even if it's old.
+Q: Can I ask one little small question and that's it?
 
-[Aajonus]
+A: I really need to go around, there's so many people. Yes, Lisa.
 
-Even if it's old, it works wonderfully?
+Q: I've had a symptom since I was a kid, and it started to get kind of bad at different times. And what it is, is when I have, when water's running, I'll get like a pain right where I think spleen starts to be, or like in this part.
 
-Go around stinking Zinc can create some hair coloring loss, but it doesn't cause.
+A: Spleen, yeah.
 
-.
+Q: And so, I don't know what that is, and it started after I was detoxing, now I'm getting better. It started to come on like I'm getting in the bathtub, and I also have this pain where it's just like doubled over there. But water triggers it. Not drinking it, just being around water. Or even the running of the water can start it. Do you have any idea what that might be?
 
-.
+A: I can take a wild guess and say that you're allergic to water, and the body's just warning you.
 
-.
+Q: The chemicals in the water maybe?
 
-(8) Clay To Absorb Toxins, Types Of Clay
-[2009],[Aajonus]
+A: Could be the chemicals in the water. I mean, in L.A., there are 93 chemicals, 193 chemicals in the water. When I used to live in L.A., in the city L.A., whether it was Beverly Hills or Venice, you know, or the canyon, Laurel Canyon, when I lived in those three places, I would get into the bath with nothing in it. I would be out in seven minutes, trembling, shaking, passing out. That's how toxic it was. So I learned that I had to put milk, vinegar, and sea salt in the water, a certain amount of it, to control that.
 
-17 or something, or 1890 something
+Q: Why is sea salt, if you are opposed to salt, you're putting sea salt in the water?
 
-I forgot the dates completely, but I remember the story.
+A: Taking it internally. If you take it internally, do you know that salt is more explosive than nitroglycerin? One lump of salt this big is pure sodium. Sodium salt, there's no chloride, there's no potassium, there's no iodine connected with it, is more powerful than an atomic bomb. When your body takes in sodium chloride, sodium, potassium, sodium, or any of those table salts, it fractionates, it separates that, and that sodium becomes an isolated substance, and it will start causing tiny explosions in your blood. So when your cells go to eat, there's a smorgasbord of nutrients, anywhere from 93 to 117 nutrients, all coupled together. So when a cell eats, attracts the ions, takes it in, it gets a whole smorgasbord, a complete balanced diet. When you eat salt, it causes these little explosions, and all these things will fractionate into as small as 7 to 23, even 30 molecules, about the most, the cell is never getting a balanced diet again. That's what salt does.
 
-He advertised that he's gonna drink a 1/2 cup of arsenic and they publicized it.
+Q: So that would be even the case with sea salt?
 
-He made a ton of money and only on his deathbed did he give the secret away cause he pulled the stunt several times.
+A: It doesn't matter what salt, it's concentrated sodium. And it's not sodium in a plant, where your ions are properly bound with other nutrients. There's no regulation on it. You can even chill a plant and put salt in the ground, and you'll kill a plant quickly unless that plant is built to handle sodium, concentrated sodium.
 
-He drank a half a cup of clay an hour before he drank- or 40 minutes, something like that before he drank the arsenic, so the clay absorbed it.
+Q: Why is it that there are so many animals that go and lick salt?
 
-[Attendee]
+A: But they only do it on a rare occasion.
 
-What kind of clay.
+Q: They get a lot of it, right?
 
-[Aajonus]
+A: Yeah, but they also have problems for a few days. And that way they won't touch it again for another year, two years.
 
-They didn't say, I like to stay away from any clay that's from molten lava because you've got a lot of molten metals?
+Q: They must need it, but...
 
-Your minerals like calcium, phosphorus, potassium, and magnesium or alkanalizing ones, when they reach volcanic temperatures, they go off into a gas, so they're no longer part of that rock.
+A: No, they like that salty, sweet thing, they have a mineral need, and maybe they're not eating enough dirt because they're in the desert. Because mainly, all animals eat dirt with their food. All animals eat dirt with their food, every one. So they're getting lots of minerals. But in a desert, it isn't like that. There's sand that doesn't break down as easily as the minerals in dirt. Plus they've got a long digestive tract to take them through, to hold up and utilize the minerals. But when you have salt blocks, then you're dealing with all these side effects and dehydrating the body. Well, you have to eat salt to hydrate the body. Well, if that's true, you could frickin' drink the seawater. But what happens if you drink seawater? You will die. You will dehydrate. You got that? You will dehydrate and die from salt water. And they say that the salt water in the ocean, the same concentration of salt in the blood. It doesn't make any difference. In the blood, it has many nutrients utilizing it in precise ways. In seawater, you don't have that. If we were fish, it would be a different situation. But we're not fish.
 
-And when the algae in water starts eating- algae and mossy rock, and all plants eat rock.
+Q: Can you tell me what I would do when I have that reaction? What would you use, like milk?
 
-So, when the water mixes in the plants, whether it's algae, whatever, breaks those down into a clay, it's still a toxic laden clay.
+A: Well, I would put a hot water bottle there very quickly.
 
-It's a clay that I won't eat.
+Q: So get out of the water. If I even add all that stuff in water, is it probably still not enough to chelate everything? 
 
-[Attendee]
+A: It may not be enough. Since your water belt now is so toxic with all that fire contamination, I'd double the amount of stuff. What you might do is just double the vinegar. Somebody stopped over here.
 
-Which one would you eat.
+Q: So what does the flame do that would make it detox? Joe, it's mine on the floor.
 
-[Aajonus]
+A: Oh, on the floor.
 
-Well, Terramin clay is the best?
+Q: Can I have it?
 
-It's from an old aqua bead.
+Q: So exactly what does the flame do? Why would a certain organ react and not another?
 
-.
+A: It probably isn't your spleen. It's probably your pancreas. And the pancreas is here, and it's probably traveling a little bit with the nerves.
 
-(9) Collodial Silver
-[2009],[Attendee]
+Q: So is that like a poison trying to get out? Is there a particular organ? Why do you get a pain in a certain area and everybody gets something different? Is this detox, trying to detox something that's triggering similar?
 
-So, what's the hoax with the colloidal silver
+A: Well, the whole sound, certain sound vibrations can cause people to detox certain things.
 
-[Aajonus]
+Q: So it's just wherever it happens to be loaded up in your body.
 
-Colloidal silver are minerals, plants eat minerals, we don't?
+A: And you happen to be sensitive to the frequency of water. That's all I can think of.
 
-If we eat metallic minerals, what's gonna happen.
+Q: Or it could gas off in the water. Doesn't the water also gas off the chemicals?
 
-It's gonna become free radicals in the body, they do a lot of damage?
+A: Oh, absolutely.
 
-Of course, you'll feel better because you're poisoning the blood so badly, it's not gonna detox anything old.
+Q: You're breathing it in.
 
-It's just gonna handle that toxicity in the blood, that's how medication works.
+A: Yeah, unless you have the milk in there to draw it down. I mean, you can put clay in the water, too, to have extra insurance. I used to do that, too. Now that well water in the malibu mountains, canyons, really nice water.
 
-You poison the blood and the intestinal tract, so all the body does concentrate on those two systems, the blood and the intestinal tract.
+Q: Oh, wow.
 
-All of your symptoms go away.
+A: No contamination. Do you have a question, Anna? Okay, do you have a question?
 
-All of your other symptoms go away, so you think you're well but you're not.
+Q: I think you had a radio interview. And as part of the interview, you talked...
 
-[Attendee]
+Q: [unintelligible]
 
-So, it's just pushed deeper.
+A: About the radio interview on swine flu?
 
-[Aajonus]
+Q: Yes.
 
-Pushed deeper, and you're causing more toxicity because now you're not gonna be able to digest properly, cuz you've destroyed the bacteria in intestines?
+A: Okay.
 
-90% of all functions of the body happen with bacteria.
+Q: And as part of that interview, I think you had one of the topics was AIDS. And you, I think, said the development of AIDS took place at UCLA.
 
-90% of all functions in the body are by bacteria.
+A: Uh-huh.
 
-You destroy them when you take an antibiotic, you're destroying a myriad of bacteria all over the body: in the blood and the lymph, and the intestinal tract and the heart, brain, everywhere.
+Q: And given the amount of, I got from the article that you were saying that the only way that you could get AIDS was by injection.
 
-Mass contamination.
+A: Correct.
 
-So what happens.
+Q: Vaccination.
 
-You don't assimilate your nutrients, you don't heal properly, you scar and you get many more poisons deep into the tissue?
+A: Correct. Or blood.
 
-.
+Q: Or blood.
 
-(10) Cows Vs Goats
-[2009],[Aajonus]
+A: Transfusion.
 
-If you're overweight, I prefer goat milk
+Q: Or a transfusion.
 
-If you have a sugar problem or diabetes, prefer goat milk.
+A: Contaminated blood.
 
-But if you are not any of those four things, then cows milk is better.
+Q: So you don't really, it's not really a sexually transmitted disease?
 
-Have you ever seen a calm goat.
+A: Impossible. In my laboratory experiments, I've only found, let's say, two bodies of congested so-called virus of AIDS. A virus is not contagious in the first place. You have to have a chemical injected into you, just like swine flu. There's no way for you to get swine flu. Impossible. Swine flu, it means that you have pig tissue inside of your body, that your body is using a solvent, not a bacteria, not a parasite, not a fungus, to break that tissue down. Now, even if you had pig tissue in you from inhaling pig tissue, let's say you worked on a pig farm, and it was a toxic pig farm where the pigs had a lot of dandruff, and you inhaled it regularly, you would end up with a flu to break down the swine tissue. Still, it's not the same as a swine flu. The swine who makes a tissue, a solvent to dissolve its own tissue, is different from ours. So it's still not the same flu that a pig would get to clean its own tissue. So you cannot get AIDS unless it's injected. If you read Horowitz's stuff, you see they put it in the hepatitis B vaccine to give it to people in the States. They put it in the smallpox vaccine in Africa, $125 million donated by the U.S. government and the British government. Why? They took over 27 countries in Africa. How did they do that? They went in and said, oh, you've got a disease, and we gave you these free. Now, our government's not going to give free away anything unless there's something attached to it. So the British and the American government gave 125 million shots of vaccine to Africa for free and paid for them to be injected into the Africans, paid for all the doctors and nurses to do that, hundreds and hundreds and hundreds of millions of dollars. It was estimated about $2 billion to do that. What did they get? They went into the country and said, oh, you've got an AIDS problem. We have drugs, and they pulled AZT out of the vaults. AZT is the chemo they gave me. AZT was found a year after it was given to me to be so toxic for humans they would no longer give it to humans. So they put it in the vaults. When AIDS came out, they said, oh, AZT is good for AIDS. No test, no nothing. They just wanted to pull it out of the vault and kill everybody who had AIDS. So they took the AZT also over to Africa, and they killed everybody that they could. And so what happened was they went to government and said, oh, we'll give you this medical help. We'll give you this chemotherapy. We'll treat your people. Killed them, put them in debt, debt that they could never repay. So now the World Bank runs for the British and American governments, runs those 27 countries. And if you read a book called Confessions of a Financial Hitman, then you'll understand that's what they do, the governments do. It's a way of waging war and take over resources without having to really send people in to fight. You poison them to death.
 
-It doesn't happen?
+Q: And that book, again, there's Confessions of a What?
 
-So, their milk has adrenaline precursors in it, so you can't get fat on goat's milk.
+A: Confessions of a Financial Hitman.
 
-.
+Q: Can you just say one more time exactly what it is that they put in the vaccine with AIDS?
 
-(11) Dairy
-[2009],[Aajonus]
+A: Well, what they did was, according to Strecker, who found it, he found it was created at UCLA in 1961 and 62, and they claimed that they had produced it from the lymphomic virus of the sheep and the waste products and the leukemic virus of a bovine, a cow. So they took those two toxic substances, put them together, and then put it in the hepatitis and smallpox vaccine.
 
-And the reasoning is
+Q: So the virus isn't a bacteria or anything?
 
-[Attendee]
+A: No, it's not alive. It's a chemical. And the chemicals that they put in there allowed the chemicals to infiltrate the RNA and DNA chains and damage them. That's a biochemical, electromagnetic science that the military is very keen on. 
 
-And the reasoning is that if you were in the wild, you wouldn't really have a cow to milk?
+Q: So that's what AIDS is, the destruction of RNA, DNA strands?
 
-[Aajonus]
+A: Chains, yes. It breaks down the system.
 
-Oh, yeah.
+Q: David Icke talked to a shaman in Africa, and he said that their people would make these marks on their arm as if they had vaccination, so they would avoid it, because he could see, shamanically, he could see that the vaccination was not poisoning, but they actually even accessed some kind of a soul DNA in a way that actually altered their capacity for consciousness. So he was not going to let his people be damaged.
 
-There are many nomads that would capture a lactating animal and milk them?
+A: In Vietnam when they started vaccinating the children, the adults, the ones who were like shamans, and there were a lot of shamans in South Vietnam and North Vietnam, and the elders would come out and cut their arm off, off their shoulder, because they knew the poison was going to go back and do damage in the body. So they preferred to cut the arm off, they could see what was going to happen. They knew it was better to cut the arm off than to let that poison circulate through the system. And then, you know, the Americans, medical profession uses barbarians, you know, instead of the medical profession being the barbarians for injecting these poisons, the people became, you know, the grandparents became the savages for cutting off the arm. They could see what, of course, the Americans are not able to see at all. Okay, do you have a question?
 
-That's how they started doing it in the first place, especially the Norwegians.
+Q: Yeah, I've been on a diet about 14 months now, and I've just been feeling really bad the last month. I've had a bronchial infection that won't go away, and I'm so stiff and sore that it took me about 10 minutes to get out of bed, out of bed in the morning because I can't straighten my legs.
 
-You know, they didn't wanna like live like the Eskimos and have to eat icicles all the time, the meat with icicles.
+A: Are you waking during the night and eating? Or are you spending your whole eight hours asleep?
 
-Cause when you're fishing in a portal in the in, you've got ice foot and a half thick.
+Q: I usually sleep.
 
-By the time your fish comes out of there in your mouth, it's a popsicle already.
+A: You've got to wake up and eat.
 
-So, the Norwegians started importing cows and buffalo, buffalos had larger utters, into the Norwegian regions and started milking them.
+Q: Really?
 
-[Attendee #2]
+A: You'll lose, at your size, you're probably losing four to six tablespoons of red blood cells. As soon as five hours passes, your blood has not enough protein to feed the red blood cells. So the red blood cells start eating other red blood cells for the protein. You become cannibalistic. Fasting is a terrible thing because you're eating up your red blood cells. So what happens is you wake up with anemia. Everybody's waking with anemia, so they go for a drug, caffeine, nicotine, something like that to pump them up and give them energy. A hundred years ago, you had to be rich to afford coffee and nicotine unless you were growing it. Now people live on it. Pardon?
 
-And the Mongolians.
+Q: But they didn't wake up every couple of hours to eat?
 
-[Aajonus]
+A: Well, they weren't as toxic as we are, but they did. They woke up during the night. Absolutely, almost everybody that I knew and had interviewed always woke during the night sometimes and would have something to nibble on because they'd wake up because they were hungry.
 
-Mongolians did, Indians in India, heavy dairy country?
+Q: [unintelligible]
 
-They're vegetarians, but they're dairy eaters.
+A: It's not protein.
 
-Our mouth is predominantly bacteria.
+Q: That's what you told me to do, eat raw eggs.
 
-We have more bacteria than any other animal on the planet, including dogs and cats.
+A: Raw eggs? I thought you said rice.
 
-Dogs and cats have 16 - 118 bacteria parts per million of saliva.
+Q: No, no, when I get up and pee at night, I always pop an egg.
 
-We have 2300 - 2600 bacteria per million parts.
+A: Pop an egg, there you go. We're perfect.
 
-[Attendee #2]
+Q: You have it next to your bed?
 
-Never want to kiss anybody anymore.
+Q: Yes.
 
-[Aajonus]
+A: Perfect, yes.
 
-You're just giving them some good bacteria.
+Q: But I'm really stiff all day, too. It's like any time I sit or lie.
 
-So, we infiltrate our food with bacteria first.
+A: Just remember, if you get anemic in the night, you're going to have a hard time getting going in the morning because your body's trying to deal with the anemia. All of its nutrients are going to be going to the bone marrow in your joints. And if you've got toxic bone marrow and toxic joints, because let's say you have Crohn's or some leaky gut problem, you're going to have the exact symptoms you have. So it sounds like you not only have Crohn's, you cause anemia every day. So you need to suck eggs all day long, probably have 20 to a day, and wake during the night to have your protein during the night. Now, if you're a person who wakes after five hours and eats and can't go back to sleep because you have too much energy, then you wake, set your alarm for three hours, and then you sleep five hours.
 
-The hydrochloric acid just breaks apart larger food particles, so the bacteria can get in and eat and digest them.
+Q: And it's okay to let [unintelligible]?
 
-[Attendee]
+A: You should, but let me tell you, if you're causing anemia every day, that's going to go on for ages, six, seven years. So you need to take care of your basic things. Don't get anemic. Take care of that. You know, these detoxes usually don't last over a year and a half. Normally, they last about anywhere from two to six weeks. And then they pass on unless you've got a real serious bronchial problem, you know, toxicity. But I've seen them last up to a year and a half. That's the worst-case scenario.
 
-I guess one of the arguments that I've heard is, you know, well, no other species drink milk or some species.
+Q: I've had lung infections for many years before the diet.
 
-[Aajonus]
+A: And you took antibiotics for it?
 
-Have you ever offered any other animal milk.
+Q: No.
 
-I've given it to horses?
+A: Oh, good.
 
-I've even milked a cow given it its own milk, and they'll drink gallon, gallon and a half in one sitting.
+Q: But I did take colloidal silver.
 
-Every animal that I've ever offered, herbivore or whatever, has all consumed milk.
+A: You took what?
 
-It's just that how many females are gonna let 'em milk them.
+Q: Colloidal silver.
 
-Have you seen there's pictures on the internet where they have the tiger nursing monkey babies and animal baby?
+A: You poisoned yourself with minerals.
 
-[Attendee]
+Q: I used to breathe it.
 
-Babies, but adults, that's what I was wondering about?
+A: Pardon?
 
-[Aajonus]
+Q: You used to breathe it?
 
-All animals, every animal, even squirrels drink milk and eat cheese.
+Q: You used to what?
 
-I feed mine all the time.
+Q: You used to breathe it?
 
-Eating butter and getting the butter into your skin and sunshine is the best vitamin D source.
+Q: Breathe it in one of those.
 
-.
+Q: Oh, atomize it?
 
-(12) Dandelion Citric Acid
-[2009],[Aajonus]
+Q: Yeah.
 
-If you're after that particular effect of that particular herb
+Q: So what's the hoax with the colloidal silver stuff?
 
-[Attendee]
+A: Colloidal silver minerals. Plants eat minerals. We don't.
 
-Like dandelion might be your liver?
+Q: I know, but I'm saying that people that smell it now.
 
-[Aajonus]
+A: If we eat metallic minerals, what's going to happen? They become free radicals in the body. You do a lot of damage. Of course, you'll feel better because you're poisoning the blood so badly. It's not going to detox anything old. It's just going to handle that toxicity in blood. That's how medication works. You poison the blood and the intestinal tract, so all the body does is concentrate on those two systems, the blood and the intestinal tract. All of your symptoms go away. All of your other symptoms go away, so you think you're well, and you're not. 
 
-Well, dandelion is very high in vitamin C, so it helps the citric acid cycle of utilizing fats fuel, so it could give you more energy?
+Q: So it's just pushed deeper.
 
-There's different things that you can do with dandelion.
+A: Pushed deeper, and you're causing more toxicity because now you're not going to be able to digest properly because you've destroyed the bacteria in the intestines. Ninety percent of all functions of the body happen with bacteria. Ninety percent of all functions in the body are by bacteria. You destroy them. When you take an antibiotic, you're destroying myriads of bacteria all over the body, in the blood, in the lymph, in the intestinal tract, in the heart, brain, everywhere. Mass contamination. So what happens, you don't assimilate your nutrients, you don't heal properly, you scar, and you get many more poisons deep into the tissue. Do you have a question?
 
-Some people take it to clean the liver and the blood.
+Q: Yes. This is for a lady, my friend. She has osteoporosis. She's 42. She's getting pre-osteoporosis problem. And I tried to read in the book something about that. You just say that pasteurized milk causes that.
 
-I can't say necessarily does that, but the vitamin C is very good for oxidizing fats to be able to use as fuel for energy.
+A: Well, many things causes osteoporosis, but that's one of them.
 
-[Attendee]
+Q: What can she do to reverse the symptoms?
 
-We should be able to get everything we need without all those.
+A: Well, like I said in the book, she can drink raw milk, she can eat lots of cheese. Cheese a couple of times a day with honey.
 
-[Aajonus]
+Q: Okay.
 
-No, I'm saying they're all good if you can get them organic, and juice them and fresh?
+A: Because when you eat cheese, raw cheese, no salt, raw cheese, with honey, you will actually digest the cheese. Now, any food that's dehydrated has no bioactive enzymes difficult to digest. A dog and a cat can't even digest much raw cheese. If it's unsalted. Check the feces. It passes out whole almost. And a dog and a cat eat more with a high amount of hydrochloric acid, they may digest at the most 50%, and a human at the most 20%. If you eat honey with it, you're providing enzymes to digest the minerals in the cheese and some of the fat and protein. So, cheese all day long a little bit to absorb heavy metals and poisons, because when your body eats its own bone, it's doing it because it's low in calcium, phosphorus, potassium, and magnesium, the alkalinizing minerals, to alkalinize the acidic poisons in the body. And you produce a lot of acidic poisons just by cooking food. Then if you add all the food additives along with it, MSG and everything, you've got quite an array of toxins where your body has to use a vast amount of calcium, magnesium, phosphorus to not eat your own bones to do it.
 
-[Attendee]
+Q: Okay, with that, she's in an environment that there is no raw milk at all.
 
-We have clover in our yard, fresh, organic clover grass.
+A: She needs to move or get some cows or goats.
 
-We wondering if we could juice it.
+Q: Is that right?
 
-[Aajonus]
+Q: You can order it from the Amish.
 
-Out of your yard.
+A: Where does she live? In Timbuktu?
 
-Doesn't matter, you've got chemtrails galore and you had all those fires that sent you into a tizzy and a lot of people into a tizzy?
+Q: Sao Paulo, Brazil?
 
-So, all those burned, um, home products that burned up in the homes, which were highly toxic, radioactive.
+A: Sao Paulo. I got milk in Sao Paulo. All you have to do is go out, you know, there are mountains around there, and there are people with goats all over the place. You can get goats milk. She's just going to have to have somebody go get it for her. If she doesn't have the strength to go get it.
 
-Everything's in the soil.
+Q: So the goat milk is okay? I mean, if you didn't have the cow milk?
 
-Going on for years now, that'll go on for 10 years.
+A: If you don't have anything else, absolutely.
 
-[Attendee]
+Q: And do they make goat cheese without salt, too?
 
-It's all coming off my roof.
+A: Yeah.
 
-[Aajonus]
+Q: There's some on the table.
 
-Yeah?
+Q: Is that one right there?
 
-Should hose that and get it all down right away.
+Q: I made it a couple of days ago.
 
-You're breathing that a little at a time.
+A: Now, if you're overweight, I prefer goat's milk. If you have a sugar problem or diabetes, I prefer goat's milk. But if you're not any of those four things, then cow's milk is better. Have you ever seen a calm goat? It doesn't happen. So their milk has adrenaline precursors in it. You can't get fat on goat's milk. I like people to get fat to have the buffering to protect them from the poisons in the body. Do you have a question? Lorraine.
 
-[Attendee #2]
+Q: Yes. I told you I'm going to go over to Italy soon. I've seen a lot of squid and octopus there. Is it okay to eat that stuff?
 
-How do you know then that you get from somebody who doesn't have the same issue.
+A: Well, they're farmed.
 
-[Attendee]
+Q: They're farmed. So stay with, like, if there's clams, oysters, you said they're not big.
 
-Yeah, everywhere's toxic now?
+A: Farmed oysters and clams, all they can do is put a fence out in the ocean, and the government, let's say, tells them that they have to call it farmed. But they're still eating what's out in the ocean. Sometimes what they'll do is you've got a baby clam attached to a mother clam, and they won't grow to a full size unless they're broken off and transplanted. So that's what they do in these farms. It's still getting fed just by the ocean.
 
-[Aajonus]
+Q: So cod and, like, red snapper, are those okay?
 
-Not unless you follow up and say, give me the name of the producer and then you call the distributor.
+A: Halibut.
 
-Then the distributor will give you the producer's name and then you go through these channels, I've done it.
+Q: I mean, those particular fish.
 
-[Attendee]
+A: Those are ocean fish.
 
-Is anywhere not toxic now.
+Q: They are? Cod and red snapper?
 
-Everywhere's got toxins the air now?
+A: Yes.
 
-[Aajonus]
+Q: Okay.
 
-It's true, but I wouldn't trust anything around here.
+A: Tuna, swordfish. I mostly eat swordfish. In the Philippines, I mostly eat tuna.
 
-In fact, I stopped buying avocados from down here for the last year since that fire.
+Q: You can't get salmon anymore.
 
-[Attendee #2]
+A: No, I don't like salmon too much because it's too much from lakes, and they've set a lot of genetically modified salmon loose and they're crossbreeding now.
 
-Where did you get them from.
+Q: Really? Oh, my God. So we're eating GMO salmon now.
 
-[Aajonus]
+A: Yes, GMO salmon. So I don't like salmon anymore.
 
-⁠The lower part of Fresno Santa and Santa Maria area?
+Q: How about salmon from Tasmania?
 
-[Attendee #3]
+A: Tasmania would be okay.
 
-So, that goes for the organic farmers that are local here.
+Q: Because Newport Beach, they fly it in every day.
 
-[Aajonus]
+A: Oh, yeah?
 
-Absolutely?
+Q: Yeah.
 
-[Attendee]
+Q: What?
 
-I mean, that's what we're all eating.
+A: Tasmania is an island off of Australia.
 
-[Attendee #2]
+Q: But it says wild. Isn't that okay if it says wild?
 
-They're also being watered with the fluoride water too.
+A: No, because now they've let the salmon, the genetically modified salmon breed with the wild salmon.
 
-[Aajonus]
+Q: We're only talking about salmon.
 
-Yep.
+A: Yeah, only salmon.
 
-.
+Q: [unintelligible]
 
-(13) Depleted Soils
-[2009],[Attendee]
+A: Anything that's from the ocean that isn't salmon. 
 
-If our soil is depleted, then what's the best way to get minerals in our diet
+Q: Wild.
 
-[Aajonus]
+Q: What about salmon from Alaska?
 
-Vegetarians have come up with this concept, because they can't be healthy as vegetarians, so they're making excuses?
+A: It doesn't make any difference. That's where they mainly let them loose.
 
-There is no soil that's depleted, unless peanuts or legumes are grown in the soil like soy.
+Q: So to get beef over there, I told you they had wild boar. I don't know if it would be in that area, but any kind of beef over in Europe is okay? I mean, I don't know.
 
-Those grounds are completely depleted, but not in minerals, but of proteins and microbes.
+A: I ate at carrefour supermarkets when I was in Paris for three and a half years, and that was that mad cow meat. I don't have a problem. And I started eating that in 1993 to 1996, and they said it's a 10 to a 15-year incubation period.
 
-Never get depleted in minerals, it's impossible.
+Q: And Steve said for the nausea?
 
-[Attendee]
+A: You have to eat the brain and nervous system. They have that kind of toxicity from that cow. So you eat the muscle meat, you'll be pretty sure you're being okay.
 
-Wasn't that the whole idea of that when the Nile with flood and everything, and it would have such plentiful crops as a result of all the minerals that came.
+Q: Okay. Steve mentioned the nausea. Do you take the cheese, like just a cube, like every 15 minutes or something?
 
-[Aajonus]
+A: Every 20 minutes.
 
-Well, the algae breaks down rock, provides all those minerals?
+Q: Every 20 minutes until it stops. Okay.
 
-So, when the algae would flow over there, they would have all these digested minerals and they would break down into the soil.
+A: I mean, if it's so bad where you're constantly feeling like you're going to vomit. You could have it every 10 minutes.
 
-[Attendee]
+Q: Yeah, I ate that stuff, and I was like starting to. Thank you.
 
-Right.
+Q: [unintelligible]
 
-That makes sense, but we don't have that in the places where there are farmers farming land.
+A: I got it.
 
-[Aajonus]
+Q: I get my questions answered.
 
-No, it's about getting microorganisms in the ground to break down the minerals to release them.
+A: Go into the end on your file cabinet to the left of the desk and get my milk. Please, thank you. Oh, wait a minute. You have some milk over there, right?
 
-It's not about putting minerals into the ground, it's already there.
+Q: I do.
 
-It's you have poisons in the ground that are preventing the fractionation of those to be absorbed by the plants, that's the issue.
+A: Never mind. That's okay. I'll have some goat for a change.
 
-[Attendee]
+Q: Do you have a cheese too?
 
-Right.
+Q: Goat cheese over there.
 
-[Aajonus]
+Q: And Mike is a local goat guy. He's got lots of commercial products.
 
-Microorganisms in.
+Q: I got something I can pass off the car.
 
-[Attendee]
+Q: Can I get a cheese? Oh, okay, please.
 
-In our body?
+Q: Yeah. I'll give you some.
 
-[Aajonus]
+Q: It's good that you're asking all those questions.
 
-Oh.
+A: Yeah, that way I won't drink it all.
 
-Well, if you're drinking vegetable juice, you're already doing, you're already doing it.
+Q: All right.
 
-[Attendee]
+A: So, you know how most people would be running to the doctors and get amputations and the whole kind of stuff? I've been working. I've been working. Working like a dog. Every week I travel to a different city. I do a lecture all on Saturday, 10 to 12-hour day, and then I do patients anywhere from two to five days. I was in Chicago. I had patients from 8 o'clock in the morning until 9 o'clock in the evening all day long, even with all this. I'm 62 years old, folks. You know that's got to be healthy to be able to go through this.
 
-Doing what.
+Q: Tell us what island you went to in the Philippines.
 
-[Aajonus]
+A: I went to quite a few.
 
-Providing many minerals and enzymes that you wouldn't normally get and vitamins?
+Q: Did you go to Palau?
 
-We're not herbivores.
+A: Pardon?
 
-We take vegetables and we juice them, so we have this concentrated mineral solution with lots of vitamins and enzymes.
+Q: Did you go to Palau?
 
-Those are your supplements.
+A: Palawan?
 
-Taking a cup of vegetable juice a day, even if the soil so-called depleted is 10 times the amount that you would ever get in good soil.
+Q: Palau.
 
-That's why vegetable juice is part of the diet.
+A: Palau? No, I didn't. There are 7,107 islands in the Philippines.
 
-.
+Q: Which one did you go to?
 
-(14) Dry Scalp, Grey Gair From Aluminum
-[2009],[Aajonus]
+[laughter]
 
-Yours is not from the normal dryness, yours is from Mercury in your brain and aluminum
+Q: Why did you go back a second time? You went back there and you were fine, and then you go back a second time and that happened?
 
-And that's until your body stops throwing it off, or you can handle it correctly out of the skin without breaking out.
+A: Yeah. Well, I'm looking for land for the clinic. They've offered me 220 acres for $160,000. Mountains.
 
-See, normally the body will build those toxins into the hair follicles and build it into hair.
+Q: Oh, my God.
 
-Yours is just coming out the skin.
+A: Yeah, very nice. It's through a tribe. I helped them. They had malaria. Two of the children, infants of one of the chiefs had malaria. There were three translators because we go from Tagalog, which is the main language of the Philippines, then you have specialized dialects within the tribe. So we had to go through translators. The translator for English from Tagalog to English from the chief, he said, you know, I really can't be with you all today because I have to get my two youngest daughters. One was a year and one was three. He had five daughters. I have to get them to the hospital because they have malaria. Two of them have it. The two youngest have malaria. So she translated that to me because she knows I'm a doctor of nutrition. And I said, well, 85% of the people who go to the hospital for treatment for malaria die. Only 40% die who don't go to the hospital. So your daughter's chances of surviving out of the hospital are better. But all you have to do is take your lime juice and take two ounces of that, two ounces of the honey, not that garbage stuff they make, mix that together with six ounces of butong water, which is coconut water. So they mixed that, and I got, after three weeks after I'd left there, I said give that to them, you know, one to two tablespoons every hour, on the hour for three days, and then one to two tablespoons every two to three hours for three to five more days after that. So I got an e-mail ten days after being there, the girls were fine.
 
-So you have good hair, but you don't have good skin.
+Q: Wow. What were their symptoms?
 
-So, most people will lose their hair because it builds into the follicles, damages the follicle.
+A: They had very high fevers, colds and sweats. They could be burning up and be as cold as cold can be.
 
-Yours is coming right outta your scalp, right outta your skin.
+Q: And they were babies, one-year-olds?
 
-And that's for every vaccine that you've ever had that much to went to your brain.
+A: One was one and one was three.
 
-What you can do is put some bone marrow, rub oily bone marrow at room temperature, rub that into your scalp and see if that will strengthen the RNA and DNA, so you can lose hair instead of losing your scalp.
+Q: Oh, you must be ecstatic.
 
-[Attendees]
+A: Well, they were, so they really want me to buy the land and be there and build my clinic so I can help them. But I told them you can only get malaria if you're a carb eater. Carbohydrate eater. So I told them you need to stop eating all that, you know, rice, corn, and eat, you know, like your other tribes that eat just fish and coconut.
 
-Laughs oh boy.
+Q: Don't they eat a lot of taro and all that kind of stuff? Those roots?
 
-[Aajonus]
+A: No, that's from Hawaii.
 
-Your choice.
+Q: All the Pugians and Samoans?
 
-[Attendee]
+A: Pugians? Yeah, that's right. When I was in Tahiti they were in that way, too. And I didn't see any of that, any roots. Also in Thailand they're big on roots.
 
-Will the hair grow back after.
+Q: [unintelligible]
 
-[Aajonus]
+Q: What's the name of this island, then?
 
-Not very often?
+A: Palawan.
 
-You see with chemotherapy, this hasn't grown back since I was 22 years old.
+Q: So, there's two questions.
 
-[Attendee #2]
+A: Pardon?
 
-Is there, is there any way to get the mercury out without it all coming out his head like that.
+Q: The question is here. My question is with him.
 
-[Aajonus]
+A: Oh, you want him to have your question.
 
-No?
+Q: Okay, thank you. My main problem right now is I have this gut. I don't drink beer. I want to get it flat.
 
-Yours is mostly aluminum and it turns it grey.
+A: No, you don't.
 
-Destroys benzoic acid properties of the follicles.
+Q: I don't?
 
-[Attendee #2]
+A: If you're asking me, I say no. You don't want to get rid of it. I kept mine for 23 years.
 
-He hasn't had that many vaccines, but I had a lot of mercury from teeth and pesticides, all kinds of, so do you think from breastfeeding him when he was a baby, that's why.
+Q: Flat now?
 
-[Aajonus]
+A: Now, yes. For 23 years I kept it. It's like a baby. A baby's not going to grow and get healthy fast unless it has that gut. You notice that all babies who have no gut, their bones grow thin and feeble. So, you want a baby to be fat. You have to be fat because you're on a new diet. You're growing yourself anew. You have to consider yourself a baby. So, you need all those extra nutrients to be able to distribute that. If you run into a detox, what's going to happen? You don't have the excess nutrients. You're going to fall and crash hard.
 
-Yes, during gestation and breastfeeding?
+Q: This is the only place with fat, right here.
 
-[Attendee #2]
+A: That's good, but it goes from there to the rest of your body if you just keep eating. And I say that in my books. Fats, if you haven't finished reading the book, [unintelligible] part of the book. Fat, fat, fat. Get fat.
 
-And my mother always cooked in aluminum.
+Q: Thank you very much Aajonus.
 
-[Aajonus]
+[laughter]
 
-Almost all gray hair as a result of high aluminum.
+A: But, you know, I'm still fat. Last night I was 18.7% body fat. Athletes who are my size are like 9-12% body fat. But, when the fat molecules are very tiny, like when they're raw, they don't take up much space. But, when you cook a fat, it swells anywhere from 5-50 times its normal size. So, you have all this bloating from all this old fat. I've been on this diet eating all raw foods and no cooked fats since 1972, February of 72. So, I don't have any of those toxic fats in my body anymore. All of the molecules of fat are small. So, I can stay trim and still be fat. But, I wish I had had more fat on me when this happened, because I would have gotten to this quicker and easier. Because my body got poisoned.
 
-[Attendee #2]
+Q: Did you lose muscle mass too? You look like you lost muscle mass.
 
-So, basically the diet just eventually takes care of this stuff.
+A: I lost everywhere. I lost muscle and fat. So, I'm down to, you know, like a 29 inch waist.
 
-There's nothing special.
+Q: It doesn't matter how much you eat.
 
-[Aajonus]
+Q: How do you measure that body fat?
 
-40 years to get rid of the toxins?
+A: I have a scale, a special scale for that. It's within, if you go into a water tank and they have electrodes to you, that is your absolute perfect measurement. But, when I took my scale there to UCLA's water tank to check, it was only one and a half points off. Sometimes, some people were right on.
 
-I still have 14 years to go.
+Q: Where do you get that scale?
 
-I'm 62 years old than I'm still alive.
+A: Pardon?
 
-I was supposed to die 42 years ago.
+Q: Where do you get that scale?
 
-Healthier than I ever was as a child.
+A: You can go online and find it.
 
-This is nothing compared to what I suffered as a child.
+Q: Drugstores have it.
 
-[Attendee]
+Q: Bed Bath and Beyond has it. Body fat scale.
 
-If she stayed on the diet for 40 years, will her hair grow back.
+Q: Aajonus, are you stuffing yourself? I mean, are you eating like crazy to add the nutrients to there? I mean, are you eating a lot?
 
-[Aajonus]
+A: I'm eating double the butter that I usually eat. But, you have to understand, this is taking a lot of nutrients.
 
-Well, even her hair is coming back?
+Q: I see that.
 
-My hair is getting darker.
+A: I mean, that's a lot of nutrients. I'm losing blood and serum constantly. The swelling in here, the whole taking care of this calf is full of that toxic insulin. My ankles, everywhere. Now, this one's doing it too in here. I mean, I eat tremendous amounts. I eat almost double what I usually eat. Double the meat, double the fat, everything. If I didn't, I would be ultra skinny.
 
-In mine, I get gray patches, a year ago this was dark.
+Q: You look thin already.
 
-This is the only thing that doesn't go back and forth.
+A: Yeah, I am thin. For me, yeah.
 
-Used to have a gray patch back here for six years that went away.
+Q: Do you soak that at all? Do you soak your leg at all?
 
-So it comes and goes.
+A: Yeah, I do in vinegar. And when I get into a bath, I'll put like a pint of vinegar in the water. Tiny bit of sea salt. And I'll let all of these come off.
 
-As I dump a lot of aluminum out of my brain, then my hair goes gray.
+Q: Does that hurt?
 
-[Attendee]
+A: No, it doesn't hurt until I get out and it starts drying off. And then I put the urine on it. Coconut cream will irritate it, cause more inflammation. That's usually what I do. Do you have a question?
 
-So, somebody that's healthy and they have a dark head of hair, which is not dyed.
+Q: Yeah. In making high meat, you say that it takes a few days to go outside and leave it in the fresh air. And after you do this for like a week and a half or two.
 
-[Aajonus]
+A: Oh, you can do it in your house if you don't like your house.
 
-Means they're not discarding aluminum out the hair.
+Q: That's not that stinky. But anyway, you get all this bacteria and it looks like fungus and stuff growing on top.
 
-[Attendee #3]
+A: Well, fungus is a fungus. Fungus isn't bacteria. They're two different things.
 
-It doesn't mean they don't have it.
+Q: Okay, it's bacteria. 
 
-[Aajonus]
+A: Well, if you have a mold growing on it, cause that's a fungus. And that's fine.
 
-Right?
+Q: Well, how do you know it's growing on it?
 
-Doesn't mean they don't have it.
+A: Pardon?
 
-It means you're not discarding.
+Q: How do you know it's growing on it?
 
-[Attendee]
+A: It doesn't matter. Whatever it's growing on is breaking it down and predigesting it for you.
 
-I think somebody told me that gray hair is because of the lack of a nutrient.
+Q: Okay. So, my question is, when you do this, you see all of this growth on top. The rest of the jar looks pretty much the same. Red and looks fresh. Is it a good idea to maybe stir it up a little bit? Is it a good idea to stir it up a little bit?
 
-[Aajonus]
+A: You can, absolutely. I tell people to cut their meat up into chunks.
 
-They used to say it was a lack of para amino benzoic acid, B vitamin that regulates pigmentation.
+Q: I do.
 
-But aluminum destroys it.
+A: Pieces, okay.
 
-[Attendee]
+Q: But it seems like all the mold is on top. The rest of it looks like it's unaffected. So, it seems to me it would be good to stir it up.
 
-Oh.
+A: Yeah, stir it if you like. If you want molds to be breaking it down and you want bacteria, don't stir it. Just air it.
 
-.
+Q: [unintelligible]
 
-(15) Eat In Middle Of Night
-[2009],[Aajonus]
+A: You may need the fungus to break it down for you. It doesn't matter what breaks it down.
 
-Okay
+Q: Do you eat that daily without any [unintelligible]?
 
-Do you have a question.
+A: I have a person that only eats high meat. He eats two pounds a day. He won't eat any fresh meat. It changed his life. He has a terrible digestive problem. He has no problems.
 
-[Attendee]
+Q: Does he have Crohn's or something?
 
-Yeah?
+A: Pardon?
 
-I've been on a diet about 14 months now.
+Q: Does he have Crohn's or something?
 
-I've just been feeling really bad the last month.
+A: He had Crohn's and a lot of other problems. He has multiple problems. Do you have a question?
 
-I've had a bronchial infection that won't go away and I'm so stiff and sore that it took me about 10 minutes to get out of bed in the morning cuz I can't straighten my legs.
+Q: There are a lot of people who say that we're really not meant to eat dairy.
 
-[Aajonus]
+A: And the reasoning is?
 
-Are you waking during the night and eating or are you spending your whole 8 hours asleep.
+Q: And the reasoning is that if you were in the wild, you wouldn't really have the same cows and milk.
 
-[Attendee]
+A: There are many people, there are many nomads that would capture a lactating animal and milk them. That's how they started doing it in the first place. Especially the Norwegians. They didn't want to live like the Eskimos and have to eat icicles all the time. Their meat is icicles. When you're fishing in a portal, you've got ice a foot and a half thick. By the time your fish comes out of there, and that is in your mouth? It's a popsicle already. It's that frozen. So the Norwegians started importing cows and buffalo, just buffaloes that had larger udders, into the Norwegian regions and started, you know, the hardier ones, and started milking them. 
 
-Usually asleep?
+Q: And the Mongolians?
 
-[Aajonus]
+A: Mongolians did. A lot of Indians in India. Heavy dairy country. They're vegetarians, but they're dairy eaters. We have all the bacteria. Our mouth is predominantly bacteria. We have more bacteria than any other animal on the planet, including dogs and cats. Dogs and cats have 16 to 118 bacteria parts per million of saliva. We have 2,300 to 2,600 bacteria per million parts of saliva.
 
-You gotta wake up and eat.
+Q: You never want to kiss anybody anymore.
 
-[Attendee]
+A: You're just giving them some good bacteria. So we infiltrate our food with bacteria first. The hydrochloric acid just breaks apart larger food particles so the bacteria can get in and eat and digest them.
 
-Really.
+Q: I guess one of the arguments that I've heard is, you know, well, no other species drinks milk of some other species. So I'm just trying to figure out...
 
-[Aajonus]
+A: Have you ever offered any other animal milk? I've given it to horses. I've even milked a cow and given it its own milk. And they'll drink a gallon, gallon and a half in one sitting. Every animal that I've ever offered, vegetarian, I mean herbivore or whatever, has all consumed milk. It's just that how many females are going to let them milk them?
 
-At your size, you're probably losing 4 - 6 tablespoons of red blood cells?
+Q: I've seen those pictures on the Internet where they have the tiger nursing the, you know, monkey babies.
 
-As soon as 5 hours passes, your blood has not enough protein to feed the red blood cells.
+A: So all animals, every animal, even squirrels, drink milk and eat cheese. I feed mine all the time. Run around outside.
 
-So, the red blood cells start eating other red blood cells for the protein, become cannibalistic.
+Q: Is that the best source of vitamin D, then?
 
-Fasting is a terrible thing cause you're eating up your red blood cells.
+A: No, your sunshine is. Butter, eating butter, getting the butter into your skin, and sunshine is the best vitamin D source. Do you have a question? Do you have a question?
 
-What happens is you wake up with anemia, everybody's waking with anemia, so they go for a drug: caffeine, nicotine, something like that, pump them up, give them energy.
+Q: Can I ask a question?
 
-A hundred years ago you had to be rich to afford coffee and nicotine, unless you're growing it.
+A: Yes, you may. If he gives it to you, you give it to him.
 
-Now people live on it.
+Q: If our soil is so depleted that there is no minerals in it, what's the best way to get minerals in our diet?
 
-Pardon.
+A: Vegetarians have come up with this concept because they can't be healthy as vegetarians. So they're making excuses.  There is no soil that's depleted unless peanuts or legumes are grown in the soil, like soy. Soil grounds are completely depleted, but not of minerals, but of proteins and microbes. Never get depleted of minerals. It's impossible.
 
-[Attendee]
+Q: Well, is that what the whole idea was, that when the Nile would flood and everything, it would have such plentiful crops as a result of all the minerals that came from the river?
 
-But they didn't wake up every couple of hours and eat either, right?
+A: Well, the algae breaks down rock. It provides all those minerals. So when the algae would flow over there, it would have all these digestive minerals, and they would break down into the soil.
 
-[Aajonus]
+Q: Right, it makes sense. But we don't have that in the places where there are farmers farming land.
 
-Well, they weren't as toxic as we are, but they did?
+A: No, it's about getting microorganisms in the ground to break down the minerals to release them. It's not about putting minerals into the ground. It's already there. You have poisons in the ground that are preventing the fractionation of those to be absorbed by the plants. That's the issue.
 
-They woke up during the night, absolutely.
+Q: Right, so if the issue's there, then how do you get the...
 
-Almost everybody that I knew and have interviewed always woke during the night sometime and would have something to nibble on cause they wake up cuz they were hungry.
+A: Microorganisms.
 
-[Attendee #2]
+Q: [unintelligible] In our body.
 
-When I get up to pee at night, I always pop an egg.
+A: Oh, in your, well... If you're drinking vegetable juice, you're already doing it.
 
-[Aajonus]
+Q: You're already doing what?
 
-Pop an egg.
+A: You're providing many minerals and enzymes that you wouldn't normally get, vitamins. We're not herbivores. We take vegetables and we juice them so we have this concentrated mineral solution with lots of vitamins and enzymes. Those are your supplements. I mean, taking that, taking a cup of vegetable juice a day, even if the soil is so-called depleted, is ten times the amount that you would ever get in good soil. That's why vegetable juice is part of the diet.
 
-There you go, perfect.
+Q: How much greater is that intensity in juicing it versus eating a lot of salads? [unintelligible]
 
-[Attendee]
+A: You can't digest it. We have a herbivore that has two and a half times more digestive tract than we do. They have 60,000 more digestive enzymes for breaking down the cellulose molecule to get the fat and protein. It takes 48 hours or more for food to pass through their systems with 60 to 80% of it digested, not even all of it digested, 2% in ours. That's it, 2% in 24 hours. It over alkalinizes the intestines and neutralizes all of that hydrochloric acid that you have in the stomach and the small intestines to break down your food particles. So smaller amounts of bacteria can eat them. Our bacteria is of acidic nature. The fluids, the alkaline fluids from whole vegetables will neutralize those. So you stop digesting.
 
-But I'm really stiff all day too.
+Q: Why even have the vegetable juices if we're really not meant to eat vegetables? Is that what you're saying?
 
-It's like anytime I sit.
+A: I'm saying don't eat whole vegetables. I'm saying drink the vegetable juice because you can get all the minerals, vitamins, and enzymes from the vegetation. That we can handle. That's the 2% we can handle.
 
-[Aajonus]
+Q: In nature you wouldn't have a juice or so.
 
-Just remember if you get anemic in the night, you're gonna have a hard time getting going in the morning cuz your body's trying to deal with the anemia.
+A: Well, do like the dogs, cats, and the gorillas. They chew the fiber, they chew it and spit out the fiber. They're juicing in their mouth.
 
-All of this nutrients are gonna go be going to the bone marrow and your joints.
+Q: Is that what you get in Thailand or do you get juice in Thailand?
 
-And if you got toxic bone marrow and toxic joints, because let's say you have Crohn's or some leaky gut problem, you're gonna have the exact symptoms you have.
+A: I can get juice in Thailand.
 
-So, it sounds like you not only have Crohn's, you cause anemia every day.
+Q: For the salad, I think you said don't have it with oil or vinegar?
 
-So, you need to suck eggs all day long.
+A: Right, because it coats it. And I said if you're going to eat vegetation, you eat a salad and you eat it last thing in the day.
 
-Probably have 22 a day and wake during the night to have your protein during the night.
+Q: Right, but you don't put any olive oil on it?
 
-Now, if you're a person who wakes after five hours and eats and can't go back to sleep, cuz you have too much energy, then set your alarm for three hours, and then you sleep five hours.
+A: You can make a cheese sauce, something like that.
 
-Let me tell you, if you're causing anemia every day, that's gonna go on for ages 6 - 7 years.
+Q: Right, but why don't you want oil on it or vinegar?
 
-So, you need to take care of your basic things, don't get anemic.
+A: It coats the vegetation.
 
-Take care of that and these detoxes usually don't last over a year and a half.
+Q: What if you just have vinegar on it? Is that ok?
 
-Normally, they last about anywhere from 2 - 6 weeks and then they pass on.
+A: It's ok. You'll start fermenting it. It'll be just a little bit better with that.
 
-Unless you've got a real serious bronchial problem, toxicity, but I've seen them last up to a year and a half.
+Q: It won't feel good on your stomach if you put olive oil on it.
 
-That's the worst case scenario.
+A: Not usually. Well, it depends upon the person. Some people can handle it. Italians and Greeks are used to it. But that's centuries of use.
 
-[Attendee]
+Q: [unintelligible]
 
-I've had lung infections for many years before the diet.
+A: You can't digest that cellulose.
 
-[Aajonus]
+Q: But you say if you eat cooked food, you have to have the raw salad.
 
-And you took antibiotics for it.
+A: Well, if you eat cooked meat, you better have a raw salad with it or else it's not going to move. It'll putrefy it. Ok, do you have a question?
 
-[Attendee]
+Q: I have trouble running... I couldn't get my body to move and I'm just trying to start. I'm sleeping a lot.
 
-No?
+A: I can see your skin right now and you don't have any good animal fats in your body. Do you have a lot of grain fats, fats and acetates that are made from grains?
 
-[Aajonus]
+Q: I've been doing 20 years of vegetarian diet.
 
-Oh, good.
+A: There you go.
 
-[Attendee]
+Q: How much can I jump in to this?
 
-But I did take colloidal silver.
+A: People jump into it wholeheartedly. Just remember this, 50% of my cancer clients are long-term vegetarians. And vegetable oils cause all the hardening of the arteries in the heart. Because they crystallize. We can't digest them.
 
-[Aajonus]
+Q: So it's not like [unintelligible], arthritis and stuff?
 
-Poison yourself with minerals.
+A: Well, you don't have any lubrication in your body. Good fats. You don't have any good animal fats in your body. You just have... butter, cream.
 
-.
+Q: Is the honey really essential?
 
-(16) Farmed Fishoysters, What Fish To Eat
-[2009],[Aajonus]
+A: No, it isn't essential. It's sure going to help you digest, but it isn't essential. For some people it is. So I suggest you go into the recipe book and on page 146 and make the moisturizing formula. Make a good moisturizing formula and sip that throughout the day.
 
-And I'd like people to get fat to have the buffering to protect them from the poisons in the body
+Q: [unintelligible]
 
-Do you have a question, Lorraine.
+A: The recipe book. Do you have a question?
 
-[Attendee]
+Q: I recently found a source for getting bison directly from Montana. It comes here frozen. Is there a problem with that?
 
-Yeah?
+A: Definitely. When I did experiments with animals and fed them frozen meats, they all got skin disorders within six weeks. The animals that I fed, I had two groups, the animals that I fed the same meat that wasn't frozen had no disorders. I didn't feed them water, anything. They only ate the meat for that six week, ten week period. Then all of the animals who got the skin disorder, one even got scabies. I took those animals and split them in half and fed them half raw butter and half frozen butter. The same butter, some of it frozen, some of it unfrozen. The animals that I gave the frozen butter to took five times longer to heal their skin disorder. So freezing does affect it. I don't care what Sally Fallon or anybody else says. They have never done the experiments I have.
 
-I told you I'm gonna go over it Italy soon.
+Q: So don't freeze anything?
 
-I've seen a lot of squid and octopus there.
+A: Well, you can just freeze fruits. Nothing harms fruits.
 
-Is it okay to eat that stuff.
+Q: Cheese?
 
-[Aajonus]
+A: Cheese, you don't want to freeze cheese.
 
-Well, they're farmed?
+Q: Fish?
 
-[Attendee]
+A: Well, if you get arctic fish, that's okay.
 
-They're farmed.
+Q: Everything comes down frozen from the boats.
 
-[Aajonus]
+A: As long as it's an arctic fish. Do you have a question?
 
-Farmed oysters and clams, all they can do is put a fence out in the ocean and the government tells them that they have to call it farmed, but they're still eating whats out in the ocean.
+Q: I do. I just have a note to that. Because you said the dogs had psoriasis. I've been feeding it just the stuff from the supermarket, like natural bison or whatever. I mean, I wasn't...
 
-Sometimes what they'll do is they'll do is, you've got a baby clam attached to another clam and they won't grow till they're full size, unless they're broken off and transplanted.
+A: It could be frozen, it could be...
 
-So, that's what they do in these farms.
+Q: They freeze it. It looks like it's fresh, but it's probably frozen now that you said that.
 
-They're still getting fed just by the ocean.
+A: Yeah.
 
-[Attendee]
+Q: Is that why he's got this skin problem?
 
-So, cod and like red snapper.
+A: Psoriasis, yep.
 
-Are those okay.
+Q: And should you take the skin off, right? They shouldn't have the skin?
 
-[Aajonus]
+A: Right. You can't give them frozen meats.
 
-Those are ocean?
+Q: No kidding.
 
-Tuna, swordfish, I mostly eat swordfish.
+Q: [unintelligible] Everything is previously frozen, so they'll say fresh.
 
-When I'm in the Philippines, I mostly eat tuna.
+A: Well, there are others that don't say that. They say fresh.
 
-[Attendee]
+Q: There are some that say that. We get fresh. Fresh from this co-op that we have here. You get fresh from...
 
-You can't get salmon anymore.
+Q: Which co-op?
 
-[Aajonus]
+Q: The co-op that we have here.
 
-No, I don't like salmon too much because it's too much from lakes and they've set a lot of genetically modified salmon loose and they're crossbreeding now.
+Q: Yeah.
 
-[Attendee]
+Q: [unintelligible]
 
-So, we're eating GMO salmon.
+A: You go to markets around here and just look for non-frozen.
 
-[Aajonus]
+Q: [unintelligible]
 
-Yeah, GMO salmon?
+A: You get the fresh ones, as long as it's ocean.
 
-So, I don't touch salmon anymore.
+Q: Yeah.
 
-[Attendee #2]
+A: Ocean fish, not lake fish. Do you have a question?
 
-How about salmon from from Tasmania.
+Q: Yeah. I've got a lot of joint problems, including some deterioration of the cartilage and that type of thing. What can I do what's the best thing for it?
 
-[Aajonus]
+A: It all depends on why you have it. 80% to 90% of all deterioration of the joints comes from leaky gut, from the intestinal production. Mucus is very shallow, and the mucus fibers are very open, so your own digestive acids and juices get into there. Bacteria start eating your own intestinal walls. They get so thin that if you eat a lot at one time, drink a lot, it rips the gut, and then you have leaky gut. You have undigested food that will go to the joints for digestion. It's 80% to 90% of all arthritis and rheumatism comes from that. So I would say look to there first.
 
-Tasmania be okay?
+Q: Then what's the best thing if that was the case?
 
-[Attendee #2]
+A: That's a whole diet in itself for Crohn's. It's mostly eggs. You need anywhere from 24 to 32 eggs a day.
 
-Because Newport Beach, they fly it in every day.
+Q: Do you eat something else with the eggs?
 
-[Aajonus]
+A: No. Eggs digest in 27 minutes. It only takes 3 to 5 inches of the intestine to absorb, to completely digest and absorb eggs. All this fat and protein with very little energy expense and digestion. So you get to reserve all of your intestinal tract. All of your intestinal tract, you reserve the energy once you've been absorbing and digesting all this, assimilating all this egg.
 
-Tasmania's an island off of Australia.
+Q: What about butter? Would you eat butter with the eggs?
 
-[Attendee]
+A: No.
 
-But it says wild.
+Q: Tiny bits?
 
-Isn't that okay if it says wild.
+A: No, because then you're causing a problem in digestion. I'm not saying don't eat any other thing, but I'd have to see his eyes to be able to determine what I would suggests. Right off, I would say eggs, say sipping on milk, never gulping. You gulp anything, the H2O rushes to the kidneys, you piss it out. So then your nutrients cannot carry H2O to the cells. So you sip. You see me when I sip? I don't sip, I suck. You see when I do it, I suck. I keep my teeth together, put my tongue there, and I force whatever I'm drinking through. Why? Like a baby sucking gets all that bacteria into the milk. So I digest very easily. So I never get dehydrated, and I drink maybe two quarts of fluid a day, and that's in the form of milk and the fruit and the meat. Meat's 55% water. Milk is 86% to 82% water. So you have all of this fluid in your food as long as it's raw, and it's all ionically attached. So you can utilize 100% of the water in your raw foods. Once you've cooked it, you fractionate all of that. You drink water, same thing as eating salt. It fractionates the smorgasbord of nutrients, dilutes your digestive acids, all kinds of problems.
 
-[Aajonus]
+Q: You said fruit. What kind of fruit do you eat?
 
-No, because now they let they've let the salmon, the genetically modified salmon breed with the wild salmon?
+A: Well, you saw me eat the watermelon rind.
 
-They're only talking about Santa.
+Q: That's right. Yeah. But you don't eat it with cream.
 
-Yeah.
+A: I had some cream with berries first.
 
-Anything that's from the ocean that isn't salmon.
+Q: Oh, okay, because I get pot burn from everything.
 
-[Attendee #2]
+A: I always eat fat with my food, always, always, always.
 
-What about Alaska.
+Q: Oh, okay.
 
-Salmon from Alaska?
+A: Always eat fat. And I say that in both books. Always eat fat with your fruit.
 
-[Aajonus]
+Q: So could it be cheese or butter, or does it have to be milk?
 
-Doesn't make any difference.
+A: It doesn't matter what you want it to be. It could be any of the fats.
 
-That's where they mainly let them loose.
+Q: Okay.
 
-.
+A: Avocado, cheese, butter, cream. Just remember, if you eat cream, it's harder to digest, and you'll have a tendency to retain more water. But you still need at least two tablespoons of cream a day in addition to whatever's in your milk, unless you've added it to your milk already. Okay, do you have a question?
 
-(17) Frozen Meat & Butter
-[2009],[Aajonus]
+Q: Yeah. A family member has been on the diet for a while, and they have a severe allergy to dust mites. What do you recommend?
 
-When I did experiments with animals and fed them frozen meats, they all got skin disorders within six weeks
+A: That's a low mucus. You know, like I said, when you have mucus, if you look at mucus under a microscope, it's like a bunch of material put together, layers of material. If the fibers are tight, nothing's going to get through. And it could be as much as 20 layers thick when you're dumping mucus, or it could be as small as three layers thick. If the fibers are open, and you don't have enough protein fibers, all of those dust mites will just get right through those mesh, that mesh, and right in here, take the mucus membranes. And that's an issue. That's a problem. So they need to build mucus. Milkshakes are your best. Milk and eggs together with a little honey, extra cream, helps build mucus fast. Okay? Do you have a question?
 
-I had two groups.
+Q: I do, yeah. I've been on the diet for about a year, and I've had [unintelligible]. And I started...
 
-The animals that I fed the same meat that wasn't frozen, had no disorders.
+A: Where?
 
-I didn't feed them water, anything.
+Q: [unintelligible]
 
-They only ate the meat for that 6 - 10 week period.
+A: Oh, I see.
 
-Then all of the animals who got the skin disorder, one even got scabies.
+Q: [unintelligible]
 
-I took those animals and I split them in half and fed them half raw butter and half frozen butter.
+A: Then it's not a normal eggs.
 
-The same butter, some of it frozen, some of it unfrozen.
+Q: Well, I've been doing lube drinks for about, double-lube drinks for about three months, and [unintelligible] drinks every day, and it hasn't slowed down at all.
 
-The animals that I gave the frozen butter to took five times longer to heal their skin disorder.
+A: No. Yours is not from the normal dryness. Yours is from mercury in your brain and skull. Aluminum. And that's until your body stops throwing it off and you can handle it correctly out of the skin without breaking out. See, normally the body will build those toxins into the hair follicles and build it into hair. Yours is just coming out the skin. So you have good hair, but you don't have good skin.
 
-So, freezing does affect it.
+Q: Yeah.
 
-I don't care what Sally Fallon or anybody else says, they have never done the experiments I have.
+A: So most people will lose their hair because it builds into the follicles, damages the follicle. Yours is coming right out of your scalp, right out of your skin. It's not building in. And that's for every vaccine that you've ever had, that much that went to your brain.
 
-So don't freeze anything.
+Q: He doesn't have that many.
 
-Well, you can just freeze fruits, nothing harms fruits.
+A: What you can do is put some bone marrow, oily bone marrow at room temperature, rub that into your scalp and see if that will strengthen the RNA and DNA so you can lose hair instead of losing your scalp.
 
-[Attendee]
+[laughter]
 
-Cheese.
+Q: Oh, boy.
 
-[Aajonus]
+Q: It's a choice.
 
-Cheese.
+Q: I'd rather lose hair.
 
-You don't wanna freeze cheese.
+Q: Will the hair grow back after?
 
-[Attendee]
+A: Not very often.
 
-Fish.
+Q: Wow.
 
-[Aajonus]
+A: You see what chemotherapy did? This hasn't grown back since I was 22 years old.
 
-Well, if you get arctic fish, that's okay.
+Q: Is there any way to get the mercury out without it all coming out his head like that?
 
-[Attendee]
+A: No, yours is mostly aluminum. It turns to gray. It destroys the para-aminobenzoic acid properties of the follicles.
 
-Everything comes down frozen from the boats.
+Q: So he hasn't had that many vaccines, but I had a lot of mercury from teeth and pesticides, all kinds of things. So do you think from breastfeeding him when he was a baby, that's why he's so [unintelligible]?
 
-[Aajonus]
+A: Yeah, that's been transferred to him during gestation and breastfeeding.
 
-As long as it's an arctic fish.
+Q: Okay. And my mother always cooked in aluminum.
 
-Do you have a question.
+Q: Did what?
 
-[Attendee #2]
+Q: Cooked in aluminum.
 
-I do?
+A: Almost all gray hair is the result of high aluminum.
 
-I just have a note for that because you said the dog had psoriasis.
+Q: So basically the diet just eventually takes care of this stuff? There's nothing special?
 
-I've been feeding it just the stuff from the supermarket, like natural Tyson or whatever.
+A: Forty years. I still have 14 years to go. Listen, I'm 62 years old and I'm still alive. I was supposed to die 42 years ago. And I'm healthier than I ever was as a child. This is nothing compared to what I suffered as a child.
 
-[Aajonus]
+Q: So she stayed on a diet for 50, well, 40 years. Will her hair grow back?
 
-It could be frozen.
+A: Well, even her hair is coming back.
 
-[Attendee #2]
+Q: My hair is getting darker.
 
-They freeze it.
+Q: I'll be 100 years old. Her hair was as gray as mine.
 
-It looks like it's fresh, but it's probably frozen now that you said that.
+A: And mine, you know, I get gray patches. A year ago this was dark. This is the only thing that doesn't go back and forth. I had a little gray patch back here for six years that went away. So it comes and it goes. And if I dump a lot of aluminum out of my brain, then my hair goes gray.
 
-Is that why he's got the skin problems.
+Q: This is all from aluminum?
 
-[Aajonus]
+A: It stops.
 
-Yep?
+Q: This is all from aluminum?
 
-[Attendee #2]
+A: All from aluminum.
 
-And should you take the skin off.
+Q: So somebody that's healthy and they have a dark head of hair which is not dyed.
 
-They shouldn't have the skin?
+A: They're not discarding aluminum out the hair.
 
-[Aajonus]
+Q: It doesn't mean they don't have it, right?
 
-Right.
+A: It doesn't mean they don't have it. It means they're not discarding it.
 
-And you can't give them frozen meats.
+Q: Here I have aluminum but I don't have much gray.
 
-[Attendee #3]
+A: You have a little bit.
 
-Previously frozen, but they'll say fresh.
+Q: So why is my hair getting darker?
 
-[Aajonus]
+A: Because you're not dumping aluminum at this point. Not much aluminum.
 
-Well, there are others that don't say that.
+Q: So I think somebody told me that gray hair is because of the lack of a nutrient.
 
-They say fresh.
+Q: That's what I thought.
 
-.
+A: They used to say it was the lack of para-aminobenzoic acid. A B vitamin that regulates pigmentation. But aluminum destroys it.
 
-(18) Grass Is Acidic, Only 5% Of Juice Certain Herbs
-[2009],[Daniel]
+Q: Oh.
 
-You've previously said grasses are acidic, once you told me if I want any
+A: You can take it all day long and it's not going to change the color of your hair. Para-aminobenzoic acid. You have to get rid of the aluminum first. 
 
-[Aajonus]
+Q: I read somewhere that you said to do a tablespoon of cilantro juice with a tablespoon of butter or something every two hours to get rid of mercury.
 
-They're acidic to the blood, they're alkanizing in the intestines.
+A: It'll help.
 
-The exact opposite of what you want.
+Q: Would that help him to do something like that?
 
-[Daniel]
+A: Well, it depends on if it's just mercury. I'd have to look in his eyes to see what kind of metals are coming out of his skin. 
 
-But you said if I wanted to take some wild groom grass, that's not wheat grass.
+Q: So he should probably do an iridology.
 
-Especially for the mineral content and salt content for that, I could put a couple ounces into the milk.
+A: He could have a fungus involved with it. He could have tetracycline or something like that because that looks like it's antibiotic irritated along with the metals. So he's got a fungus in his skull, too.
 
-Besides those grasses, is there a reason you don't use kale or dandelion, spinach in your juices.
+Q: The only time it ever went away was when we used to have a swimming pool and it was chlorine. This was years ago. It would go away in the summer when he was in a pool all the time.
 
-[Aajonus]
+A: Chill the fungus. But you can put vinegar on it. It will help destroy it, too. But to keep your head strong, to get it to be able to withstand that kind of toxin, you need the bone marrow. It would be good. So one day you could put vinegar, dilute the vinegar by 50%, rub it into the scalp, and then just let it sit for a day. And then the next day, you know, rinse it out and then put bone marrow in. Let that sit for 24 hours.
 
-Well, I said you can use those, but never more than 5% of the juice because they will be very detoxifying or chemically changing to the body?
+Q: You can use the bone marrow even if it's old.
 
-So, any kind of a herb that is that strong.
+A: Even if it's old, it works wonderfully. You go around stinking.
 
-You need to keep it at a low ratio, no more than 5%.
+[laughter]
 
-[Attendee]
+Q: [unintelligible]
 
-What do you mean chemical changing.
+A: Zinc can create some hair coloring loss, but it doesn't cause gray hair.
 
-What does it change?
+Q: Sperm.
 
-[Aajonus]
+A: Sperm, you can use sperm. But if he's got that much metal toxicity up on his head, he probably has it around the other head, too.
 
-It can change your blood, it can change your intestines, it can change the chemistry of everything?
+[laughter]
 
-All of a sudden you find yourself way outta whack.
+A: Sperm may not be so good. If your sperm smells metallic, don't use it. If it smells like an old iron, you know, if you've been ironing for an hour and your sperm smells like that, it's full of toxic minerals. You don't wanna use it.
 
-[Attendee]
+Q: Finally, I've got [unintelligible].
 
-Get kidney stones or.
+A: Want to go golfing?
 
-[Aajonus]
+Q: You know, this is a tough diet to live in society with.
 
-Get all kinds, I've seen all kinds of issues, endless issues?
+A: I've never heard anybody that tees up a question.
 
-[Attendee]
+Q: I'm a pharmaceutical engineer. I make drugs that kill everybody. Now I'm really interested in, I'm almost retirement age 66. And I'm ready to get out of here. Where do I go? You travel all over the world. Where is a good place to go?
 
-So, when should you use those.
+A: It all depends upon your comfort level. I'm comfort in poverty. I'm very comfortable in poverty.
 
-[Aajonus]
+Q: What's poverty?
 
-Anytime you want to use it?
+A: Poverty means I don't need anything but the food on the land. No running water. I've got a river, a waterfall. I'm happy.
 
-It doesn't matter, as long as it's never more than 5% of your juice.
+Q: So where in the world should we start living?
 
-.
+A: It depends on your comfort level. What do you want? What can you live with and live without?
 
-(19) Herbivores, Vegetarians, Vegetalbe Oils
-[2009],[Attendee]
+Q: Well, give me some names so we can start investigating.
 
-Versus eating a lot of salads
+Q: Yeah, but do you want to grow your own food, cows? That's what I'm talking about. That's what he's talking about.
 
-[Aajonus]
+Q: I don't mind the Pangaia thing where there's a group. How many more communities are like that around the world that you know of?
 
-You can't digest it.
+A: None.
 
-Herbivore has 2.
+Q: That's the only one?
 
-5 times more digestive tract than we do, they have 60,000 more digestive enzymes for breaking down the cellulose molecule to get the fat and protein, takes 48 hours or more for food to pass through their systems with 60% - 80% of it digested, not even all of it digested.
+Q: There are some people in Asheville, South Carolina, wherever Asheville is.
 
-2% in ours, that's it.
+A: Yeah, but they don't really have it together so much.
 
-2% in 24 hours.
+Q: I haven't been there myself. That's the only one I've heard of.
 
-It over alkalizes the intestines and neutralizes all of that hydrochloric acid that you have in the stomach and the small intestines to break down your food particles to smaller amounts so bacteria can eat them.
+A: It's too fricking cold there. It snows there.
 
-Our bacteria is the acidic nature.
+Q: No, no snow.
 
-The fluids, the alkaline fluids from whole vegetables will neutralize those, so you stop digesting.
+A: I don't want to go there.
 
-I'm saying don't eat whole vegetables.
+Q: Go live with the Amish.
 
-I'm saying drink the vegetable juice cuz you can get all the minerals, vitamins, and the enzymes from the vegetation, that we can handle.
+A: What you do is buy the land. What you can do is do what Vinny does at Pangaia. He bought the land, he built the place, and then he invites people to come and they work the land. They do everything for him, and he gets the food that they grow and they cut and they harvest.
 
-That's the 2%.
+Q: I have been e-mailing them, and they could certainly use an engineer on their site because they have a lot of projects. Is that the only place, in the Philippines?
 
-[Attendee]
+A: No other place
 
-In nature you wouldn't have a juicer.
+Q: You haven't found a place in the Philippines? And Thailand is out now?
 
-[Aajonus]
+A: No, I'm still looking there.
 
-Well, do like the dogs, cats, and the gorillas.
+Q: What are you going to do with your clinic? You talk about this clinic several times. What are you going to do there?
 
-They chew it and spit out the fiber.
+A: I will mainly have locals. At least 50% of the clientele will be locals that don't pay, that just work as part of the land in exchange for my help. And we will grow all the foods, all the herbs, everything that people will use to get well.
 
-They're juicing in their mouth.
+Q: Oh, okay.
 
-[Attendee #2]
+A: So let's say people have cancer, they want to go to some place other than Hippocrates, which starves them to death. They'll be able to go to a place where they can get nourished and get stronger and healthier.
 
-Is that what you do in Thailand or do you get juice in Thailand.
+Q: So you will raise the cow?
 
-[Aajonus]
+A: Everything. I've already made a deal with the government in Palawan Island. They have a dairy experimental farm, and it's going under because Filipinos aren't used to milk. So I'm buying their cows and their milking machine. And, you know, the portable ones, attach on and hook up. It isn't like a big tank or anything. So I'm getting three cows that are imported from New Zealand, and I'll start with that. I'm putting it all together. Hopefully in July or August, one or the other, I'll put it all together and have everything finalized.
 
-I can get juice in Thailand?
+Q: Is that the island that you found that had the indigenous people?
 
-[Attendee #3]
+A: No, no, no. That was almost 2,000 miles away. The reason I chose Palawan Island, because all the other islands are in the volcano district. You've got the circle, the ring of fire. It goes all the way from Japan all the way down to the last island and the lowest island, south island of the Philippines. There are 47 volcanoes in the Philippines.
 
-And for the salad, I think you said don't have it with oil or vinegar or something.
+Q: Do you want to get through here?
 
-[Aajonus]
+A: And they're like this. If you look at the map, you've got Manila with the big island. It goes along here. And then you've got all these other bigger islands spread all the way down until you get to Mindanao, the biggest island. And then over here you've got Palawan Island, which is a very long island. Now, all of these islands are in that big crevice that's 20 times the size of the Grand Canyon and all these volcanoes underneath it. So if that goes off, Japan, all of that's going under. But Palawan is an island that's on the shallowest sea floor of anywhere, only that island.
 
-Because it coats it?
+Q: So wouldn't you think, like, tidal waves from that island?
 
-It comes and I said if you're going to eat vegetation, you eat a salad and you eat it last thing in the day.
+A: No, because I'll be 1,900 feet up in the mountains. They're selling me the mountaintop. That's why I'm up there.
 
-[Attendee #3]
+Q: So you're going to have classes later?
 
-But you don't put any olive oil on it.
+A: Elaine, do you have a question?
 
-[Aajonus]
+Q: Oh, sorry.
 
-You can make a cheese sauce, something like that?
+Q: Okay, I wanted to talk about penicillin because when you read my irises in February, you said I've got a lot of penicillin in my body. What has that got to do with the fact that I can't digest good food? That's why I'm on the diet. I'm on the diet almost four years, and I do great as long as I eat everything that tells me to. So what's the connection between not being able to digest food?
 
-[Attendee #3]
+A: No, that was your rosacea and your slouchiness on your face. That's from the penicillin fungus, discard. Now, what happens is penicillin is a bird fungus. When birds have eaten grains that they haven't digested properly, and let's say they're breaking cells down, and the body needs help, let's say they've gone through a long drought, then a fungus will appear, penicillin will appear, and it'll help break down those cells that are built off of this carbohydrate, grain. We would never have penicillin in the human body except that we eat grain foods, breads, cakes, pastas, anything made of grain, and the cells made of those products, fungus can live off of. So when we're injected with, now we wouldn't normally have that variety of penicillin, but the pharmaceutical industry has made a penicillin that when injected in us, lives forever. Because when they sterilize it, they damage the RNA and DNA to tell it to go into hibernation. That on and off switch, they damage it, so it will always be active. That doesn't mean that penicillin is a bad thing, because it will only eat damaged tissue that was built on grain foods, so with a lot of carbohydrate. So it's a beneficial fungus, as long as it doesn't get out of control and makes your life miserable.
 
-Right.
+Q: So what's that connection with the fact that I, for several years, wasn't able to digest food that was before going on in your diet? You know, cooked foods.
 
-But why don't you want oil on it or vinegar.
+A: Well, that was because you weren't digesting and absorbing anything that was cooked. Plus, you have lots of toxicity in your intestines. So it came to the point where you just can't digest unless you go to raw foods. And there's a lot of people that come to that point. Their diseases won't turn around unless they're going to raw foods.
 
-[Aajonus]
+Q: I'm not clear, is there a connection between you not digesting cooked foods or salads and penicillin?
 
-It coats the vegetation?
+A: If the penicillin is growing unruly in your intestines.
 
-[Attendee #3]
+Q: So that's probably what I have a bit of a problem with.
 
-What if you just have vinegar on it.
+A: Part of the problem.
 
-Is that okay?
+Q: I was also a vegetarian for 30 years. Nice and skinny, but not healthy.
 
-[Aajonus]
+Q: So then, if you cannot eat all raw, is it even worth doing it?
 
-It's okay?
+A: If you ate only one raw food in your life, you'd be adding enzymes and vitamins and minerals and nutrients to your body, so you make the choice. How much are you going to damage your body, and how much are you going to nurture it? If you treat yourself like you would your own baby, you wouldn't be doing it.
 
-You'll start fermenting it.
+Q: I'm treating myself as I would myself, because I wouldn't have a baby.
 
-It'll digest a little bit better with that.
+A: But I mean, most people would treat their babies better than they treat themselves. But you want to treat your body, because that is your baby. Till death do you part, literally. We've gone through everybody, right?
 
-[Attendee]
+Q: So there's no community except Pangaia that does your lifestyle?
 
-It won't feel good on your stomach if you put oil on it.
+A: If people are like you, they're spread out in the home.
 
-[Aajonus]
+Q: Well, can't we get it together? Is there some way we can get it together? 
 
-Well, it depends upon the person, some people can handle it?
+A: Yeah, you buy land and you start calling people like Pangaia.
 
-Italians and Greeks are used to it.
+Q: [unintelligible]
 
-But that's centuries.
-
-You can't digest that cellulose.
-
-[Attendee #3]
-
-But you say you eat cooked food, you have to have the raw salad.
-
-[Aajonus]
-
-Let's say you eat cooked meat, you better have a raw salad with it, or else it's not gonna move, it'll putrefy?
-
-Do you have a question.
-
-[Attendee]
-
-I have trouble running?
-
-I couldn't get my body moving and I'm just trying to start.
-
-I'm sleeping a lot.
-
-[Aajonus]
-
-Okay, I can see your skin.
-
-You don't have any good animal fats in your body.
-
-You have a lot of grain, acetates that are made from grains.
-
-[Attendee]
-
-I've been doing 20 years of vegetarian diet?
-
-[Aajonus]
-
-There you go.
-
-[Attendee]
-
-How much can I jump in to this.
-
-[Aajonus]
-
-People jump into it wholeheartedly?
-
-Just remember this, 50% of my cancer clients are long-term vegetarians and vegetable oils cause all the hardening of the arteries in the heart because they crystallize, we can't digest them.
-
-[Attendee]
-
-So, it's not like arthritis and stuff.
-
-[Aajonus]
-
-Well, you don't have any lubrication in your body, good fats?
-
-You don't have any good animal fats in your body.
-
-Butter, cream.
-
-[Attendee]
-
-Is the honey really essential.
-
-[Aajonus]
-
-No, it isn't essential?
-
-Sure gonna help you digest, but it isn't essential.
-
-For some people it is.
-
-So, I suggest you go into the Recipe Book and on page 146 and make the moisturizing formula.
-
-Make a good moisturizing formula and sip that throughout the day.
-
-.
-
-(20) Honey For Pancreas, Honey Dissolved Bones
-[2009],[Attendee]
-
-Having so much sugar, honey
-
-[Aajonus]
-
-Honey isn't sugar when it's completely raw?
-
-The bees collect the nectar, nectar's 90% carbs, so it's sugar.
-
-When the bee collects it, it swallows it.
-
-It produces an insulin-like substance, which converts 90% of those carbs into enzymes for digesting proteins and fats.
-
-Let me give you an example.
-
-While I was in Thailand three months ago before I went to the Philippines, I went to see some patients on the Costa Mui island and they spearfished.
-
-So, I went spear fishing with them and one of the big fish that we caught had these big vertebrae's and the his Thai girlfriend who's almost 50 years old.
-
-She grew up in the old country where they eat lots of raw foods, so she's a total raw fooder and eats everything perfectly even better than her American boyfriend who's on the diet.
-
-So, she's the ideal primal dieter.
-
-She'll go in and pick all the Japanese beetles off of her flowers and all day long she eat them live.
-
-You have to understand, Thai's eat a lot of insects cuz there isn't a lot of meat there cuz they over hunted and the population got so large, so they eat a lot of insects, I mean, scorpions, cockroaches that are this big, all these things.
-
-Eat them raw, even alive.
-
-So, she had these vertebraes, big vertebraes like this, and her teeth are so good, 50 years old, perfect teeth, and she's eating these bones.
-
-I wish I could have eaten a bone, I mean, she gave me a little piece of one and I just kept it in my mouth for hours.
-
-I took a half a teaspoon of honey and put in my mouth with the bone and disintegrated the bone in five minutes.
-
-[Attendee]
-
-So, my question is, eating the honey isn't that going to spike the blood sugar.
-
-[Aajonus]
-
-What did I just say?
-
-You've got insulin in the honey?
-
-The bee has created an insulin.
-
-If you heat that honey over 93°, you've destroyedthe insulin and it goes back to sugar.
-
-You're gonna spike.
-
-However, honey can cause old toxic glycogen in your body to detox, then you're going to spike, but you never look for your sugar level.
-
-You look for symptoms.
-
-If you're passing out, if you can't breathe, you've got an insulin problem.
-
-That's the only time if you're passing out, not because you're getting up too fast, but you don't have enough blood sugar to run the brain and nervous system and lungs, you've got diabetes.
-
-85% - 90% of the people who the medical profession put on insulin to and call diabetic are not diabetic.
-
-They just have sugar balancing sugar level problems.
-
-If you've got a true insulin problem, you're not metabolizing your sugars to run your brain and nervous system, you're not going to breathe.
-
-You're gonna go into a coma in three days.
-
-If you don't have any of those symptoms, you are not diabetic.
-
-[Attendee]
-
-I read to tell if you have an insulin problem, if you weigh yourself in the morning, and then if you go up 1 pound - 1.
-
-[Aajonus]
-
-Absolute bullshit.
-
-You can have water retention.
-
-You can have high blood pressure, will do the same thing.
-
-You have to understand the pharmaceutical industry makes their money off of you taking drugs.
-
-They're gonna do everything they can to get you to take drugs.
-
-Every test in the world, they're going to show you need to take drugs now, like say cholesterol.
-
-Now, they used to say that 50 years ago, cholesterol levels of 300 were okay.
-
-Now, they're not saying that.
-
-They want people to take all these, the anti-cholesterol medications to lower cholesterol, so they dropped it way down into 150 and 160 to keep making money.
-
-It's all about making money.
-
-.
-
-(21) Honey, How To Know If Unheated
-[2009],[Attendee]
-
-And what's the true honey you told me about
-
-[Aajonus]
-
-Well, I got a Filipino honey where we just went to a beekeeper and they gave me honey straight from the hive?
-
-[Attendee]
-
-How do you know if the honey's good, because they said if the honey crystallized, that means it's real honey, so I have honey that's just liquid.
-
-Stays liquid.
-
-[Aajonus]
-
-Yeah, well all honey will crystallize if it's raw.
-
-Sage honey can take up to a year, year and a half to crystallize.
-
-It depends upon the honey.
-
-[Attendee]
-
-So, how about if it doesn't crystallize in three months that's not sage.
-
-[Aajonus]
-
-It still depends upon the type of honey?
-
-It could take anywhere from three months to a year and a half for honey to crystalize.
-
-[Attendee]
-
-Okay, so the question is how do I get to know that's real, honey.
-
-[Aajonus]
-
-You have to go to the place who makes the honey?
-
-What brand is it.
-
-It's gotta say unheated?
-
-We do not heat this honey at all in processing.
-
-[Attendee]
-
-It says raw.
-
-[Aajonus]
-
-Raw doesn't mean a thing.
-
-Raw they can heat it up to 170°.
-
-Honey can't be heated over 93°.
-
-[Attendee]
-
-Oh, so in the book says, just say raw honey.
-
-[Aajonus]
-
-In my book?
-
-No, it says we do not heat this honey in processing and it stays unheated?
-
-And then you have to ask the beekeeper.
-
-It's gotta say unheated, raw doesn't mean a thing.
-
-I say that in the book.
-
-[Attendee #2]
-
-Don't take his word for it.
-
-Go watch him take it out of the hive.
-
-That's the only way to know.
-
-[Aajonus]
-
-It's the only way to truly know.
-
-[Attendee #3]
-
-beekeepers won't heat your honey.
-
-Only the big ones do.
-
-[Aajonus]
-
-No, little ones will do it too to bottle it faster.
-
-[Attendee #2]
-
-They also heat it when it crystallizes, the water back it up to 120°.
-
-And then I'll ask them, have you ever heated the honey.
-
-And they'll say, No?
-
-And then I ask them, what's your bell heater for your five gallon bucket or your water heater.
-
-What do you set the temperature at?
-
-[Aajonus]
-
-You just have to go to 'em?
-
-You have to say, listen, when you spin some honey, I'd like you to bottle some for me right then and there and don't strain it.
-
-Because you want it completely unheated.
-
-Cause what they do is they spin it, put it in cauldrons, it will set, it'll get very thick and then they have to heat it to pour it fast.
-
-[Attendee]
-
-But the guy in the store didn't want to give me the beekeepers address.
-
-[Aajonus]
-
-It doesn't say on the bottle.
-
-[Attendee]
-
-No?
-
-[Aajonus]
-
-Doesn't say a name on the bottles.
-
-Don't they have a name and address of the producer?
-
-[Attendee]
-
-No, he gets from a bulk.
-
-[Aajonus]
-
-Oh, then if he doesn't give it to you, I'd take it back to him.
-
-Well, there's some honeys that are available here you get right out of the store and there's Y.
-
-S there's quite a few of them Really Raw, those brands.
-
-There is Honey Pacifica, but they don't sell that in regular markets.
-
-[At one point Honey Pacifica started feeding sugar in the winter, so Aajonus stopped buying.
-
-It may have changed since, I haven't checked.
-
-] .
-
-(22) Joint Problems, Leaky Gut, Lots Of Eggs
-[2009],[Aajonus]
-
-Do you have a question
-
-[Attendee]
-
-Yeah?
-
-I've got a lot of joint problems, including some deterioration.
-
-What can I do.
-
-[Aajonus]
-
-It all depends why you have it?
-
-80% - 90% of all deterioration of the joints comes from leaky gut.
-
-Intestinal production mucus is very shallow and the mucus fibers are very open, so your own digestive acids and juices get into there and bacteria start eating your own intestinal walls.
-
-They get so thin that if you eat a lot at one time, drink a lot, it rips, the gut, and then you have leaky gut.
-
-You have undigested food that will go to the joints for digestion.
-
-It's 80% - 90% of all arthritis and rheumatism comes from that.
-
-So, I would say look to there first.
-
-[Attendee]
-
-Then what's the best thing if that was the case.
-
-[Aajonus]
-
-That's a whole diet in itself for Crohn's, It's mostly eggs?
-
-You need anywhere from 24 - 32 eggs a egg.
-
-Eggs digest in 27 minutes, only takes 3 - 5 inches of the intestine to absorb, completely digest and absorb eggs, so you get all this fat protein with very little energy expense on digestion.
-
-So, you get to reserve all of your intestinal tract and you reserve the energy absorbing, digesting and assimilating all the eggs.
-
-[Attendee]
-
-What about butter.
-
-Would you eat butter with the eggs?
-
-[Aajonus]
-
-No?
-
-[Attendee]
-
-Tiny bit.
-
-[Aajonus]
-
-No, because then you're causing a problem in digestion?
-
-I'm not saying don't eat any other thing, but I'd have to see his eyes to be able to determine what to suggest.
-
-Right off I would say eggs, sipping on milk, never gulping.
-
-You never gulp anything.
-
-The H20 rushes to the kidneys, you piss it out, so then you're nutrients cannot carry H2O to the cells, so you sip.
-
-You see me when I sip, I don't sip, I suck.
-
-You see, when I do it, I suck.
-
-Keep my teeth together, put my tongue there, and I force whatever I'm drinking through.
-
-Why.
-
-Like a baby's sucking, gets all that bacteria into the milk?
-
-So, I digest very easily, so I never get dehydrated.
-
-And I drink maybe two quarts of fluid a day, but that's in the form of milk and the fruit and the meat.
-
-Meats 55% water, milk is 82% - 86% water.
-
-So, you have all of this fluid in your food as long as it's raw and it's all ionically attached.
-
-So, you can utilize a 100% of the water in your raw foods.
-
-Once you cook it, you fractionate all of that.
-
-You drink water, same thing as eating salt, fractionates those smorgasborg of nutrient.
-
-Dilute your digestive acids, all kinds of problems.
-
-[Attendee]
-
-You said fruit.
-
-What kind of fruit do you eat.
-
-[Aajonus]
-
-Well, you saw me eat the watermelon rind?
-
-[Attendee]
-
-That's right.
-
-But you didn't eat it with cream.
-
-[Aajonus]
-
-I had some cream with berries first?
-
-[Attendee]
-
-Oh, okay.
-
-Because I get heartburn from everything.
-
-[Aajonus]
-
-I always eat fat with my food.
-
-Always, always, always.
-
-And I say that in both books, always eat fat with fruits.
-
-[Attendee]
-
-So, could it be cheese or butter.
-
-Or does it have to be milk?
-
-[Aajonus]
-
-Doesn't matter what you want it to be?
-
-It be any of the fats: avocado, cheese, butter cream.
-
-Just remember, if you eat cream, it's harder to digest and you'll have a tendency to retain more water, but you still need at least two tablespoons of cream a day in addition to whatever's in your milk, unless you've added it to your milk already.
-
-.
-
-(23) Motorcycle Accident
-[2009],[Aajonus]
-
-Hello folks
-
-I had another motorcycle accident six weeks ago.
-
-I took all the skin off from here to here, all of it off there.
-
-The reason this isn't healing like the last one healed in 12 days is I put the lime juice on it and then the honey, and then the coconut cream and then the meat.
-
-But this one didn't because I didn't hit pavement.
-
-There was a road under construction in the Philippines and they use big rocks, not gravel, and they use layers of gypsum.
-
-Gypsums what they use in drywall, cause it's very drying, 5 times more drying than sulfur.
-
-So, they had layers of gypsum on this, and they had a section where there was a part of the road done, it was coned off, so you couldn't use it.
-
-And this was gravel with gypsum and the traffic is supposed to wait for one direction to finish before the next.
-
-They didn't wait for me to finish and a van came barreling 100 kilometers an hour, knocked me right off the bike and hit the gravel, didn't even stop.
-
-So, this is all gypsum in here.
-
-You can see it looks like sandpaper.
-
-The lime in Philippines is not real lime, it's like orange.
-
-So, even though it's very green and small, it's more like orange.
-
-[Attendee]
-
-So, what would be something that would be drawing that would pull the gypsum out.
-
-[Aajonus]
-
-Well, gypsums gonna draw itself out and I did find that aloe helped?
-
-I strapped a piece of aloe to it, which helped for about a week.
-
-But I had to let the white cells just take it out.
-
-So, I lost a lot of white cells, that's why I'm very thin right now cause I lost a lot of fat.
-
-White cells are fat to pull the gypsum out.
-
-It's almost finished now, but it's still very painful.
-
-[Attendee]
-
-How long is that.
-
-How many weeks?
-
-[Aajonus]
-
-It's been six weeks?
-
-[Attendee],[Aajonus]
-
-Six weeks!
-
-When I had the accident two years ago, when I split this femur down the center and broke the tibia off into the femur joint.
-
-That took me only six weeks to heal, and I had twice as much skin gone.
-
-This whole bone here was shaved off, this bone was shaved off and this bone shaved off and this healed fast because I didn't land on the gypsum like the leg did.
-
-So, this skin was all gone, this was ripped all the way down to the bone and all that was gone to the bone.
-
-But you see how quickly it goes without the gypsum.
-
-Another problem was I went to get some honey and this woman sold me honey, it wasn't truly honey and I didn't find that out til 9 days of putting this other junk on.
-
-What they do is they make a honey, they've got a fruit in in Philippines that if you put it with sweet and low, that's what they do.
-
-It was sweet and low.
-
-It tastes like Thai honey.
-
-So, I had just come from Thailand, so I saw Thai honey.
-
-I thought, oh they got Thai honey.
-
-So, after putting that on for nine days, and it was looking worse and worse and I knew it wasn't from just from the gypsum.
-
-So, I asked the taxi driver to help me to apply it to work on it cause it was still open this far and it was quite a mess.
-
-So, he came in and he goes to put the honey on and said, "This isn't honey.
-
-This is a mixture that they make and they call it Thai honey and it's really not.
-
-They make it with sweet and low or as you know, aspartame and all these chemicals".
-
-So I was drinking, I drank about a cup of that.
-
-Plus put it on my leg for all that time.
-
-So, for nine days I poisoned my body with this stuff.
-
-And then it caused an insulin detox.
-
-A lot of people who take insulin as they get older, the insulin builds up and it causes toxicity like this.
-
-And of course they have their toes amputated and feet and all on up.
-
-So, I hadn't had insulin since I was 22 years old, but for some reason that forced insulin detoxification.
-
-And I used to shoot it here in my thigh cuz I didn't like shooting in my arms, I shot it in my arms a lot, so I started getting the same detoxifications of insulin.
-
-It smelled exactly like the insulin I used to shoot up.
-
-So, I had a big sore here that got this big, one on the back of the arm and another one here you can here.
-
-They're coming out and I haven't had insulin for 42 years.
-
-[Attendee]
-
-And how did you detect that was what it was.
-
-[Aajonus]
-
-The smell?
-
-Just like stuff I used to inject.
-
-It's got that sweet, odd odor to it.
-
-At least they did.
-
-I haven't had it in 42 years, so I don't know what it's like now.
-
-What's the insulin like now.
-
-[Attendee]
-
-I never took it?
-
-[Aajonus]
-
-Oh, you never took it.
-
-[Attendee]
-
-They wanted me to, but I never did.
-
-[Aajonus]
-
-So, I will force it to puss a little bit and most of the time it will run the liquid the same color as the insulin.
-
-See, I won't break these because I want to keep pussing until it's clean.
-
-It will stop cussing once it's clean.
-
-Now, most people would run to the doctor.
-
-Doctor, say, "Oh, you've got a staph infection.
-
-We need to give you a lot of antibiotics".
-
-So what happens.
-
-The poisons stay in the body, it poisons the body?
-
-The body stops digesting, can no longer detoxify.
-
-So, then all that matter would stay in there and cause problems.
-
-Now, since I was about 16 years old and started taking the insulin, I had these lumps in my thighs and my thighs were always very large.
-
-Right now, you can see on this leg too, but my legs are thinner than they've been since I was 15.
-
-5 years old, since I started taking insulin, but I had huge lumps in there that were sore.
-
-So, anytime I got a massage, even if it were a light massage I would have pain there.
-
-So, I would say you have to be very gentle with my calves.
-
-So, here I can push, there's no more lumps.
-
-So, you just have to get through these things.
-
-You can't freak out cuz the medical profession get all their training in emergency wards, so everything is panic time.
-
-So, and then the pharmaceutical industry wants 'em to think that way because anybody will make a bad decision in a panic and fear.
-
-[Attendee]
-
-So, initially when that happened to you, did you just get lime on it right away or.
-
-[Aajonus]
-
-Like I said, the lime they have, there aren't actually lime?
-
-They're oranges, really.
-
-They're tiny oranges.
-
-So, that didn't work.
-
-And plus I didn't have the proper honey.
-
-I didn't have honey at all, until that taxi driver showed me that it was wasn't honey and then he took the, to the place and we got honey.
-
-And then the whole, the next day, 90% of the pussing stopped, 90% of the irritation stopped.
-
-[Attendee]
-
-So, will that scar over or not.
-
-Do you think that'll scar?
-
-[Aajonus]
-
-Probably not?
-
-This right here was just like this and this, there's no scarring there.
-
-So, just takes time.
-
-You just have to be patient, can't freak out and panic.
-
-[Attendee]
-
-So, now what are you doing when you're home.
-
-[Aajonus]
-
-I don't do anything, but put urine on it?
-
-Anything else irritates it, coconut cream, anything irritates, except urine.
-
-So, I put old stinky urine on it.
-
-[Attendee]
-
-And that does what.
-
-[Aajonus]
-
-And that keeps it from drying out, getting very sore and it soothes it?
-
-Now, the urine is nothing other than the blood without the red and white blood cells.
-
-So, all the nutrition that's in your blood is what's in the urine with a little ammonia added, so when I put that on, it gets a good supply.
-
-Now, right now, everything that it's getting up to the skin is irritated because of the chemicals.
-
-So, when I put the urine on, it's getting a fresh coat of nutrients like it would from the blood, from the outside in.
-
-[Attendee]
-
-Just once a day.
-
-[Aajonus]
-
-I usually do once a day?
-
-[Attendee]
-
-And you just pour it on.
-
-[Aajonus]
-
-I pour it on?
-
-If I run my fingers over these areas right here, they're like crystals from the mineral buildup and the insulin.
-
-Cause the insulin has a tendency to crystallized, so it's very sharp.
-
-So, if I touch this, it'll stab inside and be painful.
-
-Even my pants can cause pain if they rub it the wrong one.
-
-[Attendee]
-
-And how about the one on your shoulder.
-
-[Aajonus]
-
-I just live with the pain?
-
-I just ignore it as much as possible.
-
-[Attendee]
-
-And the shoulder, you put urine on that too.
-
-[Aajonus]
-
-Yes?
-
-But that's almost all over.
-
-These were huge.
-
-I used to shoot my insulin in this arm, until I couldn't take it anymore.
-
-Then I started shooting it mainly in this side, but once in a while on side.
-
-[Attendee]
-
-So, you'll probably feel better after cuz all the crap.
-
-[Aajonus]
-
-Yeah, that's what I mean?
-
-I think I'll not have that same soreness in the calf now.
-
-I'll be able to run better and I'll be able to take massages better.
-
-[Attendee]
-
-Are you swollen quite a bit.
-
-[Aajonus]
-
-Oh yeah, this whole calf, this whole ankle was swollen?
-
-But if you consider the size of my calf, they have normally my calves were huge.
-
-So, actually my calf is smaller even with the swelling.
-
-So, when the swelling on both legs goes down, my calves are gonna be the smallest they've been since I was probably 13 years old.
-
-[Attendee]
-
-And you knew you didn't break anything.
-
-[Aajonus]
-
-No, didn't break anything?
-
-[Attendee]
-
-You didn't have any x-rays or anything.
-
-[Aajonus]
-
-I didn't have to.
-
-When I had the accident 2.
-
-5 years ago, the pain was so excruciating in the knee and the shin that I knew I had broken it.
-
-[Attendee]
-
-Did you ever have a follow up with that doctor.
-
-No?
-
-I wanted to wait till the leg could straighten and it's still not completely straightened.
-
-Straighten.
-
-[Attendee #2]
-
-Did you have a short pants on when you fell.
-
-[Aajonus]
-
-Short pants, short sleeved shirt with a helmet?
-
-Did have a helmet on.
-
-A rock flew up and hit me here, so I had an abrasion there and a couple here.
-
-But this time, I tumbled, I just let myself slide.
-
-When I saw this, I was falling over, I kicked the bike away, hit the gravel, and then flipped.
-
-So, I probably didn't skid on this for more than probably two feet before I started tumbling.
-
-[Attendee #2]
-
-So, the lesson is.
-
-.
-
-.
-
-[Attendee]
-
-Don't ride a motorcycle.
-
-[Aajonus]
-
-When I drove back, see I left at sunrise from the hotel to go down Palawan Island and I had just gotten there the night before late, and I'd rented the motorcycle just before this place closed at like 9:00 PM, and it was just a motorbike, 125.
-
-It wasn't like a big motorcycle when I had this accident.
-
-That was a big Harley about 350 pound bike.
-
-This was probably 150 - 175 pounds.
-
-And, I left very early on a Sunday morning to go take a tour down the end of the island and they said most of the island doesn't have paved roads.
-
-So, I knew I was getting into, but I had no idea there were crazy drivers that had no respect for anybody on a motorcycle.
-
-So, as soon as I had the accident, I was two hours down the island and I had to drive two hours back and I saw everybody on a motorbike when a car would come, they'd go over to the side and almost slow down to a stop.
-
-Now I've been on six other islands in the Philippines and nobody drove like that, but here they do no, respect for motorcyclists.
-
-[Attendee]
-
-I thought you were gonna say not to trust anybody's that's honey and this and that.
-
-[Aajonus]
-
-That too.
-
-I was really upset with that woman.
-
-[Attendee]
-
-You couldn't taste it.
-
-[Aajonus]
-
-They learned to mix it so well that it tastes identical to Thai honey; the thickness and everything?
-
-But it didn't react that way, I was getting dizzy, I was getting nauseous and I thought it was just the gypsum getting into the blood and it was the honey.
-
-It wasn't until the 9th day till I got the true honey and then a lot of the symptoms stopped right away.
-
-[Attendee #2]
-
-So, you applied the honey for what.
-
-To heal?
-
-[Aajonus]
-
-Yeah, it helps heal?
-
-You read my books.
-
-[Attendee #2]
-
-Yeah?
-
-[Aajonus]
-
-I talk about it increases healing five times.
-
-.
-
-(24) Nausea, Vomit, Dog Licking
-[2009],[Attendee]
-
-I had another one of these major stomach pain episodes, like three hours, four hours
-
-.
-
-.
-
-[Aajonus]
-
-And what, what are your symptoms.
-
-[Attendee]
-
-Just nausea, vomiting?
-
-[Aajonus]
-
-Diarrhea.
-
-[Attendee]
-
-No, not at all?
-
-[Aajonus]
-
-Okay.
-
-What what happens when you get nauseous have vomit; poisons dump into the stomach.
-
-Fr example, she'll put bacteria on you.
-
-Whenever a dog or cat licks you, they're putting bacteria, janitorial bacteria on to eat the dead cells and the bad tissue.
-
-We used to have a lot of salmonella now that we take showers and baths and we're so toxic in our environment the 6,000 varieties of salmonella that used to live on the skin and eat the skin are no longer present.
-
-So, dogs and cats will come up and lick and give you a dose of their bacteria from their mouths.
-
-We have more bacteria than they do, so you can lick youw own.
-
-I do that.
-
-I'll put saliva in here, go over it after I put the urine on it, cuz the ammonia in the urine is antiseptic and I need to re-infiltrate the bacteria.
-
-Because the old urine doesn't absorb the same for some reason, don't know why.
-
-Probably as you let it sit, the ammonia breaks down and the antiseptic effect leaves.
-
-[Attendee #2]
-
-So, it's better fresh.
-
-[Aajonus]
-
-No, it's better non fresh?
-
-See, the kidneys manufacture ammonia to be able to separate the red and white blood cells from the blood serum.
-
-If you pissed at all of your red and white blood cells from your blood and not just the fluid out of it, you'd be anemic all the time.
-
-You couldn't function, and you can only replace about 4 - 5 tablespoons of red blood cells in a day.
-
-So, if you urinate, let's say a quart a day, that would be a huge amount of red and white blood cell loss.
-
-The ammonia is very active when your kidney first makes it to separate the red and white blood cells from it, so you can lose fluids.
-
-You lose fluids to get rid of some toxins sometimes, but that's not the major reason.
-
-It's usually to keep the body warmer and you notice when you get cold, you urinate a lot.
-
-Thicken the blood, and then when you get very warm, then you stop urinating so much and your blood thins itself?
-
-You have more fluid in the bloodstream, less red and white blood cells.
-
-So, the kidneys are mainly for that, regulating body temperature.
-
-The spleen can help there cuz it holds extra red blood cells, spleen doesn't manufacture anything like the kidney does, but the spleen holds excess red blood cells.
-
-Like say, when you were a cave person, you're swinging around in a tree, branch broke and as you were falling down the tree cut your juggler and you lost a cup of blood.
-
-Now you'd be at very anemic with a cup of blood loss and you'd probably be good dinner, cuz you wouldn't be able to run fast enough from a tiger or lion.
-
-So, the body has this reserve of red blood cells in the spleen.
-
-So, you can dump up to almost two pints of red blood cells right back into the bloodstream, so you're not anemic.
-
-You know, that was a long answer.
-
-Anyway.
-
-The poisons dump into the stomach that causes nausea, Any time you have nausea, poisons are dumping into the dumping into the stomach, and it's a good passage for that because we have hydrochloric acid there.
-
-The highest concentration in our bodies is in the stomach.
-
-So, it's like the Indians when they used to get a snake bite, a poisonous snake bite, they knew it went to the stomach, so they'd try to get some milk or some corn, which has a lot of hydrochloric acid precursors or root beets and eat those, shave those.
-
-And they usually kept some around buried in case of poisonous bites from the snakes, scorpion or spider, whatever, and they would drink the milk or eat the corn or the beets and that would create more hydrochloric acid and help neutralize the poison.
-
-You can take any kind of rattle poison, the worst in the world, copper head and you mix a little hydrochloric acid and neutralizes it like that.
-
-So, that's what happens with our stomachs, used that way.
-
-So, when you get nauseous, your body's dumping the poisons there, wants to vomit it, or enough hydrochloric acid.
-
-And when you get nauseous, more hydrochloric acid, the more nauseous you get, the more hydrochloric acid dumps in, more the stomach manufacturers, dumps it into the stomach interior, so it neutralizes the poison.
-
-However, you can eat cheese, raw unsalted cheese and it will absorb those poisons so you don't have to use so much hydrochloric acid and you're not to experience all that nausea.
-
-[Attendee]
-
-Why unsalted.
-
-[Aajonus]
-
-Because when you have salted it fractionates the molecules, acts like cooked, and you will reabsorb and digest the cheese and you don't want to digest the cheese?
-
-You want the poisons to send through the body and pass out with your feces.
-
-[Attendee]
-
-You're talking about a snake bike.
-
-[Aajonus]
-
-Any kind of a poisonous bite?
-
-[Attendee #2]
-
-So, with the salt, would sea minerals do the same thing.
-
-That's bad too or?
-
-[Aajonus]
-
-Sea minerals won't do it as well?
-
-However, clay can.
-
-.
-
-(25) Osteroproosis
-[2009],[Aajonus]
-
-Do you have a question
-
-[Attendee]
-
-Yes?
-
-This is for a lady, my friend.
-
-She has osteoperosis, she's 42.
-
-She's getting a pre-osteoperosis problems.
-
-And I try her read in the book or something about that.
-
-And you just say that pasteurized milk causes that.
-
-[Aajonus]
-
-Well, many things cause osteoporosis, but that's one of them.
-
-[Attendee]
-
-What can she do to reverse the symptoms.
-
-[Aajonus]
-
-Well, like I said in the book, she can drink raw milk, she can eat lots of cheese?
-
-Cheese a couple of times a day with honey.
-
-When you eat cheese, raw cheese, no salt raw cheese with honey, you'll actually digest the cheese.
-
-Now any food that's dehydrated has no bioactive enzymes, difficulty to digest.
-
-Dog, and a cat can't even digest much raw cheese that's unsalted.
-
-Check the feces, passes out whole almost.
-
-Dog and a cat will get a high amount of hydrochloric acid, they may digest at the most 50% and human at the most 20%.
-
-If you eat honey with it, you're providing enzymes to digest the minerals in the cheese and some of the fat and protein, so cheese all day long, and a little bit to absorb heavy metals and poison.
-
-Because when your body eats its own bone, it's doing it because it's low in calcium, phosphorus, potassium, and magnesium.
-
-The alkalizing minerals to alkanize the acidic poisons in the body, and you produce a lot of the acidic poisons just by cooking food.
-
-Then if you add a all the food additives along with it, MSG and everything, you've got quite an array of toxins where your body has to use a vast amount of calcium, magnesium, and phosphorus so it eats your own bones to do it.
-
-Well, many things cause osteoporosis, but that's one of them.
-
-[Attendee]
-
-She's in an environment that there is no raw milk at all.
-
-[Aajonus]
-
-She needs to move or get some cows or goats there order.
-
-Where does she live.
-
-[Attendee]
-
-San Paulo, Brazil?
-
-[Aajonus]
-
-I got milk in San Paulo.
-
-All you had to do is go out, there are mountains around there and there are people with goats all over the place.
-
-You can get goats milk.
-
-She's just gonna have to have somebody go get it for her if she doesn't have the strength to go get it.
-
-[Attendee #2]
-
-So, the goat milk is okay.
-
-[Aajonus]
-
-If you don't have anything else?
-
-Absolutely.
-
-.
-
-(26) Penicillin
-[2009],[Attendee]
-
-Iris is in February
-
-You said, I've got a lot of penicillin in my body.
-
-What has that got to do with the fact that I can't digest cooked foods.
-
-That's why I'm on the diet?
-
-I'm on the diet almost four years and I do great as long as they eat everything that hetells me.
-
-[Aajonus]
-
-No, that was your rosacea and your splotching on your face.
-
-That's from the penicillin.
-
-Now what happens is, penicillin is a bird fungus.
-
-When birds have eaten grains that they haven't digested properly, and let's say they're breaking cells down and the body needs help, say they've gone through a long drought, then a fungus will appear.
-
-Penicillin will appear and help break down those cells that are built off of this carbohydrate, grains.
-
-We would never have penicillin in the human body, except that we eat grain food: breads, cakes, pastas; anything made of grain and the cells are made of those products, fungus can live off of.
-
-Now, we wouldn't normally have that variety of of penicillin, but the pharmaceutical industry is made of penicillin that when injected in us lives forever, because when they sterilize it, they damage the RNA and DNA to tell it to go into hibernation.
-
-That on and off switch.
-
-They damaged it, so it'll always be active.
-
-That doesn't mean that the penicillin is a bad thing because it will only eat damaged tissue that was built on grain foods, so with a lot of carbohydrate.
-
-So, it's a beneficial fungus as long as it doesn't get out of control andmakes your life miserable.
-
-[Attendee]
-
-So, what's that connection with the, the fact that I here for several years wasn't able to digest food, cooked foods.
-
-[Aajonus]
-
-Well that was cause you weren't digesting and absorbing anything because it was cooked, plus you have lots of toxicity in your intestines.
-
-It came to the point where you just can't digest, unless it's raw.
-
-And there's a lot of people that come to that point.
-
-.
-
-(27) Salt
-[2009],[Aajonus]
-
-One lump of salt this big, pure sodium, sodium salt
-
-There's no chloride, there's no potassium, there's no iodine connected with it is more powerful than an atomic bomb.
-
-When your body takes in sodium chloride, potassium, sodium, or any of those table salts, it fractionate, it separates that, and the sodium becomes an isolated substance and it'll start causing tiny explosions in your blood.
-
-So, when your cells go to eat, there's a smorgasborg of nutrients anywhere from 93 to 117 nutrients all coupled together.
-
-So, when a cell eats, the ions opens up, takes it in, it gets a whole smorgasborg, a complete balanced diet.
-
-When you eat salt, it causes these little explosions and all these things will fractionate into as small as 7 - 23, even 30 molecules is about the most.
-
-The cell is never getting a balanced diet again, that's what salt does.
-
-[Attendee]
-
-So, that would even the case with like sea salta.
-
-[Aajonus]
-
-Doesn't matter what salt?
-
-It's concentrated sodium and it's not sodium in a plant where your ions are properly bound with other nutrients, there's no regulation on it.
-
-You can even kill a plant if you put salt in the ground and you'll kill a plant quickly, unless that plant is built to handle sodium, concentrated sodium.
-
-[Attendee]
-
-So, why is it there are so many animals that go into salt licks.
-
-[Aajonus]
-
-But they only do it on a rare occasion?
-
-They also have problems for a few days and that way they won't touch it again for another year, two years.
-
-[Attendee]
-
-They must need it.
-
-[Aajonus]
-
-No, they like that salty, sweet?
-
-They have a mineral need and maybe they're not eating enough dirt because they're in desert, because mainly all animals eat dirt with their food.
-
-All animals eat dirt with their food, every one.
-
-So, they're getting lots of minerals, but in a desert it isn't like that.
-
-There's not a lot, there's sand that doesn't break down as easily as the minerals in dirt.
-
-Plus they've got a long digestive tract to take 'em through, to hold up and utilize the minerals.
-
-But when you have salt blocks, then you're dealing with all these side effects and dehydrating the body.
-
-Well you have to eat salt hydrate the body.
-
-Well if that's true, you could fricking drink the sea water.
-
-But what happens if you drink sea water.
-
-You will die?
-
-You will dehydrate.
-
-You got that, you will dehydrate and die from salt water and they say that the salt water in the ocean is the same concentration of salt in the blood, doesn't make any difference.
-
-In the blood it has many nutrients utilizing it in precise ways.
-
-In in sea water, you don't have that.
-
-If we were fish, be a different situation, but we're not fish.
-
-[Attendee]
-
-Can you tell me what I would do when I have that reaction.
-
-Milk or?
-
-[Aajonus]
-
-Well, I would put a hot water bottle there very quickly?
-
-[Attendee]
-
-So, get out of the water.
-
-If I even add all that stuff for water, is it probably still not enough to chelate everything.
-
-[Aajonus]
-
-It may not be enough?
-
-Your water belt now is so toxic with those fire contamination, I double that amount of stuff.
-
-What you might do is just double the vinegar.
-
-[Attendee]
-
-So, what does the flame do.
-
-Why would a certain organ react and not another?
-
-[Aajonus]
-
-It probably isn't your spleen?
-
-, it's probably your pancreas.
-
-[Attendee]
-
-And the pancreas is here and it's probably traveling a little bit with the nerves.
-
-[Attendee]
-
-So, is that like a poisons trying to get out a specific organ.
-
-Why do you get a pain in a certain area?
-
-Is it just triggering a detox?
-
-[Aajonus]
-
-Certain sound vibrations can cause people to detox certain things and you happen to be sensitive to the frequency of water, that's all I can think of?
-
-[Attendee]
-
-Doesn't the water also gas off the chemicals.
-
-[Aajonus]
-
-Oh, absolutely?
-
-[Attendee]
-
-And you're breathing it in.
-
-[Aajonus]
-
-Yeah, unless you have the milk in there to draw it down?
-
-You can put clay in the water too to have extra insurance.
-
-Now that I have well water in Malibu Mountains Canyon.
-
-It's really nice water, no contamination.
-
-.
-
-(28) Spleen
-[2009],[Aajonus]
-
-Rope and another branches, falling down a tree, cut your juggler and you lost a cup of blood
-
-Now, you'd be very anemic with a cup of blood loss and you'd probably be good dinner cuz you wouldn't be able to run fast enough from a tiger or a lion.
-
-So, the body has this reserve of red blood cells in the spleen, so that you can dump up to almost two pints of red blood cells right back into the bloodstream, so you're not an anemic.
-
-.
-
-(29) Toxic Sperm
-[2009],[Attendee]
-
-Sperm
-
-[Aajonus]
-
-You can use sperm, but if he's got that much metal toxicity up on his head, he probably has it around the other head too.
-
-[Attendees]
-
-Laughs.
-
-[Aajonus]
-
-That sperm may not be so good.
-
-Your sperm smells metallic, don't use it.
-
-If it smells like it smells like an old iron, it's full of toxic minerals, don't wanna use it.
-
-.
-
-(30) Toxins In Water
-[2009],[Attendee]
-
-I'll give like a pain where I think our spleens supposed to be or like in the corner
-
-[Aajonus]
-
-Spleen?
-
-Yeah.
-
-[Attendee]
-
-And so, I don't know what that is.
-
-And it started after I was detoxing, now I'm getting better it started to come on, like I'm getting in the bathtub and all of a sudden I have this pain where it's just like doubled over there, but water triggers it.
-
-Not drinking it, it's just being around water or even the running of a water.
-
-You don't have any idea what that might be.
-
-[Aajonus]
-
-I can take a wild guess say you're allergic to water and the body's just warning you?
-
-[Attendee]
-
-The chemicals in the water maybe.
-
-[Aajonus]
-
-Could be the chemicals in the water?
-
-LA, there are 193 chemicals in the water.
-
-When I used to live in LA, in the city, LA whether it was Beverly Hills or Venice or Laurel Canyon, when I lived in those three places.
-
-I would get into the bath with nothing in it, I would be out in seven minutes, trembling, shaking, passing out.
-
-That's how toxic it was.
-
-So, I learned that I had to put milk, vinegar, and sea salt in the water, certain amount of it to control that.
-
-[Attendee #2]
-
-Why sea salt, but you are opposed to salt.
-
-You're putting sea salt in in the water?
-
-[Aajonus]
-
-Taking it internally if you take it internally.
-
-Do you know the salt is more explosive than nitroglycerin.
-
-?
-
-(31) What Aajonus Is Eating
-[2009],[Attendee]
-
-Aajonus, are you stuffing yourself
-
-I mean, are you eating like crazy to add the nutrients to there?
-
-[Aajonus]
-
-I'm eating double the butter that I usually eat, but you have to understand this is taking a lot of nutrients?
-
-[Attendee]
-
-I see that.
-
-[Aajonus]
-
-I mean, that's a lot of nutrients.
-
-I'm losing blood and serum constantly.
-
-The swelling in here, the whole taking care of this cap and that whole toxic insulin, my ankle's, everywhere.
-
-Now this one's doing it too.
-
-I eat tremendous amounts.
-
-I eat almost double what I usually eat, double the meat, double the fat, everything.
-
-If I didn't, I would be ultra skinny.
-
-.
-
-(32) Where To Live
-[2009],[Attendee]
-
-I'm almost retirement age, 66, and I'm ready to get outta here
-
-Where do I go.
-
-You travel all over the world, where is a good place to go?
-
-[Aajonus]
-
-It all depends upon your comfort level?
-
-I'm comfortable in poverty.
-
-[Attendee]
-
-What does poverty mean.
-
-[Aajonus]
-
-Poverty means I don't need anything, but the food on the land?
-
-[Attendee]
-
-Is that in the local land or.
-
-[Aajonus]
-
-No running water?
-
-I've got a river waterfall, I'm happy.
-
-[Attendee]
-
-So, where in the world else should we start with.
-
-[Aajonus]
-
-Depends on your comfort level, what can you live with and live without?
-
-[Attendee]
-
-Give me some names so we can start investigating, iI don't know.
-
-[Attendee #2]
-
-But do you wanna grow your own food.
-
-Cows?
-
-Is that's what you're talking about?
-
-[Attendee]
-
-No, no, we're not?
-
-Come on.
-
-That's what he talking about.
-
-into the group.
-
-[Attendee #2]
-
-I don't mind the Theia thing where there's a group.
-
-How many more communities are like that around the world that you know about.
-
-[Aajonus]
-
-None?
-
-[Attendee #2]
-
-That's the only one.
-
-[Attendee #3]
-
-There are some people in Asheville, South Carolina, wherever Asheville is?
-
-[Aajonus]
-
-They don't really have it together so much.
-
-[Attendee #3]
-
-I haven't been there in a while, that's the only other one I heard of.
-
-[Aajonus]
-
-It's cold there, it snows there.
-
-[Attendee #2]
-
-Go live with the Amish.
-
-[Aajonus]
-
-Do what Dennis does in Pangaea.
-
-He bought the land, he built the place and then he invites people to come and they work the land.
-
-They do everything for him and he gets the food that they grow and they cut when they harvest.
-
-[Attendee]
-
-Well, I have been emailing that and I can certainly use an engineer.
+A: If I did that, I would already have mine built. My clinic would already be going.

@@ -653,7 +653,7 @@ A: They have it in plastic, so I don't look at it.
 
 Q: So what do we do now?
 
-A: Well, you've got Perrier, you've got Romulusa, San Pellegrino, San Falestino, Apollinaris.
+A: Well, you've got Perrier, you've got Ramlosa, San Pellegrino, Sanfaustino, Apollinaris.
 
 Q: You won't go near Gerlsteiner?
 

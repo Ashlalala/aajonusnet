@@ -1138,7 +1138,7 @@ A: When I experimented with those from 88 to 91, I found that I could sleep with
 
 Q: So are you saying that the Prius and these newer cars have a high EMFs, and you need to adapt with pillows and other items?
 
-A:Yes.
+A: Yes.
 
 Q: I see.
 

@@ -21,6 +21,7 @@ Family, James Stewart, James Hopson, Norman Fritz,
 Pat Connolly, Greg Laur, and health-minded individuals.
 ```
 DISCLAIMER
+
 This material has been written and published solely for
 educational purposes. The reader understands that the author and
 publisher are not engaged in rendering medical advice or
@@ -34,18 +35,18 @@ directly or indirectly by the information contained in this book.
 (^1) Santa Monica, CA; Carnelian Bay Castle Press, 1997, 2005.
 
 
-# the Recipe for
+# The Recipe For
 
-# Living Without disease
+# Living Without Disease
 
-## ---------- < > -----------
+---------------------
 
 ```
 Volume One
 What’s To Discuss? Let’s Eat!
 ```
 ```
----- <> ---
+---- <> ----
 ```
 ```
 Volume Two
@@ -53,21 +54,23 @@ The Recipe For Healthy Living
 & Optimal Recipes!
 ```
 ```
----- <> ---
+---- <> ----
 ```
 ```
 Volume Three
 The Science Of Living Healthfully
 ```
 ```
----- <> ---
+---- <> ----
 ```
 ```
 Volume Four
 Health Or Disease?
 ```
-##### ---- <> ---
+```
+---- <> ----
 
+```
 ```
 Aajonus Vonderplanitz
 ```
@@ -120,13 +123,14 @@ per year. With those statistics, should we trust medical
 treatments? Do we want to risk those frightful odds?
 
 
-**What’s To Discuss? L e t’s Eat**! 9
+**PAGE 9**
 
 Would we be more secure in living life-styles that insure
 better health and freedom from disease at a fraction of the cost
 of medical treatments?
 
 **How I Discovered What Health Is**
+
 I am compelled to tell my story. It may save many lives from
 fa lling into the same fate that I did with medical treatment. I am
 one of the statistics cited above. My experiences were traumatic
@@ -164,8 +168,8 @@ Doctors did not tell me that for every one cancer cell that is
 burned by radiation a hundred million healthy cells are burned. I
 was not informed that radiation prevented billions of healthy
 
+**PAGE 10**
 
-(^10) Volume One t **he Recipe for Living Without Disease**
 cells from reproducing. They did not mention that radiation
 therapy would cause blood and bone cancers, cauterize my spine
 and greatly restrict movement. They did not inform me that for
@@ -203,7 +207,7 @@ Through searching and trial and error, I discovered alternative
 approaches to wellness. One of my first realizations came a year
 
 
-**What’s To Discuss? L e t’s Eat**! 11
+**PAGE 11**
 
 after one of my doctors severed all of the vagus nerves to my
 stomach as treatment for the cancerous stomach ulcer. After the
@@ -245,8 +249,7 @@ enough toxicity accumulates, resulting in compound cellular
 damage and degeneration, disease de velops. I present evidence
 on pages 153-158.
 
-
-(^12) Volume One t **he Recipe for Living Without Disease**
+**PAGE 12**
 
 #### Chapter 3
 
@@ -285,8 +288,7 @@ relocate live or mummified cells (scar tissue) from other areas of
 our bodies when our cells cannot reproduce. That process
 weakens the entire body.
 
-
-**What’s To Discuss? L e t’s Eat**! 13
+**PAGE 13**
 
 ```
 What are the nutrients for proper
@@ -331,8 +333,8 @@ foods are suited for us on pages 151-153. To discover which
 foods reverse particular ailments and disease, read _The Primal
 Diet; We Want To Live, Volume 2_.
 
+**PAGE 14**
 
-(^14) Volume One t **he Recipe for Living Without Disease**
 To see several hundred testimonials go to the website:
 [http://www.PrimalDiet.com.](http://www.PrimalDiet.com.)
 If you are interested in my journey and others’ case histories
@@ -374,8 +376,7 @@ to eating mainly grains and vegetables? The most plausible
 food”, I mean flesh food (meat and glands), eggs and dairy products. I
 do not mean food that is fed to animals.
 
-
-**What’s To Discuss? L e t’s Eat**! 15
+**PAGE 15**
 
 explanation is that nomadic humans decided to settle in one
 place. They overpopulated and consumed most of the animal life
@@ -418,8 +419,8 @@ we suffer more leeching because our cells must send more
 nutrients to detoxify the poisons formed during cooking and
 processing, and 5) those leeching processes gradually and
 
+**PAGE 16**
 
-(^16) Volume One t **he Recipe for Living Without Disease**
 unnoticeably weaken every cell in our bodies. As a result, our
 entire bodies slowly deteriorate. Disease came quickly to those
 of us who were born weak and debilitated.
@@ -442,7 +443,9 @@ diseased until it is too late to reverse their ill conditions easily.
 At that late stage, their glands do not produce enough hormones
 to carry on normal internal functions, much less utilize
 hormones as replacements for destroyed nutrients.
+
 **Can We Digest Raw Food?**
+
 In discussions over the years, approximately 30 doctors
 corroborated what Dr. Edinberg emphatically stated to me after
 he performed stomach surgery (vagotomy pyloroplasty): That I
@@ -458,8 +461,7 @@ not eat cooked meat, I had fewer pimples. Every time I ate
 cooked or processed food, I felt side-effects; cooked meat
 affected me worst.
 
-
-**What’s To Discuss? L e t’s Eat**! 17
+**PAGE 17**
 
 Using various diets, I experimented with myself first, then
 with animals and people. We found that raw food was, and is,
@@ -502,8 +504,8 @@ eliminate the pulp. Raw vegetable juices are our best vitamin,
 
 (^3) Carcinogenic toxins discussed on pages 153-157.
 
+**PAGE 18**
 
-(^18) Volume One t **he Recipe for Living Without Disease**
 enzyme and mineral supplements. More about our digestive
 abilities is on pages 151-153.
 A diet of mainly raw meat, raw eggs and raw dairy proved to
@@ -542,18 +544,15 @@ manmade chemicals and most toys.
 found in bowels and feces and unscientifically presumed to cause
 death. More on pages 169-186.
 
-
-**What’s To Discuss? L e t’s Eat**! 19
+**PAGE 19**
 
 Doctors told me that I was in danger of death from bacterial
-and parasitic food-poisoning. I was placed in the highest “at-
-risk” category. They terrorized me into believing that raw food
+and parasitic food-poisoning. I was placed in the highest “at-risk” category. They terrorized me into believing that raw food
 with all of its bacteria would kill me. They were adamant about
 it. What they told me to eat did not work.
 
 From desperation, I tried eating raw meats. Thousands of
-times, I ate raw meats and raw milk that were “microbe-
-infected” during my 32 years of experimentation and everyday-
+times, I ate raw meats and raw milk that were “microbe-infected” during my 32 years of experimentation and everyday-
 life. According to the assumptions of the medical and scientific
 communities, I should have suffered bacterial or parasitic food-
 poisoning thousands of times. I did not. Not once. Thousands of
@@ -587,8 +586,8 @@ processing, medical therapies and pollution? All hypotheses
 the medical term for “the bad guys”. However, in reality, "pathogens"
 have a beneficial purpose.
 
+**PAGE 20**
 
-(^20) Volume One t **he Recipe for Living Without Disease**
 must be explored by independent testing. Researchers must be
 held accountable to uphold the rules of evidence without the
 influence of special interests.
@@ -629,8 +628,7 @@ often we suffered severe symptoms, over-emotionality,
 hyperactivity and irritability. Those experiences were no
 different than our experiences on the standard-American diet
 
-
-**What’s To Discuss? L e t’s Eat**! 21
+**PAGE 21**
 
 (SAD). We assumed that instinctive-eating was a better diet
 because it was natural. When my teeth began to rapidly decay, I
@@ -674,8 +672,8 @@ After my shift away from eating high-carbohydrate food, I
 discovered that I healed more quickly. My clients who
 implemented the changes of diet also healed more quickly.
 
+**PAGE 22**
 
-(^22) Volume One t **he Recipe for Living Without Disease**
 It was not long after my introduction to raw food that I
 became aware that our bodies have innumerable chores to
 complete every minute. They eat, digest, transport, utilize and
@@ -713,8 +711,7 @@ do all of the chores of the city. That depletes our resources and
 depresses the population (our cells). That entire process is
 impossible to maintain. We cannot properly accomplish the
 
-
-**What’s To Discuss? L e t’s Eat**! 23
+**PAGE 23**
 
 chores. Pollution collects and creates a toxic environment within
 the city and the city deteriorates.
@@ -733,7 +730,7 @@ structures, load, transport and bury waste, neutralize poisonous
 matter, search for and gather nutrients, negotiate, redesign,
 renovate and restructure? How long will roads be blocked and
 over-congested? What degree of inconvenience, pollution and
-pain will residents and workers suffe r? If people had to
+pain will residents and workers suffer? If people had to
 completely rebuild New York City, how long would it take?
 Two hundred years? Five hundred?
 
@@ -758,11 +755,13 @@ reach optimal health. Fortunately, we do not have to wait for a
 pot of gold at the end of the rainbow to feel better. We improve
 every year on a health-giving diet. (I outline more on health-
 
+**PAGE 24**
 
-(^24) Volume One t **he Recipe for Living Without Disease**
 giving foods, food-combining and daily dietary plans on pages
 26-43.)
+
 **Sleep And Healing**
+
 Ninety-percent of healing that is regeneration and cellular
 reproduction occurs during sleep and very restful states. Naps
 are health-giving, especially when feeling sleepy or tired. A 10-
@@ -776,7 +775,9 @@ average, I sleep 4½ -5 hours each day. I enjoy excellent clarity
 and stamina in my wakeful hours. Two to six days each month, I
 may sleep 6-8 hours. I usually take a 10-60 minute nap
 everyday.
+
 **Bowel Movements**
+
 The number and volume of bowel movements depends on the
 food, health of intestinal bacteria and amount of toxins that enter
 the bowels. One movement every 1 to 3 days may be appropriate
@@ -829,8 +830,8 @@ Diets of spoiled, cooked and processed foods have proved
 repeatedly to coincide with disease. We may pay twice more for
 them, through loss of health and work.
 
+**PAGE 26**
 
-(^26) Volume Two t **he Recipe for Living Without Disease**
 Fresh raw foods usually have delightful tastes. Some of us
 have retained a degree of our natural taste instincts and easily
 appreciate meaty raw foods. However, most of us live in palatal
@@ -861,31 +862,32 @@ I suggested two general dietary plans in this book, pages 40-41.
 ```
 The Best Health-Giving Raw Food
 ```
-```
-x Honey, bee pollen and royal jelly should not be artificially
-heated above 93 q F (33 q C), nor stored below 45 q F (7 q C).
-x Fats should not be artificially heated above 96 q F (35 q C)
-nor stored below 38 q F (2 q C), except olive oil, which
-should not be stored below 50 q F (10 q C).
-```
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 27
+x **Honey, bee pollen and royal jelly should not be artificially
+heated above 93F (33C), nor stored below 45F (7C).**
+
+x **Fats should not be artificially heated above 96F (35C) nor stored below 38F (2C), except olive oil, which should not be stored below 50F (10C)**.
+
+**PAGE 27**
+
 x **Milk and milk products should not be artificially heated
-above 98** q **F nor stored below 45** q **F (7** q **C).**
-x **Meats should not be artificially heated above 98** q **F (37** q
-**C) nor stored below 38** q **F (2** q **C).**
-x **Eggs should not be artificially heated above 98** q **F (37** q **C)
-nor stored below 68** q **F (20** q **C). Eggs lose many nutrients
-when refrigerated. Eggs should not be refrigerated except
-when a recipe calls for it. Recipes that contain egg should
-not be refrigerated after being prepared. Most recipes will
+above 98F nor stored below 45F (7C).**
+
+x **Meats should not be artificially heated above 98F (37C) nor stored below 38F (2C).**
+
+x **Eggs should not be artificially heated above 98F (37C)
+nor stored below 68F (20C). Eggs lose many nutrients when refrigerated. Eggs should not be refrigerated except
+when a recipe calls for it. Recipes that contain egg should not be refrigerated after being prepared. Most recipes will
 last for 24 hours outside of refrigeration.**
-x **Other foods should not be artificially heated above 104** q **F
-(39** q **C) nor stored below 45** q **F (7** q **C).**
+
+x **Other foods should not be artificially heated above 104F
+(39C) nor stored below 45F (7C).**
+
 Following are the foods that have been proved to assimilate
 well in human digestion and are able to be properly utilized for
 balance, growth, regeneration, cellular reproduction and
 lubrication, soothing, calming, cleansing and fueling.
+
 **RAW EGGS, Free-Range,** are one of the best compact foods in
 nature. Eggs are the ultimate complete fast-food. However, the
 protein in eggs is not utilized for cellular reproduction. They are
@@ -904,10 +906,11 @@ that she get her patient 10 dozen raw eggs and put them on her
 bed-table. I suggested that she ask her patient to eat one as often
 as she could and that there was no limit. Very early Monday
 morning, I received a call from the patient. She told me that she
+
 (^6) _The Great Egg Panic_ by Emily Green, LA Times, Jan. 4, 2000.
 
+**PAGE 28**
 
-(^28) Volume Two t **he Recipe for Living Without Disease**
 was off the machines, out of bed and feeling stronger than she
 had in years. She had eaten 66 eggs over the weekend.
 If eggs are whipped, beaten or blenderized without milk,
@@ -922,6 +925,7 @@ consumed without any other food, not whipped, beaten or
 mixed. For those who are squeamish about the texture, sipping
 and swallowing the egg white makes eating eggs Rocky-style
 very easy and non-repulsive.
+
 **RAW FAT** is the most utilized nutrient in our bodies, especially
 in our toxic industrial world. It helps stabilize and relax the body
 markedly when in combination with raw meat. Fats help white
@@ -941,12 +945,13 @@ Samburu tribes in Africa endured very hot temperatures. The
 Eskimo, Masai, Fulani and Samburu did not suffer any heart
 maladies as long as they ate their natural diet of raw meat and
 raw fat, absent of sugar and cooked starches.
+
 **RAW MEAT** provides easily used proteins to build, rebuild,
 regenerate, and reproduce cells throughout the body. I have
 observed that raw meat is the only protein that facilitates nerve-
 
+**PAGE 29**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 29
 tissue regeneration and cellular reproduction. Although all meats
 help regenerate every type of cell, particular raw meats more
 readily help the regeneration of certain types of cells. Red meat,
@@ -984,10 +989,11 @@ glands palatable, I created POWER DRINKS; pages 103-104.
 When deciding on cuts of meat to eat, consider that all hunter
 tribes discard the tender meats, or feed them to the elderly. They
 
+**PAGE 30**
 
-(^30) Volume Two t **he Recipe for Living Without Disease**
 have experienced that eating tender meat causes weakened cells.
 The-tougher-the-meat-the-better is their motto.
+
 **FRESH, RAW, NON-PASTEURIZED, NON-IRRADIATED
 GREEN VEGETABLE JUICES** are important for optimal
 health because they are the only nontoxic vitamin, enzyme and
@@ -1023,12 +1029,13 @@ and acted in favor of agribusinesses, they have ruined the true
 meaning of organic. Now, even organic produce may contain
 agricultural chemicals. To help prevent agricultural chemicals
 
+**PAGE 31**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 31
 from damaging our health, it would be best to put ½ teaspoon of
 sun-dried clay into each quart of vegetable juices. The clay will
 absorb most, if not all, of the toxins that may be found in the
 juices. Prior to use, mix clay with water and let stand for 5 days.
+
 **UNHEATED HONEY** contains an insulin-like substance that is
 produced by bees when collecting nectar. That insulin-like
 substance converts 90% of the carbohydrate in nectar into
@@ -1036,13 +1043,13 @@ enzymes that help digest, assimilate and utilize protein.
 Unheated honey is a wonderful sweet food that helps digest all
 types of meat. That honey is wonderful for infants, fed in small
 amounts at a time.
-The insulin-like substance begins detrimental alteration at 93q
-F (33q C) and is destroyed at 100q F (37q C). Diabetics,
+The insulin-like substance begins detrimental alteration at 93F (33C) and is destroyed at 100F (37C). Diabetics,
 hypoglycemics and some infants cannot utilize honey if the
 insulin-like substance is destroyed. Honey that is heated above
-104 q F (39q C) is radical sugar that often causes slow
+104F (39C) is radical sugar that often causes slow
 deterioration of membranes in the body. Honey heated above
-104 q F (39q C) may cause toxicity in some infants.
+104F (39C) may cause toxicity in some infants.
+
 **CARBOHYDRATES** are required for only 5% of the optimal
 diet for humans. They are needed to properly utilize fat for
 energy and make solvents for cleansing. The best sources for
@@ -1061,8 +1068,8 @@ less, while gathering and cultivating more nuts, grains and fruit,
 they developed osteoporosis and dental decay. It seems that all
 races are unable to properly eliminate carbohydrate wastes.
 
+**PAGE 32**
 
-(^32) Volume Two t **he Recipe for Living Without Disease**
 Some carbohydrate wastes are called glycotoxins. One
 glycotoxin, termed Advanced Glycation End-products (AGEs),
 was studied at Columbia University’s Department of Medicine.
@@ -1091,17 +1098,19 @@ degenerative diseases in the past two decades, according to
 Harvard University. Non-meat diets slow healing and
 regeneration. For humans, a raw diet that is very low in
 carbohydrate has proved to produce a disease-free, happy life.
+
 **A LITTLE FRUIT** eaten with raw fat slows fruit-sugar
 digestion and helps to prevent manic, hyperactive, irritable
 and/or depressive reactions. To avoid those reactions, I suggest
+
 (^7) _Cellular Receptors for Advanced Glycation End Products;
 Implications for Induction of Oxidant Stress and Cellular Dysfunction
 in the Pathogenesis of Vascular Lesions_ , Schmidt, Hori, Brett, Du
 Yan, Wautier, Stern; Review, Arteriosclerosis and Thrombosis, 1994,
 Vol. 14, (10):1521-8.
 
+**PAGE 33**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 33
 eating the whole fruit (except citrus rind) and rarely, or never,
 consume fruit juices. For people with diabetes and glycemic
 conditions, I recommend no more than 4-7 ounces of fruit,
@@ -1121,6 +1130,7 @@ met 8 people of 2,300 who were able to maintain health and eat
 a high-carbohydrate fruit diet without ill symptoms. If you do
 not get overly emotional or manic within 24 hours after eating
 fruit, more fruit might be fine for you.
+
 **NUTS** , when eaten plain and/or in quantity and/or too often,
 cause carbohydrate toxicity. Raw nuts contain enzyme inhibitors
 that prevent proper protein digestion and cause mineral loss. I
@@ -1139,9 +1149,9 @@ See Nut Formula, page 117, to learn the foods to combine
 with raw nuts so that they help crea te health rather than interfere
 with health.
 
+**PAGE 34**
 
-(^34) Volume Two t **he Recipe for Living Without Disease
-OILS** , such as olive and flax are 90% solvent-reactive. That is,
+**OILS** , such as olive and flax are 90% solvent-reactive. That is,
 they are mainly used as cleansers to dissolve toxins. Our bodies
 cannot easily utilize pressed oils for lubrication, relaxation and
 stabilization. Pressed oils are beneficial in dissolving internal
@@ -1163,7 +1173,7 @@ Olive oil should never be refrigerated. Flax oil and coconut
 cream should always be refrigerated. As of this publication, only
 olive and flax oils are pressed below 96° F (36° C) and have not
 been solvent extracted. Absolutely no coconut oil or butter is
-produced under 118q F (46q C), no matter what the labels claim.
+produced under 118F (46C), no matter what the labels claim.
 **WATER** that is not in raw food has no active ions, electrolytes
 nor minerals bound with nutrients. It must have all 3 properties
 or it is only 10% cellularly utilizable. Water leeches nutrients
@@ -1174,12 +1184,12 @@ tissue rather than being discarded from the body.
 It is a false notion that water nurtures and hydrates tissue. In
 fact, water dries the cells while it bloats the body because 90%
 of it circulates in the blood serum without cellular absorption.
-That also applies to the H 2 O in cooked food. People who eat
-cooked food cannot absorb much of the H 2 O into their cells.
+That also applies to the H2O in cooked food. People who eat
+cooked food cannot absorb much of the H2O into their cells.
 Their cells become dehydrated.
 
+**PAGE 35**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 35
 Most people who consume cooked and processed food,
 processed drinks and water, evaporate 2 quarts of water during
 the night. Most people who consume live raw food including
@@ -1187,7 +1197,7 @@ meat, milk and vegetable juices may evaporate only 2 pints
 throughout the night after they have been on this Primal Diet for
 several years. Water is never a good replacement for body fluids
 spent during evaporation/perspi ration because cells cannot
-absorb it. Only H 2 O that is nutrient bound in food properly
+absorb it. Only H2O that is nutrient bound in food properly
 replaces fluids.
 People believe that water lubricates the body. How can water
 lubricate anything? Fats lubricate. Try lubricating devices with
@@ -1197,30 +1207,28 @@ quantities of water also disintegrates the human body, causing
 frequent urination, a sense of being too cold in temperatures as
 high as 70º F (21º C), weight-loss in many people and bloating
 in many others.
-Raw food contains from 55% to 92% H 2 O that is 92-100%
+Raw food contains from 55% to 92% H2O that is 92-100%
 cellularly utilizable. Dehydration is impossible on the Primal
 Diet when water is not consumed. I drink about 1 cup of water
 per week without exercise. I may drink a little more if involved
 in physical activity. I recommend that people drink raw milk and
-green vegetable juices and eat tomatoes to fill their H 2 O
+green vegetable juices and eat tomatoes to fill their H2O
 requirements. Most often, eating raw tomatoes and raw fat
 satisfies thirst and dryness, including dry mouth, better than
 other foods. When physically active, I drink 2 quarts of raw
 milk, 1-2 tomatoes and up to 1 1/2 quarts of green vegetable
 juices per day that are all rich with nutrients to completely
-satisfy my H 2 O needs. To satisfy dry mouth and severe thirst, I
+satisfy my H2O needs. To satisfy dry mouth and severe thirst, I
 consume butter and/or cream. Rather than dehydrated, we are
 delipidated. That means we are deficient in the raw fats that can
-properly lubricate us. Our thirst is more for raw fat than for H 2 O.
+properly lubricate us. Our thirst is more for raw fat than for H2O.
 
-
-(^36) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 36**
 
 #### Chapter 11
 
-##### FOOD-COMBINING
-
 ```
+FOOD-COMBINING
 For Proper Digestion And Assimilation
 ```
 Combining acidic and alkaline foods often neutralizes
@@ -1254,52 +1262,63 @@ reactions. If I drink cold milk from the refrigerator, I experience
 stomach cramps and sometimes cramps in my hands and feet.
 
 **Concerning Vegetable Juices**
+
 x Wait at least one hour after drinking vegetable juices before
 eating or drinking any other food, except unsalted raw butter,
 raw cream, unheated coconut cream, and unheated honey.
 
+**PAGE 37**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 37
 x Wait at least one hour after eating or drinking any other food
 before drinking vegetable juices, except unsalted raw butter,
 raw cream, and unheated coconut cream, and unheated honey.
+
 **Concerning Whole Vegetables (Salads)**
+
 x Rarely should we eat whole vegetables but when we do,
 vegetables should not be eaten sooner than 1 hour after any
 other food.
+
 x Vegetables move through the intestines slowly. Acidic foods
 will catch up with them and interfere with digestion.
 Therefore, no other food should be eaten within 5 hours after
 eating a vegetable salad.
+
 **Concerning Fruits**
+
 x If experiencing tooth or gum sensitivity or pain in a particular
 area, do not eat high-carbohydrate fruits, especially apples
 and citrus.
+
 x Alkaline fruits, such as bananas, peaches and figs, should not
 be consumed more than once a day, and should not be
 consumed with meat. They should be eaten with coconut
 cream, coconut, avocado, unsalted raw butter, raw cream, no-
 salt-added raw cheese or occasionally raw eggs.
+
 x Acidic fruits, such as lemon, lime, pineapple and tangerine,
 may be consumed with fowl or fish when in combination with
 an added fat, such as raw cream, unsalted raw butter, no-salt-
 added raw cheese, coconut cream, coconut or avocado.
+
 **Concerning Meats**
+
 x Combining alkaline or acidic fruits with red meats usually
 turns too much of the protein into fuel or solvents. That
 reduces healing and obstructs the reversal of the aging
 process. The combination is not harmful but can hinder the
-healing pro cesses and instigate too much detoxification.
+healing processes and instigate too much detoxification.
 There is an exception: A little acidic fruit, such as lemon,
 lime, pineapple and apple cider vinegar, may be mixed or
 blended with fat 10 minutes prior to combining with red
 meat. Example: Tartar sauce eaten with red meat.
+
 **Concerning Cheese**
+
 x Combine cheese with at least an equal amount of fat,
 especially butter, to prevent constipation.
 
-
-(^38) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 38**
 
 #### Chapter 12
 
@@ -1307,6 +1326,7 @@ especially butter, to prevent constipation.
 An Optimal Diet
 ```
 **The Recipe For Removing Deep-Tissue Toxicity**
+
 On the Primal Diet, it is very important to gain and lose
 weight to remove imbedded toxicity. Without excess fat, the
 body cannot afford to make solvents, dissolve toxicity,
@@ -1343,8 +1363,8 @@ little as 10 days but it is important to hold it for at least 8 weeks.
 Some people require 2 weeks and some 3 months to lose the
 excess weight on the suggested weight-loss program on page 42.
 
+**PAGE 39**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 39
 The time required for weight-gain and weight-loss is individual.
 Two wardrobes are needed: 1) trim, not thin, and 2) oversized.
 Women should gain at least two sizes larger than their trim size.
@@ -1353,8 +1373,10 @@ off!
 I created the following paradigm from 35 years of experience,
 experimentation and research. An optimal diet consists of all
 organically grown food and generally contains:
-**Daily Intake:** x
-*** 4-6 ounces only of raw fruit with equal amounts of raw fat
+
+**Daily Intake:**
+
+* 4-6 ounces only of raw fruit with equal amounts of raw fat
 consumed midday. Raw fruit should not be more than 5%
 of our total food consumption.
 * 1-3 pounds (3-9 cups) of raw meat (red meat, and/or
@@ -1362,7 +1384,7 @@ seafood, and/or fowl). Raw meat should be 25 to 30% of
 our diet.
 * 8-24 ounces of raw fat (unsalted butter, cream, coconut
 cream juiced from coconut, meat, eggs, unsalted cheese,
-coconut, avocado, oils cold-pressed below 96** q **F (35** q **C)).
+coconut, avocado, oils cold-pressed below 96F (35C)).
 Raw fat should be 25% of our diet.
 * 2-6 cups of raw green vegetable juices. Green vegetable
 juices should be 25 to 30% of our diet.
@@ -1379,108 +1401,110 @@ acidic bacteria responsible for forming stools in the
 bowels and by interfering with digestion of other food.
 Usually, vegetable juices provide every thing we need
 from vegetables.**
+
 x Measurements: Meats are by weight in ounces and pounds; all other
 foods are by volume in teaspoons, tablespoons, ounces, cups, pints,
 etc. Percentages are by volume of food, not by weight.
 
+**PAGE 40**
 
-(^40) Volume Two t **he Recipe for Living Without Disease**
-
-#### Recommendations #2 General Daily Eating Schedule
+#### General Daily Eating Schedule Recommendations #1
 
 (This plan consists of three meat meals daily and is better for
 people with slower metabolism, lethargy and glycemic
 problems, including diabetes.)
 
-```
-x After waking, drink 4-12 ounces green vegetable juices.
-x 45-60 minutes later, eat 6-10 ounces (1-2 cups) raw meat
+* After waking, drink 4-12 ounces green vegetable juices.
+* 45-60 minutes later, eat 6-10 ounces (1-2 cups) raw meat
 with raw egg(s) and/or 2-5 tablespoons raw butter, raw
 cream, raw coconut cream, no-salt-added raw cheese with
 equal amount of butter or avocado. One or a combination
 of several raw fats may be eaten at a meal, such as in a
 sauce.
-x Next, 45-90 minutes later, drink a blended milkshake
+* Next, 45-90 minutes later, drink a blended milkshake
 consisting of 1-4 raw eggs, 3-6 ounces raw milk, 1-4
 ounces raw cream and 1-2 tablespoons unheated honey.
-x At least 1 hour later, drink another 4-12 ounces green
+* At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.
-x At least 1 hour later, eat 6-10 ounces (1-2 cups) raw meat
+* At least 1 hour later, eat 6-10 ounces (1-2 cups) raw meat
 with raw egg(s) and/or 2-5 tablespoons raw butter, raw
 cream, raw coconut cream, no-salt-added raw cheese with
 an equal amount of butter or avocado. One or a
 combination of several raw fats may be eaten at a meal,
 such as in a sauce.
-x 60-90 minutes later, eat 4-6 ounces fruit with 3-6 ounces of
+* 60-90 minutes later, eat 4-6 ounces fruit with 3-6 ounces of
 either raw cream, raw coconut cream, raw butter or
 avocado. You may combine any or all of the above, or you
 may drink another milkshake without fruit.
-x At least 1 hour later, drink another 4-12 ounces green
+* At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.
-x At least 1 hour later, eat 6-10 ounces (1-2 cups) raw meat
+* At least 1 hour later, eat 6-10 ounces (1-2 cups) raw meat
 with raw egg(s) and/or 2-5 tablespoons raw butter, raw
 cream, raw coconut cream, no-salt-added raw cheese with
 an equal amount of butter or avocado. One or a
 combination of several raw fats may be eaten at a meal,
 such as in a sauce.
-x 45-90 minutes later, drink a blended Moisturizing/
+* 45-90 minutes later, drink a blended Moisturizing/
 Lubrication Formula; page 146.
-x At least 1 hour later, drink another 4-12 ounces green
+* At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.
-```
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 41
+
+**PAGE 41**
+
 **General Daily Eating Schedule Recommendations #2**
+
 (This plan consists of two meat meals daily and is better for
 people with high metabolism and hyperactivity.):
-x **After waking, drink 4-12 ounces green vegetable juices.**
-x **45-60 minutes later, eat 8-14 ounces (1½-3 cups) raw meat
-wi th raw egg(s) and/or 3-10 tablespoons raw butter, raw
+
+* **After waking, drink 4-12 ounces green vegetable juices.**
+* **45-60 minutes later, eat 8-14 ounces (1½-3 cups) raw meat
+with raw egg(s) and/or 3-10 tablespoons raw butter, raw
 cream, raw coconut cream, no-salt-added raw cheese with
 an equal amount of butter or avocado. One or a
 combination of several raw fats may be eaten at a meal,
 such as in a sauce.**
-x **45-90 minutes later, drink a blended milkshake consisting
+* **45-90 minutes later, drink a blended milkshake consisting
 of 2-4 raw eggs, 3-6 ounces raw milk, 1-4 ounces raw
 cream and 1-2 tablespoons unheated honey.**
-x **At least 1 hour later, drink another 4-12 ounces green
+* **At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.**
-x **At least 1 hour later, eat 4-6 ounces fruit with 3-6 ounces
+* **At least 1 hour later, eat 4-6 ounces fruit with 3-6 ounces
 of either raw cream, raw coconut cream, raw butter or
 avocado. You may combine any or all of the above, or you
 may drink another milkshake without fruit.**
-x **At least 1 hour later, drink another 4-12 ounces green
+* **At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.**
-x **At least 1 hour later, eat 8-14 ounces (1½-3 cups) raw
+* **At least 1 hour later, eat 8-14 ounces (1½-3 cups) raw
 meat with raw egg(s) and/or 3-10 tablespoons raw butter,
 raw cream, raw coconut cream, and/or no-salt-added raw
 cheese with an equal amount of butter or avocado. One or
 a combination of several raw fats may be eaten at a meal,
 such as in a sauce.**
-x **45-90 minutes later, drink a blended Moisturizing/
+* **45-90 minutes later, drink a blended Moisturizing/
 Lubrication Formula, page 146.**
-x **At least 1 hour later, drink another 4-12 ounces green
+* **At least 1 hour later, drink another 4-12 ounces green
 vegetable juices.**
+
 If you are balanced metabolically, I suggest that you alternate
 those plans. The recommended daily diets above are intended to
 cause the weight-gain necessary to remove deep-tissue toxicity.
 
+**PAGE 42**
 
-(^42) Volume Two t **he Recipe for Living Without Disease
-Weight-loss-Diet Recommendations**
- **Drink 1 cup green vegetable juices.**
- **When very hungry but not in a stupor or angry-hungry,
-eat 2-3 golfball-sized amounts of meat (any meat that
-appeals to you) with 1 teaspoon of raw butter, cream or
-avocado but butter is preferable.**
- **When next very hungry, eat 2 golfball-sized amounts of
+**Weight-loss-Diet Recommendations**
+
+* **Drink 1 cup green vegetable juices.**
+* **When very hungry but not in a stupor or angry-hungry, eat 2-3 golfball-sized amounts of meat (any meat that appeals to you) with 1 teaspoon of raw butter, cream or avocado but butter is preferable.**
+* **When next very hungry, eat 2 golfball-sized amounts of
 meat with one teaspoon of raw butter, cream or avocado
 but butter is preferable.**
- **When next very hungry drink 1 cup green vegetable
+* **When next very hungry drink 1 cup green vegetable
 juices.**
- **When next very hungry, eat 1-2 raw eggs Rocky-style.**
- **When next very hungry, eat 2 golfball-sized amounts of
+* **When next very hungry, eat 1-2 raw eggs Rocky-style.**
+* **When next very hungry, eat 2 golfball-sized amounts of
 meat without butter, cream or avocado.**
+
 That is one cycle. If the day is not over, start the cycle over.
 You may eat as many cycles in a day as necessary to avoid
 eating other food. I suggest that, no matter where you are in a
@@ -1488,10 +1512,12 @@ cycle at the end of a day, drink 1 cup of raw milk before a long
 sleep-period to help relax and calm nerves. If no raw milk is
 available, drink a blend of 2 ounces raw coconut cream, 4
 ounces coconut milk and 1 teaspoon fresh lime juice.
+
 **Juice recipe during weight-loss cycle:** 1 ½ tablespoon unheated
 honey per quart as preservative, ½ small organic lemon or lime
 with rind per 3 quarts green juice (80% celery, 18% parsley, 2%
 lemon; percentages are by volume, not weight).
+
 I break the weight-loss diet if I experience lasting
 detoxification symptoms, such as cold, flu or severe pain. For
 the recommended diet during bacterial or viral detoxification,
@@ -1505,8 +1531,8 @@ last 36 hours. That is usually enough time to get to a store,
 preferably a healthfood store. For every 14 days of travel, I take
 2 ½ pounds of no-salt-added raw cheeses, 1 quart of unheated
 
+**PAGE 43**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 43
 honey and 3 pounds of unsalted raw butter. Because I do not
 drink vegetable juices on trips, I eat many tomatoes, drink
 coconut milk, chew on celery and expectorate the pulp. Or, I
@@ -1547,12 +1573,13 @@ For research on infant safety from drinking raw milk and the
 dangers of drinking formulas, and processed and pasteurized
 milks, see pages 180-186.
 
-
-(^44) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 44**
 
 #### Chapter 13
 
-## 13 To Eat Or Not To Eat Spices And Oils?
+```
+To Eat Or Not To Eat Spices And Oils?
+```
 
 Spices in small amounts add flavor and excite the taste buds.
 Eaten too much or too often, spices can cause excessive energy,
@@ -1590,8 +1617,8 @@ bodies’ changing needs. Sometimes an individual may be able to
 eat spicy food often but then may reach a saturation point and
 have to stop consuming a particular spice for a period of one day
 
+**PAGE 45**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 45
 to weeks. Centuries ago, spices were medicine, not condiments.
 Spices are potent, therapeutic and enjoyable in moderate doses
 but discomforting when over-consumed or counter-indicated for
@@ -1606,7 +1633,9 @@ tasty food! Bon appetite!
 ```
 #### Chapter 14
 
-## 14 Health-Giving Recipes!
+```
+Health-Giving Recipes!
+```
 
 ```
 Be certain to read all of the instructions on pages 46-50
@@ -1614,34 +1643,17 @@ before making any recipe.
 ```
 #### Necessary Equipment
 
-```
-9 One blender; my preference is an Osterizer.
-9 One juicer; my preference are a Green Star or Green Life
-because it is a closed-case-crush press. It has the lowest
-electromagnetic field produced by efficient juicers. I do
-not use centrifugal juicers because they use air to press
-the juice from the pulp, oxidizing and damaging up to
-30% of the nutrients in the juice.
-9 One 1-quart food processor.
-9 One dozen each of the 12- and 16-ounces regular-sized
-mouth glass jars; my preference of brand names is Ball
-with enameled lids.
-9 Two dozen each of a 4- and 8-ounces regular-sized
-mouth glass jars, my preference of brand names is Ball
-with enameled lids. If more than one person lives in the
-household, many more jars, especially the 8-ounces, will
-be needed.
-9 Extra enameled regular-sized jar lids to replace rusty lids.
-9 Hand-crank ice cream maker, such as Donvier brand.
-The hand-crank is best because making ice cream takes
-approximately 30 minutes. When a motor-driven ice
-cream maker is used, the high electromagnetic field alters
-the molecular structure of the food and it is less
-nutritious, and possibly harmful.
-```
+- One blender; my preference is an Osterizer.
+- One juicer; my preference are a Green Star or Green Life because it is a closed-case-crush press. It has the lowest electromagnetic field produced by efficient juicers. I do not use centrifugal juicers because they use air to press the juice from the pulp, oxidizing and damaging up to 30% of the nutrients in the juice.
+- One 1-quart food processor.
+- One dozen each of the 12- and 16-ounces regular-sized mouth glass jars; my preference of brand names is Ball with enameled lids.
+- Two dozen each of a 4- and 8-ounces regular-sized mouth glass jars, my preference of brand names is Ball with enameled lids. If more than one person lives in the household, many more jars, especially the 8-ounces, will be needed.
+- Extra enameled regular-sized jar lids to replace rusty lids.
+- Hand-crank ice cream maker, such as Donvier brand. The hand-crank is best because making ice cream takes approximately 30 minutes. When a motor-driven ice cream maker is used, the high electromagnetic field alters the molecular structure of the food and it is less nutritious, and possibly harmful.
 
-(^46) Volume Two t **he Recipe for Living Without Disease**
-9 Hand pepper grinder.
+**PAGE 46**
+
+- Hand pepper grinder.
 
 #### Blenderizing The Easy Way
 
@@ -1683,8 +1695,8 @@ in the blades and caused the jar to burst. I suspect that the jar
 was cracked prior to blending. I have had the washer catch on
 the blades approximately 25 times over 25 five years and the
 
+**PAGE 47**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 47
 glass never broke. Take your time and be patient. If the washer
 gets caught in the blades, an unusually deep drone occurs and
 most often, the ingredients spew from the base of the jar without
@@ -1692,7 +1704,9 @@ bursting. Turn off the blender immediately if it sounds strange.
 Unscrew the base and inspect the washer; is it properly placed?
 If the washer is too slippery to remain in place, wipe the rim of
 jar, and rinse and dry the washer before reapplying it to the jar.
+
 **Blenderizing Recipes That Include Butter**
+
 Blender blades are made of cold metal that will cause butter
 to chill and stiffen. That often causes the ingredients to freeze-up
 and not blenderize. When blenderizi ng a recipe with butter that
@@ -1700,7 +1714,9 @@ needs to be melted, it is best to cap the jar with blender
 washer/blades/base before immersing in mildly hot water. That
 way, the blades will heat along with the ingredients and
 blenderizing will be easy.
+
 **Making Raw Milk Into Raw Kefir Without A Culture-Additive**
+
 Let raw milk stand at room temperature in a dark cupboard.
 An upper cupboard is preferable because it is warmer. It is ready
 when the milk becomes thick, usually after two days. Adding 1-
@@ -1708,9 +1724,8 @@ when the milk becomes thick, usually after two days. Adding 1-
 separation of liquid and solids occurs, see making Cottage
 Cheese, page 59-60.
 
-#### 3 Days To Maintain Nutrients How To Juice Vegetables And Store Them For
+**How To Juice Vegetables And Store Them For 3 Days To Mantain Nutrients**
 
-**Maintain Nutrients**
 I juice 92 ounces of green vegetable juices at a time for a
 three-day period. As I juice the vegetables, I pour the juices into
 a gallon container. After I have juiced 92 ounces (not including
@@ -1726,12 +1741,12 @@ airspace in each jar. My tests showed that refrigerated juices
 stored that way retained 90 to 93% nutrient value in a 78-hour
 period.
 
-
-(^48) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 48**
 
 #### Making Coconut Cream
 
 **1 to 3 Coconuts**
+
 Choose a coconut by inspecting its shell. If you find any
 cracks or dark watermarks, small or large, or black spots, it is
 probably spoiled. Inspect the three small dark circles grouped
@@ -1771,8 +1786,8 @@ Place the coconut meat slices or ground coconut in a juicer
 that separates cream from pulp, such as a GreenStar juicer,
 Champion, or Norwalk. The result is coconut cream that will
 
+**PAGE 49**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 49
 thicken as hard as butter in refrigeration. Use the pulp to fertilize
 a garden or lawn. Do not mix coconut milk with the coconut
 cream unless you intend to drink it within 24 hours; or it will
@@ -1785,9 +1800,8 @@ is recommended that you juice 3-5 coconuts at a time. Each
 coconut renders 6-8 ounces of pure cream from a Green Star
 juicer (do not include the milk from the coconut).
 
-## Marinating Meats In Lemon Or Lime Juices
+**Marinating Meats In Lemon Or Lime Juices**
 
-```
 Seafood and Fowl may be marinated in citrus juice. If red
 meats are marinated in lemon or lime juices or vinegar, often the
 protein is converted to fuel or solvent rather than for
@@ -1800,50 +1814,53 @@ fowl look and taste heat-cooked when marinated that they are
 cooked. That is not true. Like digestive acids in our bodies,
 citrus juices partially break down the components of food for
 proper digestion but do not mutilate or destroy the nutrients.
-```
-```
-Using Gauze-cloth, Cheesecloth, Or Cheese-pouch For
-Straining
+
+
+**Using Gauze-cloth, Cheesecloth, Or Cheese-pouch For Straining**
+
 New material contains bleach and chemical sizing;
 compounds that are very toxic. Cloth must be thoroughly rinsed
 in cold and then hot waters, and finally rinsed in warm water
 with a capful of raw vinegar before use with food. Do not use
 soap after the first washing.
-```
-```
-Whipping Raw Cream
+
+
+**Whipping Raw Cream**
+
 When blenderizing cream in a 4-ounces glass jar, always
 blenderize on low speed. Never use more than 3 ounces of cream
 in a 4-ounces jar. The cream needs airspace to swell or it will
 turn into butter. When blenderizing in an 8-ounces jar,
 blenderize on medium speed. Never use more than 6 ounces of
 cream in an 8-ounces jar. During blenderizing, when an high
-```
 
-(^50) Volume Two t **he Recipe for Living Without Disease**
+
+**PAGE 50**
+
 pitch from the blender begins, it indicates that the cream is stiff
 and ready. Turn off the blender.
 
-## Making Raw Butter From Raw Cream
+**Making Raw Butter From Raw Cream**
 
 Fill an 8-ounces jar with 7 ounces raw cream. Screw on
 blender washer/blades/base tightly and blenderize for 90 seconds
 on high speed. Pour off whey.
 
 **Ingredients That Are In All Capitalized Letters**
+
 A capitalized word indicates that the item itself is a recipe. That
 recipe must be made first, or made previously.
 
 **Quantities And Servings**
+
 Most recipes are for 1 serving. To make larger recipes,
 multiply the appropriate number of servings you need times the
 amount of each ingredient. If a recipe is for 2 servings and you
 want to make 4 servings, simply multiply each ingredient by 2.
 
+**PAGE 51**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 51
-
-#### Baby Food
+## Baby Food
 
 It has been my experience that infants under 1-year old have
 achieved better health when breast-fed entirely by a mother on a
@@ -1857,171 +1874,192 @@ enjoy the following infant formulas/recipes. In many primitive
 cultures that do not experience disease, an exclusive raw-milk
 diet for babies up to 2 years of age has proved perfectly
 healthful. A few tribes breast feed for up to 4 years and have
-incredibly healthy childre n.
+incredibly healthy children.
 
+**PAGE 52**
 
-(^52) Volume Two t **he Recipe for Living Without Disease**
-
-#### Infant Glandular Booster
+### Infant Glandular Booster
 
 8 Servings
 
-**1 cup organic raw liver
-1 cup raw milk
-1/4 teaspoon unheated honey**
+**1 cup organic raw liver**
+
+**1 cup raw milk**
+
+**1/4 teaspoon unheated honey**
 
 Cut liver into small chunks. Blenderize all ingredients in a 16-
 ounces jar on high speed for 20-25 seconds. Strain mixture
 through a strainer or cloth-pouch. Squeeze pouch to speed
 straining. Use nipple with large hole.
 
-#### Infant Immune Booster
+### Infant Immune Booster
 
 8 Servings
 
-**1 cup organic raw liver
-1/2 cup raw milk
-2 raw eggs
-1/4 teaspoon unheated honey**
+**1 cup organic raw liver**
+
+**1/2 cup raw milk**
+
+**2 raw eggs**
+
+**1/4 teaspoon unheated honey**
 
 Cut liver into small chunks. Blenderize all ingredients in a 16-
 ounces jar on high speed for 20-25 seconds. Strain mixture
 through a strainer or cloth-pouch. Squeeze pouch to speed
 straining. Use nipple with large hole.
 
+**PAGE 53**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 53
-
-#### Infant Milkshake
+### Infant Milkshake
 
 2 Servings
 
-**2 ounces raw milk
-2 ounces raw cream
-1 raw egg
-1/4 teaspoon unheated honey**
+**2 ounces raw milk**
+
+**2 ounces raw cream**
+
+**1 raw egg**
+
+**1/4 teaspoon unheated honey**
 
 Blenderize all ingredients together in an 8-ounces jar on medium
 speed for 5 seconds. No straining is necessary.
 
-#### Infant Nervous System Booster
+### Infant Nervous System Booster
 
 8 Servings
 
-**1 ounce fresh ocean wild-caught raw fish
-3 tablespoons raw cream
-1/4 cup fresh organic liver
-2 ounces raw milk
-1 raw egg
-1/2 teaspoon unheated honey**
+**1 ounce fresh ocean wild-caught raw fish**
+
+**3 tablespoons raw cream**
+
+**1/4 cup fresh organic liver**
+
+**2 ounces raw milk**
+
+**1 raw egg**
+
+**1/2 teaspoon unheated honey**
 
 Cut liver and fish into small chunks. Blenderize ingredients in an
 8-ounces jar on high speed for 20-25 seconds. Strain mixture
 through a strainer or cloth-pouch. Squeeze pouch to speed
 straining. Use nipple with large hole.
 
+**PAGE 54**
 
-(^54) Volume Two t **he Recipe for Living Without Disease**
+## BEVERAGES
 
-#### **** BEVERAGES ****^
-
-#### Green Vegetable Juices
+### Green Vegetable Juices
 
 These juices provide more than the necessary vitamin-, enzyme-
 and mineral-supplementation that is necessary, they help the
 functions described in their title. Read pages 30-31, regarding
 the addition of clay to vegetable juices.
 
-```
-Helps Regulate Body Salts, Remove Toxic Salts,
-And Increase Oxygen Absorption
-```
+### Helps Regulate Body Salts, Remove Toxic Salts, And Increase Oxygen Absorption
+
 12 Servings
 
-**5 bunches fresh celery stalks (with leaves if not wilted)
-5 bunches fresh parsley, curly or Italian
-3-4 ounces unheated honey (help to preserve the juices as well
-as sweeten them)**
+**5 bunches fresh celery stalks (with leaves if not wilted)**
+
+**5 bunches fresh parsley, curly or Italian**
+**3-4 ounces unheated honey (help to preserve the juices as well as sweeten them)**
 
 Read page 47, regarding proper storage of juices to maintain
 nutrient-value.)
 
+**PAGE 55**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 55
-**Helps Remove Impactions (Plaque)
-From Arteries And Intestines,
-Regulate Body Salts, And Increase Oxygen Absorption**
+### Helps Remove Impactions (Plaque) From Arteries And Intestines, Regulate Body Salts, And Increase Oxygen Absorption
+
 12 Servings
-**4 bunches fresh celery stalks (with leaves if not wilted)
-3 bunches fresh parsley, curly or Italian
-3 medium carrots
-3 ounces unheated honey (help to preserve the juices as well
-as sweeten them)
-1/2 -inch circular slice pineapple. dice**
+
+**4 bunches fresh celery stalks (with leaves if not wilted)**
+
+**3 bunches fresh parsley, curly or Italian**
+
+**3 medium carrots**
+
+**3 ounces unheated honey (help to preserve the juices as well as sweeten them)**
+**1/2 -inch circular slice pineapple. dice**
+
 Blenderize diced pineapple into an 8-ounces jar on medium
 speed for 10 seconds. Follow the rest of instructions for juicing
-and proper storage of juices to maintain nutrient-value on page
-47.
-**Helps Eliminate Toxicity From Liver, Other Glands,
-Decrease Lymphatic Congestion,
-Regulate Body Salts, And Increase Oxygen Absorption**
+and proper storage of juices to maintain nutrient-value on page 47.
+
+### Helps Eliminate Toxicity From Liver, Other Glands, Decrease Lymphatic Congestion, Regulate Body Salts, And Increase Oxygen Absorption
+
 12 Servings
-**4 bunches fresh celery stalks (with leaves if not wilted)
-3 bunches fresh parsley, curly or Italian
-1 lemon, juice rind and all
-1 bunch fresh cilantro
-2 medium raw zucchini, crookneck or sunburst squash
-1 medium cucumber
-3 ounces unheated honey (help to preserve the juices as well
-as sweeten them)
-12 tablespoons coconut cream.**
+
+**4 bunches fresh celery stalks (with leaves if not wilted)**
+
+**3 bunches fresh parsley, curly or Italian**
+
+**1 lemon, juice rind and all**
+
+**1 bunch fresh cilantro**
+
+**2 medium raw zucchini, crookneck or sunburst squash**
+
+**1 medium cucumber**
+
+**3 ounces unheated honey (help to preserve the juices as well as sweeten them)**
+
+**12 tablespoons coconut cream.**
+
 Read page 47, regarding proper storage of juices to maintain
 nutrient-value.)
-Immediately before drinking this juice formula, eat 1 tablespoon
-coconut cream, unsalted raw butter or raw cream.
+Immediately before drinking this juice formula, eat 1 tablespoon coconut cream, unsalted raw butter or raw cream.
 
+**PAGE 56**
 
-(^56) Volume Two t **he Recipe for Living Without Disease
-Helps Remove & Eliminate Mercury
-And Other Heavy Metals,
-Regulate Body Salts, And Increase Oxygen Absorption**
+### Helps Remove & Eliminate Mercury And Other Heavy Metals, Regulate Body Salts, And Increase Oxygen Absorption
+
 12 Servings
-**3 bunches fresh celery stalks (with leaves if not wilted)
-3 bunches fresh parsley, curly or Italian
-3 bunches fresh cilantro
-4 medium raw zucchini, crookneck or sunburst squash
-(occasionally cucumber)
-3 ounces unheated honey (helps to preserve the juices as well
-as sweetens them)
-12 tablespoons raw cream, or
-12 tablespoons coconut cream, or unsalted raw butter.**
+
+**3 bunches fresh celery stalks (with leaves if not wilted)**
+
+**3 bunches fresh parsley, curly or Italian**
+
+**3 bunches fresh cilantro**
+
+**4 medium raw zucchini, crookneck or sunburst squash (occasionally cucumber)**
+
+**3 ounces unheated honey (helps to preserve the juices as well as sweetens them)**
+
+**12 tablespoons raw cream, or 12 tablespoons coconut cream, or unsalted raw butter.**
+
 Often, the body pulls heavy metals from its cells and tissues with
 the nutrients in this juice. Fats must be present with the juice to
 ensure that detoxified metals do not cause harm and restore in
 the body. Therefore, immediately before drinking this juice
 formula, eat 1 tablespoon coconut cream or butter, or drink a
-little juice and put 1 tablespoons raw cream into the juice and
-stir.
+little juice and put 1 tablespoons raw cream into the juice and stir.
 Read page 47, regarding proper storage of juices to maintain
 nutrient-value.
 
+**PAGE 57**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 57
-
-#### Milkshake
+### Milkshake
 
 (Soothes nerves.)
+
 1 Serving
 
-**1 to 3 raw eggs
-3 to 6 ounces raw milk
-2 to 4 ounces raw cream
-1 to 2 tablespoons unheated honey**
+**1 to 3 raw eggs**
 
-Blenderize in an appropriately sized jar on medium speed for 5-
-10 seconds.
+**3 to 6 ounces raw milk**
 
-#### Coffee Substitute
+**2 to 4 ounces raw cream**
+
+**1 to 2 tablespoons unheated honey**
+
+Blenderize in an appropriately sized jar on medium speed for 5-10 seconds.
+
+### Coffee Substitute
 
 (Most often, any mixture of green vegetable juices is the best
 substitute for coffee. Green vegetable juices fill the digestive tract and
@@ -2030,21 +2068,23 @@ usually increase appetite for healthy food.)
 
 1 Serving
 
-**4 ounces natural mineral water
-2 tablespoons unheated honey
-2 tablespoons lemon or lime juice
-1 tablespoon raw apple cider vinegar
-2 tablespoons raw cream**
+**4 ounces natural mineral water**
+
+**2 tablespoons unheated honey**
+
+**2 tablespoons lemon or lime juice**
+
+**1 tablespoon raw apple cider vinegar**
+
+**2 tablespoons raw cream**
 
 Blenderize all ingredients, except cream, in an 8-ounces jar on
 medium speed for 5-10 seconds. Pour in cream and stir. If you
-would like it warm, cap and immerse in mildly hot water for 5
-minutes.
+would like it warm, cap and immerse in mildly hot water for 5 minutes.
 
+**PAGE 58**
 
-(^58) Volume Two t **he Recipe for Living Without Disease**
-
-#### Banana Smoothie
+### Banana Smoothie
 
 Fruity milkshakes make some people more emotional, sensitive,
 irritable and/or sleepy. If you experience those symptoms, you would
@@ -2052,17 +2092,22 @@ probably do better by drinking milkshakes.
 
 1 Serving
 
-**2 to 3 raw eggs
-1/3 banana
-3 ounces raw milk
-1 ounce raw cream
-1 pinch freshly ground nutmeg
-1 tablespoon unheated honey**
+**2 to 3 raw eggs**
+
+**1/3 banana**
+
+**3 ounces raw milk**
+
+**1 ounce raw cream**
+
+**1 pinch freshly ground nutmeg**
+
+**1 tablespoon unheated honey**
 
 Blend all ingredients together in an 8- or 12-ounces jar on
 medium speed for 10 seconds.
 
-#### Orange Smoothie
+### Orange Smoothie
 
 Fruity milkshakes make some people more emotional, sensitive,
 irritable and/or sleepy. If you experience those symptoms, you would
@@ -2070,18 +2115,20 @@ probably do better by drinking milkshakes.
 
 1 Serving
 
-**2 to 3 raw eggs
-1 peeled and seeded orange
-2 ounces raw cream
-1 teaspoon unheated honey, (optional)**
+**2 to 3 raw eggs**
+
+**1 peeled and seeded orange**
+
+**2 ounces raw cream**
+
+**1 teaspoon unheated honey, (optional)**
 
 Blenderize all ingredients together in an 8-ounces jar on high
 speed for 10 seconds.
 
+**PAGE 59**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 59
-
-#### Raspberry Smoothie
+### Raspberry Smoothie
 
 Fruity milkshakes make some people more emotional, sensitive,
 irritable and/or sleepy. If you experience those symptoms, you would
@@ -2089,24 +2136,30 @@ probably do be tter by drinking milkshakes.
 
 1 Serving
 
-**2 to 3 raw eggs
-4 ounces raspberries
-1 ounce raw milk
-2 ounces raw cream
-1 teaspoon unheated honey**
+**2 to 3 raw eggs**
+
+**4 ounces raspberries**
+
+**1 ounce raw milk**
+
+**2 ounces raw cream**
+
+**1 teaspoon unheated honey**
 
 Blenderize all ingredients together in an 8- or 12-ounces jar on
 medium speed for 10 seconds.
 
-#### Cottage Cheese
+## Cottage Cheese
 
-#### Caraway Cottage Cheese
+### Caraway Cottage Cheese
 
 4 Servings
 
-**1 quart raw milk
-3 ounces raw cream
-1 1/2 tablespoons caraway seeds**
+**1 quart raw milk**
+
+**3 ounces raw cream**
+
+**1 1/2 tablespoons caraway seeds**
 
 Pour milk into a wide-mouthed quart jar, add caraway seeds
 and let stand in a dark high cupboard until the liquid completely
@@ -2119,15 +2172,15 @@ feed to indoor or outdoor plants.)
 
 Put firm cheese in bowl and gently stir in 3 ounces raw cream.
 
+**PAGE 60**
 
-(^60) Volume Two t **he Recipe for Living Without Disease**
-
-#### Sour Cottage Cheese
+### Sour Cottage Cheese
 
 4 Servings
 
-**1 quart raw milk
-3 ounces raw cream**
+**1 quart raw milk**
+
+**3 ounces raw cream**
 
 Pour milk into a wide-mouthed quart jar and let stand in a dark
 high cupboard until the liquid completely separates from the
@@ -2140,12 +2193,13 @@ indoor or outdoor plants.)
 
 Put firm cheese in bowl and gently stir in 3 ounces raw cream.
 
-#### Sweet Cottage Cheese
+### Sweet Cottage Cheese
 
 4 Servings
 
-**1 quart raw milk
-3 ounces raw cream**
+**1 quart raw milk**
+
+**3 ounces raw cream**
 
 Pour milk into a wide-mouthed quart jar and let stand in
 refrigeration until cream separates to the top. Skim the cream off
@@ -2162,10 +2216,9 @@ whey with 5 parts water and feed to indoor or outdoor plants.)
 Put firm cheese in bowl and stir in separated cream and an
 additional 3 ounces raw cream.
 
+**PAGE 61**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 61
-
-#### Meat Meals
+## Meat Meals
 
 **White meats** are fowl, fish, seafood, pork, rabbit, squirrel and
 other small animals. **Red meats** are beef, lamb, bison, venison,
@@ -2203,8 +2256,8 @@ possibilities. I present one or two alternatives per meat dish; see
 pages 87-113. Adventure and explore flavors as our tastebuds
 change.
 
+**PAGE 62**
 
-(^62) Volume Two t **he Recipe for Living Without Disease**
 Even though I have hundreds of sauce-recipes, usually I eat
 meats plain. When I spice meats, usually it is a time when I am
 repulsed by or bored with plain meats. If I do not eat meats
@@ -2214,20 +2267,24 @@ myself provides the nutrients necessary to live a healthier life in
 our toxic world. I encourage my clients to do so, too, especially
 those who are anorexic.
 
-#### Meat Sauces
+## Meat Sauces
 
 All of the following sauces may be used with red or white meats:
 beef, lamb, venison, bison, pork, fowl, fish and seafood.
 
-#### Asian Spicy Meat Sauce
+### Asian Spicy Meat Sauce
 
 2 Servings
 
-**1 raw egg
-7 tablespoons raw cream
-1 tablespoon finely grated fresh ginger root
-1/2 teaspoon unheated honey
-1 tablespoon MUSTARD**
+**1 raw egg**
+
+**7 tablespoons raw cream**
+
+**1 tablespoon finely grated fresh ginger root**
+
+**1/2 teaspoon unheated honey**
+
+**1 tablespoon MUSTARD**
 
 Ingredients should be room temperature except mustard.
 Blenderize all ingredients, except cream, together in a 4-ounces
@@ -2235,21 +2292,27 @@ jar on medium speed for 10 seconds. Blenderize cream in an 4-
 ounces jar on low speed until cream is stiff. Gently fold blended
 mixture into whipped cream.
 
+**PAGE 63**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 63
-
-#### Barbecue Sauce
+### Barbecue Sauce
 
 2 Servings
 
-**1 tomato, medium
-1/4 to 1/2 fresh hot pepper, such as jalapeno
-4 tablespoons stone-pressed olive oil
-1 teaspoon raw unpasteurized apple cider vinegar
-1 teaspoon finely chopped fresh basil
-1 teaspoon finely chopped fresh thyme
-1/8 teaspoon minced fresh garlic, (optional)
-1 teaspoon diced fresh red onion**
+**1 tomato, medium**
+
+**1/4 to 1/2 fresh hot pepper, such as jalapeno**
+
+**4 tablespoons stone-pressed olive oil**
+
+**1 teaspoon raw unpasteurized apple cider vinegar**
+
+**1 teaspoon finely chopped fresh basil**
+
+**1 teaspoon finely chopped fresh thyme**
+
+**1/8 teaspoon minced fresh garlic, (optional)**
+
+**1 teaspoon diced fresh red onion**
 
 If a thicker sauce is desired, slice a deep and wide cut in tomato.
 Over a bowl , gently squeeze tomato to remove juice and seeds.
@@ -2258,17 +2321,23 @@ except onion, together in an 8-ounces jar for 7 seconds. Stir
 onion into sauce, or sprinkle over sauce after sauce is poured
 over meat.
 
-#### Béchamel Sauce
+###Béchamel Sauce
 
 1 Serving
 
-**2 tablespoons unsalted raw sunflower seeds
-2 tablespoons raw milk
-3 tablespoons unsalted raw butter
-1 pinch freshly grated nutmeg
-1 teaspoon chopped fresh thyme
-1/4 teaspoon chopped fresh red onion
-1 pinch ground white pepper**
+**2 tablespoons unsalted raw sunflower seeds**
+
+**2 tablespoons raw milk**
+
+**3 tablespoons unsalted raw butter**
+
+**1 pinch freshly grated nutmeg**
+
+**1 teaspoon chopped fresh thyme**
+
+**1/4 teaspoon chopped fresh red onion**
+
+**1 pinch ground white pepper**
 
 All ingredients must be room temperature. Warm the milk,
 butter, nutmeg, onion and pepper together in a 4-ounces jar
@@ -2278,19 +2347,23 @@ In another 4-ounces jar, blenderize seeds on medium speed for 5
 seconds. Add seed flour to sauce and blenderize for 10 seconds
 on low speed.
 
+**PAGE 64**
 
-(^64) Volume Two t **he Recipe for Living Without Disease**
-
-#### Bordelaise Sauce
+### Bordelaise Sauce
 
 1 Serving
 
-**2 tablespoons bone marrow
-2 tablespoons raw cream
-1 tablespoon unsalted raw butter
-1 teaspoon chopped fresh leeks
-1 teaspoon grated fresh turnips
-1 tablespoon grated no-salt-added raw cheese**
+**2 tablespoons bone marrow**
+
+**2 tablespoons raw cream**
+
+**1 tablespoon unsalted raw butter**
+
+**1 teaspoon chopped fresh leeks**
+
+**1 teaspoon grated fresh turnips**
+
+**1 tablespoon grated no-salt-added raw cheese**
 
 Scoop the marrow from bone. Warm all ingredients, except
 cheese, in a 4-ounces jar, capped with blender
@@ -2298,87 +2371,108 @@ washer/blades/base, immersed in bowl of mildly hot water for 5
 minutes. Blenderize together on low speed for 10 seconds. Stir
 in grated cheese.
 
-#### Bordelaise Sauce, Two
+### Bordelaise Sauce, Two
 
 1 Serving
 
-**4 tablespoons bone marrow
-2 sugar-cubed-sized cubes fresh pineapple
-1/2 teaspoon chopped shallots
-1/4 teaspoon chopped bay leaves
-1/8 teaspoon chopped thyme
-1 pinch freshly ground mixed peppercorns
-1/2 teaspoon fresh lemon juice
-1 sliced fresh mushroom**
+**4 tablespoons bone marrow**
+
+**2 sugar-cubed-sized cubes fresh pineapple**
+
+**1/2 teaspoon chopped shallots**
+
+**1/4 teaspoon chopped bay leaves**
+
+**1/8 teaspoon chopped thyme**
+
+**1 pinch freshly ground mixed peppercorns**
+
+**1/2 teaspoon fresh lemon juice**
+
+**1 sliced fresh mushroom**
 
 Scoop the marrow from bone. Warm all ingredients, except
 mushroom and shallot, together in a 4-ounces jar, capped with
 blender washer/blades/base, in bowl of mildly hot water for 5
 minutes. Blenderize on low speed for 10 seconds.
 
-Add sauce to meat, arrange sliced mushrooms and top by
-sprinkling with shallot.
+Add sauce to meat, arrange sliced mushrooms and top by sprinkling with shallot.
 
+**PAGE 65**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 65
-
-#### Caesar Meat-Dressing
+### Caesar Meat-Dressing
 
 1 Serving
 
-**2 tablespoons walnut halves
-1 egg, or 4 tablespoons stone-pressed olive oil
-2 teaspoons fresh lemon juice
-1 tablespoon raw cream
-1 teaspoon unheated honey
-1/2 teaspoon freshly chopped thyme
-1 slice fresh garlic**
+**2 tablespoons walnut halves**
+
+**1 egg, or 4 tablespoons stone-pressed olive oil**
+
+**2 teaspoons fresh lemon juice**
+
+**1 tablespoon raw cream**
+
+**1 teaspoon unheated honey**
+
+**1/2 teaspoon freshly chopped thyme**
+
+**1 slice fresh garlic**
 
 Blend walnuts in an 8-ounces jar for 5 seconds on medium
 speed. Add all other ingredients and blend on low speed for 10
 seconds.
 
-#### Cheesy Spiced Paste
+### Cheesy Spiced Paste
 
 4 Servings
 
-**1 cup SOUR COTTAGE CHEESE
-2 ounces SPICE PASTE**
+**1 cup SOUR COTTAGE CHEESE**
+
+**2 ounces SPICE PASTE**
 
 Mash and stir together until thoro ughly mixed. Will keep in
 refrigeration for 2 weeks.
 
+**PAGE 66**
 
-(^66) Volume Two t **he Recipe for Living Without Disease**
-
-#### Creamy Cheese Pepper Sauce
+### Creamy Cheese Pepper Sauce
 
 1 Serving
 
-**2 tablespoons grated no-salt-added raw cheese
-2 tablespoons raw cream
-1/2 medium tomato
-1 teaspoon MUSTARD
-1/3 jalapeno
-1/4 hot red pepper
-1 teaspoon finely chopped fresh bay leaves, (optional)**
+**2 tablespoons grated no-salt-added raw cheese**
+
+**2 tablespoons raw cream**
+
+**1/2 medium tomato**
+
+**1 teaspoon MUSTARD**
+
+**1/3 jalapeno**
+
+**1/4 hot red pepper**
+
+**1 teaspoon finely chopped fresh bay leaves, (optional)**
 
 If a thicker sauce is desired, slice a deep and wide cut in tomato.
 Over a bowl, gently squeeze tomato to remove juice and seeds.
 Drink tomato juice when thirsty. Place all ingredients in an 8-
 ounces jar and blenderize for 5-10 seconds.
 
-#### Egg/Cheese Basil Sauce
+### Egg/Cheese Basil Sauce
 
 1 Serving
 
-**2 tablespoons unsalted raw butter, or raw cream, or raw
-milk
-1 egg
-4 tablespoons grated no-salt-added raw Monterey cheese
-2 tablespoons finely chopped fresh basil leaves
-1 diced tomato
-1 teaspoon PICKLED PEPPERS (PIMENTOS), (optional)**
+**2 tablespoons unsalted raw butter, or raw cream, or raw milk**
+
+**1 egg**
+
+**4 tablespoons grated no-salt-added raw Monterey cheese**
+
+**2 tablespoons finely chopped fresh basil leaves**
+
+**1 diced tomato**
+
+**1 teaspoon PICKLED PEPPERS (PIMENTOS), (optional)**
 
 Blenderize egg, 1 tablespoon basil and cheese together in an 8-
 ounces jar on medium speed until smooth.
@@ -2388,48 +2482,58 @@ rectangles. Place meat and diced tomato in a decorative pattern
 on plate. Pour sauce over meat. Sprinkle with pimentos and
 remaining chopped basil.
 
+**PAGE 67**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 67
-
-#### French Mayonnaise
+### French Mayonnaise
 
 3 Servings
 
-**2 eggs
-2 teaspoons MUSTARD
-1/2 teaspoon fresh lemon juice
-6 tablespoons chilled unsalted raw butter
-6 tablespoons stone-pressed olive oil
-2 pinches ground white pepper**
+**2 eggs**
+
+**2 teaspoons MUSTARD**
+
+**1/2 teaspoon fresh lemon juice**
+
+**6 tablespoons chilled unsalted raw butter**
+
+**6 tablespoons stone-pressed olive oil**
+
+**2 pinches ground white pepper**
 
 Blend all ingredients together in a 12-ounces jar on medium
 speed for 15-20 seconds.
 
-#### Garlic Butter
+### Garlic Butter
 
 2 Servings
 
-**6 tablespoons raw unsalted butter
-1 (or more) thin slice of a single section of garlic clove
-1/8 teaspoon unheated honey, (optional)**
+**6 tablespoons raw unsalted butter**
+
+**1 (or more) thin slice of a single section of garlic clove**
+
+**1/8 teaspoon unheated honey, (optional)**
 
 Place all ingredients together in a 4-ounces jar, capped with
 blender washer/blades/base, immersed in mildly hot water until
 melted. Blenderize on medium speed for 5 seconds.
 
+**PAGE 68**
 
-(^68) Volume Two t **he Recipe for Living Without Disease**
-
-#### Hollandaise Meat Sauce
+### Hollandaise Meat Sauce
 
 2 Servings
 
-**4 tablespoons raw unsalted butter
-1/2 teaspoon MUSTARD
-1 tablespoon grated horseradish
-1/2 medium tomato
-1 teaspoon unheated honey
-2 tablespoons stone-pressed olive oil**
+**4 tablespoons raw unsalted butter**
+
+**1/2 teaspoon MUSTARD**
+
+**1 tablespoon grated horseradish**
+
+**1/2 medium tomato**
+
+**1 teaspoon unheated honey**
+
+**2 tablespoons stone-pressed olive oil**
 
 All ingredients should be room temperature. If a thicker sauce is
 desired, slice a deep and wide cut in tomato. Over a bowl, gently
@@ -2437,59 +2541,68 @@ squeeze tomato to remove juice and seeds. Drink tomato juice
 when thirsty. Blenderize all ingredients together in an 8-ounces
 jar on medium speed for 5 seconds.
 
-#### Hollandaise Meat Sauce, Two
+### Hollandaise Meat Sauce, Two
 
 1 Serving
 
-**3 tablespoons unsalted raw butter
-1 raw egg
-1/2 teaspoon fresh lemon juice
-1/4 to 1/2 fresh hot pepper**
+**3 tablespoons unsalted raw butter**
+
+**1 raw egg**
+
+**1/2 teaspoon fresh lemon juice**
+
+**1/4 to 1/2 fresh hot pepper**
 
 Butter should be room temperature, firm but not cold. Blend all
-ingredients together in a 4-ounces jar on low speed for 5
-seconds.
+ingredients together in a 4-ounces jar on low speed for 5 seconds.
 
+**PAGE 69**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 69
-
-#### Horseradish Sauce
+### Horseradish Sauce
 
 8 Servings
 
-**6 tablespoons grated fresh horseradish
-3 tablespoons raw cream
-3 tablespoons raw milk
-1/2 teaspoon unheated honey
-1/2 teaspoon fresh raw lime juice, (optional)**
+**6 tablespoons grated fresh horseradish**
+
+**3 tablespoons raw cream**
+
+**3 tablespoons raw milk**
+
+**1/2 teaspoon unheated honey**
+
+**1/2 teaspoon fresh raw lime juice, (optional)**
 
 Blenderize all ingredients together in an 8-ounces jar on medium
 speed for 10 seconds. It will keep for 2 months in refrigeration.
 
-#### Horseradish Sauce, Two
+### Horseradish Sauce, Two
 
 8 Servings
 
-**7 tablespoons grated fresh horseradish
-5 tablespoons raw milk, or whey, or 1 tablespoon raw apple
-cider vinegar and 4 tablespoons whey
-1 tablespoon unheated honey
-1 tablespoon fresh lime juice**
+**7 tablespoons grated fresh horseradish**
+
+**5 tablespoons raw milk, or whey, or 1 tablespoon raw apple cider vinegar and 4 tablespoons whey**
+
+**1 tablespoon unheated honey**
+
+**1 tablespoon fresh lime juice**
 
 Blenderize all ingredients together in an 8-ounces jar on medium
 speed for 10 seconds. It will keep for 2 months in refrigeration.
 
+**PAGE 70**
 
-(^70) Volume Two t **he Recipe for Living Without Disease**
-
-#### Italian Sauce
+### Italian Sauce
 
 2 Servings
 
-**5 ounces stone-pressed olive oil
-1 tablespoon finely chopped rosemary
-1 tablespoon finely chopped basil
-1/4 garlic clove, pressed, (optional)**
+**5 ounces stone-pressed olive oil**
+
+**1 tablespoon finely chopped rosemary**
+
+**1 tablespoon finely chopped basil**
+
+**1/4 garlic clove, pressed, (optional)**
 
 Stir all ingredients together in an 8-ounces jar for 1 minute. Cap
 and let stand in cupboard for at least 3 days. Do not refrigerate at
@@ -2499,20 +2612,29 @@ If you would like to flavor a bottle of olive oil, triple the
 quantities of rosemary, basil and garlic, add to bottle of oil and
 let stand for at least 3 days.
 
-#### Ketchup
+### Ketchup
 
 2 Servings
 
-**1 tomato
-1 tablespoon unsalted raw butter
-1 tablespoon stone-pressed olive oil
-1 teaspoon unheated honey
-1/2 teaspoon raw apple cider vinegar
-1 teaspoon fresh red onion
-1 slice fresh garlic
-1 pinch freshly ground mixed peppercorns
-1 teaspoon fresh fish eggs, (makes for salty taste), (optional)
-1 teaspoon MUSTARD, or SPICE PASTE**
+**1 tomato**
+
+**1 tablespoon unsalted raw butter**
+
+**1 tablespoon stone-pressed olive oil**
+
+**1 teaspoon unheated honey**
+
+**1/2 teaspoon raw apple cider vinegar**
+
+**1 teaspoon fresh red onion**
+
+**1 slice fresh garlic**
+
+**1 pinch freshly ground mixed peppercorns**
+
+**1 teaspoon fresh fish eggs, (makes for salty taste), (optional)**
+
+**1 teaspoon MUSTARD, or SPICE PASTE**
 
 Slice a deep and wide cut in tomato. Over a bowl, gently
 squeeze tomato to remove juice and seeds. Drink tomato juice
@@ -2524,33 +2646,41 @@ to bottom and do not blend properly, remove from blender and
 shake jar until ingredients unsettles at blades, replace on blender
 and resume blenderizing.
 
+**PAGE 71**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 71
-
-#### Mayonnaise
+### Mayonnaise
 
 2 Servings
 
-**4 tablespoons unsalted raw butter
-1 raw fertile egg
-1 tablespoon fresh raw lemon juice
-1/2 teaspoon unheated honey
-1/2 teaspoon raw unpasteurized apple cider vinegar
-4 tablespoons stone-pressed olive oil**
+**4 tablespoons unsalted raw butter**
+
+**1 raw fertile egg**
+
+**1 tablespoon fresh raw lemon juice**
+
+**1/2 teaspoon unheated honey**
+
+**1/2 teaspoon raw unpasteurized apple cider vinegar**
+
+**4 tablespoons stone-pressed olive oil**
 
 All ingredients should be room temperature. Blenderize all
 ingredients together in an 8-ounces jar on medium speed until
 smooth.
 
-#### Mexican Sour Cream Sauce
+### Mexican Sour Cream Sauce
 
 6 Servings
 
-**1 slice minced fresh garlic
-2 tablespoons chopped fresh red onion
-1 tomato
-2 tablespoons chopped fresh cilantro
-1 cup SOUR CREAM**
+**1 slice minced fresh garlic**
+
+**2 tablespoons chopped fresh red onion**
+
+**1 tomato**
+
+**2 tablespoons chopped fresh cilantro**
+
+**1 cup SOUR CREAM**
 
 Slice a deep and wide cut in tomato. Gently squeeze tomato in
 hand over a bowl to remove juice and seeds. Drink tomato juice
@@ -2559,24 +2689,27 @@ when thirsty.
 Chop tomato and stir/fold all ingredients together. It will keep in
 refrigeration for 3 weeks.
 
+**PAGE 72**
 
-(^72) Volume Two t **he Recipe for Living Without Disease**
-
-#### Mornay Sauce
+### Mornay Sauce
 
 1 Serving
 
-**2 ounces BECHAMEL SAUCE
-1 tablespoon raw cream
-1 raw egg
-2 pinches ground white pepper
-2 tablespoons grated no-salt-added raw cheese**
+**2 ounces BECHAMEL SAUCE**
+
+**1 tablespoon raw cream**
+
+**1 raw egg**
+
+**2 pinches ground white pepper**
+
+**2 tablespoons grated no-salt-added raw cheese**
 
 Blenderize egg, cream, and pepper together in a 4-ounces jar on
 low speed for 10 seconds. Add Béchamel Sauce and cheese, and
 stir/marbleize. Spoon over slivered raw meat.
 
-#### Mousseleine Sauce
+### Mousseleine Sauce
 
 1 Serving
 
@@ -2586,50 +2719,59 @@ stir/marbleize. Spoon over slivered raw meat.
 Blenderize cream in a 4-ounces jar on low speed until it is stiff.
 Swirl/marbleize Hollandaise sauce into whipped cream.
 
+**PAGE 73**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 73
-
-#### Mushroom Cream Cheese Sauce
+### Mushroom Cream Cheese Sauce
 
 1 Serving
 
-**1 large mushroom
-2 tablespoons raw cream
-3 tablespoons no-salt-added raw cheddar cheese
-1 raw egg**
+**1 large mushroom**
+
+**2 tablespoons raw cream**
+
+**3 tablespoons no-salt-added raw cheddar cheese**
+
+**1 raw egg**
 
 Chop mushroom and set aside. Cut cheese into small chunks.
 Blenderize all ingredients, except half of the chopped
 mushroom, together in a 4-ounces jar on low speed for 10
 seconds. Stir in remaining chopped mushroom.
 
-#### Mushroom Cream Sauce
+### Mushroom Cream Sauce
 
 1 Serving
 
-**1 large mushroom
-1 tablespoon unsalted raw butter
-3 tablespoons raw cream
-2 tablespoons raw milk
-2 teaspoons diced fresh red onion, (optional)**
+**1 large mushroom**
+
+**1 tablespoon unsalted raw butter**
+
+**3 tablespoons raw cream**
+
+**2 tablespoons raw milk**
+
+**2 teaspoons diced fresh red onion, (optional)**
 
 Chop mushroom. Blenderize all ingredients, except half of the
 chopped mushroom and onion, together in an 8-ounces jar on
 medium speed for 15 seconds. Stir in remaining chopped
 mushrooms and onion.
 
+**PAGE 74**
 
-(^74) Volume Two t **he Recipe for Living Without Disease**
-
-#### Mustard
+### Mustard
 
 10 Servings
 
-**4 tablespoons whole yellow mustard seeds
-4 tablespoons whole brown mustard seeds
-3 ounces whey or natural mineral water
-3 tablespoons raw unpasteurized apple cider vinegar
-1 to 2 tablespoons unheated honey**
+**4 tablespoons whole yellow mustard seeds**
+
+**4 tablespoons whole brown mustard seeds**
+
+**3 ounces whey or natural mineral water**
+
+**3 tablespoons raw unpasteurized apple cider vinegar**
+
+**1 to 2 tablespoons unheated honey**
 
 Place mustard seeds, vinegar and whey together in an 8-ounces
 jar. Pour in enough whey, or water, to fill jar. Cap and let it
@@ -2637,17 +2779,23 @@ stand at room temperature in cupboard for 24 hours. Add honey
 and blenderize on medium speed for 15 seconds. It will keep in
 refrigeration for several months.
 
-#### Mustard, Two
+### Mustard, Two
 
 10 Servings
 
-**3 tablespoons whole yellow mustard seeds
-3 tablespoons whole brown mustard seeds
-2 tablespoons unheated honey
-3 tablespoons raw apple cider vinegar
-4 ounces whey or natural mineral water
-2 pinches freshly grated nutmeg
-1 teaspoon chopped fresh watercress**
+**3 tablespoons whole yellow mustard seeds**
+
+**3 tablespoons whole brown mustard seeds**
+
+**2 tablespoons unheated honey**
+
+**3 tablespoons raw apple cider vinegar**
+
+**4 ounces whey or natural mineral water**
+
+**2 pinches freshly grated nutmeg**
+
+**1 teaspoon chopped fresh watercress**
 
 Place mustard seeds, vinegar and whey together in an 8-ounces
 jar. Pour in enough whey, or water, to fill jar. Cap and let stand
@@ -2655,29 +2803,35 @@ at room temperature in cupboard for 24 hours. Add honey,
 nutmeg and watercress. Blenderize on medium speed for 15
 seconds. It will keep in refrigeration for several months.
 
+**PAGE 75**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 75
-
-#### Mustard Butter
+### Mustard Butter
 
 1 Serving
 
-**1 to 2 tablespoon MUSTARD
-3 to 4 tablespoons unsalted raw butter**
+**1 to 2 tablespoon MUSTARD**
+
+**3 to 4 tablespoons unsalted raw butter**
 
 Vigorously stir or marbleize mustard into soft butter.
 
-#### Nut And Spice Sauce
+### Nut And Spice Sauce
 
 1 Serving
 
-**2 ounces pine nuts
-2 tablespoons stone-pressed olive oil
-2 tablespoons unsalted raw butter
-1 to 3 teaspoons unheated honey
-1/2 teaspoon raw apple cider vinegar
-1/2 slice garlic, (optional)
-1 tablespoon fresh red onion, chopped, (optional)**
+**2 ounces pine nuts**
+
+**2 tablespoons stone-pressed olive oil**
+
+**2 tablespoons unsalted raw butter**
+
+**1 to 3 teaspoons unheated honey**
+
+**1/2 teaspoon raw apple cider vinegar**
+
+**1/2 slice garlic, (optional)**
+
+**1 tablespoon fresh red onion, chopped, (optional)**
 
 Blenderize nuts into flour in a 4-ounces jar on medium speed.
 Warm butter and oil in an 8-ounces jar, capped with blender
@@ -2685,17 +2839,19 @@ washer/blades/base, immersed in a bowl of mildly hot water for
 5 minutes. Add nut flour, honey, vinegar and garlic and
 blenderize on low speed. Stir in onion.
 
+**PAGE 76**
 
-(^76) Volume Two t **he Recipe for Living Without Disease**
-
-#### Pepita Gravy
+### Pepita Gravy
 
 1 Serving
 
-**2 ounces pumpkin seeds
-2 ounces meat-fat trimmings or unsalted raw butter
-2 tablespoons raw cream
-1 teaspoon unheated honey, (optional)**
+**2 ounces pumpkin seeds**
+
+**2 ounces meat-fat trimmings or unsalted raw butter**
+
+**2 tablespoons raw cream**
+
+**1 teaspoon unheated honey, (optional)**
 
 Warm meat-fat or butter with cream in a 4-ounces jar, capped
 with blender washer/blades/base, immersed in bowl of mildly
@@ -2706,7 +2862,7 @@ medium speed. Add fat or butter, cream and honey, and
 blenderize on low speed, for 15-20 seconds, until it won't blend
 or it is smooth.
 
-#### Sour Cream
+### Sour Cream
 
 8 Servings
 
@@ -2718,57 +2874,75 @@ you reach the bottom, you will find whey. Use the whey in
 recipes, or dilute with 5x more water than whey and feed to
 plants.
 
+**PAGE 77**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 77
-
-#### Sour Cream Quick
+### Sour Cream Quick
 
 1 Serving
 
-**4 tablespoons raw cream
-3 tablespoons grated no-salt-added cheese**
+**4 tablespoons raw cream**
+
+**3 tablespoons grated no-salt-added cheese**
 
 Blenderize cream and cheese together in a 4-ounces jar on low
 speed until thick and firm (10-15 seconds).
 
-#### South African Frikkadel Glaze
+### South African Frikkadel Glaze
 
 1 Serving
 
-**2 ounces pecan halves
-1 egg
-2-4 tablespoon chopped fresh red onion
-1 pinch freshly grated nutmeg
-1 pinch freshly ground coriander seeds
-1 pinch freshly ground mixed peppercorns
-2 ounces meat-fat trimmings or unsalted raw butter
-1 tablespoon stone-pressed olive oil
-2 tablespoons unheated honey**
+**2 ounces pecan halves**
+
+**1 egg**
+
+**2-4 tablespoon chopped fresh red onion**
+
+**1 pinch freshly grated nutmeg**
+
+**1 pinch freshly ground coriander seeds**
+
+**1 pinch freshly ground mixed peppercorns**
+
+**2 ounces meat-fat trimmings or unsalted raw butter**
+
+**1 tablespoon stone-pressed olive oil**
+
+**2 tablespoons unheated honey**
 
 Blenderize pecans in an 8-ounces jar until they are flour. Add
 egg, nutmeg, coriander, peppercorns, fat or butter, oil and honey,
 and blenderize on medium speed for 15 seconds. Add sauce to
 meat and top with chopped red onion.
 
+**PAGE 78**
 
-(^78) Volume Two t **he Recipe for Living Without Disease**
-
-#### Spice Paste
+### Spice Paste
 
 8 Servings
 
-**2 whole cardamon seeds
-1 teaspoon coriander seeds
-1 teaspoon whole allspice
-1/2 cinnamon stick
-1 shallot
-1 tablespoon fresh tarragon leaves
-1/4 teaspoon white pepper
-1 teaspoon mixed peppercorns
-1 teaspoon fenugreek seeds
-2 pistils of saffron
-1 fresh hot pepper
-5 ounces stone-pressed olive oil**
+**2 whole cardamon seeds**
+
+**1 teaspoon coriander seeds**
+
+**1 teaspoon whole allspice**
+
+**1/2 cinnamon stick**
+
+**1 shallot**
+
+**1 tablespoon fresh tarragon leaves**
+
+**1/4 teaspoon white pepper**
+
+**1 teaspoon mixed peppercorns**
+
+**1 teaspoon fenugreek seeds**
+
+**2 pistils of saffron**
+
+**1 fresh hot pepper**
+
+**5 ounces stone-pressed olive oil**
 
 If you enjoy a less hot paste, remove seeds from fresh hot
 pepper. Blenderize all ingredients, except fresh hot pepper and
@@ -2780,21 +2954,27 @@ medium speed for 20 seconds. Cap and let stand in cupboard for
 24 hours, then use or refrigerate. Paste will keep in refrigeration
 for approximate 3 months.
 
+**PAGE 79**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 79
-
-#### Spiced Butter or Oil
+### Spiced Butter or Oil
 
 2 Servings
 
-**6 ounces unsalted raw butter, or olive oil, or flax oil
-1 slice garlic clove
-1 teaspoon freshly grated ginger root
-1 pinch turmeric
-1 pinch freshly ground cardamon seed
-1 pinch freshly ground cloves
-1 pinch nutmeg, freshly ground
-1 teaspoon fresh red onion, (optional)**
+**6 ounces unsalted raw butter, or olive oil, or flax oil**
+
+**1 slice garlic clove**
+
+**1 teaspoon freshly grated ginger root**
+
+**1 pinch turmeric**
+
+**1 pinch freshly ground cardamon seed**
+
+**1 pinch freshly ground cloves**
+
+**1 pinch nutmeg, freshly ground**
+
+**1 teaspoon fresh red onion, (optional)**
 
 Warm butter in an 8-ounces jar, capped with blender
 washer/blades/base, immersed in a bowl of mildly hot water for
@@ -2807,30 +2987,45 @@ blenderizing.
 ALTERNATIVE: Stir in onion after blenderizing all other
 ingredients together.
 
+**PAGE 80**
 
-(^80) Volume Two t **he Recipe for Living Without Disease**
-
-#### Spicy African Paste
+### Spicy African Paste
 
 4 Servings
 
-**2 tomatoes
-6 tablespoons stone-pressed olive oil
-3 tablespoons unsalted raw butter
-1 whole cardamon seed
-1/4 teaspoon coriander seeds
-1/4 teaspoon grated fresh ginger root
-1/4 teaspoon fenugreek seeds
-1 whole clove
-1/4 inch cinnamon stick
-1/4 teaspoon whole allspice
-1 slice fresh garlic clove
-1/2 teaspoon fresh red onion
-1 pinch paprika
-3 whole mixed peppercorns
-1 pinch grated nutmeg
-1/4 fresh hot red pepper
-1 tablespoon unheated honey**
+**2 tomatoes**
+
+**6 tablespoons stone-pressed olive oil**
+
+**3 tablespoons unsalted raw butter**
+
+**1 whole cardamon seed**
+
+**1/4 teaspoon coriander seeds**
+
+**1/4 teaspoon grated fresh ginger root**
+
+**1/4 teaspoon fenugreek seeds**
+
+**1 whole clove**
+
+**1/4 inch cinnamon stick**
+
+**1/4 teaspoon whole allspice**
+
+**1 slice fresh garlic clove**
+
+**1/2 teaspoon fresh red onion**
+
+**1 pinch paprika**
+
+**3 whole mixed peppercorns**
+
+**1 pinch grated nutmeg**
+
+**1/4 fresh hot red pepper**
+
+**1 tablespoon unheated honey**
 
 Blenderize cardamon, coriander, fenugreek, clove, cinnamon,
 allspice and peppercorns together in a 4-ounces jar until they are
@@ -2843,32 +3038,31 @@ together in a 12- or 16-ounces jar for 15 seconds. Let stand for at
 least 10 hours. Sauce will keep in refrigeration for at least 1
 month.
 
+**PAGE 81**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 81
-
-#### Spicy Thai Sauce
+### Spicy Thai Sauce
 
 1 Serving
 
-**2 ounces walnut halves
-1/4 stalk celery
-1/2 teaspoon fresh ginger root
-3 tablespoons coconut cream
-1/2 tablespoon unheated honey
-1 tablespoon chopped Thai basil, or mint leaves, (optional)
-½-4 tablespoons fresh hot peppers (authentic Thais make it so
-hot their noses perspire while they eat).**
+**2 ounces walnut halves**
 
-Blenderize celery and ginger together and strain out pulp. Warm
-coconut cream in a 4-ounces jar, capped with blender
-washer/blades/base, immersed in a bowl of mildly hot water for
-5 minutes.
+**1/4 stalk celery**
 
-Blenderize walnuts in an 8-ounces jar until they are flour. Add
-juices, honey and coconut cream and blenderize all ingredients
-together on medium speed for 10 seconds. If ingredients stick to
-bottom while blending, remove from blender and shake loose,
-then resume blending.
+**1/2 teaspoon fresh ginger root**
+
+**3 tablespoons coconut cream**
+
+**1/2 tablespoon unheated honey**
+
+**1 tablespoon chopped Thai basil, or mint leaves, (optional)**
+
+**½-4 tablespoons fresh hot peppers (authentic Thais make it so hot their noses perspire while they eat).**
+
+Blenderize celery and ginger together and strain out pulp. Warm coconut cream in a 4-ounces jar, capped with blender
+washer/blades/base, immersed in a bowl of mildly hot water for 5 minutes.
+
+Blenderize walnuts in an 8-ounces jar until they are flour. Add juices, honey and coconut cream and blenderize all ingredients together on medium speed for 10 seconds. If ingredients stick to
+bottom while blending, remove from blender and shake loose, then resume blending.
 
 ALTERNATIVE 1: Rather than blenderize basil into sauce,
 cover meat with sauce and top with sprinkled basil.
@@ -2876,18 +3070,21 @@ cover meat with sauce and top with sprinkled basil.
 ALTERNATIVE 2: Stir all ingredients together for 1 minute
 rather than blenderizing.
 
+**PAGE 82**
 
-(^82) Volume Two t **he Recipe for Living Without Disease**
-
-#### Tango Meat Sauce
+### Tango Meat Sauce
 
 1 Serving
 
-**3 tablespoons room-temperature soft raw unsalted butter
-1 teaspoon grated horseradish, or HORSERADISH recipe
-1/2 tomato
-1 teaspoon unheated honey
-2 tablespoons olive oil**
+**3 tablespoons room-temperature soft raw unsalted butter**
+
+**1 teaspoon grated horseradish, or HORSERADISH recipe**
+
+**1/2 tomato**
+
+**1 teaspoon unheated honey**
+
+**2 tablespoons olive oil**
 
 If a thicker sauce is desired, slice a deep and wide cut in tomato.
 Over a bowl, gently squeeze tomato to remove juice and seeds.
@@ -2904,18 +3101,21 @@ ALTERNATIVE 2: Blenderize all ingredients, except tomato,
 together in a 4-ounces jar on medium speed for 10 seconds. Dice
 tomato and fold into sauce.
 
+**PAGE 83**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 83
-
-#### Tartar Coconut Cream Sauce
+### Tartar Coconut Cream Sauce
 
 1 Serving
 
-**1 tablespoon finely chopped fresh dill weed
-4 tablespoons coconut cream
-1 tablespoon fresh lemon juice
-1 tablespoon fresh lime juice
-1 tablespoon chopped PICKLE**
+**1 tablespoon finely chopped fresh dill weed**
+
+**4 tablespoons coconut cream**
+
+**1 tablespoon fresh lemon juice**
+
+**1 tablespoon fresh lime juice**
+
+**1 tablespoon chopped PICKLE**
 
 All ingredients must be room temperature except dill. Finely
 chop dill. Blenderize all ingredients, except pickles together, in a
@@ -2923,17 +3123,23 @@ chop dill. Blenderize all ingredients, except pickles together, in a
 pickles. Eat with meat, or marinate at room temperature for 1
 hour to enhance flavors.
 
-#### Tartar Sauce
+### Tartar Sauce
 
 2 Servings
 
-**2 tablespoons lemon juice
-1 teaspoon unheated honey
-6 tablespoons raw unsalted butter
-1 raw egg
-2 tablespoons fresh dill weed
-1 tablespoon finely diced fresh red onion, (optional)
-1 tablespoon chopped PICKLE**
+**2 tablespoons lemon juice**
+
+**1 teaspoon unheated honey**
+
+**6 tablespoons raw unsalted butter**
+
+**1 raw egg**
+
+**2 tablespoons fresh dill weed**
+
+**1 tablespoon finely diced fresh red onion, (optional)**
+
+**1 tablespoon chopped PICKLE**
 
 All ingredients must be room temperature except dill. Finely
 chop dill. Blenderize all ingredients, except onion and pickle,
@@ -2941,52 +3147,66 @@ together in an 8-ounces jar on medium speed for 10 seconds. Stir
 in chopped onion and pickle. Pour on meat. Eat, or marinate at
 room te mperature for 4 hours.
 
+**PAGE 84**
 
-(^84) Volume Two t **he Recipe for Living Without Disease**
-
-#### Thousand Island Meat-Dressing
+### Thousand Island Meat-Dressing
 
 1 Serving
 
-**2 ounces cherry tomatoes
-1 tablespoon stone-pressed olive oil
-1 raw egg
-1 tablespoon unsalted raw butter
-1/2 tablespoon fresh red onion
-1 slice fresh garlic**
+**2 ounces cherry tomatoes**
+
+**1 tablespoon stone-pressed olive oil**
+
+**1 raw egg**
+
+**1 tablespoon unsalted raw butter**
+
+**1/2 tablespoon fresh red onion**
+
+**1 slice fresh garlic**
 
 Blenderize all ingredients in an 8-ounces jar on medium speed
 for 10 seconds.
 
-#### Thousand Island Meat-Dressing, Two
+### Thousand Island Meat-Dressing, Two
 
 4 Servings
 
-**2 tablespoons fresh lemon juice
-1 1/2 teaspoons unheated honey
-3/4 cup cherry tomatoes
-1 teaspoon vinegar
-2 tablespoons olive oil
-1/2 -inch cube of no-salt-added raw Monterey cheese
-1 teaspoon fresh red onion, (optional)
-1 slice fresh garlic, (optional)**
+**2 tablespoons fresh lemon juice**
+
+**1 1/2 teaspoons unheated honey**
+
+**3/4 cup cherry tomatoes**
+
+**1 teaspoon vinegar**
+
+**2 tablespoons olive oil**
+
+**1/2 -inch cube of no-salt-added raw Monterey cheese**
+
+**1 teaspoon fresh red onion, (optional)**
+
+**1 slice fresh garlic, (optional)**
 
 Cut cheese into thin slices. Blenderize all ingredients together in
 a 12-ounces jar on high speed for 10-15 seconds. This dressing
 will keep in refrigeration for several weeks in closed jar.
 
+**PAGE 85**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 85
-
-#### Tomato Cream Cheese Sauce
+### Tomato Cream Cheese Sauce
 
 1 Serving
 
-**2 tablespoons raw cream
-1/2 diced tomato
-1 teaspoon fresh lemon juice
-1 -inch cube of no-salt-added raw cheese
-2 tablespoons grated no-salt-added raw cheese**
+**2 tablespoons raw cream**
+
+**1/2 diced tomato**
+
+**1 teaspoon fresh lemon juice**
+
+**1 -inch cube of no-salt-added raw cheese**
+
+**2 tablespoons grated no-salt-added raw cheese**
 
 If a thicker sauce is desired, slice a deep and wide cut in tomato.
 Over a bowl, gently squeeze tomato to remove juice and seeds.
@@ -2995,17 +3215,21 @@ except grated cheese, together in a 4-ounces jar on low speed for
 10 seconds. Pour over meat and top with sprinkled grated
 cheese.
 
-#### Tomato Sauce
+### Tomato Sauce
 
 1 Serving
 
-**1/2 tomato
-4 tablespoons raw unsalted butter, (or stone-pressed olive
-oil)
-1/2 -inch cube of no-salt-added raw cheese
-1 slice fresh garlic
-1/2 to 1 tablespoon chopped fresh red onion
-Favorite fresh herbs to your taste , (optional)**
+**1/2 tomato**
+
+**4 tablespoons raw unsalted butter, (or stone-pressed olive oil)**
+
+**1/2 -inch cube of no-salt-added raw cheese**
+
+**1 slice fresh garlic**
+
+**1/2 to 1 tablespoon chopped fresh red onion**
+
+**Favorite fresh herbs to your taste, (optional)**
 
 All ingredients should be room temperature. If a thicker sauce is
 desired, slice a deep and wide cut in tomato. Over a bowl, gently
@@ -3015,74 +3239,88 @@ blender washer/blades/base, immersed in bowl of warm water
 until butter melts. Add rest of ingredients to jar and blenderize
 on medium speed for 10 seconds.
 
+**PAGE 86**
 
-(^86) Volume Two t **he Recipe for Living Without Disease**
-
-#### Wasabe
+### Wasabe
 
 4 Servings
 
-**6 tablespoons grated fresh wasabe or horseradish
-2 ounces natural mineral water, or whey
-1 teaspoon unheated honey
-1 teaspoon fresh lemon juice
-1/3 avocado
-1/4 teaspoon raw apple cider vinegar**
+**6 tablespoons grated fresh wasabe or horseradish**
+
+**2 ounces natural mineral water, or whey**
+
+**1 teaspoon unheated honey**
+
+**1 teaspoon fresh lemon juice**
+
+**1/3 avocado**
+
+**1/4 teaspoon raw apple cider vinegar**
 
 Blenderize all together in an 8-ounces jar on medium speed for
 15 seconds.
 
-#### White Pepper Sauce
+### White Pepper Sauce
 
 1 Serving
 
-**1 raw egg
-2 tablespoons unsalted raw butter
-2 tablespoons raw cream
-1 pinch grated nutmeg
-2 pinches ground white pepper**
+**1 raw egg**
+
+**2 tablespoons unsalted raw butter**
+
+**2 tablespoons raw cream**
+
+**1 pinch grated nutmeg**
+
+**2 pinches ground white pepper**
 
 Blenderize all ingredients together in a 4-ounces jar on low
 speed for 10-15 seconds.
 
+**PAGE 87**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 87
-
-#### Red Meat Meals
+## Red Meat Meals
 
 Beef, lamb, venison, buffalo, pork and wild meat. Any meat,
 including fowl, fish or seafood may be substituted for the
 specified meat in the recipe.
 
-#### Himalayan Meat
+### Himalayan Meat
 
 1 Serving
 
-**5 to 8 ounces raw meat (beef, lamb, fowl, seafood)
-2 to 3 ounces CHEESY SPICED PASTE**
+**5 to 8 ounces raw meat (beef, lamb, fowl, seafood)**
+
+**2 to 3 ounces CHEESY SPICED PASTE**
 
 Chop meat into bite-sized pieces.
 Spread paste on plate and cover with chopped meat.
 
-ALTERNATIVE: Cut meat into strips and spread paste on
-strips.
+ALTERNATIVE: Cut meat into strips and spread paste on strips.
 
+**PAGE 88**
 
-(^88) Volume Two t **he Recipe for Living Without Disease**
-
-#### African Lamb
+### African Lamb
 
 1 Serving
 
-**1/4 teaspoon raw apple cider vinegar
-1/2 teaspoon unheated honey
-1/4 teaspoon grated fresh ginger root
-1/2 freshly ground clove
-5 tablespoons unsalted raw butter
-3 seedless raisins
-1 slice crushed fresh garlic
-1 pinch freshly ground peppercorns
-5 to 8 ounces lamb**
+**1/4 teaspoon raw apple cider vinegar**
+
+**1/2 teaspoon unheated honey**
+
+**1/4 teaspoon grated fresh ginger root**
+
+**1/2 freshly ground clove**
+
+**5 tablespoons unsalted raw butter**
+
+**3 seedless raisins**
+
+**1 slice crushed fresh garlic**
+
+**1 pinch freshly ground peppercorns**
+
+**5 to 8 ounces lamb**
 
 Warm all ingredients, except ginger and meat, in a 4-ounces jar,
 cap with blender washer/blades/base, immersed in bowl of
@@ -3093,22 +3331,25 @@ Prepare lamb as you wish and add or cover with sauce.
 
 ALTERNATIVE 1: Replace butter with stone-pressed olive oil.
 
-ALTERNATIVE 2: Reduce unsalted raw butter to 2 1/2
-tablespoons and add 2 1/2 tablespoons stone-pressed olive oil.
+ALTERNATIVE 2: Reduce unsalted raw butter to 2 1/2 tablespoons and add 2 1/2 tablespoons stone-pressed olive oil.
 
+**PAGE 89**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 89
-
-#### Beef Pâté
+### Beef Pâté
 
 1 Serving
 
-**4 tablespoons pumpkin seeds
-4 tablespoons unsalted raw butter
-1 slice fresh garlic
-5 to 8 ounces ground beef
-1 teaspoon diced red onions
-1 egg**
+**4 tablespoons pumpkin seeds**
+
+**4 tablespoons unsalted raw butter**
+
+**1 slice fresh garlic**
+
+**5 to 8 ounces ground beef**
+
+**1 teaspoon diced red onions**
+
+**1 egg**
 
 Blenderize seeds in an 8-ounces jar on medium speed for 5
 seconds. Warm butter and garlic in a 4-ounces jar, capped with
@@ -3119,38 +3360,47 @@ jar, stir and blenderize on medium speed for 5 seconds. Place
 meat and all ingredients into food processor and blend until they
 are paste.
 
-#### Beef Stroganoff
+### Beef Stroganoff
 
 1 Serving
 
-**5 to 8 ounces chopped beef
-1 slice minced garlic
-3 chopped mushrooms
-2 chopped chives
-5 tablespoons SOUR CREAM or SOUR CREAM QUICK**
+**5 to 8 ounces chopped beef**
+
+**1 slice minced garlic**
+
+**3 chopped mushrooms**
+
+**2 chopped chives**
+
+**5 tablespoons SOUR CREAM or SOUR CREAM QUICK**
 
 Stir garlic and sour cream together. Lay bed of mushrooms,
 cover with meat, top with sour cream and sprinkle with chives.
 
+**PAGE 90**
 
-(^90) Volume Two t **he Recipe for Living Without Disease**
-
-#### Carpaccio (pronounced carpachio)
+### Carpaccio (pronounced carpachio)
 
 1 Serving
 
-**5 tablespoons stone-pressed olive oil
-2 tablespoons grated no-salt-added raw cheese
-1 tablespoon finely chopped fresh bay leaves
-1 tablespoon finely chopped fresh basil leaves
-1 tablespoon chopped fresh parsley
-1 slice minced or crushed fresh garlic, (optional)
-1 teaspoon chopped fresh red onion, (optional)
-5 to 8 ounces meat (beef, lamb, fowl, seafood)
-1 mushroom**
+**5 tablespoons stone-pressed olive oil**
 
-Vigorously stir olive oil, bay, basil, onion and garlic together for
-1 minute.
+**2 tablespoons grated no-salt-added raw cheese**
+
+**1 tablespoon finely chopped fresh bay leaves**
+
+**1 tablespoon finely chopped fresh basil leaves**
+**1 tablespoon chopped fresh parsley**
+
+**1 slice minced or crushed fresh garlic, (optional)**
+
+**1 teaspoon chopped fresh red onion, (optional)**
+
+**5 to 8 ounces meat (beef, lamb, fowl, seafood)**
+
+**1 mushroom**
+
+Vigorously stir olive oil, bay, basil, onion and garlic together for 1 minute.
 
 Slice meat into thin luncheon meat-sized slices in food processor
 with slicing plate. In a covered bowl at room-temperature,
@@ -3159,46 +3409,60 @@ marinate meat slices in sauce for 1 to 3 hours.
 Spread meat and sauce on plate and sprinkle with cheese and top
 with parsley.
 
+**PAGE 91**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 91
-
-#### Ethiopian Kitfo
+### Ethiopian Kitfo
 
 1 Serving
 
-**1 to 2 tablespoon SPICE PASTE
-1 teaspoon red onions
-1/2 teaspoon fresh hot pepper
-1/2 teaspoon freshly grated fresh ginger root
-1 pinch freshly ground cardamon seed
-1 tablespoon lemon juice
-1/4 red, yellow and/or green bell pepper
-5 to 8 ounces fresh beef**
+**1 to 2 tablespoon SPICE PASTE**
 
-Mash paste, pepper, ginger, cardamon and lemon together in a
-cup.
+**1 teaspoon red onions**
+
+**1/2 teaspoon fresh hot pepper**
+
+**1/2 teaspoon freshly grated fresh ginger root**
+
+**1 pinch freshly ground cardamon seed**
+
+**1 tablespoon lemon juice**
+
+**1/4 red, yellow and/or green bell pepper**
+
+**5 to 8 ounces fresh beef**
+
+Mash paste, pepper, ginger, cardamon and lemon together in a cup.
 
 Cut meat into chunks and place in food processor. Add all
 ingredients and blend all together for 10 seconds.
 
+**PAGE 92**
 
-(^92) Volume Two t **he Recipe for Living Without Disease**
-
-#### Lamb Shanks
+### Lamb Shanks
 
 1 Serving
 
-**5 to 8 ounces lamb shanks
-2 tablespoons unsalted raw butter
-1 teaspoon bone marrow
-3 tablespoons stone-pressed olive oil
-1 to 2 tablespoons grated raw unsalted Monterey cheese
-1 teaspoon chopped fresh basil, (optional)
-1 teaspoon chopped fresh bay leaves, (optional)
-1 tablespoon chopped fresh parsley
-1 spear asparagus
-1 teaspoon chopped red onions, (optional)
-1 slice minced fresh garlic, (optional)**
+**5 to 8 ounces lamb shanks**
+
+**2 tablespoons unsalted raw butter**
+
+**1 teaspoon bone marrow**
+
+**3 tablespoons stone-pressed olive oil**
+
+**1 to 2 tablespoons grated raw unsalted Monterey cheese**
+
+**1 teaspoon chopped fresh basil, (optional)**
+
+**1 teaspoon chopped fresh bay leaves, (optional)**
+
+**1 tablespoon chopped fresh parsley**
+
+**1 spear asparagus**
+
+**1 teaspoon chopped red onions, (optional)**
+
+**1 slice minced fresh garlic, (optional)**
 
 Scoop marrow from shank bone. Warm butter, oil, basil and/or
 bay leaves and garlic together in a 4-ounces jar, capped with
@@ -3211,44 +3475,48 @@ temperature, marinate lamb strips and asparagus in sauce for 1-3
 hours. Spread marinated ingredients on plate and top with
 cheese, onion and parsley.
 
+**PAGE 93**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 93
-
-#### Liver Pâté
+### Liver Pâté
 
 1 Serving
 
-**5 to 8 ounces organic raw liver
-1 to 3 tablespoons red onions, (optional)**
+**5 to 8 ounces organic raw liver**
+
+**1 to 3 tablespoons red onions, (optional)**
 
 Cut liver into small chunks. Put liver and onion in food
 processor and blend together for 20-30 seconds.
 
-#### Liver Pâté, Two
+### Liver Pâté, Two
 
 1 Serving
 
-**2 to 4 tablespoons raw sunflower seeds
-5 to 8 ounces organic raw liver
-1 to 3 tablespoons red onions, (optional)**
+**2 to 4 tablespoons raw sunflower seeds**
+
+**5 to 8 ounces organic raw liver**
+
+**1 to 3 tablespoons red onions, (optional)**
 
 Blenderize sunflower seeds in a 4-ounces jar on medium speed
 for 10 seconds. Cut liver into small chunks. Put all ingredients in
 food processor and blend together for 20-30 seconds.
 
+**PAGE 94**
 
-(^94) Volume Two t **he Recipe for Living Without Disease**
-
-#### Meat au Gratin
+### Meat au Gratin
 
 1 Serving
 
-**4 tablespoons unsalted raw butter, (may substitute stone-
-pressed olive oil)
-1 slice fresh garlic
-1/4 red bell pepper
-1 1/2 -inch cube no-salt-added raw cheddar cheese
-5 to 8 ounces raw meat (beef, lamb, fowl, seafood)**
+**4 tablespoons unsalted raw butter, (may substitute stone-pressed olive oil)**
+
+**1 slice fresh garlic**
+
+**1/4 red bell pepper**
+
+**1 1/2 -inch cube no-salt-added raw cheddar cheese**
+
+**5 to 8 ounces raw meat (beef, lamb, fowl, seafood)**
 
 Grate a portion of room-temperature cheese and set aside. Slice
 remaining cheese thinly. Warm cheese slices, garlic and room-
@@ -3263,13 +3531,15 @@ overlapping circular pattern. Pour sauce over meat. Cover with
 slices of bell pepper like spokes of a wheel. Sprinkle grated
 cheese on top. Finish by sprinkling with chopped bell pepper.
 
-#### Nuts Over Meat
+### Nuts Over Meat
 
 1 Serving
 
-**4 to 5 ounces NUT BUTTER
-5 to 8 ounces raw meat (beef, lamb, fowl, seafood)
-1/4 quarter of a zucchini or cucumber, or combination**
+**4 to 5 ounces NUT BUTTER**
+
+**5 to 8 ounces raw meat (beef, lamb, fowl, seafood)**
+
+**1/4 quarter of a zucchini or cucumber, or combination**
 
 Make nut butter of choice.
 
@@ -3277,47 +3547,60 @@ Slice zucchini and/or cucumber circularly and place on plate in
 circle. Slice meat into thin strips and place inside squash circle.
 Pour nut butter over meat.
 
+**PAGE 95**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 95
-
-#### Steak Tartare
+### Steak Tartare
 
 1 Serving
 
-**5 to 8 ounces raw sirloin steak, or New York steak
-2 tablespoons red onions
-1 to 3 tablespoons unsalted raw butter
-1 raw egg
-1 teaspoon raw MUSTARD
-2 pinches freshly ground caraway seeds
-2 pinches freshly ground mixed peppercorns
-1/2 teaspoon unheated honey, (optional)
-1 teaspoon horseradish, (optional)
-1 sprig parsley or cilantro**
+**5 to 8 ounces raw sirloin steak, or New York steak**
+
+**2 tablespoons red onions**
+
+**1 to 3 tablespoons unsalted raw butter**
+
+**1 raw egg**
+
+**1 teaspoon raw MUSTARD**
+
+**2 pinches freshly ground caraway seeds**
+
+**2 pinches freshly ground mixed peppercorns**
+
+**1/2 teaspoon unheated honey, (optional)**
+
+**1 teaspoon horseradish, (optional)**
+
+**1 sprig parsley or cilantro**
 
 Cut steak into cubes. Blend meat and all ingredients together in
 food processor for 5-15 seconds, depending on the desired
 consistency.
 
+**PAGE 96**
 
-(^96) Volume Two t **he Recipe for Living Without Disease**
-
-### White Meat Meals - Fowl
+## White Meat Meals - Fowl
 
 Chicken, turkey, duck and wild birds. Any meat may be
 substituted for the specified meat in the recipe.
 
-#### Cajun Chicken
+### Cajun Chicken
 
 1 Serving
 
-**2 tablespoons refrigerated unsalted raw butter
-1 tablespoon refrigerated raw cream
-1 chilled raw egg (keep refrigerated for 2 hours)
-1 pinch freshly grated nutmeg
-1 pinch fresh ground mixed peppercorns
-5 to 8 ounces raw chicken
-1/2 diced tomato**
+**2 tablespoons refrigerated unsalted raw butter**
+
+**1 tablespoon refrigerated raw cream**
+
+**1 chilled raw egg (keep refrigerated for 2 hours)**
+
+**1 pinch freshly grated nutmeg**
+
+**1 pinch fresh ground mixed peppercorns**
+
+**5 to 8 ounces raw chicken**
+
+**1/2 diced tomato**
 
 Blenderize egg, nutmeg, pepper, chilled butter and cream in a 4-
 ounces jar on low speed for 4-6 seconds.
@@ -3325,66 +3608,81 @@ ounces jar on low speed for 4-6 seconds.
 Dice chicken. Fold sauce with chicken and top with diced
 tomato.
 
+**PAGE 97**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 97
-
-#### Cheesy Chicken
+### Cheesy Chicken
 
 1 Serving
 
-**5 tablespoons stone-pressed olive oil
-1 tablespoon fresh lemon juice
-1 -inch cube sliced no-salt-added raw cheese
-1/4 to 1 fresh hot pepper
-1 teaspoon fresh red onion, (optional)**
+**5 tablespoons stone-pressed olive oil**
 
-Blenderize all ingredients, except chicken, together in a 4-
-ounces jar on medium speed for 10 seconds. Slice chicken into
+**1 tablespoon fresh lemon juice**
+
+**1 -inch cube sliced no-salt-added raw cheese**
+
+**1/4 to 1 fresh hot pepper**
+
+**1 teaspoon fresh red onion, (optional)**
+
+Blenderize all ingredients, except chicken, together in a 4-ounces jar on medium speed for 10 seconds. Slice chicken into
 narrow strips, baste and marinate for 20-60 minutes.
 
 ALTERNATIVE: Instead of blenderizing onion, dice and gently
 stir into sauce before basting and marinating chicken.
 
-#### Chicken Salad
+### Chicken Salad
 
 1 Serving
 
-**5 to 8 ounces raw chicken
-1 tablespoon diced cucumbers
-1 tablespoon chopped summer squash
-1 tablespoon PICKLED PEPPERS (PIMENTOS)
-3 tablespoons MAYONNAISE**
+**5 to 8 ounces raw chicken**
+
+**1 tablespoon diced cucumbers**
+
+**1 tablespoon chopped summer squash**
+
+**1 tablespoon PICKLED PEPPERS (PIMENTOS)**
+
+**3 tablespoons MAYONNAISE**
 
 Place chicken in food processor, blend for 5-7 seconds and place
 in bowl. Add all other ingredients and gently fold into ground
 chicken.
 
+**PAGE 98**
 
-(^98) Volume Two t **he Recipe for Living Without Disease**
-
-#### Chicken/Beef Mustard
+### Chicken/Beef Mustard
 
 1 Serving
 
-**2 to 3 ounces ground or diced raw chicken
-3 to 5 ounces diced beef
-2 tablespoons grated no-salt-added raw Monterey cheese
-1 serving MUSTARD BUTTER**
+**2 to 3 ounces ground or diced raw chicken**
+
+**3 to 5 ounces diced beef**
+
+**2 tablespoons grated no-salt-added raw Monterey cheese**
+
+**1 serving MUSTARD BUTTER**
 
 Fold meats and mustard/butter together and top with cheese.
 
-#### French Chicken
+### French Chicken
 
 1 Serving
 
-**2 tablespoons SOUR CREAM or SOUR CREAM QUICK
-1/2 diced tomato
-1/2 teaspoon finely chopped bay leaves
-1/2 teaspoon finely chopped thyme
-1/2 teaspoon freshly ground mixed peppercorns
-1/4 crushed fresh garlic clove
-1/2 teaspoon chopped parsley
-5 to 8 ounces raw chicken**
+**2 tablespoons SOUR CREAM or SOUR CREAM QUICK**
+
+**1/2 diced tomato**
+
+**1/2 teaspoon finely chopped bay leaves**
+
+**1/2 teaspoon finely chopped thyme**
+
+**1/2 teaspoon freshly ground mixed peppercorns**
+
+**1/4 crushed fresh garlic clove**
+
+**1/2 teaspoon chopped parsley**
+
+**5 to 8 ounces raw chicken**
 
 Place chicken in food processor and blend for 10 seconds.
 Spread a thick layer of chicken on plate. Gently stir garlic and
@@ -3392,18 +3690,21 @@ sour cream together. Spread layer of sour cream over meat.
 Spoon tomato over sour cream and sprinkle with ground
 peppercorns, bay, thyme and parsley, in that order.
 
+**PAGE 99**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 99
-
-#### Macaroni & Cheese-Tasting Chicken
+### Macaroni & Cheese-Tasting Chicken
 
 1 Serving
 
-**6 ounces chopped or ground raw chicken
-3 tablespoons SOUR CREAM
-1 egg
-1 red hot pepper
-3 tablespoons grated no-salt-added raw cheese**
+**6 ounces chopped or ground raw chicken**
+
+**3 tablespoons SOUR CREAM**
+
+**1 egg**
+
+**1 red hot pepper**
+
+**3 tablespoons grated no-salt-added raw cheese**
 
 Blenderize egg, pepper, cheese and sour cream together in an 8-
 ounces jar on medium speed for 10 seconds. Fold sauce into
@@ -3412,18 +3713,25 @@ chicken.
 ALTERNATIVE: On a plate, form chicken into a plateau,
 indent and fill with sauce.
 
-#### Orange-Glazed Duck
+### Orange-Glazed Duck
 
 1 Serving
 
-**3 tablespoons soft unsalted raw butter
-1 pinch black pepper, (optional)
-1 section fresh orange
-1 tablespoon unheated honey
-1/4 teaspoon raw apple cider vinegar
-1/2 teaspoon lemon juice
-1 fresh mint leaf
-5 to 8 ounces raw duck**
+**3 tablespoons soft unsalted raw butter**
+
+**1 pinch black pepper, (optional)**
+
+**1 section fresh orange**
+
+**1 tablespoon unheated honey**
+
+**1/4 teaspoon raw apple cider vinegar**
+
+**1/2 teaspoon lemon juice**
+
+**1 fresh mint leaf**
+
+**5 to 8 ounces raw duck**
 
 Blenderize all ingredients, except duck and mint, in a 4-ounces
 jar on high speed for 5 seconds.
@@ -3433,44 +3741,58 @@ for 2 hours
 
 Finely chop mint leaf and sprinkle over glaze.
 
+**PAGE 100**
 
-(^100) Volume Two t **he Recipe for Living Without Disease**
-
-#### Parmesan Chicken
+### Parmesan Chicken
 
 1 Serving
 
-**6 ounces raw chicken, dice
-4 walnut halves
-2 tablespoons stone-pressed olive oil
-1 tablespoon fresh lemon juice
-2 tablespoons raw cream
-1 tablespoon finely chopped oregano
-1 slice minced garlic clove**
+**6 ounces raw chicken, dice**
+
+**4 walnut halves**
+
+**2 tablespoons stone-pressed olive oil**
+
+**1 tablespoon fresh lemon juice**
+
+**2 tablespoons raw cream**
+
+**1 tablespoon finely chopped oregano**
+
+**1 slice minced garlic clove**
 
 Blenderize walnuts into flour in a 4-ounces jar on high speed for
 5 seconds. Add all ingredients, except chicken, and blenderize
 on low speed for 15 seconds. Spread over chicken. Eat
 immediately or marinate for 45 minutes.
 
+**PAGE 101**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 101
-
-#### Salsa Chicken
+### Salsa Chicken
 
 1 Serving
 
-**1 tomato
-1 fresh hot pepper
-2 tablespoons fresh lime juice
-1/2 teaspoon vinegar
-5 to 8 ounces skinned, boned, diced chicken breast
-1/4 diced red bell pepper
-1/4 stalk diced celery
-1 slice avocado, or
-1 raw egg
-1 tablespoon diced red onions
-1 sprig cilantro, (optional)**
+**1 tomato**
+
+**1 fresh hot pepper**
+
+**2 tablespoons fresh lime juice**
+
+**1/2 teaspoon vinegar**
+
+**5 to 8 ounces skinned, boned, diced chicken breast**
+
+**1/4 diced red bell pepper**
+
+**1/4 stalk diced celery**
+
+**1 slice avocado, or**
+
+**1 raw egg**
+
+**1 tablespoon diced red onions**
+
+**1 sprig cilantro, (optional)**
 
 Slice a deep and wide cut in tomato. Over a bowl, gently
 squeeze tomato to remove juice and seeds. Drink tomato juice
@@ -3482,18 +3804,21 @@ for 45 minutes. Top with other ingredients and eat from bowl.
 ALTERNATIVE: Spoon chicken on to plate, cover with sauce
 and spread remaining ingredients on top.
 
+**PAGE 102**
 
-(^102) Volume Two t **he Recipe for Living Without Disease**
-
-#### Sexy Chicken
+### Sexy Chicken
 
 1 Serving
 
-**5 to 8 ounces skinned, boned, diced chicken breasts
-1 raw egg
-4 to 5 ounces NUT BUTTER made with peanuts
-1 inch section chopped celery stalk
-1 tablespoon chopped fresh arugula leaves**
+**5 to 8 ounces skinned, boned, diced chicken breasts**
+
+**1 raw egg**
+
+**4 to 5 ounces NUT BUTTER made with peanuts**
+
+**1 inch section chopped celery stalk**
+
+**1 tablespoon chopped fresh arugula leaves**
 
 Gently whip raw egg, peanut butter, celery and arugala together
 in a small bowl. Fold chicken into whipped mixture. Spoon
@@ -3504,15 +3829,19 @@ ALTERNATIVE: Gently whip raw egg, peanut butter and
 celery together in a small bowl. Spread chicken on plate, cover
 with sauce and top with arugala.
 
-#### Tahitian Chicken
+### Tahitian Chicken
 
 1 Serving
 
-**3 ounces COCONUT CREAM
-1/2 to 1 diced tomato
-2 tablespoons fresh lemon juice
-2 tablespoons fresh lime juice
-5 to 8 ounces fresh raw chicken**
+**3 ounces COCONUT CREAM**
+
+**1/2 to 1 diced tomato**
+
+**2 tablespoons fresh lemon juice**
+
+**2 tablespoons fresh lime juice**
+
+**5 to 8 ounces fresh raw chicken**
 
 Stir coconut cream and lime juice together, and let stand for 10
 minutes.
@@ -3522,18 +3851,21 @@ fold gently together. Top with coconut/lime sauce. Eat
 immediately or let marinate 2 hours before topping with
 coconut/lime sauce.
 
+**PAGE 103**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 103
-
-#### Turkey Pâté
+### Turkey Pâté
 
 1 Serving
 
-**5 to 8 ounces turkey
-1 to 2 raw eggs
-1 to 2 tablespoons MUSTARD, and/or HORSERADISH
-1 tablespoon diced red onions
-1/2 diced tomato**
+**5 to 8 ounces turkey**
+
+**1 to 2 raw eggs**
+
+**1 to 2 tablespoons MUSTARD, and/or HORSERADISH**
+
+**1 tablespoon diced red onions**
+
+**1/2 diced tomato**
 
 Place turkey in food processor and blend for 20 seconds. Mash
 turkey down into food processor and add egg(s) and mustard
@@ -3544,102 +3876,133 @@ ALTERNATIVE: When adding egg and mustard, or egg and
 horseradish to food processor, add tomato and onion. Blend for
 10 seconds.
 
-#### Power Drinks
+## Power Drinks
 
-#### Liver Booster
+### Liver Booster
 
 1 Serving
 
-**4 to 8 ounces organic raw liver
-4 to 8 ounces raw milk
-1 tablespoon unheated honey, (optional)**
+**4 to 8 ounces organic raw liver**
+
+**4 to 8 ounces raw milk**
+
+**1 tablespoon unheated honey, (optional)**
 
 Cut liver into small chunks. Blenderize all ingredients together
 in a 12- or16-ounces jar on high speed for 20 seconds.
 
+**PAGE 104**
 
-(^104) Volume Two t **he Recipe for Living Without Disease**
-
-#### Liver Booster, Two
+### Liver Booster, Two
 
 1 Serving
 
-**4 to 8 ounces organic raw liver
-4 to 8 ounces raw milk
-1 to 2 tablespoons red onions, (optional)**
+**4 to 8 ounces organic raw liver**
+
+**4 to 8 ounces raw milk**
+
+**1 to 2 tablespoons red onions, (optional)**
 
 Cut liver into small chunks. Blenderize all ingredients together
 in a 12- or16-ounces jar on high speed for 20 seconds.
 
-#### The Power Drink
+### The Power Drink
 
 1 Serving
 
-**2 tablespoons organic raw liver
-1 tablespoon organic raw thyroid gland
-1 tablespoon organic raw testis or ovary
-2 tablespoons organic raw lung
-1 tablespoons organic raw brain
-1 tablespoon organic adrenal gland
-4 ounces raw milk
-1 to 2 tablespoons red onions**
+**2 tablespoons organic raw liver**
+
+**1 tablespoon organic raw thyroid gland**
+
+**1 tablespoon organic raw testis or ovary**
+
+**2 tablespoons organic raw lung**
+
+**1 tablespoons organic raw brain**
+
+**1 tablespoon organic adrenal gland**
+
+**4 ounces raw milk**
+
+**1 to 2 tablespoons red onions**
 
 Blenderize all ingredients together in a 12-ounces jar on high
 speed for 20 seconds.
 
+**PAGE 105**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 105
+## Seafood/Fish Sauces
 
-#### Seafood/Fish Sauces
-
-#### Island Fish Sauce
+### Island Fish Sauce
 
 1 Serving
 
-**1 ounce banana or pineapple
-1 tablespoon unsalted butter
-1 raw egg
-1/4 teaspoon unheated honey, (optional)
-1 drop organic vanilla extract, (optional)**
+**1 ounce banana or pineapple**
+
+**1 tablespoon unsalted butter**
+
+**1 raw egg**
+
+**1/4 teaspoon unheated honey, (optional)**
+
+**1 drop organic vanilla extract, (optional)**
 
 Blenderize all ingredients together in a 4-ounces jar on high
 speed for 10 seconds.
 
-#### Polynesian Ginger Sauce
+### Polynesian Ginger Sauce
 
 1 Serving
 
-**1 tablespoon coarsely grated fresh ginger root
-2 tablespoons fresh lemon juice
-1 tablespoon unheated honey
-2 to 3 tablespoons unsalted raw butter, room temperature**
+**1 tablespoon coarsely grated fresh ginger root**
+
+**2 tablespoons fresh lemon juice**
+
+**1 tablespoon unheated honey**
+
+**2 to 3 tablespoons unsalted raw butter, room temperature**
 
 Vigorously stir butter and all other ingredients together.
 
+**PAGE 106**
 
-(^106) Volume Two t **he Recipe for Living Without Disease**
-
-#### Spicy African Paste for Fish
+### Spicy African Paste for Fish
 
 4 Servings
 
-**2 tomatoes
-6 tablespoons flax oil
-3 tablespoons unsalted raw butter
-1 whole cardamon seed
-1/4 teaspoon coriander seeds
-1/4 teaspoon grated fresh ginger root
-1/4 teaspoon fenugreek seeds
-1 whole clove
-1/4 inch cinnamon stick
-1/4 teaspoon whole allspice
-1 slice fresh garlic clove
-1/2 teaspoon red onions
-1 pinch paprika
-3 whole mixed peppercorns
-1 pinch grated nutmeg
-1/4 fresh hot red pepper
-1 tablespoon unheated honey**
+**2 tomatoes**
+
+**6 tablespoons flax oil**
+
+**3 tablespoons unsalted raw butter**
+
+**1 whole cardamon seed**
+
+**1/4 teaspoon coriander seeds**
+
+**1/4 teaspoon grated fresh ginger root**
+
+**1/4 teaspoon fenugreek seeds**
+
+**1 whole clove**
+
+**1/4 inch cinnamon stick**
+
+**1/4 teaspoon whole allspice**
+
+**1 slice fresh garlic clove**
+
+**1/2 teaspoon red onions**
+
+**1 pinch paprika**
+
+**3 whole mixed peppercorns**
+
+**1 pinch grated nutmeg**
+
+**1/4 fresh hot red pepper**
+
+**1 tablespoon unheated honey**
 
 Blenderize cardamon, coriander, fenugreek, clove, cinnamon,
 allspice and peppercorns together in a 4-ounces jar on high
@@ -3652,25 +4015,30 @@ together in a 12- or 16-ounces jar on medium speed for 15
 seconds. Let stand for at least 10 hours. Sauce will keep in
 refrigeration for at least 1 month.
 
+**PAGE 107**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 107
-
-### White Meat Meals - Seafood/Fish
+## White Meat Meals - Seafood/Fish
 
 Any fish, seafood or fowl may be substituted for the specified
 meat in the recipe.
 
-#### Ceviche
+### Ceviche
 
 1 Serving
 
-**5 to 8 ounces fresh ocean wild-caught raw fish
-3 to 4 ounces fresh lemon or lime juice
-1/2 to 1 diced fresh tomato
-4 to 6 tablespoons flax oil, or stone-pressed olive oil
-1 tablespoon chopped fresh cilantro
-1 tablespoon chopped red onion, (optional)
-1 slice minced fresh garlic, (optional)**
+**5 to 8 ounces fresh ocean wild-caught raw fish**
+
+**3 to 4 ounces fresh lemon or lime juice**
+
+**1/2 to 1 diced fresh tomato**
+
+**4 to 6 tablespoons flax oil, or stone-pressed olive oil**
+
+**1 tablespoon chopped fresh cilantro**
+
+**1 tablespoon chopped red onion, (optional)**
+
+**1 slice minced fresh garlic, (optional)**
 
 Dice fish and marinate in lemon or lime juice for 20 minutes to
 24 hours in a jar or bowl.
@@ -3679,33 +4047,41 @@ Stir oil, onion and garlic together for 1 minute. Pour off lemon
 or lime juice from fish. Pour oil mixture over fish. Top with
 diced tomato.
 
-#### Escolar Fresca
+### Escolar Fresca
 
 1 Serving
 
-**5 to 8 ounces Escolar fish
-1/2 diced tomato
-2 tablespoons fresh lime or lemon juice
-1 tablespoon diced apples
-1 teaspoon diced red onion, (optional)
-1 teaspoon unheated honey, (optional)**
+**5 to 8 ounces Escolar fish**
+
+**1/2 diced tomato**
+
+**2 tablespoons fresh lime or lemon juice**
+
+**1 tablespoon diced apples**
+
+**1 teaspoon diced red onion, (optional)**
+
+**1 teaspoon unheated honey, (optional)**
 
 If using honey, mix lime or lemon juice with honey until honey
 is dissolved. Stir tomato, apple and onion together and spoon
 over fish. Marinate for 10-40 minutes.
 
+**PAGE 108**
 
-(^108) Volume Two t **he Recipe for Living Without Disease**
-
-#### Hot Buttered Salmon
+### Hot Buttered Salmon
 
 1 Serving
 
-**5 to 8 ounces fresh ocean wild-caught raw salmon
-3 tablespoons lemon or lime juice
-1/8 to 1/2 hot pepper
-3 tablespoons raw unsalted butter
-2 tablespoons grated no-salt-added raw cheese**
+**5 to 8 ounces fresh ocean wild-caught raw salmon**
+
+**3 tablespoons lemon or lime juice**
+
+**1/8 to 1/2 hot pepper**
+
+**3 tablespoons raw unsalted butter**
+
+**2 tablespoons grated no-salt-added raw cheese**
 
 Warm lemon and lime juices, hot pepper and soft butter together
 in a 4-ounces jar, capped with blender washer/blades/base,
@@ -3713,17 +4089,23 @@ immersed in a bowl of mildly hot water for 5 minutes.
 Blenderize on medium speed for 10 seconds. Pour mixture over
 salmon and top with grated cheese.
 
-#### Oyster Sauce & Pasta
+### Oyster Sauce & Pasta
 
 1 Serving
 
-**1 serving PASTA SUBSTITUTE
-3 oysters
-2 mushrooms
-2 tablespoons raw unsalted butter
-1 1/2 -inch cube raw unsalted Monterey or Muenster cheese
-1 slice red or white onion
-2 tablespoons fresh sweet red pepper, (optional)**
+**1 serving PASTA SUBSTITUTE**
+
+**3 oysters**
+
+**2 mushrooms**
+
+**2 tablespoons raw unsalted butter**
+
+**1 1/2 -inch cube raw unsalted Monterey or Muenster cheese**
+
+**1 slice red or white onion**
+
+**2 tablespoons fresh sweet red pepper, (optional)**
 
 Make PASTA SUBSTITUTE (see recipe). Blenderize 1 1/2
 oysters, 1 mushroom, butter, 1/2 of the cheese, 1/2 of the onion
@@ -3735,19 +4117,23 @@ PASTA. Grate remaining cheese. Top dish with grated cheese.
 ALTERNATIVE: Follow recipe above but do not blenderize
 onion in sauce. Chop onion and fold into sauce.
 
+**PAGE 109**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 109
-
-#### Oysters Over Cheese
+### Oysters Over Cheese
 
 1 Serving
 
-**5 fresh oysters
-2 mushrooms
-5 tablespoons unsalted raw butter
-6 tablespoons grated no-salt-added raw cheese
-1 teaspoon chopped red onions
-1 to 2 circular slice(s) fresh sweet red peppers, (optional)**
+**5 fresh oysters**
+
+**2 mushrooms**
+
+**5 tablespoons unsalted raw butter**
+
+**6 tablespoons grated no-salt-added raw cheese**
+
+**1 teaspoon chopped red onions**
+
+**1 to 2 circular slice(s) fresh sweet red peppers, (optional)**
 
 Blenderize 1 1/2 oysters and butter in a 4-ounces jar on high
 speed for 10 seconds.
@@ -3760,30 +4146,36 @@ Sprinkle a bed of cheese evenly over plate. Spoon
 oyster/pepper/mushroom mixture evenly over cheese. Top with
 oyster/butter sauce.
 
+**PAGE 110**
 
-(^110) Volume Two t **he Recipe for Living Without Disease**
-
-#### Salmon with Lemon And Parsley
+### Salmon with Lemon And Parsley
 
 1 Serving
 
-**5 to 8 ounces salmon, chopped, bite-sized pieces
-6 to 9 tablespoons fresh lemon or lime juice
-1/2 cup finely chopped fresh parsley**
+**5 to 8 ounces salmon, chopped, bite-sized pieces**
+
+**6 to 9 tablespoons fresh lemon or lime juice**
+
+**1/2 cup finely chopped fresh parsley**
 
 Marinate fish in juice for at least 20 minutes at room
 temperature. Place fish on plate and sprinkle with parsley.
 
-#### Shrimp Passion
+### Shrimp Passion
 
 1 Serving
 
-**5 to 8 ounces fresh shrimp
-1 teaspoon grated fresh ginger root
-1 teaspoon chopped red onions, (optional)
-1/4 to 1/2 finely chopped fresh hot pepper
-1/3 partially ripe papaya
-1 tablespoon chopped fresh parsley**
+**5 to 8 ounces fresh shrimp**
+
+**1 teaspoon grated fresh ginger root**
+
+**1 teaspoon chopped red onions, (optional)**
+
+**1/4 to 1/2 finely chopped fresh hot pepper**
+
+**1/3 partially ripe papaya**
+
+**1 tablespoon chopped fresh parsley**
 
 Sprinkle ginger over papaya and mash together until saucy, or
 chop papaya and blenderize with ginger in a 4-ounces jar on
@@ -3792,21 +4184,27 @@ high speed for 5-10 seconds.
 Stir in pepper and onion. Spoon over shrimp and top by
 sprinkling with parsley.
 
+**PAGE 111**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 111
-
-#### Spiced Salmon
+### Spiced Salmon
 
 1 Serving
 
-**5 to 8 ounces fresh ocean wild-caught raw salmon
-1 tablespoon slivered shallots
-2 tablespoons unsalted raw butter
-1 sliced mushroom
-1 tablespoon chopped fresh dill
-1 egg
-1 tablespoon fresh lemon juice
-1/4 to 1/2 chopped fresh hot pepper**
+**5 to 8 ounces fresh ocean wild-caught raw salmon**
+
+**1 tablespoon slivered shallots**
+
+**2 tablespoons unsalted raw butter**
+
+**1 sliced mushroom**
+
+**1 tablespoon chopped fresh dill**
+
+**1 egg**
+
+**1 tablespoon fresh lemon juice**
+
+**1/4 to 1/2 chopped fresh hot pepper**
 
 Blenderize egg, chilled butter, dill, and lemon juice together in a
 4-ounces jar on high speed for 5 seconds.
@@ -3815,45 +4213,56 @@ Cut salmon into strips and arrange in circular pattern on plate.
 Cover with blended mixture. Arrange shallot slivers on top and
 sprinkling with chopped hot pepper.
 
-#### Spiced Sashimi
+### Spiced Sashimi
 
 1 Serving
 
-**1 tablespoon grated fresh ginger root
-1 teaspoon WASABE, or HORSERADISH
-3 tablespoons flax oil
-1 tablespoon very soft unsalted raw butter
-1/2 teaspoon unheated honey, (optional)
-5 to 8 ounces fresh ocean wild-caught raw fish**
+**1 tablespoon grated fresh ginger root**
+
+**1 teaspoon WASABE, or HORSERADISH**
+
+**3 tablespoons flax oil**
+
+**1 tablespoon very soft unsalted raw butter**
+
+**1/2 teaspoon unheated honey, (optional)**
+
+**5 to 8 ounces fresh ocean wild-caught raw fish**
 
 Vigorously stir all ingredients together, or blenderize in a 4-
 ounces jar on low speed for 5 seconds. Spoon over fish.
 
+**PAGE 112**
 
-(^112) Volume Two t **he Recipe for Living Without Disease**
-
-#### Swordfish Sashimi
+### Swordfish Sashimi
 
 1 Serving
 
-**5 to 8 ounces fresh Swordfish
-4 tablespoons fresh lemon or lime juice
-1 fresh hot pepper (like jalapeno)
-2 ounces stone-pressed olive oil
-small assortment of herbs or lettuce**
+**5 to 8 ounces fresh Swordfish**
+
+**4 tablespoons fresh lemon or lime juice**
+
+**1 fresh hot pepper (like jalapeno)**
+
+**2 ounces stone-pressed olive oil**
+
+**small assortment of herbs or lettuce**
 
 Grate and finely chop pepper. Stir juice, olive oil and pepper
 together for 1 minute. Slice swordfish into strips. Arrange fish in
 a pattern on plate. Pour oil/juice/pepper mixture over fish.
 
-#### Tahitian Fish
+### Tahitian Fish
 
 1 Serving
 
-**3 ounces COCONUT CREAM
-1/2 to 1 diced tomato
-3 to 4 tablespoons fresh lime juice
-5 to 8 ounces fresh ocean wild-caught raw fish**
+**3 ounces COCONUT CREAM**
+
+**1/2 to 1 diced tomato**
+
+**3 to 4 tablespoons fresh lime juice**
+
+**5 to 8 ounces fresh ocean wild-caught raw fish**
 
 Stir coconut cream and lime juice together and let stand for 10
 minutes.
@@ -3864,19 +4273,23 @@ immediately or let marinate for up to 8 hours.
 
 ALTERNATIVE: Substitute 1/3 cup pineapple for tomato.
 
+**PAGE 113**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 113
-
-#### Thai Ceviche
+### Thai Ceviche
 
 1 Serving
 
-**5 to 8 ounces fresh ocean wild-caught raw fish
-4 to 6 tablespoons fresh lemon or lime juice
-2 to 4 tablespoons flax oil, or stone-pressed olive oil
-1 to 2 tablespoons unsalted raw butter
-1 tablespoon chopped fresh mint, (optional)
-2 tablespoons chopped PICKLED GINGER**
+**5 to 8 ounces fresh ocean wild-caught raw fish**
+
+**4 to 6 tablespoons fresh lemon or lime juice**
+
+**2 to 4 tablespoons flax oil, or stone-pressed olive oil**
+
+**1 to 2 tablespoons unsalted raw butter**
+
+**1 tablespoon chopped fresh mint, (optional)**
+
+**2 tablespoons chopped PICKLED GINGER**
 
 Dice fish and marinate in lemon or lime juice for 20 minutes or
 up to 24 hours. Pour off juice.
@@ -3887,36 +4300,46 @@ over fish. Top with chopped mint.
 ALTERNATIVE: Use all oil, or all butter, or varying amounts
 of oil and butter.
 
-****** SOUP ******^
+## SOUP
 
-#### Chicken & Tomato Soup
+### Chicken & Tomato Soup
 
 1 Serving
 
-**3 to 5 ounces chopped raw chicken
-1 1/2 to 2 tomatoes
-2 drops organic vanilla extract
-1 1/2 teaspoons raw apple cider vinegar
-1 tablespoon unheated honey
-2 tablespoons stone-pressed olive oil**
+**3 to 5 ounces chopped raw chicken**
+
+**1 1/2 to 2 tomatoes**
+
+**2 drops organic vanilla extract**
+
+**1 1/2 teaspoons raw apple cider vinegar**
+
+**1 tablespoon unheated honey**
+
+**2 tablespoons stone-pressed olive oil**
 
 Place all ingredients into food processor and blend for 5 seconds.
 Pour into bowl.
 
-
-(^114) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 114**
 
 ### Soup
 
 1 Serving
 
-**5 to 8 ounces raw chicken
-1 tablespoon chopped watercress
-2 tablespoons unsalted raw butter
-1 slice red onion, or shallot, or coarsely chopped chives
-3 ounces raw milk
-2 tablespoons stone-pressed olive oil
-1 pinch freshly ground mixed peppercorns**
+**5 to 8 ounces raw chicken**
+
+**1 tablespoon chopped watercress**
+
+**2 tablespoons unsalted raw butter**
+
+**1 slice red onion, or shallot, or coarsely chopped chives**
+
+**3 ounces raw milk**
+
+**2 tablespoons stone-pressed olive oil**
+
+**1 pinch freshly ground mixed peppercorns**
 
 Warm butter, oil, milk and watercress in an 8-ounces jar, capped
 tightly and immerse jar in a bowl of mildly hot water until butter
@@ -3928,53 +4351,73 @@ blend for 10-15 seconds.
 If you would like warm soup, place soup in a 16-ounces jar, cap
 and immersed in bowl of mildly hot water for 10 minutes.
 
-#### Cream of Chicken Soup
+### Cream of Chicken Soup
 
 1 Serving
 
-**5 to 8 ounces raw chicken
-1 egg
-1/4 teaspoon raw apple cider vinegar
-1 teaspoon unheated honey, (optional)
-1 tablespoon stone-pressed olive oil
-1 tablespoon unsalted raw butter
-4 tablespoons raw milk
-2 tablespoons raw cream
-1 tablespoon SPICE PASTE
-1 tablespoon raw sunflower seeds**
+**5 to 8 ounces raw chicken**
+
+**1 egg**
+
+**1/4 teaspoon raw apple cider vinegar**
+
+**1 teaspoon unheated honey, (optional)**
+
+**1 tablespoon stone-pressed olive oil**
+
+**1 tablespoon unsalted raw butter**
+
+**4 tablespoons raw milk**
+
+**2 tablespoons raw cream**
+
+**1 tablespoon SPICE PASTE**
+
+**1 tablespoon raw sunflower seeds**
 
 Add all ingredients to food processor and blend for 5-10
 seconds. Pour into bowl.
 
+**PAGE 115**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 115
-
-#### Grandma's Tomato Soup
+### Grandma's Tomato Soup
 
 1 Serving
 
-**1 1/2 to 2 tomatoes
-2 drops organic vanilla extract
-1 1/2 teaspoons raw apple cider vinegar
-1 tablespoon unheated honey
-2 tablespoons stone-pressed olive oil**
+**1 1/2 to 2 tomatoes**
+
+**2 drops organic vanilla extract**
+
+**1 1/2 teaspoons raw apple cider vinegar**
+
+**1 tablespoon unheated honey**
+
+**2 tablespoons stone-pressed olive oil**
 
 Place all ingredients into food processor and blend for 5 seconds.
 Pour into bowl.
 
-#### Lentil Soup
+### Lentil Soup
 
 1 Serving
 
-**2 tablespoons whole sprouting lentils, do not sprout
-3 ounces natural mineral water
-1 tablespoon sunflower seeds
-1 ounce raw milk
-2 ounces raw cream
-1 tablespoon unsalted raw butter
-1 raw egg
-1 slice fresh garlic
-1 teaspoon unheated honey**
+**2 tablespoons whole sprouting lentils, do not sprout**
+
+**3 ounces natural mineral water**
+
+**1 tablespoon sunflower seeds**
+
+**1 ounce raw milk**
+
+**2 ounces raw cream**
+
+**1 tablespoon unsalted raw butter**
+
+**1 raw egg**
+
+**1 slice fresh garlic**
+
+**1 teaspoon unheated honey**
 
 Place lentils in a 4-ounces jar and fill jar to top with water. Place
 in cupboard and let stand for 24 hours. Drain off water and
@@ -3988,22 +4431,29 @@ seconds. Stir in remaining ground lentils.
 If you prefer warm soup, put a tight lid on jar and immerse in
 mildly hot water for 10 minutes.
 
+**PAGE 116**
 
-(^116) Volume Two t **he Recipe for Living Without Disease**
-
-#### Split Pea Soup
+### Split Pea Soup
 
 1 Serving
 
-**2 tablespoons whole sprouting peas, do not sprout
-3 ounces natural mineral water
-1 tablespoon sunflower seeds
-1 ounce raw milk
-2 ounces raw cream
-1 tablespoon unsalted raw butter
-1 raw egg
-1 slice fresh garlic
-1 teaspoon unheated honey**
+**2 tablespoons whole sprouting peas, do not sprout**
+
+**3 ounces natural mineral water**
+
+**1 tablespoon sunflower seeds**
+
+**1 ounce raw milk**
+
+**2 ounces raw cream**
+
+**1 tablespoon unsalted raw butter**
+
+**1 raw egg**
+
+**1 slice fresh garlic**
+
+**1 teaspoon unheated honey**
 
 Place peas in a 4-ounces jar and fill jar to top with water.
 Place in cupboard and let stand for 24 hours. Drain off water and
@@ -4016,12 +4466,10 @@ ounces jar and blenderize on medium speed for 15-20 seconds.
 If you prefer warm soup, put a tight lid on jar and immerse in
 mildly hot water for 10 minutes.
 
+**PAGE 117**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 117
+## Raw Starch
 
-#### Raw Starch
-
-```
 Breads, crackers, pasta, cakes, cookies and products
 made from beans, potatoes, yams and grains should not
 be eaten because acrylamides and Advanced Glycation
@@ -4032,16 +4480,18 @@ their tempers, and should only be eaten at times when
 eating raw fowl and/or seafood, and/or raw-nut
 formula, and abstaining from sweet fruits, do not reduce
 hyperactivity and temper-tantrums.
-```
-#### Nut Butter/Nut Formula
+
+### Nut Butter/Nut Formula
 
 1 to 2 Servings
 
-**2 to 4 ounces raw pecans or walnuts, pine or hazel nuts,
-sunflower or pumpkin seeds, or peanuts
-4 to 8 tablespoons unsalted raw butter
-1 to 2 raw egg
-1 ½ to 2 tablespoon unheated honey**
+**2 to 4 ounces raw pecans or walnuts, pine or hazel nuts, sunflower or pumpkin seeds, or peanuts**
+
+**4 to 8 tablespoons unsalted raw butter**
+
+**1 to 2 raw egg**
+
+**1 ½ to 2 tablespoon unheated honey**
 
 Blenderize nuts in an 8- or 12-ounces jar on high speed until
 they are flour. Add remaining ingredients and stir. Blenderize on
@@ -4049,17 +4499,19 @@ medium speed for 20-25 seconds, until smooth.
 
 ALTERNATIVE: Substitute coconut cream for butter.
 
+**PAGE 118**
 
-(^118) Volume Two t **he Recipe for Living Without Disease**
-
-#### Pasta Substitute
+### Pasta Substitute
 
 1 Serving
 
-**3 ounces raw sunflower seeds
-1/2 teaspoon unheated honey
-1 raw egg
-1 tablespoon unsalted raw butter**
+**3 ounces raw sunflower seeds**
+
+**1/2 teaspoon unheated honey**
+
+**1 raw egg**
+
+**1 tablespoon unsalted raw butter**
 
 Blenderize sunflower seeds in an 8-ounces jar on high speed for
 5-10 seconds. Add butter, honey and egg, and stir together.
@@ -4068,17 +4520,23 @@ Blenderize on medium speed for 15 seconds.
 Spread mixture evenly on plate and let stand in refrigerator for 2
 hours. Cover with any sauce.
 
-#### Reminiscent of Mexican Chips
+### Reminiscent of Mexican Chips
 
 1 Serving
 
-**3 tablespoons soft unsalted raw butter
-1/4 to 1/2 fresh hot pepper
-1/4 tomato
-2 tablespoons grated Monterey Jack cheese
-1 slice fresh garlic, (optional)
-1 tablespoon red onions, (optional)
-1 serving PASTA SUBSTITUTE**
+**3 tablespoons soft unsalted raw butter**
+
+**1/4 to 1/2 fresh hot pepper**
+
+**1/4 tomato**
+
+**2 tablespoons grated Monterey Jack cheese**
+
+**1 slice fresh garlic, (optional)**
+
+**1 tablespoon red onions, (optional)**
+
+**1 serving PASTA SUBSTITUTE**
 
 Blenderize butter, tomato, hot pepper, garlic and/or onion
 together in an 8-ounces jar on medium speed for 10 seconds.
@@ -4086,19 +4544,23 @@ Add cheese and blenderize on medium speed for 15-20 seconds,
 until smooth and warm to the touch. Pour over Pasta Substitute
 and eat before it gets soggy. Eat with a serving of meat.
 
+**PAGE 119**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 119
-
-#### Reminiscent of Refried Beans
+### Reminiscent of Refried Beans
 
 1 Serving
 
-**2 ounces raw pumpkin seeds
-1 ounce raw sunflower seeds
-3 tablespoons raw unsalted butter
-1/4 teaspoon unheated honey
-1 raw egg
-1 slice fresh garlic**
+**2 ounces raw pumpkin seeds**
+
+**1 ounce raw sunflower seeds**
+
+**3 tablespoons raw unsalted butter**
+
+**1/4 teaspoon unheated honey**
+
+**1 raw egg**
+
+**1 slice fresh garlic**
 
 Blenderize pumpkin and sunflower seeds in an 8-ounces jar on
 high speed until they are flour. Add butter, honey, garlic and egg
@@ -4107,24 +4569,29 @@ cupboard and let stand for 2 hours.
 
 Top with a sauce and eat with a serving of meat.
 
+**PAGE 120**
 
-(^120) Volume Two t **he Recipe for Living Without Disease**
+## Sweet Meals
 
-#### Sweet Meals
-
-#### Cheesecake
+### Cheesecake
 
 10 Servings
 
-**3/4 pound no-salt-added raw cheddar cheese
-1 pound unsalted raw butter
-1 cup raw walnut halves
-3 tablespoons unheated honey
-1 drop organic vanilla extract**
+**3/4 pound no-salt-added raw cheddar cheese**
 
-**TOPPING, (optional)
-1 1/3 cups raw cream
-1 tablespoon unheated honey**
+**1 pound unsalted raw butter**
+
+**1 cup raw walnut halves**
+
+**3 tablespoons unheated honey**
+
+**1 drop organic vanilla extract**
+
+**TOPPING, (optional)**
+
+**1 1/3 cups raw cream**
+
+**1 tablespoon unheated honey**
 
 Let cheese and butter stand at room temperature to warm for 4
 hours before making cheesecake.
@@ -4142,34 +4609,36 @@ Butter bottom and sides of an 8- or 9-inch pie plate. Evenly
 spread nut mixture and press on to bottom of pie plate. Chill in
 freezer while making Filling.
 
+**PAGE 121**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 121
 Filling: When butter is nearly liquid, blenderize both jars of
 butter/cheese/honey mixture on high speed for 60-90 seconds
 until ingredients are smooth, not grainy. Do not let it get too hot
 while blending. Pour both jars of Filling into chilled piecrust and
 refrigerate for several hours. (If making a Topping, place back in
 freezer while making Topping.)
+
 ALTERNATIVE TOPPING 1: Blenderize 5 ounces cream and
 1 teaspoon honey in an 8-ounces jar on low speed until it is
 fluffy and stiff. Repeat with remaining 5 ounces cream and 2
 teaspoons honey in another 8-ounces jar. Remove pie from
 freezer and top with whipped cream. Let stand in refrigeration
 for 8 hours. The flavors blend better when it stands for 20 hours.
+
 ALTERNATIVE TOPPING 2: Choose fruit with low
 carbohydrate, such as cherries, berries and/or unripe fruit.
 Remove seeds or stones. Chop fruit, if necessary, and blenderize
 1 cup fruit and 1 tablespoon honey in a 12-ounces jar on medium
 speed for 10 seconds. Spread over chilled cheesecake.
+
 ALTERNATIVE TOPPING 3: Remove stones from 4 dates.
 Chop dates. Blenderize chopped dates and 1 cup fruit(s) in a 12-
 ounces jar on high speed for 15 seconds. Spread over chilled
 cheesecake.
 
+**PAGE 122**
 
-(^122) Volume Two t **he Recipe for Living Without Disease**
-
-#### Cheesecake, Miniature
+### Cheesecake, Miniature
 
 2 Servings
 
@@ -4204,18 +4673,20 @@ not let it get too hot while blending. Pour into chilled piecrust
 and place in refrigerator for several hours. (If making a Topping,
 place back in freezer while making Topping.)
 
+**PAGE 123**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 123
 ALTERNATIVE TOPPING 1: Blenderize 3 ounces cream and
 1 teaspoon honey in an 8-ounces jar on low speed until it is
 fluffy and stiff. Remove pie from freezer and top with whipped
 cream. Let stand in refrigeration for 8 hours. The flavors blend
 better when it stands for 20 hours.
+
 ALTERNATIVE TOPPING 2: Choose fruit with low
 carbohydrate, such as cherries, berries and/or unripe fruit.
 Remove seeds or stones. Chop fruit, if necessary, and blenderize
 3 ounces fruit and honey in a 4-ounces jar on medium speed for
 5 seconds. Spread over chilled cheesecake.
+
 ALTERNATIVE TOPPING 3: Remove stones from 1 date.
 Chop date. Blenderize chopped date and 3 ounces fruit(s) in a 4-
 ounces jar on high speed for 10-15 seconds. Spread over chilled
@@ -4240,8 +4711,7 @@ cream with diced fruit.
 ALTERNATIVE: Use 2 ounces each of other fruits, such as
 berries and peach, or nectarine and peach, or pear and grapes.
 
-
-(^124) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 124**
 
 #### Custard
 
@@ -4273,8 +4743,7 @@ together in an 8-ounces jar on high speed for 10 seconds.
 Immediately pour into bowl and stir in diced avocado and
 orange before it thickens. Let stand for 3-5 minutes.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 125
+**PAGE 125**
 
 #### Fudge Parfait
 
@@ -4310,8 +4779,7 @@ tablespoon. Blenderize 3 ounces cream and chopped mint in a 4-
 ounces jar on low speed until mixture is stiff. Top fudge/ice
 cream layers with mint whipped cream.
 
-
-(^126) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 126**
 
 #### Gingerbread Balls
 
@@ -4341,8 +4809,7 @@ ALTERNATIVE 2: Stir in1 teaspoon soft fresh bee pollen.
 ALTERNATIVE 3: Finely grate coconut meat and roll balls in
 grated coconut.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 127
+**PAGE 127**
 
 #### Mint Chocolate Substitute
 
@@ -4360,8 +4827,7 @@ speed for 30-40 seconds. Refrigerate to harden for 2 hours. (To
 preserve the nutrients in eggs, it is best not to refrigerate for
 more than 4 hours.)
 
-
-(^128) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 128**
 
 #### Pecan Fudge
 
@@ -4388,8 +4854,7 @@ Place in a small bowl and refrigerate to harden for 2 hours.
 ALTERNATIVE 2: Substitute walnuts, pine or hazelnuts for
 pecans.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 129
+**PAGE 129**
 
 #### South African Chipolata
 
@@ -4412,8 +4877,7 @@ bowl immediately before it solidifies into custard.
 Blenderize cream in a 4-ounces jar on low speed until it is stiff.
 Top custard with whipped cream and grate nutmeg on top.
 
-
-(^130) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 130**
 
 #### Whipped Cream Ambrosia
 
@@ -4447,8 +4911,7 @@ pineapple with sawing motion. Blenderize cream and honey in a
 whipped cream, or top diced fruit with whipped cream, or top
 whipped cream with diced fruit.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 131
+**PAGE 131**
 
 #### Ice Cream
 
@@ -4483,8 +4946,7 @@ Blenderize all ingredients together in a 12-ounces jar on medium
 speed for 10 seconds. Pour into ice cream maker and churn until
 firm.
 
-
-(^132) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 132**
 
 #### Gingerbread Ice Cream
 
@@ -4515,8 +4977,7 @@ Blenderize all ingredients together in a 12-ounces jar on medium
 speed for 10 seconds. Pour into ice cream maker and churn until
 firm.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 133
+**PAGE 133**
 
 #### Pineapple Ice Cream
 
@@ -4557,8 +5018,7 @@ nectarine, or berries.
 
 ALTERNATIVES 2: Substitute raw coconut cream for raw cream.
 
-
-(^134) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 134**
 
 ### Pies
 
@@ -4600,8 +5060,7 @@ in refrigeration for 30 minutes to firm coconut cream. You could
 save some of the cut fruit from the Filling to make a pattern over
 the chilled and firmed coconut cream.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 135
+**PAGE 135**
 
 #### Ambrosia Coconut Cream Pie
 
@@ -4644,8 +5103,8 @@ for 30 minutes to firm coconut cream. You can save some of the
 cut fruit from the Filling to make a pattern over the chilled and
 firmed coconut cream.
 
+**PAGE 136**
 
-(^136) Volume Two t **he Recipe for Living Without Disease**
 ALTERNATIVE TOPPING: 1 egg only, instead of two, and
 add 1 1/2 ounces fresh lime or lemon juice, or a combination of
 lemon and lime juices. Place chilled coconut cream, egg, butter,
@@ -4680,8 +5139,8 @@ Filling: Remove stones from dates and chop dates. In a blender,
 blenderize chopped dates and 3/4 cup fruit in a 12-ounces jar on
 high speed for 20-30 seconds until thick.
 
+**PAGE 137**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 137
 Slice or dice remaining fruit, unless berries, and fold into Filling
 mixture. Pour and spread evenly over crust and chill in freezer
 for 10 minutes.
@@ -4720,8 +5179,8 @@ and sides of 4-inch glass or ceramic pie-dish. Spread nut mixture
 and flatten evenly on to the bottom of the pie-dish. Chill in
 freezer for 10 minutes while making Filling.
 
+**PAGE 138**
 
-(^138) Volume Two t **he Recipe for Living Without Disease**
 Filling: Remove stone from date and chop date. Blenderize
 chopped date and 2 ounces fruit in a 4-ounces jar on high speed
 for 10-15 seconds until thick.
@@ -4759,8 +5218,8 @@ blend until ingredients form a ball. Butter bottom and sides of an
 into the bottom of pie-dish. Chill in freezer for 15 minutes while
 making Filling.
 
+**PAGE 139**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 139
 Filling: Remove stones from dates and chop dates. In a blender,
 blenderize eggs, 1 drop vanilla extract, chopped dates, 1/2
 banana (break into small pieces) and butter (room temperature)
@@ -4800,8 +5259,8 @@ Crust: Blenderize walnuts, butter and honey in a 4-ounces jar on
 high speed using pulse-action for 5 seconds. Butter bottom and
 sides of 4-inch glass or ceramic pie-dish. Spread nut mixture and
 
+**PAGE 140**
 
-(^140) Volume Two t **he Recipe for Living Without Disease**
 flatten evenly on to bottom of pie-dish. Chill in freezer for 10
 minutes while making Filling.
 Filling: Remove stone from date and chop date. Blenderize
@@ -4838,8 +5297,8 @@ Filling: Blenderize half of chopped dates and 1 1/2 persimmons
 in a 12-ounces jar on high speed for 40 seconds. Repeat with
 remaining dates and persimmons in another 12-ounces jar.
 
+**PAGE 141**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 141
 Remove curst from freezer and pour in persimmons mixture.
 Return to freezer while making Topping.
 Topping: Blenderize 5 ounces cream and 2 teaspoons honey in
@@ -4873,10 +5332,9 @@ Topping: Blenderize raw cream and honey in an 8-ounces jar
 until it is fluffy and stiff. Remove pie from freezer and top with
 whipped cream. Let stand in refrigeration for at least 6 hours.
 
+**PAGE 142**
 
-(^142) Volume Two t **he Recipe for Living Without Disease**
-
-#### **** SALAD ****^
+## SALAD
 
 ### Salad
 
@@ -4915,8 +5373,7 @@ Pickled ginger may be mixed with unsalted raw butter, raw
 cream, raw coconut cream, olive oil or flax oil and eaten with
 any meat, red or white.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 143
+**PAGE 143**
 
 #### Pickled Peppers (Pimentos)
 
@@ -4961,8 +5418,7 @@ keep in refrigeration for 2 months.
 ALTERNATIVE: Add garlic or ginger slices, or any other spice
 before adding water to cover cucumbers.
 
-
-(^144) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 144**
 
 #### Sweet Pickles
 
@@ -4986,16 +5442,11 @@ keep in refrigeration for 2 months.
 ALTERNATIVE: Add garlic or ginger slices, or any other spice
 before adding water to cover cucumbers.
 
-
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 145
+**PAGE 145**
 
 #### Chapter 15
 
-#### Remedies
-
-#### and
-
-## 15 Remedies and Natural Topical Beauty Recipes
+## Remedies and Natural Topical Beauty Recipes
 
 #### Primal Facial® Body Care Cream
 
@@ -5040,7 +5491,7 @@ mornings there was no burn or soreness, and no one pealed. As a
 suntan lotion, participants who normally did not tan tanned.
 ```
 
-(^146) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 146**
 
 #### Moisturizing/Lubrication Formula Drink
 
@@ -5080,8 +5531,8 @@ Add pollen to the Moisturizing/Lubrication Formula above prior
 to blenderizing, and then blenderize. Eat cheese as you drink the
 formula. Usually, this formula reduces pain 80-100% within 10
 
+**PAGE 147**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 147
 minutes to several hours. It is 5-10% less effective if the cheese
 is not eaten.
 
@@ -5122,8 +5573,8 @@ fresh ginger root**
 Warm all ingredients in an 8-ounces jar, capped with blender
 washer/blades/base, immersed in bowl of mildly hot water for 5
 
+**PAGE 148**
 
-(^148) Volume Two t **he Recipe for Living Without Disease**
 minutes. Blenderize on medium speed for 5 seconds. Enjoy 1-2
 teaspoons, retaining the mixture in the mouth for as long as
 possible, swallowing a tiny amount at a time. That will coat the
@@ -5164,8 +5615,8 @@ world owes them. Worries usually settle. Normally, those effects
 last from 2 to 60 days. People who suffer severe depression eat
 high raw meat as often as every day. One client feels so happy,
 
+**PAGE 149**
 
-**The Recipe Fo r Hea l t hy L i ving & O p timal Re cipes**! (^) 149
 he eats 1 cup each day. People who have cancer help reverse it
 by eating high raw meat. If suffering intestinal, neurological or
 lymphatic cancer, high raw chicken is more favorable. See
@@ -5208,8 +5659,7 @@ If suffering depression or chronic constipation, I suggest
 eating high raw meat twice a week. Do NOT eat large amounts
 of high meat while on a weight-loss cycle.
 
-
-(^150) Volume Two t **he Recipe for Living Without Disease**
+**PAGE 150**
 
 #### Constipation Remedies, Temporary
 
@@ -5239,6 +5689,7 @@ electric heating pad. Electrical devices produce electromagnetic
 fields that unfavorably alter cellular structure. Never use
 microwave packs; they irritate cellular membranes.
 
+**PAGE 151**
 
 Volume Three
 
@@ -5281,8 +5732,8 @@ Normally, they are not part of a health-giving diet for humans.
 (^8) Animals who consume mainly vegetation, such as cows, horses, deer
 and sheep.
 
+**PAGE 152**
 
-(^152) Volume Three t **he Recipe for Living Without Disease**
 Our gastrointestinal tract is not like that of birds. Birds can
 eat a lot of grain (seeds) and digest it with their gizzards. We do
 not have a gizzard or an alternative way of eating grain that is
@@ -5322,8 +5773,7 @@ raw animal products to digest easily and efficiently in our much
 longer digestive tract within 16 hours. (Cooked meat takes 24-36
 hours to digest accompanied with putrefaction, heterocyclic
 
-
-**T h e Science Of Living Healthf u lly** 153
+**PAGE 153**
 
 amines, acrylamides and lipid peroxides not found in the
 digestive tract when raw meats are eaten.) Our teeth are designed
@@ -5362,18 +5812,18 @@ I have observed that no matter how slight the damage to
 nutrients, that digestion, utilization and assimilation are
 impaired. Science fails to acknowledge that truth. I have found
 that health is poorly affected when people eat food that
-artificially reaches a hot-temperature as low as 93 q F (34q C),
-and cold-temperature as high as 40q F (4q C).
+artificially reaches a hot-temperature as low as 93F (34C),
+and cold-temperature as high as 40F (4C).
 
+**PAGE 154**
 
-(^154) Volume Three t **he Recipe for Living Without Disease**
 Research throughout the world shows that heat-treatment of
 food alters, damages, or destroys many vitamins at standard
-pasteurization temperatures from 140q to 161q F (59q to 71q C).
+pasteurization temperatures from 140q to 161F (59 to 71C).
 All enzymes are destroyed at prolonged artificial temperatures
-from 122q F (49q C). Consider, as I stated above, that the
+from 122F (49C). Consider, as I stated above, that the
 artificial temperature that weakens or cripples some nutrients,
-including vitamins and enzymes is as low as 93q F (34q C). The
+including vitamins and enzymes is as low as 93F (34C). The
 loss of mineral utilization due to cauterization^9 is significant.
 Cooking protein-foods, including all meat, above 104° F (39º
 C) produces toxins. Higher cooking temperatures create more
@@ -5408,10 +5858,9 @@ Addit Contam, 1987, Jan-Mar; 4(1):27-36.
 M, Esumi H, Sugimura T; Cancer Res, 1992, Apr 1;52(7
 Suppl):2092s-2098s.
 
+**PAGE 155**
 
-**T h e Science Of Living Healthf u lly** 155
-
-Heating fat above 96q F (36º C) causes toxic alterations,
+Heating fat above 96F (36º C) causes toxic alterations,
 including lipid peroxides (oily oxidizing compounds) that have
 proved to be carcinogenic. Cooked fats cannot exchange ions or
 molecules properly. An example: If the body forms, from
@@ -5454,8 +5903,8 @@ Adv Exp Med Biol, 1991; 289:115-31.
 Food Correspondent, News.telegraph.co.uk, (18 May 2002), United
 Kingdom.
 
+**PAGE 156**
 
-(^156) Volume Three t **he Recipe for Living Without Disease**
 toxins. Up to 50% of cooked protein eaten coagulates and
 becomes unutilizable and cross-linked. Body-food synergism is
 corrupted. High levels of methionine result, promoting the
@@ -5494,8 +5943,7 @@ diseased animals for us to eat. The USDA and FDA is also
 responsible; they fail to protect us, making regulations that hurt
 (^12) Accumulations of homocysteine have been linked to heart problems.
 
-
-**T h e Science Of Living Healthf u lly** 157
+**PAGE 157**
 
 the people and make profits for agribusiness. Animals fed
 cooked and processed byproducts and wastes, chemicals and
@@ -5538,8 +5986,8 @@ damages many vitamins. In animal tests, animals fed exclusively
 uncooked frozen meat developed severe skin problems,
 including mange. The other group fed the same diet of the same
 
+**PAGE 158**
 
-(^158) Volume Three t **he Recipe for Living Without Disease**
 meat but unfrozen remained healthy and vibrant. Therefore,
 food that is heat-treated, freeze-treated, dehydrated, chemically
 preserved, irradiated or processed in any manner that destroys
@@ -5578,8 +6026,7 @@ seed oils.^13
 and Cholesterol Cause Heart Disease_ by Uffe Ravnskov, MD, PhD;
 ISBN 0-9670897-0-0; (2000)
 
-
-**T h e Science Of Living Healthf u lly** 159
+**PAGE 159**
 
 #### Chapter 20
 
@@ -5623,8 +6070,8 @@ and ingesting toxic waste. Vice versa, foods rendered into waste
 DeCava, MS, LNC; A Printery, Massachusetts, 2001.
 (^16) Ibid.
 
+**PAGE 160**
 
-(^160) Volume Three t **he Recipe for Living Without Disease**
 products after vitamins and other nutrients are chemically
 extracted, are then made into foods, such as chips and cereals, or
 animal fodder. That subject alone is worth a shelf of books. Even
@@ -5662,8 +6109,7 @@ sites of disease.
 In the case of very debilitating and painful intestinal Crohn's
 disease, several major toxins accumulate in the intestines: Free-
 
-
-**T h e Science Of Living Healthf u lly** 161
+**PAGE 161**
 
 radicals, acrylamides, AGEs, and heterocyclic amines and other
 toxic protein-byproducts and wastes accompanied by cellular
@@ -5698,6 +6144,7 @@ only ineffective but also harmful.
 Our vitamin, enzyme and mineral supplementation should be
 fresh raw green vegetable juices.
 
+**PAGE 162**
 
 ```
 We will redefine and restructure healthcare.
@@ -5739,8 +6186,8 @@ than consider changing our life styles. Regardless, modern
 medicine’s justification for microbial wars is based on
 speculation, fear and pseudoscience.
 
+**PAGE 163**
 
-**Hea l th Or Di sease?** (^) 163
 Louis Pasteur made the “germ theory” famous but he killed it
 on his deathbed. Many reports said that some of his dying words
 were:
@@ -5777,8 +6224,8 @@ and structure of modern medicine is disease, not wellness.
 Humanity suffers from disease because we do not focus on
 rational cure and prevention.
 
+**PAGE 164**
 
-(^164) Volume Four t **he Recipe for Living Without Disease**
 We have libraries based on Pasteur’s point of view, so let’s
 look at information that supports and proves the accuracy of Dr.
 Bechamp’s work. In the early 1900’s, German zoologist Günther
@@ -5817,8 +6264,8 @@ have serious side-effects. Modern medical therapies fail
 miserably, with an overall survival rate of approximately 17%
 beyond 5 years.
 
+**PAGE 165**
 
-**Hea l th Or Di sease?** (^) 165
 Through the media, the pharmaceutical industry and scientific
 community keep us believing that someday they will sell us a
 magic potion that will create a super immune system and a
@@ -5859,8 +6306,8 @@ raw dairy and raw meat, without the consumption of bones.
 Establishment; An Interview With Dr. Samuel Epstein” by Derrick
 Jensen; _The Sun magazine;_ March, 2000.
 
+**PAGE 166**
 
-(^166) Volume Four t **he Recipe for Living Without Disease**
 Also, he found that sick domesticated cats with osteoporosis
 reversed the disease when they were fed raw meat and raw milk.
 Edward Howell repeated the same clinical tests with rats and
@@ -5898,8 +6345,8 @@ Two factors cause the rampant, modern progression of
 afflictions such as cancer, diabetes, osteoporosis, obesity and
 heart disease. The first factor is eating cooked and/or processed
 
+**PAGE 167**
 
-**Hea l th Or Di sease?** (^) 167
 food that is devoid of unadulterated nutrients and full of the
 toxic byproducts of cooking, pesticides and other chemicals.
 The second factor is environmental pollution. The industrial
@@ -5940,8 +6387,8 @@ J, 1999, Washington: National Academy Press.
 “The physiological susceptibility of children to pesticides”, Whya tt,
 R., 1993, _Journal of Pesticide Reform_ 9:3, pp5-9.
 
+**PAGE 168**
 
-(^168) Volume Four t **he Recipe for Living Without Disease**
 survey contained dithiocarbamates. The 17 fruits and vegetables
 that ranked highest, in order according to occurrence and mean
 dithiocarbamate-concentration were broccoli, cabbage, tomato,
@@ -5974,8 +6421,7 @@ Center for Disease Control.
 latest Total Diet Survey”, Alison White, Pesticide Action Network
 NZ/ Safe Food Campaign, Wellington, NZ, (Millstone 1986).
 
-
-**Hea l th Or Di sease?** (^) 169
+**PAGE 169**
 
 #### Chapter 25
 
@@ -6019,8 +6465,8 @@ Arkansas Children's Hospital did a study of 50 Arkansas homes
 
 (^21) _The Great Egg Panic_ , LA Times, Jan. 4, 2000.
 
+**PAGE 170**
 
-(^170) Volume Four t **he Recipe for Living Without Disease**
 where salmonella-infected children lived. They found that
 salmonella was widespread with concentrations in 38% of the
 homes on unsuspected places, such as doorsteps, vacuum
@@ -6060,8 +6506,8 @@ life-threatening, degenerative diseases reverse and heal by
 Dispatch_ , July 19, 1999.
 (^23) _The Great Egg Panic_ , LA Times, Jan. 4, 2000.
 
+**PAGE 171**
 
-**Hea l th Or Di sease?** (^) 171
 people eating a raw diet that was mainly raw animal foods. I
 have experienced a continuing series of events in which
 degenerative tissue (cancer, etc.) disappeared within days, weeks
@@ -6100,8 +6546,8 @@ Elimination of Human Astrocytoma Xen ografts in Nude Mice” by S.
 Arab, J. Rutka, and C. Lingwood; _Oncology Research_ , Vol. 11, pp. 33-
 39, 1999.
 
+**PAGE 172**
 
-(^172) Volume Four t **he Recipe for Living Without Disease**
 Yale University reported that researchers used salmonella to
 reverse cancer.
 Many universities in Canada have been developing cancer
@@ -6140,8 +6586,8 @@ worldwide regularly ingest bacteria-infested food for those
 purposes. The Chinese successfully used “century” eggs for
 remedies and disease prevention, and as an aphrodisiac. Century
 
+**PAGE 173**
 
-**Hea l th Or Di sease?** (^) 173
 eggs are decomposed eggs aged up to 25 years with high-
 bacteria concentrations and molds.
 The supposition that the elderly, infants and ill people are
@@ -6180,8 +6626,8 @@ could result and fester, causing numerous problems including
 death. Eating raw meats with raw fats prevents ulceration by
 providing the nutrients necessary to support quick cellular
 
+**PAGE 174**
 
-(^174) Volume Four t **he Recipe for Living Without Disease**
 reproduction following the tremendously beneficial detoxi-
 fication precipitated by parasites.
 If an individual eats foods or chemicals that cause gross
@@ -6220,8 +6666,8 @@ medical treatment from antibiotics and/or other medication. E.
 (^27) Anaphylaxis is a severe allergic reaction to anything, usually
 medication.
 
+**PAGE 175**
 
-**Hea l th Or Di sease?** (^) 175
 coli 157:H7 has been blamed for Hemolytic Uremic Syndrome
 (HUS) and kidney failure, but the claim has not been proved.
 The treatment of bacterial infection involves the use of drugs
@@ -6262,8 +6708,8 @@ experiments proved that rats who ate cooked and processed food
 and naturally ate their feces had less severe dis eases and lived a
 third longer than those who did not eat their feces.
 
+**PAGE 176**
 
-(^176) Volume Four t **he Recipe for Living Without Disease**
 A friend of mine, who I will call Jean, suffered from chronic
 fatigue syndrome for 8 years, cancer of the right breast, hipbone,
 left kidney and adrenal gland (before we met to discuss the diet).
@@ -6300,8 +6746,8 @@ develop deficiencies, collect toxicity, develop disease, and
 experience occasional-to-frequent, mild-to-severe, diarrhea and
 vomit?
 
+**PAGE 177**
 
-**Hea l th Or Di sease?** (^) 177
 When I develop detoxifications in the form of vomit or
 diarrhea, my chances of living are greater if I eat properly, stay
 completely away from terrorist medical advice and treatments,
@@ -6342,8 +6788,8 @@ are everywhere. Making threshold-extrapolations to generate
 quantitative-risk estimates is pseudoscience. Using the
 impossible criteria of zero exposure to bacteria in order to
 
+**PAGE 178**
 
-(^178) Volume Four t **he Recipe for Living Without Disease**
 estimate risk is pseudoscience. Existing regulatory policy is
 based on a better-safe-than-sorry premise. In the real world of
 everyday practicalities where common-sense decisions are
@@ -6382,8 +6828,8 @@ pharmaceuticals and agri-chemicals that fuel microbe-hysteria.
 (^28) _Right To Choose Healthy Food_ is a not-for-profit organization based
 in Santa Monica, California. See page 186-189.
 
+**PAGE 179**
 
-**Hea l th Or Di sease?** (^) 179
 The food industry wants pasteurization, chemical washes,
 antibacterials and irradiation because their products will have a
 longer shelf life, reducing their costs by slowing spoilage. They
@@ -6425,8 +6871,8 @@ everywhere. Our bodies rely upon microbes for every healthy
 
 (^29) Letter To The Editor, _Health Science Magazine_ , February 1999.
 
+**PAGE 180**
 
-(^180) Volume Four t **he Recipe for Living Without Disease**
 function. As in all wars, there are untold casualties. Lands are
 blown to pieces, people are maimed, poisoned, devastated and
 exterminated. Financial resources of the majority of people
@@ -6465,7 +6911,8 @@ From Feeding Raw Milk, And The Harm Of Feeding Infants
 Pasteurized And Other Processed Milk.
 ```
 
-**Hea l th Or Di sease?** (^) 181
+**PAGE 181**
+
 Consistent with most doctors’ modern beliefs, they prescribe
 food and therapies for infants and children that have created
 disease in our children. Unscientific propaganda issues from
@@ -6504,8 +6951,8 @@ the early 1900s that pasteurized cows’ milk was often the reason.
 A more recent study linked pasteurized cow’s milk consumption
 to chronic constipation in children. Those researchers observed
 
+**PAGE 182**
 
-(^182) Volume Four t **he Recipe for Living Without Disease**
 that pasteurized milk consumption resulted in perianal sores and
 severe pain during defecation, leading to constipation.^30
 Dr. Francis Pottenger, Jr., MD observed several infants. They
@@ -6535,6 +6982,7 @@ some months to develop and was termed subacute. He
 considered it not only the most common form of scurvy but also
 the one that passes most often unrecognized.^33 The infants were
 cured of scurvy when raw milk was substituted. Regarding his
+
 (^30) Iacono G, Cavataio F, Montalto G, et al. “Intolerance of cow’s milk
 and chronic constipation in children” N Engl J Med 1998;339:110-4.
 (^31) “Clinical and experimental evidence of growth factors in raw milk”,
@@ -6544,8 +6992,8 @@ Foundation, La Mesa, California.
 (^33) Infantile Scurvy. III. Its influence on growth (length and weight),
 Am. J. Dis. Child., August, 1916.
 
+**PAGE 183**
 
-**Hea l th Or Di sease?** (^) 183
 tests, he stated that, taken in conjunction with the fact that they
 fed the same number of infants on raw milk as pasteurized milk,
 cases of scurvy did not develop in infants on raw milk. He stated
@@ -6583,8 +7031,8 @@ pp. 176; U.S. Government Pat. Off., 1942.
 (^36) Newmann, H., Deutsch. Klin., 7:341, 1904
 (^37) Ibid.
 
+**PAGE 184**
 
-(^184) Volume Four t **he Recipe for Living Without Disease**
 diphtheria, furunculosis of the skin, and pneumonia in advanced
 cases.^38
 Dr. Hess reported that milk-pasteurization that was intended
@@ -6621,8 +7069,8 @@ catastrophic increase in infant deaths. The death rate in infants
 (^39) Hess, A. F., “Recent advances in knowledge of scurvy and the
 antiscorbutic vitamin,” J.A.M.A., April 23, 1932.
 
+**PAGE 185**
 
-**Hea l th Or Di sease?** (^) 185
 from gastroenteritis quickly fell by 94%, from a high of 89 in
 1922 to less than 5 per year.^40
 Destin was a child who developed asthma as an infant on
@@ -6660,8 +7108,8 @@ Roosevelt, New York City, February 8, 1938.
 Food, Wm. Campbell Douglass, Jr., MD, 1996, Second Opinion
 Publishing, Georgia; pp. 204.
 
+**PAGE 186**
 
-(^186) Volume Four t **he Recipe for Living Without Disease**
 x **1978**  **1 outbreak, 68 cases in Arizona.**
 x **1982**  **over 17,000 cases of** **_yersinia enterocolitica_** **in Memphis,
 Tenn.**
@@ -6704,8 +7152,8 @@ JAMA 1987;258:3269-74.
 (^43) “CDC. Outbreaks of Salmonella enteritidis gastroenteritis --
 California”, 1993. MMWR 1993; 42:793-7.
 
+**PAGE 187**
 
-**Hea l th Or Di sease?** (^) 187
 fruit and vegetable juices at our local healthfood stores and
 supermarkets because, they claim, that one girl died from
 drinking orange juice containing E. coli. The evidence was
@@ -6730,7 +7178,7 @@ or they will be shut down and out of business.
 We, as the consumers, have few choices. The more restrictive
 the laws on food and food preparation, the less choices we have.
 I have watched the laws move in that direction every month for
-the last 10 years. I have tried as much as possi ble to stop the
+the last 10 years. I have tried as much as possible to stop the
 momentum but I cannot do much without your help.
 Consider that the deck is already stacked against us. Most of
 the pharmaceutical giants own the major chemical and
@@ -6744,8 +7192,8 @@ cannot survive the poisoning. They are becoming as extinct as
 the firefly. Sooner than we might think, people will be paying
 for injections of viruses, bacteria and parasites.
 
+**PAGE 188**
 
-(^188) Volume Four t **he Recipe for Living Without Disease**
 Will people be told that they have to have injections of
 viruses, bacteria and parasites to survive? Who will have kept
 the FDA- and USDA-certified microbes alive in laboratories?
@@ -6780,8 +7228,8 @@ Issues arise quickly in government with little or no notice to
 the public. Email is the quickest way to contact you and rally
 your support for unconstitutional laws that deprive us of health
 
+**PAGE 189**
 
-**Hea l th Or Di sease?** (^) 189
 and liberty in the name of pseudo-safety. Please help us help you
 and our children. Send me your addresses, especially an email
 address. Thank you.
@@ -6810,6 +7258,7 @@ Aajonus presents a workshop on how to live disease-free with
 more clarity, strength and energy. Notice for all publications will
 be posted on the website [http://www.PrimalDiet.com.](http://www.PrimalDiet.com.)
 
+**PAGE 190**
 
 #### Index
 
@@ -6861,62 +7310,61 @@ false concern over, 18–20, 177–178
 food poisoning from, 174–177, 181, 185
 futility of eliminating, 179-180
 
-
-**Inde x** 191
+**PAGE 191**
 
 intestinal , low levels of , 148
-lo w levels f rom drugs & chemicals, 188
+low levels from drugs & chemicals, 188
 balanced diet, 26
 Banana Cream Pie (recipe), 138–139
 Banana Smoothie (recipe), 58
 Barbecue Sauce (recipe), 63
 beauty formulas, topical, 145–147
 Moisturizing/Lubrication Formul a Drink, 146
-Natural Antiperspir ant, 147
+Natural Antiperspirant, 147
 Natural Deodorant, 147
 Primal Facial Body Care Cream, 145
 Béchamel Sauce (recipe), 63
 Bechamp, Dr. Antoine, 162–164
 bee pollen, optimum temperatures for, 26
 Beef Pâté (recipe), 89
-Beef Stroganoff (r ecipe), 89
+Beef Stroganoff (recipe), 89
 beet juice, 30
 Berry Good Ice Cream (recipe), 131
-beverage recipe s, 54–59
+beverage recipes, 54–59
 Banana Smoothie, 58
 Coffee Substitute, 57
 Green Vegetable Juices, 54–56
-Milkshake, 5 7
+Milkshake, 57
 Orange Smoothie, 58
 Raspberry Smoothie, 59
-Bl and-Fruit Sala d (recipe), 142
+Bland-Fruit Salad (recipe), 142
 blender technique, 46–47
 blood
 alkalinity of, 30
 fat levels i n, 32-33, 157
 sugar levels, 30, 32
-body salts regul ation/oxygen absorption (formulas), 54–56
+body salts regulation/oxygen absorption (formulas), 54–56
 bone marrow in recipes, 64, 92
 Bordelaise Sauce (recipes), 64
 bowel disease, inflammatory, 173
 bowel movements, 24, 148
 brains
-raw (recipe), 1 04
+raw (recipe), 104
 tumors in, 171
 butter, raw
 constipation and, 24
 dissolving and binding with toxins, 21
-food -combining, 3 7
-with high -carb ohydrate fruits, 33
+food-combining, 37
+with high-carbohydrate fruits, 33
 making from raw cream, 50
 for thirst & dry mouth, 35
 
 #### C
 
-cabbage jui ce, 161, 177
+cabbage juice, 161, 177
 
+**PAGE 192**
 
-(^192) Volume Four t **he Recipe for Living Without Disease**
 Caesar Meat-Dressing (recipe), 65
 Cajun Chicken (recipe), 96
 calcification from pasteurized dairy, 185
@@ -6967,10 +7415,9 @@ Cajun Chicken, 96
 Cheesy Chicken, 97
 Chicken & Tomato Soup, 113
 
+**PAGE 193**
 
-**Inde x** 193
-
-Chicken/Beef Mustard, 9 8
+Chicken/Beef Mustard, 98
 Chicken Salad, 97
 Chicken Soup, 114
 Cream of Chicken Soup, 114
@@ -6979,9 +7426,9 @@ Macaroni & Cheese-Tasting Chicken, 99
 Parmesan Chicken, 100
 Salsa Chicken, 101
 Sexy Chicken, 102
-Tahitian Chicken, 10 2
+Tahitian Chicken, 102
 children, raw milk for, 181–185
-chol esterol
+cholesterol
 in eggs, 170
 myths regarding, 158
 chronic fatig ue syndrome, 29, 176
@@ -6989,39 +7436,39 @@ Ci pro (antibiotic), 175
 clay, sun-dried
 eating with high meat, 148
 in juice, 31
-in toothp aste recipe, 148
+in toothpaste recipe, 148
 coconut cream
-food -combining, 36-3 7
-with high -carb ohydrate fruits, 33
+food-combining, 36-37
+with high-carbohydrate fruits, 33
 for lubrication and soothing, 34
-techniqu e for making, 49–50
+technique for making, 49–50
 Coconut Cream & Fruit (recipe), 123
 coconut oil, 34
 Coffee Substitute (recipe), 57
 Cold, Flu, Severe Pain (formula), 147
 colic, 181
-constipation, 148-1 50
-Chronic Constip ation Formula, 1 48
+constipation, 148-150
+Chronic Constipation Formula, 148
 High Meat Recipe, 149
 pasteurized milk and, 182
-ra w butter and, 24
-Temporary Constip atio n Formula, 150
+raw butter and, 24
+Temporary Constipation Formula, 150
 cooked & processed foods
-animal s, effect on, 157
+animals, effect on, 157
 biological degeneratio n from, 180
-de struction of nutrients, 153–158
-in development of diseases, 11 , 166–168
-digestio n of, 15–16
+destruction of nutrients, 153–158
+in development of diseases, 11, 166–168
+digestion of, 15–16
 effect on taste & flavor, 25
-pr oduc tion of toxins, 154–156
+production of toxins, 154–156
 cooking, early development of, 15
 corporate interests, 178-179
 cottage cheese recipes, 59–60
 Caraway Cottage Cheese, 59
 Sour Cottage Cheese, 60
 
+**PAGE 194**
 
-(^194) Volume Four t **he Recipe for Living Without Disease**
 Sweet Cottage Cheese, 60
 Cream of Chicken Soup (recipe), 114
 cream, raw
@@ -7072,18 +7519,17 @@ Dill Pickles (recipe), 143
 diseases
 modern progression of, 166–168
 
-
-**Inde x** 195
+**PAGE 195**
 
 origins of, 11–12, 162-164
-dithiocarbamates (fungicides), 167–16 8
+dithiocarbamates (fungicides), 167–168
 doctors and drugs, 10
-Douglass, Dr. William Campbell, 169, 181, 1 85
-drug s
-damaging effects of, 10, 17 5
+Douglass, Dr. William Campbell, 169, 181, 185
+drugs
+damaging effects of, 10, 175
 doctors and, 8
 dryness
-from oils, 3 5
+from oils, 35
 from water, 35
 Duck, Orange-Glazed (recipe), 99
 
@@ -7091,42 +7537,42 @@ Duck, Orange-Glazed (recipe), 99
 
 E. coli bacteria
 animals and, 175
-futility of elimin ating, 179
+futility of eliminating, 179
 Hemolytic Uremic Syndrome (HUS) and, 174- 175
-nativ e diets and, 18, 172
-verotoxin from, 171–1 72
+native diets and, 18, 172
+verotoxin from, 171–172
 edema, 12, 33
 Egg/Cheese Basil Sauce (recipe), 66
 eggs, raw
 Chinese use of aged, 172-173
 cholesterol in, 170
-food -combining, 36-3 7
-functio n and benefits of, 27–28
-optimum te mperatures for, 27
+food-combining, 36-37
+function and benefits of, 27–28
+optimum temperatures for, 27
 electric heating pads, 150
-emotiona lism and fruit, 32-33
+emotionalism and fruit, 32-33
 Enderlein, Günther, 164
 endobionts, 164
-envi ronmental pollution, 11, 166–167
+environmental pollution, 11, 166–167
 enzymes
 heat & processing destruction of, 15, 154, 157, 159
 in unheated honey, 31
 Epstein, Samuel, M.D., 8, 165
-equipment, food preparatio n (listed), 45-46
+equipment, food preparation (listed), 45-46
 Escolar Fresca (recipe), 107
 Eskimos diet
 high meat in, 172
 longevity & freedom from diseases, 166
 raw meat and, 14
-Ethiopian Kitf o (recipe), 91
+Ethiopian Kitfo (recipe), 91
 
 #### F
 
 fat-free diets, 32
-fat-reserv es, value of, 38
+fat-reserves, value of, 38
 
+**PAGE 196**
 
-(^196) Volume Four t **he Recipe for Living Without Disease**
 fats, raw
 cholesterol levels and, 158
 daily intake of, 39
@@ -7177,15 +7623,14 @@ French Chicken (recipe), 98
 French Mayonnaise (recipe), 67
 French Vanilla Ice Cream (recipe), 131
 
-
-**Inde x** 197
+**PAGE 197**
 
 freshwater vs. ocean fish, 29
 frugivores and digestio n, 152
 fruits
 acid and alkalin e fruits, 37
-da ily intake of, 39
-intestinal overalkalinity and, 15 2
+daily intake of, 39
+intestinal overalkalinity and, 152
 negative effects of, 21
 in Primal Diet, 32–33
 Fudge Parfait or Mint Fudge Parfait (recipe), 125
@@ -7193,27 +7638,27 @@ Fudge Parfait or Mint Fudge Parfait (recipe), 125
 #### G
 
 gamma radiation, 157
-ga rlic, 44
+garlic, 44
 Garlic Butter (recipe), 67
-ga stroenteritis, 184-1 86
+gastroenteritis, 184-186
 germ theory of disease, 162–164
 Ging erbread Balls (recipe), 126
 Gingerbread Ice Cream (recipe), 132
 glands
-cooked foods and, 1 6
+cooked foods and, 16
 organic, 29
 power drink recipes, 103–104
-gl ycotoxins, 32, 11 7
-government regulatio n of foods, 178–1 79
+glycotoxins, 32, 117
+government regulation of foods, 178–179
 grains
-digestio n of, 152
+digestion of, 152
 health problems from, 31, 117
-hi storical transition to, 14-15
-Grandma's Tomato Soup (recip e), 115
-Green, Emily, 17 0
+historical transition to, 14-15
+Grandma's Tomato Soup (recipe), 115
+Green, Emily, 170
 green vegetable juices. _See_ juices, green vegetable
 Green Vegetable Juices (recipes), 54–56
-GreenStar juicer, 49-5 0
+GreenStar juicer, 49-50
 
 #### H
 
@@ -7228,10 +7673,10 @@ high chicken, 149
 high meat
 benefits and recipes, 148–149
 in Eskimo diet, 172
-for removing degenerativ e tis sue, 174
+for removing degenerative tissue, 174
 
+**PAGE 198**
 
-(^198) Volume Four t **he Recipe for Living Without Disease**
 Himalayan Meat (recipe), 87
 Hollandaise Meat Sauce (recipe), 68
 honey, unheated
@@ -7281,8 +7726,7 @@ iron supplements, 160
 irradiation of foods, 157, 179
 irritability. _See also_ hyperactivity, 20, 32, 43, 157
 
-
-**Inde x** 199
+**PAGE 199**
 
 Island Fish Sauce (recipe), 105
 Italian Sauce (recipe), 70
@@ -7293,8 +7737,8 @@ JAMA (Journal of American Medical Association), 8
 juices
 fruit, 33
 green vegetable
-da ily intake of, 39
-fundamentals, 30–3 1
+daily intake of, 39
+fundamentals, 30–31
 green cabbage for intestinal bleeding, 177
 instead of water, 35
 making and storing, 47
@@ -7306,7 +7750,7 @@ potato, 30
 
 kefir, raw, 47
 Ketchup (recipe), 70
-kidn ey damage, 1 75
+kidney damage, 175
 
 #### L
 
@@ -7317,24 +7761,23 @@ le gislation against raw foods, 187
 lemon & lime j uice, marinating with, 50
 Lentil Soup (recipe), 115
 Lime Ice Cream (recipe), 132
-lipid peroxides, 153 , 155
+lipid peroxides, 153, 155
 liver, raw
 in infant recipes, 52
-Liver Boosters (power drink recipes), 103–1 04
-liver/glandular toxi city removal (recipe), 55
+Liver Boosters (power drink recipes), 103–104
+liver/glandular toxicity removal (recipe), 55
 Liver Pâté (recipes), 93
-Lowe, Dr. K. Brooks, 171-1 72
+Lowe, Dr. K. Brooks, 171-172
 lubrication
-Lubrication/Moisturizing Drink (formula), 14 6
+Lubrication/Moisturizing Drink (formula), 146
 water and, 35
-lung, raw (recipe), 10 4
+lung, raw (recipe), 104
 lupus, 29
 lymphatic congestion
 effect of oils on, 34
 recipe, 55
 
-
-(^200) Volume Four t **he Recipe for Living Without Disease**
+**PAGE 200**
 
 #### M
 
@@ -7384,29 +7827,28 @@ mercury
 bioactive vs. toxic, 29
 damage caused by, 175
 
-
-**Inde x** 201
+**PAGE 201**
 
 and heavy metals removal (recipe), 56
 metabolism
-fast, recommended eatin g schedule, 4 1
-slow, recommended eatin g schedule, 40
-metals, heavy (r emoval formula), 56
+fast, recommended eating schedule, 41
+slow, recommended eating schedule, 40
+metals, heavy (removal formula), 56
 Mexican Sour Cream Sauce (recipe), 71
 microbes
 as disease eliminators, 170–174
-lo w levels f rom drugs & chemicals, 188
+low levels from drugs & chemicals, 188
 microwave packs, 150
 milk
 pasteurized, 181–185
 products, optimum temperatures for, 27
 raw
 benefits for infants & children, 181–185
-da ily intake of, 39
-food -combining & digestio n of, 36
+daily intake of, 39
+food-combining & digestion of, 36
 instead of water, 35
 safety of in scientific studies, 169
-studi es supporting health benefits of, 181–183
+studies supporting health benefits of, 181–183
 as therapeutic treatment, 184–185
 Milkshake (recipe), 57
 Millstone , Erik, 168
@@ -7415,7 +7857,7 @@ Mint Chocolate Substitute (recipe), 127
 Moisturizing/Lubrication Drink
 in daily eating program, 40–41
 recipe for, 146
-molds, as detoxifyin g agents, 23
+molds, as detoxifying agents, 23
 Monroe, Jon, 171
 Mornay Sauce (recipe), 72
 Morris, Dr. Don, 172
@@ -7427,7 +7869,7 @@ Mustard (recipes), 74–75
 
 #### N
 
-na ps, 24
+naps, 24
 nativ e diets
 carbohydrates & Native Americans, 31
 Eskimo longevity, 165
@@ -7435,10 +7877,10 @@ microbes as medicine in, 171–172
 raw fat consumption in, 28
 nervous system
 fruit and, 33
-nerve-tissue regeneratio n, 2 9
+nerve-tissue regeneration, 29
 
+**PAGE 202**
 
-(^202) Volume Four t **he Recipe for Living Without Disease**
 nut formula for neurological detoxification, 33
 nutrients
 effect of cooking on, 153–157
@@ -7488,39 +7930,38 @@ pasteurization
 of foods, 154, 157, 177, 179
 of milk, 181–185
 
-
-**Inde x** 203
+**PAGE 203**
 
 pathogens
 cause or result of disease, 19
 as disease eliminators, 170–172
 fa lse concern over, 177–178
-true definition of, 1 79
-war on, 169–17 0
+true definition of, 179
+war on, 169–170
 Pecan Fudge (recipe), 128
 Pepita Gravy (recipe), 76
-pe sticides, 167–168
+pesticides, 167–168
 pharmaceutical industry, 165, 187–188
-Pickles & Pickli ng recipes, 142– 144
-Dill Pickles, 14 3
+Pickles & Pickli ng recipes, 142–144
+Dill Pickles, 143
 Pickled Ginger, 142
-Pickled Peppers (Pimentos), 14 3
+Pickled Peppers (Pimentos), 143
 Sweet Pickles, 144
-pie recipes, 134–1 41
-Ambrosia Coconut Cream Pie, 134–13 5
+pie recipes, 134–141
+Ambrosia Coconut Cream Pie, 134–135
 Ambrosia Cream Pie, 136–137
 Banana Cream Pie, 138–139
 Pumpkin Pie, 140–141
 Pineapple Ice Cream (recipe), 133
 plaque removal (formula), 55
-pollution, e nvironmental, 11, 19, 167–168, 180
-Polynesian Ging er Sauce (recipe), 105
+pollution, environmental, 11, 19, 167–168, 180
+Polynesian Ginger Sauce (recipe), 105
 potato juice, 30
-Pottenger, Dr. Francis, 23, 1 65 –166, 181-183
+Pottenger, Dr. Francis, 23, 165–166, 181-183
 Power Drinks
 for chronic fatigue, 29
 recipes (organs & glands), 103–104
-Liver Booster, 1 03–104
+Liver Booster, 103–104
 The Power Drink, 104
 Price, Dr. Weston, 182
 Primal Diet Web site, 14
@@ -7529,20 +7970,20 @@ processed-food industry, 17, 32
 processed foods. _See_ cooked & processed foods
 protein-foods, heating, 154
 pulmonary tuberculosis, 184
-Pumpkin Pie (recipes), 140–1 41
+Pumpkin Pie (recipes), 140–141
 
 #### R
 
-radiatio n, destru ctiv e nature of, 9 –10
+radiation, destructive nature of, 9–10
 Raspberry Smoothie (recipe), 59
-raw butter. _See_ bu tter, raw
+raw butter. _See_ butter, raw
 raw cheese. _See_ cheeses, raw
 raw fats. _See_ fats, raw
 raw foods
 bias against, 17
 
+**PAGE 204**
 
-(^204) Volume Four t **he Recipe for Living Without Disease**
 digestion of, 16–18
 disease reversals on, 170-171
 healing effects of, 13
@@ -7593,20 +8034,18 @@ Oyster Sauce & Pasta, 108
 Oysters Over Cheese, 109
 Salmon with Lemon & Parsley, 110
 
+**PAGE 205**
 
-**Inde x** 205
-
-```
 Shrimp Passion, 110
 Spiced Salmon, 111
-Spiced Sashimi, 11 1
+Spiced Sashimi, 111
 Swordfish Sashimi, 112
 Tahitian Fish, 112
-Thai Cevich e, 113
+Thai Ceviche, 113
 fowl (white meats), 96–102
 Cajun Chicken, 96
 Cheesy Chicken, 97
-Chicken/Beef Mustard, 9 8
+Chicken/Beef Mustard, 98
 Chicken Salad, 97
 French Chicken, 98
 Macaroni & Cheese-Tasting Chicken, 99
@@ -7614,41 +8053,41 @@ Orange-Glazed Duck, 99
 Parmesan Chicken, 100
 Salsa Chicken, 101
 Sexy Chicken, 102
-Tahitian Chicken, 10 2
+Tahitian Chicken, 102
 Turkey Pâté, 103
-meats, red, 87– 95
+meats, red, 87–95
 African Lamb, 88
 Beef Pâté, 89
 Beef Stroganoff, 89
 Carpaccio, 90
-Ethiopian Kitf o, 9 1
+Ethiopian Kitfo, 91
 Himalayan Meat, 87
 Lamb Shanks, 92
 Liver Pâté, 93
-Liver Pâté, Two, 9 3
+Liver Pâté, Two, 93
 Meat au Gratin, 94
 Nuts Over Meat, 94
 Steak Tartare, 95
-meats, white, 96–10 3
+meats, white, 96–103
 Pickles & Pickling, 142–144
-Dill Pickles, 14 3
+Dill Pickles, 143
 Pickled Ginger, 142
-Pickled Peppers (Pimentos), 14 3
+Pickled Peppers (Pimentos), 143
 Sweet Pickles, 144
-Power Drinks (organs & glan ds), 103–104
+Power Drinks (organs & glands), 103–104
 Liver Booster, 103
 Liver Booster, Two, 104
 The Power Drink, 104
 remedies & beauty formulas, 145–150
-Salad, Bland-Fruit, 1 42
-sauces for fish/seafood, 105–10 6
+Salad, Bland-Fruit, 142
+sauces for fish/seafood, 105–106
 Island Fish Sauce, 105
 Polynesian Ginger Sauce, 105
 Spicy African Paste for Fish, 106
 sauces for meats, 62–86
-```
 
-(^206) Volume Four t **he Recipe for Living Without Disease**
+**PAGE 206**
+
 Asian Spicy Meat Sauce, 62
 Barbecue Sauce, 63
 Béchamel Sauce, 63
@@ -7699,61 +8138,60 @@ Cream of Chicken, 114
 Grandma's Tomato, 115
 Lentil, 115
 
+**PAGE 207**
 
-**Inde x** 207
-
-Split Pea, 11 6
-starch cooked, raw substitutes, 117–11 9
-Nut Butter/Nut Formul a, 11 7
+Split Pea, 116
+starch cooked, raw substitutes, 117–119
+Nut Butter/Nut Formul a, 117
 Pasta Substitute , 118
-Reminiscent of Mexican Chips, 1 18
+Reminiscent of Mexican Chips, 118
 Reminiscent of Refried Beans, 119
 red vs. white meat
 defined, 29
 different benefits of, 28-29
 remedies & beauty formulas, 145–150
-Antiperspirant, Natural, 14 7
+Antiperspirant, Natural, 147
 Cold, Flu, Severe Pain Diet, 147
 Constipation
-Chronic, 1 48
+Chronic, 148
 Temporary, 150
 Deodo rant, Natu ral, 147
-Hi gh Meat, 149
-Moisturizing/Lubrication Formul a Drink, 146
+High Meat, 149
+Moisturizing/Lubrication Formula Drink, 146
 Pain Formula, 146-147
 Primal Facial Body Care Cream, 145
 Throat Lozenges, Lemon, 147
-Toothp aste, 148
+Toothpaste, 148
 Reminiscent of Mexican Chips (recipe), 118
 Reminiscent of Refried Beans (recipe), 119
 restaurants, restrictions on, 187
 Right To Choose Healthy Food, 178, 188
 Root-Bernstein, Robert & Michele, 172
 Roth, John R., 169
-royal je lly, temperatur es for, 26
+royal jelly, temperatur es for, 26
 
 #### S
 
 salads, 37
-da ily intake of, 39
+daily intake of, 39
 Salad, Bland-Fruit (recipe), 142
 salmon
-freshwater, 2 9
+freshwater, 29
 Hot Buttered Salmon (recipe), 108
 Salmon with Lemon & Parsley (recipe), 110
 salmonella bacteria
 eggs and, 27
-futility of elimin ating, 179
+futility of eliminating, 179
 harmlessness of, 169–170
 in native diets, 18
 in reversing cancer, 172
 Salsa Chicken (recipe), 101
 salts
-re gulation of body (formula), 54–5 6
+regulation of body (formula), 54–56
 toxic, removal of (formula), 54
 
+**PAGE 208**
 
-(^208) Volume Four t **he Recipe for Living Without Disease**
 sashimi
 Spiced Sashimi (recipe), 111
 Swordfish Sashimi (recipe), 112
@@ -7804,19 +8242,18 @@ Tartar Sauce, 83
 Thousand Island Meat-Dressing, 84
 Thousand Island Meat-Dressing, Two, 84
 
-
-**Inde x** 209
+**PAGE 209**
 
 Tomato Cream Cheese Sauce, 85
 Tomato Sauce, 85
-Wasabe, 8 6
+Wasabe, 86
 White Pepper Sauce, 86
 scar tissue, 12, 34
-scurvy, 182- 184
+scurvy, 182-184
 seafood recipes. _See_ fish/seafood recipes
 seeds. _See_ nuts and seeds
 Sexy Chicken (recipe), 102
-Shrimp Passion (r ecipe), 110
+Shrimp Passion (recipe), 110
 skin care, 145–146
 sleep and healing, 24
 solvents
@@ -7825,40 +8262,40 @@ stored fats as, 38
 soup recipes, 113–116
 Chicken, 114
 Chicken & Tomato, 113
-Cr eam of Chicken, 114
+Cream of Chicken, 114
 Grandma's Tomato, 115
 Lentil, 115
-Split Pea, 11 6
+Split Pea, 116
 Sour Cottage Cheese (recipe), 60
 Sour Cream Quick (recipe), 77
 Sour Cream (recipe), 76
-South African Chipolata (recipe), 12 9
+South African Chipolata (recipe), 129
 South African Frikkadel Glaze (recipe), 77
 Spice Paste (recipe), 78
 Spiced Butter or Oil (recipe), 79
 Spiced Salmon (recipe), 111
 Spiced Sashimi (recipe), 111
 spices, 44–45
-Spicy Afri can Paste for Fish (recipe), 106
+Spicy African Paste for Fish (recipe), 106
 Spicy African Paste (recipe), 80
 Spicy Thai Sauce (recipe), 81
 Split Pea Soup (recipe), 116
 sprouted grains, 152
-starch, raw, 117 –11 9
-Nut Butter/Nut Formul a, 11 7
-Pasta Substitute , 118
-Reminiscent of Mexican Chips, 1 18
+starch, raw, 117–119
+Nut Butter/Nut Formula, 117
+Pasta Substitute, 118
+Reminiscent of Mexican Chips, 118
 Reminiscent of Refried Beans, 119
 Steak Tartare (recipe), 95
-Stefansson, Vilhjalmur , 166, 18 3
+Stefansson, Vilhjalmur , 166, 183
 sturgeon, freshwater, 29
 sunscreen formula, 145
 supplements
 argument against consuming, 159–161
 negative influence of, 13
 
+**PAGE 210**
 
-(^210) Volume Four t **he Recipe for Living Without Disease**
 Sweet Cottage Cheese (recipe), 60
 Sweet Pickles (recipe), 144
 swordfish
@@ -7908,33 +8345,32 @@ vegetables & vegetable juices. _See also_ juices, green vegetable
 acid/alkaline balance and, 151
 in cooked diets, 151
 
+**PAGE 211**
 
-**Inde x** 211
-
-food -combining, 36–37
+food-combining, 36–37
 Green Vegetable Juices (recipes), 54–56
-ju icing for digestibility, 17- 18
+juicing for digestibility, 17- 18
 as natural supplementation, 161
 verotoxin from E. coli, 171
 viruses
-de pression and, 171
-as detoxifyin g agents, 23
-as healin g agents, 172
+depression and, 171
+as detoxifying agents, 23
+as healing agents, 172
 vitamins
-C, 157, 18 3
-E, 159- 160
+C, 157, 183
+E, 159-160
 K, 161
-supplemen ting, 159–161
+supplementing, 159–161
 U, 161
 Vonderplanitz, Aajonus (health history), 9–14
 
 #### W
 
 Wasabe (recipe), 86
-water, 34– 35
+water, 34–35
 Web sites
 Primal Diet, 14
-Ri ght to Choose Healthy Food, 178
+Right to Choose Healthy Food, 178
 weight gain/weight loss principle, 38–42
 weight loss diet recommendations, 42
 Weinstock, Joel, 173

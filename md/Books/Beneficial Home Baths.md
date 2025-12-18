@@ -116,7 +116,7 @@ covers a procedure which – along with specific dietary recommendations – has
 of fully restoring damaged lymphatic functioning. This chapter contains the really important
 part, showing how we have been inadvertently set up for cancer and other diseases. He
 wrote this in his expanded version of “We Want To Live: the Primal Diet”, in 2005 however he
-continued to make it known and to refine the details over more recent years._
+continued to make it known and to refine the details over more recent years.
 
 #### What lymphatic congestion is and why we should bother handling it:
 
@@ -301,19 +301,32 @@ A: I know 8 women over the age of 16 who live just on raw milk and they’re fin
 _Q&A February 2, 2013 in San Diego_
 
 Q: _I do have a huge craving for mineral water after I do the bath._
+
 A: And that's why your skin is still dry.
+
 Q: _Me too_.
+
 A: You don't see my skin dry.
+
 Q: _So the edema, how do they get rid of that? That's from toxins pulling?_
+
 A: It was diluting toxins under your skin, you need those hot baths.
+
 Q: _The bath that draw the water yeah like..._.
+
 A: Melt it out of your system
+
 A: Yeah, you need a 90 minute bath a day.
+
 Q: _And that pulls out the existence of edema the best? Is there anything else?_
+
 A: No. There's nothing - well, grapefruit helps you eliminate excess water.
+
 Q: _You got the lymph baths with pineapple mixture?_
+
 A: Oh that pineapple that doesn't help with edema. That helps you break down the toxicity
 and the congestion in the lymphatic system.
+
 Q: _So could that replace the hot baths with the pineapple?_
 
 A: No, you've got the plastic fats in the body, plastic oils in the body that are jamming it; they
@@ -337,14 +350,12 @@ body’s temperature. There’s no way around it. At least I never met a yogi wh
 otherwise. It always increases heat. But to me, that’s a good thing because it causes more
 discharge. You’ll do more cleansing of protein levels, cellular levels if your body heats more.
 And vegetarians will raise their temperatures even more in meditation because their bodies
-
-
 are trying to adapt to an herbivorous diet – herbivores have a body temperature of 101-105. If
 the lymphatic system is jammed, it will cause a lowering of body temperature.
 
 _[Q: unclear]_
 
-A. Well, you’ll reduce the heat if you’ll take the baths. You’ll be doing most of the perspiring
+A: Well, you’ll reduce the heat if you’ll take the baths. You’ll be doing most of the perspiring
 and breaking down of toxicity in your system – clogged fats in the bath – in the bath so you
 won’t have to be as hot while you’re meditating with rising kundalini. With kundalini you have
 a kriya kundalini which is a cleansing.
@@ -413,20 +424,20 @@ Drinking the following blended mixture immediately upon entering [later amended
 to consume as fruit meal during day but not immediately upon entering] a hot [102º
 F (39º C) to 110º F (43º C] [later amended to 102 – 105 F] bath helps prevent the
 melted lymphatic congestion from hardening as much when the body temperature
-later normalizes: ¼ - 1cup of unripe pineapple, 3 – 6 tablespoons coconut cream, 1 –
-3 tablespoons unsalted raw butter, and 1 – 2 tablespoons raw dairy cream.
+later normalizes: ¼ - 1cup of unripe pineapple, 3 – 6 tablespoons coconut cream, 1 – 3 tablespoons unsalted raw butter, and 1 – 2 tablespoons raw dairy cream.
 
-Measured ingredients should be equal for suggested amounts, that is, for a person
-who is 4’ - 4’ 6” tall, the smallest amounts of each ingredient to be blended are ¼
-cup pineapple, 3 tablespoons coconut cream, 1 tablespoon butter, and 1 tablespoon
-cream. A person who is 4’6” - 5’2” tall should blend ½ cup pineapple, 3 tablespoons
-coconut cream, 1 tablespoon butter, and 1 tablespoon cream. A person who is 5’3 -
-”5’9” tall should blend 2/3 cup pineapple, 4 tablespoons coconut cream, 1½
-tablespoons butter, and 1½ tablespoons cream. A person who is 5’10” - 6’2” tall
-should blend about ¾ cup pineapple, 6 tablespoons coconut cream, 2 tablespoons
-butter, and 2 tablespoons cream. A person who is 6’3” - 6’10” tall should blend 1
-cup pineapple, 6 tablespoons coconut cream, 3 tablespoons butter, and 2
-tablespoons cream.
+Measured ingredients should be equal for suggested amounts, that is, for
+
+a person who is 4’ - 4’6” tall, the smallest amounts of each ingredient to be blended are ¼ cup pineapple, 3 tablespoons coconut cream, 1 tablespoon butter, and 1 tablespoon cream.
+
+A person who is 4’6” - 5’2” tall should blend ½ cup pineapple, 3 tablespoons
+coconut cream, 1 tablespoon butter, and 1 tablespoon cream.
+
+A person who is 5’3 - ”5’9” tall should blend 2/3 cup pineapple, 4 tablespoons coconut cream, 1½ tablespoons butter, and 1½ tablespoons cream.
+
+A person who is 5’10” - 6’2” tall should blend about ¾ cup pineapple, 6 tablespoons coconut cream, 2 tablespoons butter, and 2 tablespoons cream.
+
+A person who is 6’3” - 6’10” tall should blend 1 cup pineapple, 6 tablespoons coconut cream, 3 tablespoons butter, and 2 tablespoons cream.
 
 After the bath, the bather will be weak. The bather should leave the bath
 slowly, and sit to dry. Then bundle in very warm natural clothing and take a 30 –
@@ -475,10 +486,7 @@ Absolutely. She asked if you could put any kind of milk in the bath. Yes you can
 
 #### I have a dry mouth and dehydration after lymphatic bath
 
-A: You drink a cup of milk or sport drink* (see appendix) before you get in, two cups while
-
-
-you’re in the 90 minute bath, and a cup when you get out – a quart. You would have lost three
+A: You drink a cup of milk or sport drink* (see appendix) before you get in, two cups while you’re in the 90 minute bath, and a cup when you get out – a quart. You would have lost three
 cups of fluid during the bath and you’re going to perspire another cup during the night and you
 need to replace those. It doesn’t matter what time you take the bath. If you’re doing the baths
 only 2x a week, the pineapple-coconut cream mixture against lymphatic congestion (in book)
@@ -520,8 +528,6 @@ your body and start releasing it from the body, otherwise you are not. Your lymp
 will stay congested for your entire life, I don’t care what diet you’re on.
 
 Even if you’re on this diet. I don’t care if you do trampoline for the lymphatic system. It will not
-
-
 move if it’s hardened. It has to be softened. It has to be softened. So what you do is, before
 you get in the bath like it says in the book, you have a combination of pineapple, coconut
 cream, a tiny bit of dairy cream, a tiny bit of butter, a little bit of honey and you blend that all
@@ -600,8 +606,9 @@ _Q: How do you know if it’s gonna be a hundred and five?_
 
 #### A: You can have a thermometer.
 
-_Q/A: [Laughing]
-Q: Not very accurate..._
+_Q/A: [Laughing]_
+
+_Q: Not very accurate..._
 
 A: Well, get one that‘s for cooking. I use a temperature one where you take the temperature
 on your tongue. Those are usually pretty accurate.
@@ -635,20 +642,30 @@ A: Yeah, well what I suggest is taking a cold bowl of water with ice sitting on 
 ice water. And you take a cold rag - somewhat moist. You put it on top of your head, and put
 your wrists in, not with your fist closed tightly, so the water gets inside. You leave your wrists
 in for two minutes and the whole body starts tingling to the brain.
+
 Q: _You put ice in your hands?....is that what you are saying?_
+
 A: No you're putting your hand in the bowl
+
 Q: _Oh, in the bowl_ ...
+
 A: And of course the ice cubes are going to hit you here. So you've got your hands here and
 you're going to hold them for a whole two minutes. Not easy to hold in, its harder to stay in
 that cold water than it is to be in the hot water. And it chills the body to the brain and then your
 bones and that's your.....you don't care about the bones. Its the lymphatic system, the skin
 and the blood you want hot.
+
 Q: _And then on top of them you could put the-_
+
 A: The cold yes.
+
 Q: _But its actually good to be hot if I can stand it to it._
+
 A: Yep. Absolutely, if you can stand it.
-Q: _It doesn't shock you to the cold, it doesn't shock your brain?
-A: Oh and then it makes you want stay in that water all day._
+
+Q: _It doesn't shock you to the cold, it doesn't shock your brain?_
+
+A: Oh and then it makes you want stay in that water all day.
 
 #### Could you give an example of someone completing a major detoxification with one lymphatic bath?
 
@@ -665,8 +682,6 @@ the tub._
 _It registers around 108 degrees when we get into the tub._
 
 _We just slide the cover back and get into the tub, with our heads sticking out. (Only one of us_
-
-
 _can get into the tub at a time.) You stay very warm that way. We also heat up the bathroom
 with our electric space heater, so it’s warm in the room to begin with. I have only worked up
 to 10 to 15 minutes, and Keith up to 20. But, we go a second step. Right after we get out of
@@ -789,17 +804,18 @@ to consume as fruit meal during day but not immediately upon entering] a hot [10
 melted lymphatic congestion from hardening as much when the body temperature
 later normalizes: ¼ - 1cup of unripe pineapple, 3 – 6 tablespoons coconut cream, 1 –
 3 tablespoons unsalted raw butter, and 1 – 2 tablespoons raw dairy cream. Measured
-ingredients should be equal for suggested amounts, that is, for a person who is 4’ -
-4’ 6” tall, the smallest amounts of each ingredient to be blended are ¼ cup
-pineapple, 3 tablespoons coconut cream, 1 tablespoon butter, and 1 tablespoon
-cream. A person who is 4’6” - 5’2” tall should blend ½ cup pineapple, 3 tablespoons
-coconut cream, 1 tablespoon butter, and 1 tablespoon cream. A person who is 5’3 -
-”5’9” tall should blend 2/3 cup pineapple, 4 tablespoons coconut cream, 1½
-tablespoons butter, and 1½ tablespoons cream. A person who is 5’10” - 6’2” tall
-should blend about ¾ cup pineapple, 6 tablespoons coconut cream, 2 tablespoons
-butter, and 2 tablespoons cream. A person who is 6’3” - 6’10” tall should blend 1
-cup pineapple, 6 tablespoons coconut cream, 3 tablespoons butter, and 2
-tablespoons cream.
+ingredients should be equal for suggested amounts, that is, for
+
+a person who is 4’ - 4’6” tall, the smallest amounts of each ingredient to be blended are ¼ cup pineapple, 3 tablespoons coconut cream, 1 tablespoon butter, and 1 tablespoon cream.
+
+A person who is 4’6” - 5’2” tall should blend ½ cup pineapple, 3 tablespoons
+coconut cream, 1 tablespoon butter, and 1 tablespoon cream.
+
+A person who is 5’3 - ”5’9” tall should blend 2/3 cup pineapple, 4 tablespoons coconut cream, 1½ tablespoons butter, and 1½ tablespoons cream.
+
+A person who is 5’10” - 6’2” tall should blend about ¾ cup pineapple, 6 tablespoons coconut cream, 2 tablespoons butter, and 2 tablespoons cream.
+
+A person who is 6’3” - 6’10” tall should blend 1 cup pineapple, 6 tablespoons coconut cream, 3 tablespoons butter, and 2 tablespoons cream.
 
 
 ## Chapter Five - Bath tub vs. Jacuzzi vs. hot tub – the pros and cons and the 'how-to’s.
@@ -812,7 +828,7 @@ feasible, avoidance of EMFs, and other vital information_
 
 #### Can I get a hot tub at a reasonable cost?
 
-A: You can get an _ofuro_ , a very nice looking Japanese wooden hot tub, which takes up about
+A: You can get an _ofuro_, a very nice looking Japanese wooden hot tub, which takes up about
 5-6 square feet of the corner of a room. It can be inside rather than a hot tub outside which
 are more costly .It used to cost me $250/month to use my hot tub. If I kept it on 24/7, it was
 $375/month. In Canada, I have a lot of patients who have them. The ofuro has a pump, sand
@@ -883,8 +899,6 @@ _Q: Dressed up that warm?_
 A: Yeah, you can do that.
 
 _Q: I’m going to tell anyone who’s going there first of all to ask...when I go there and it's too_
-
-
 _cool - which has happened twice recently - you just ask the attendant to come and check the
 temperature of the pool. I said it was a hundred and one and they said no its not it’s a
 hundred and three so I said no its not...So you can put it up, so they will do it. I was really
@@ -1174,8 +1188,6 @@ mineral water, 1 small tomato, or ¼ cup of melon with 1tablespoon unsalted raw
 butter, unheated above 96º Fahrenheit, fermented coconut oil or 1 tablespoon
 stonepressed olive oil. So that the oils are properly homogenized, blend until
 ingredients are warm to the touch. Pouring this mixture into a hot bath no hotter
-
-
 than the body is comfortable in and soaking for 15-30 minutes usually bring
 immediate relief. If suffering with hives, pour into a not too hot bath the mixture of
 tomato or melon blended with butter, coconut or olive oil (recipe given above), then
@@ -1213,17 +1225,17 @@ mixture of:
 2 – 6 tablespoons avocado.
 
 
-Measured ingredients should be equal for suggested amounts, that is, for a person
-who is 4’4’ - 6” the smallest amounts of each ingredient to be blended is 1/3 cup
-lime juice, 3 tablespoons coconut cream, 1 teaspoon dairy cream or 2 tablespoons
-avocado. A person who is 4’6” - 5’2” should blend ½ cup lime juice, 4 tablespoons
-coconut cream, 2 teaspoons dairy cream or 3 tablespoons avocado. A person who is
-5’3” - 5’ - 9” should blend 2/3 cup lime juice, 5 tablespoons coconut cream, 3
-teaspoons dairy cream or 4 tablespoons avocado. A person who is 5’10” - 6’2”
-should blend about ¾ cup lime juice, 6 tablespoons coconut cream, 5 teaspoons
-dairy cream or 6 tablespoons avocado. A person who is 6’3” - 6’10” should blend
-about 1 cup lime juice, 7 tablespoons coconut cream, 2 tablespoons dairy cream or 7
-tablespoons avocado.
+Measured ingredients should be equal for suggested amounts, that is, for
+
+a person who is 4’4’ - 4'6” the smallest amounts of each ingredient to be blended is 1/3 cup lime juice, 3 tablespoons coconut cream, 1 teaspoon dairy cream or 2 tablespoons avocado.
+
+A person who is 4’6” - 5’2” should blend ½ cup lime juice, 4 tablespoons coconut cream, 2 teaspoons dairy cream or 3 tablespoons avocado.
+
+A person who is 5’3” - 5’9” should blend 2/3 cup lime juice, 5 tablespoons coconut cream, 3 teaspoons dairy cream or 4 tablespoons avocado.
+
+A person who is 5’10” - 6’2” should blend about ¾ cup lime juice, 6 tablespoons coconut cream, 5 teaspoons dairy cream or 6 tablespoons avocado.
+
+A person who is 6’3” - 6’10” should blend about 1 cup lime juice, 7 tablespoons coconut cream, 2 tablespoons dairy cream or 7 tablespoons avocado.
 
 After the bath, the bather will be weak. The bather should move slowly from the
 bath, and sit to dry. Bundle in very warm natural clothing and take a 30 – 45 minute
@@ -1293,8 +1305,6 @@ tub.
 _Q: Okay. I thought clay does the cleaning._
 
 A: Clay does too. But if you have clay with a heater, its going to cake on to the heater and its
-
-
 not going to work anymore.
 
 _Q: And the milk doesn't grease it up or something?_
@@ -1395,8 +1405,9 @@ right before they drink it.
 
 #### SPORT FORUMULA (14 Dec 2008)
 
-_Q. What is a sports drink?_
-A. Oh, the sport formula, I've given it many times. Yeah, it's two cups of... In the We Want To
+_Q: What is a sports drink?_
+
+A: Oh, the sport formula, I've given it many times. Yeah, it's two cups of... In the We Want To
 Live book, I had the hydration formula. When you're doing a heavy sport you perspire, you
 need more cucumber than tomato. So I altered that recipe to have two to two and a half cups
 of cucumber puree, and one cup of tomato puree so what you've done is just flop it around.
@@ -1404,16 +1415,23 @@ Instead of having a lot of tomato, have more cucumber puree. And then they like 
 tablespoon of vinegar, a tablespoon of lemon juice, two to four tablespoons of coconut cream,
 two to four tablespoons of dairy cream, two or two and a half to four ounces of sparkling mineral water.
 Blend all that together and you sip it throughout the day.
+
 _Q: So it doesn't matter where it's eaten? 50 minutes after juice or anything like that or you
 are not going to wait an hour between anything else to eat?_
+
 A: Well, any time after juice probably about 15, 20 minutes. After meat it would have to be
 probably after an hour.
-_Q. In a straight whey by itself, and then an hour nothing, nothing in that whey?_
+
+_Q: In a straight whey by itself, and then an hour nothing, nothing in that whey?_
+
 A: Before meat, an hour. If it's juice your're going to have after the whey, then it could be 20
 minutes.
+
 _Q: Right._
+
 A: Yep, and what you could use is whey, instead of the water in the sports drink. Two and a
 half to - well you are a big guy – four ounces of whey instead of four ounces of water.
+
 _As a recipe:
 2 – 2 ½ cups cucumber puree
 1 cup tomato puree

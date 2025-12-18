@@ -1568,7 +1568,7 @@ in your body, and heal you period. And it’s work. But it may, every
 
 day, gets easier. I’m only halfway, it takes 40 years to go from ill
 
-health to optimal health, according to Pottinger’s work. It takes 5
+health to optimal health, according to Pottenger’s work. It takes 5
 
 generations of cells, and it takes us 7 to 7&½ years to replace
 

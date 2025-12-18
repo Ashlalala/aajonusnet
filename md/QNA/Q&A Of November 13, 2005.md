@@ -834,7 +834,7 @@ Q: But kefir, once it's pre-digested, you can drink it.
 
 A: See, I even made my ice cream out of kefir. I don't use milk to make my ice cream. And it tastes so much better. I made an orange rum ice cream last night.
 
-Q:How do you get rum?
+Q: How do you get rum?
 
 A: You have to make a raw bitter chocolate. I had the recipe that I made the cheesecake with. You make the chocolate that way. You just have to let it sit for about two months until it ferments. And it creates a rum in it. And it's not too strong. And you only use like a tablespoon per quart of mixture for the ice cream. And I use like two oranges. I used kefir, cream, and honey. And just about a tablespoon of the chocolate. A heaping tablespoon of the chocolate.
 

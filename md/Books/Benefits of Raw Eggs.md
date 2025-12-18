@@ -185,16 +185,16 @@ out of it from the cheese. June 16, 2013
 
 # Chapter 2: Is a dietary regimen necessary?
 
-“Two factors cause the rampant, modern progression of afflictions such as cancer,
+Two factors cause the rampant, modern progression of afflictions such as cancer,
 diabetes, osteoporosis, obesity, heart disease, chronic fatigue syndrome and
 fibromyalgia.
 
-“The first factor is eating cooked and/or processed food that is devoid of live nutrients
+The first factor is eating cooked and/or processed food that is devoid of live nutrients
 and full of the toxic byproducts of cooking, pesticides and other chemicals. If you are
 interested in the names and research on those toxins, purchase and read The Recipe For
 Living Without Disease.
 
-“The second factor is environmental pollution. The industrial and chemical revolutions
+The second factor is environmental pollution. The industrial and chemical revolutions
 have created over 6,000 bizarre foreign chemicals that our bodies have not succeeded in
 processing as food or air. Toxic accumulations within our bodies cause more
 deterioration. Some chemicals cause immediate death, but most cause the gradual
@@ -873,8 +873,6 @@ honey.
 _Yeah, but even in the middle of the night do you do it?_
 Yeah, still I have a piece of cheese first but you don’t have to wait a full 10 minutes – 5
 minutes is fine during the middle of the night. And when you have that cheese with
-
-
 honey it should be about a three to one ratio – maximum. So, let’s say you’re having a
 tbsp. of cheese, you have a tsp. of honey only; you have three tbsp. of cheese, you can
 have two a half to three tsp. of honey. October 14, 2012
@@ -1379,6 +1377,7 @@ to help you digest very much of the cheese, because it digests protein well. May
 - - - - - - - - -
 
 **Small amounts of cheese to absorb poisons**
+
 _Regarding the raw cheese regimen that you recommended for me and others: nuts and bolts –
 how much leeway? For instance – do you always eat the cheese before a drink or a meal? Do
 you always eat it a half hour regardless of when you eat that sugar-cube that you’ve
@@ -1471,8 +1470,6 @@ I’d say 87% of the people I see have that chemical soup in their stomach linin
 time you eat, your body is going to get rid of a little bit of that at a time and it’s going to
 poison the rest of the body as the food digests. However, when you eat raw, no-salt
 cheese ten minutes before, it will not digest; it comes out almost exactly the way it went
-
-
 in, in my laboratory analysis of feces. ...unless you eat honey with the cheese. When you
 directly mix cheese with honey, it doesn’t come out but stays in the body. Then you’ll be
 reabsorbing, re-ingesting, the poisons. September 26, 2010
@@ -1716,7 +1713,6 @@ quickest and the best. September 9, 2007
 In the recipe book, under weight loss, you have meat without any kind of fat with it,
 except for a little bit just so you don’t dry out completely. So you eat lots of eggs and
 meat without much fat to pull the fats off of the body, if you want to lose weight.
-
 November 18, 2007
 
 - - - - - - - - -
@@ -1832,7 +1828,7 @@ When you get hungry again, meat again. And just keep alternating. And that's all
 for months. The healing is incredible. The detoxification and the weight loss is incredible.
 1999
 
-- - - - - - - - –
+- - - - - - - -
 
 One way to take it [ _weight_ ] off is to eat 1-2 eggs blended with 5 oz of vegetable juice. The
 vegetable juice should be 80% celery and 20 % parsley. 1-2 eggs depending on if you are a male
@@ -2287,7 +2283,9 @@ to do it. June 22, 2013
 
 
 **My suggested dietary regimens for influenza are:**
+
 1/2 to 1 pound fowl daily
+
 2 to 3 MOISTURIZING/LUBRICATION FORMULA DRINKS daily (preferable), see page 146*,
 or 2 to 3 MILKSHAKEs, see page 57*
 1 SMOOTHIE, see pages 58-59*
@@ -2548,8 +2546,6 @@ _Oh, OK._
 The poisons are mixing with your digestive bacteria; it creates a gas.
 _Oh, OK._
 If you eat enough cheese, then that poison is going to be absorbed into the cheese, it’s
-
-
 not going to affect the bacteria.
 _Well, I thought I was eating a lot of cheese but obviously I'm not._
 You have to eat it with your food too. Some people actually have to eat it with their food
@@ -2604,6 +2600,7 @@ particles to feed the brain and nervous system so they need to eat rotten eggs o
 meat to supply it - like my episode on Ripley’s Believe It or Not. October 24, 2010
 - - - - - - - - -
 **Digestive problems**
+
 In penicillin-fungal poisoning and other pharmaceutical antibiotic-induced problems,
 food cannot be digested. However, we must eat to nourish our bodies and heal. The
 most easily and quickest digested food is raw egg. Most often, a raw egg digests in 16- 23
@@ -2669,8 +2666,6 @@ means your body gets all this small, pre-digested or easily digested liquid fat 
 It goes right into the system to heal - cleanse and heal - the body. So if you've got a bad
 digestive tract you eat lots and lots of eggs, now not enough to lose weight. You have to
 eat twenty five, fifty a day so you don't lose weight for somebody your size. I've eaten up
-
-
 to fifty a day but if I eat let’s say only eggs all day long. Twenty five and I won't lose weight.
 If I eat twenty two I'll still lose a little weight. So I just need to find my level when I'm just
 doing an all egg and when I do an all egg diet it’s because something is dumping into my
@@ -2754,7 +2749,7 @@ needed to start recovering. She says `I'll eat anything you want me to eat.' I s
 here's what I want you to eat.' And I told her, lots of meat and eggs, and milk if she could
 get it. That's all I wanted her to eat. And that's what she ate. She's alive today, and she's
 still able to be on her own. She's not well, she's not over the emphysema, that'll take
-years and years, but at least she's on the road to recovery. 1999 -
+years and years, but at least she's on the road to recovery. 1999
 
 - - - - - - - - -
 The point of that [ _emphysema_ ] story is that eggs digest so quickly, take so little of the
@@ -2794,8 +2789,6 @@ day and butter 2x a week go to very thin glasses in a five-year period. May 20, 
 _With my vision, it's really impairment, because I can't see, I can't read,..._
 That means that you're...in every situation where I've advised eating lots of protein when
 that happens, usually within an hour the vision is restored. So it means you need protein
-
-
 immediately. And not eggs. You can put egg white in your eyes and that'll help. ... but
 actually eating meat. May 6, 2000 -
 
@@ -2817,7 +2810,7 @@ _So the egg white. How long do you use that?_
 I eat the rest of the egg white; I'm eating eggs all day long. September 9, 2007
 
 - - - - - - - - - -
-**Eye lazer surgery**
+**Eye laser surgery**
 
 ...As long as you’re on a good diet. I’ve had many people do laser surgery. They heal 3x
 faster. Their eyes are completely healed and they can go out in the sun in 10 days. It’s
@@ -2870,7 +2863,7 @@ cornea to take care of that and egg white corrects it. January 22, 2000
 
 **Eyes: contact lenses solution**
 
-Yes,a lot of them have thimerosal in them; that is liquid mercury. But they make it without it
+Yes, a lot of them have thimerosal in them; that is liquid mercury. But they make it without it
 with glycerin. You can put aloe vera juice in your eye and contacts over that. You can’t do
 it with butter or egg white because they create a film. I tell people to just take distilled
 water and put a few grains of sea salt in it. You’ll have pure, saline water. If you’re putting
@@ -3020,7 +3013,7 @@ you're not going to have gas. June 16, 2013
 
 - - - - - - - - -
 
-**Gillian-Barr**
+**Guillain-Barre**
 
 Uh-huh.
 _My mother has had it for many years and has recovered a little bit, but now has tremendous
@@ -4186,6 +4179,7 @@ nerves. Eat butter, cheese and honey. September 26, 2010
 - - - - - - - - -
 
 **Shipping out of the country**
+
 _About the only raw food I could get to my son in China is cheese._
 Why not butter?
 _OK I’ll ship it, too - cheese and butter._

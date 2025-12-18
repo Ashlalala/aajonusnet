@@ -54,7 +54,7 @@ then against all the Asians for the government – one to one hundred, Doe’s.
 
 G: Wow.
 
-A:So, that is the situation, we’re going to see – I filed the cross
+A: So, that is the situation, we’re going to see – I filed the cross
 complaint last Tuesday, so we will see – when I was in Washington, D.C. and
 Pennsylvania visiting the farmer who was on his farm against whom the suit was
 filed. So, I will let you know by email how that goes when I get their answer.
@@ -117,7 +117,7 @@ were sold the milk, so it was fraud. So, we have their signed – even though
 they used false names – we have their signed documents. You know, so it’s a
 really – it’s a conspiracy. It’s a rat race.
 
-G:How can you possibly (inaudible). I mean they’re going to pretend to be in
+G: How can you possibly (inaudible). I mean they’re going to pretend to be in
 the…? That makes me worried about people I tell about. Do I need to be
 worried?
 
@@ -174,7 +174,7 @@ them hard.
 
 A: Pardon?
 
-G:I wonder when are they going to make breast feeding illegal?
+G: I wonder when are they going to make breast feeding illegal?
 
 A: They’ve tried.
 
@@ -268,13 +268,13 @@ G: Ok, so we can buy Organic Pastures.
 
 A: But I don’t like Organic Pastures.
 
-G:Because..?
+G: Because..?
 
-A:Because they...
+A: Because they...
 
-G:Nutritionally deficient?
+G: Nutritionally deficient?
 
-A:They have to keep the chloroform count down to ten. The only way to do that
+A: They have to keep the chloroform count down to ten. The only way to do that
 is use heavy chlorine in the tank and not rinse them completely. That’s why
 you’ve got that funny taste. And plus he’s a greedy man – Mark McAfee –
 he cut’s the cream off and sells extra cream and leaves the milk skimmed.
@@ -296,10 +296,10 @@ don’t”. I said: “Well send me your labels. The last time I got your labels
 it was just a regular old dairy feed commercial brand. Send me your labels”.
 They never sent the labels, so I just (Inaudible).
 
-G:What’s gonna happen if we drink that milk? If I drink it am I going to get
+G: What’s gonna happen if we drink that milk? If I drink it am I going to get
 sick?
 
-A:No, you just won’t be as healthy. That’s why I have our milk from our
+A: No, you just won’t be as healthy. That’s why I have our milk from our
 cows in Pennsylvania, Wisconsin, and other places.
 
 G: Yeah, my health has definitely improved since I’ve started drinking the
@@ -344,7 +344,7 @@ drum is sunkin deep into the (inaudible) so what happens isthe circulation and
 heat getting into it, would – you’d have to have your head under your water
 for at least 90 minutes.
 
-G:I was able to get a lot of wax out by doing that.
+G: I was able to get a lot of wax out by doing that.
 
 A: Yeah.
 
@@ -369,15 +369,15 @@ G: That’s what I did in the hot bath. Is it a bad idea to have an Ear, Nose
 and Throat Doctor to take it out? He has a little smooth instrument to take it
 out.
 
-A:You can do it yourself.
+A: You can do it yourself.
 
-G:Yeah. It’s fine if I..?
+G: Yeah. It’s fine if I..?
 
-A:Yeah, ‘cause they’ll put a chemical on it – they’ll put, like, wood
+A: Yeah, ‘cause they’ll put a chemical on it – they’ll put, like, wood
 alcohol, or, something on it to put it in your ear. They always medicate –
 everything. They medicate. Medication’s poison – all the time.
 
-G:Yeah… Alright, thank you.
+G: Yeah… Alright, thank you.
 
 A: Ok, do you have a question Fred..?
 
@@ -430,7 +430,7 @@ A: Yeah, especially right after a flu – that’s the best time to do it.
 
 G: Oh, ok. See, I thought the other way around.
 
-A:If you were skinny – no – absolutely. If you were only slightly
+A: If you were skinny – no – absolutely. If you were only slightly
 overweight – not a problem. But I can see you’re carrying about… a good
 15, 20 pounds.
 
@@ -453,7 +453,7 @@ long time.
 
 A: Alyson, do you have a question?
 
-G:Yes, the first one really. It’s kinda funny, but when I sit a certain way,
+G: Yes, the first one really. It’s kinda funny, but when I sit a certain way,
 I put on shoes, or what not – and I’ve experienced this several times; more
 than twice – something pops out. I don’t know what it is. It actually pops
 out and it hurts. I then I massage it and it goes back in again. I don’t know
@@ -494,10 +494,10 @@ intestines.
 
 G: So… will it – can it… dissolve, or can..?
 
-A:Well, like I say you have to remove the toxins that are there. Without
+A: Well, like I say you have to remove the toxins that are there. Without
 looking in your eyes?
 
-G:Yeah.
+G: Yeah.
 
 A: You know next time we have a consult…
 
@@ -521,7 +521,7 @@ hot water bottle; it started getting more red; it started to soften, and
 flatten, and soften and flatten. It’s completely gone – completely gone. It
 was really hard. So…
 
-A:Well, you have lymph glands all over the whole of the body and there are
+A: Well, you have lymph glands all over the whole of the body and there are
 normally about this size. And then you have nodes which are very small, like the
 size of a Beebe all over. Now the lymph systemis the onlyimmunesystem.But we
 shouldn’t think of it as the immune system because the body wasn’t set up to
@@ -565,7 +565,7 @@ A: Yeah, we can make use of them in making solvents.
 G: And is that sometimes when you detox you get rid of more metals? Also,
 it’s poisoning at the same time because sometimes you can taste it.
 
-A:Yeah, if it’s a flu – if it’s a cold – that’s mainly bacteria. But
+A: Yeah, if it’s a flu – if it’s a cold – that’s mainly bacteria. But
 if you have a flu you’re going to use toxic compounds to help dissolve tissue.
 
 G: Whatever you’ve got available, huh?
@@ -692,7 +692,7 @@ out a few layers.
 
 G: What temperature? 105?
 
-A:Well, 102-105. If you want to get deep into the lymphatic glands – and
+A: Well, 102-105. If you want to get deep into the lymphatic glands – and
 they’re big ones, and they’re deep all over – you’re going to melt a
 little at a time. It takes one hour to get to the point where you’re melting
 it and then another 30 minutes to make a big effect.
@@ -746,7 +746,7 @@ G: (Inaudible).
 A: But, it doesn’t work for most people. Most people still can’t tolerate
 it…
 
-G:Ohh.
+G: Ohh.
 
 A: …. and it takes a direct heavy cooling of the brain.
 
@@ -763,37 +763,37 @@ A: Yeah, you can cross them like this and then your whole legs can stay under.
 So you just cross them like this and your whole body can come under; I go under
 to here.
 
-G:(Inaudible).
+G: (Inaudible).
 
-A:Oh yes it will, you watch.
+A: Oh yes it will, you watch.
 
 G: So, I can get it up to my neck?
 
 A: No, you can get it up to here.
 
-G:Take your clothes off in the water and (Inaudible)?
+G: Take your clothes off in the water and (Inaudible)?
 
 A: I put a rubber stopper and then I cut it right off at the top, so it only
 has this much,way up to the top of that hole. So, that water can go all the way
 up that point without leaking out slowly.
 
-G:So you’re sitting for 60 minutes up to here.
+G: So you’re sitting for 60 minutes up to here.
 
-A:Up to here.
+A: Up to here.
 
-G:And you’ve submerged your entire body?
+G: And you’ve submerged your entire body?
 
-A:Yes.
+A: Yes.
 
-A:Well, in the bath you have to keep it warming it, but I have got a hot tub
+A: Well, in the bath you have to keep it warming it, but I have got a hot tub
 and manipulate it.
 
 G: They’ve just started chlorinating San Diego’s bath water. And
 they’re…
 
-A:I thought you got that stopped again.
+A: I thought you got that stopped again.
 
-G:No.
+G: No.
 
 G: They finally did it.
 
@@ -863,7 +863,7 @@ A: All of the poisons.
 
 G: All of them.
 
-G:How much terramin clay is – it’s terramin clay I take it? Put it in the
+G: How much terramin clay is – it’s terramin clay I take it? Put it in the
 water?
 
 A: Yeah, I put about two tbsp.
@@ -916,7 +916,7 @@ A: 6 months to a year.
 
 G: Oh, wow.
 
-A:You know and before I was watching that take 15 to 20 years.
+A: You know and before I was watching that take 15 to 20 years.
 
 G: Wow.
 
@@ -925,21 +925,21 @@ everything because of the chemical structure of our industrial pollution and
 when you’ve got hydrogenated vegetable oils clogging up the body there’s no
 way that our diet can do it… only. You’ve got to use the heated baths.
 
-G:(Inaudible) the Japanese bath tub that’s very good for this; it’s much
+G: (Inaudible) the Japanese bath tub that’s very good for this; it’s much
 easier to hold the heat and also the amount of water – it’s not that much
 – it’s a big tub.
 
-A:Yeah, it would work better (inaudible) cylinder. It does work well. They also
+A: Yeah, it would work better (inaudible) cylinder. It does work well. They also
 conserve space.
 
-G:Yeah. And where do you get them?
+G: Yeah. And where do you get them?
 
-A:Well, I only know three people that have them and I didn’t ask them where
+A: Well, I only know three people that have them and I didn’t ask them where
 they got them, but you could go on the internet. You’ll find them.
 
-G:Is that the reason why the (inaudible) Japanese (inaudible)?
+G: Is that the reason why the (inaudible) Japanese (inaudible)?
 
-A:Well, the Japanese had the Hiroshima and Nagasaki bombs. They had to take
+A: Well, the Japanese had the Hiroshima and Nagasaki bombs. They had to take
 care of themselves much more than any other race; they had to get through all of
 that. So, it became a science of how to survive. Now that they eat the clay, the
 raw fish, they maintain life much better to help get rid of the radiation and
@@ -988,7 +988,7 @@ doesn’t work as well. You’ll notice that you can be there and the water
 feels comfortable and then you to start moving and all of a sudden the water
 gets hot…
 
-G:It gets hot.
+G: It gets hot.
 
 A: … with your skin again.
 
@@ -1024,7 +1024,7 @@ G: (Inaudible).
 
 A: Oh! Let me tell you your hair will be such a mess when you get out.
 
-A:But yeah, you can use that. Just remember that in the coconut cream – 92-93
+A: But yeah, you can use that. Just remember that in the coconut cream – 92-93
 percent of the coconut cream which are oils – are water soluble fats, so it
 disperses in the water. You put oil – olive oil, any kind of oil – it’s
 going to float on the top and it’s not going to get in there and…
@@ -1061,13 +1061,13 @@ A: Yes. Now that the radiation is here – absolutely.
 
 A: Marilyn, do you have a…
 
-G:I’m not quite ready right now.
+G: I’m not quite ready right now.
 
 A: Ok, we’ll come back.
 
 G: Ok.
 
-A:Suzanne? Is that how you pronounce it, right?
+A: Suzanne? Is that how you pronounce it, right?
 
 G: Suzanne. Yes, I know, correct, that is correct. I have read both your books
 online and I was wondering what to do regarding having the adrenaline surges, or
@@ -1097,7 +1097,7 @@ terramin clay.
 
 G: You do this before you go to bed, or is this what you do when you wake up?
 
-A:You do it before you go to bed. You know, I would say in the evening some
+A: You do it before you go to bed. You know, I would say in the evening some
 time, somewhere... You go to sleep at 10-10:30 you should have it at around
 7:30, so it’s already starting to rinse stuff out. And it takes 24 hours to
 move substances through the human body; it takes 19 hours to get to the bowel
@@ -1122,7 +1122,7 @@ A: You eat honey with the cheese you’ll digest it and reabsorb your poisons.
 
 G: All honey with the cheese?
 
-A:You eat honey with the cheese twice daily and for people that are very
+A: You eat honey with the cheese twice daily and for people that are very
 underweight they can eat it more, but you make sure that’s separate from where
 you have your cheese to detox. So, I usually recommend that people have cheese
 and honey together 35 minutes after their meat meals – after they finish their
@@ -1135,7 +1135,7 @@ has huge depletion of minerals (Inaudible) and enzymes in the body.
 
 G: Yeah... (Inaudible) Rocky she’s very constipated. I can’t (Inaudible).
 
-A:Yeah. Well, you need to do that suppository. You have to understand Michael
+A: Yeah. Well, you need to do that suppository. You have to understand Michael
 that the colon – the bacteria in the colon – gets the scum of whatever’s
 left and it’s not healthy; it’s not that good. So they’re getting
 pre-digested this, toxic that – everything in the colon that goes through
@@ -1164,7 +1164,7 @@ better, you’re not g hold onto the fecal matter forever and you may only have
 to do it once a week. Some people like Michael may have to do it every three
 days.
 
-G:So, it’s butter, dairy cream. Is it coconut cream too?
+G: So, it’s butter, dairy cream. Is it coconut cream too?
 
 A: Yeah, coconut cream. three tbsp. of each. You can do it without the coconut
 cream, but the coconut cream helps moves things a little better.
@@ -1185,9 +1185,9 @@ A: Well, you left it in the sigmoid colon.
 
 A: Try doing it that way.
 
-A:Or not. It’s up to you. Michael?
+A: Or not. It’s up to you. Michael?
 
-G:Aajonus(inaudible) for getting milk? Warm milk – would that work?
+G: Aajonus(inaudible) for getting milk? Warm milk – would that work?
 
 A: No, she asked about an adrenaline problem.
 
@@ -1197,7 +1197,7 @@ A: Well, you can’t sleep and you’re hyperactive.
 
 G: So I’m only allowed to (inaudible).
 
-A:No, you’ll know.
+A: No, you’ll know.
 
 G: I feel like someone’s got a gun to your head.
 
@@ -1273,7 +1273,7 @@ G: Find it on YouTube?
 
 A: It’s on YouTube. Put: frog legs youtubesalt.
 
-G:(Inaudible).
+G: (Inaudible).
 
 A: You don’t want salt you want sodium in the form of sodium.
 
@@ -1297,9 +1297,9 @@ magnesium, you know, than just sodium, being the highest.
 
 G: You do one, one time and one the other time? Vary it?
 
-A:Sure, you can do anything you want.
+A: Sure, you can do anything you want.
 
-G:Yeah. Would that be good or not?
+G: Yeah. Would that be good or not?
 
 A: I think it would be good.
 
@@ -1307,7 +1307,7 @@ G: Ok.
 
 A: Epsom salt is probably less expensive than sea salt.
 
-G:It’sway less expensive.
+G: It’s way less expensive.
 
 A: Yeah.
 

@@ -284,7 +284,9 @@ like to have in my food.  Q: My question is relevant to this. Letting my meat
 sit on the counter for a couple of weeks. So I have been doing that. It is
 almost ready. It is in a closed jar. It is smelling really bad.
 
-A: Are you opening it to let it get air?  Q:I have not.
+A: Are you opening it to let it get air?
+
+Q: I have not.
 
 A: You should do that once a week.
 

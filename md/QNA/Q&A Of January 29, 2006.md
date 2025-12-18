@@ -1,2743 +1,1249 @@
-(1) Aajonsu Weight
-[2006],[Aajonus]
+Aajonus.net & Rawmeatgang
 
-There are two ways to measure the fat content of your body
+Q: Much bigger than the one we are using at the moment. Much bigger than the Green Star.
 
-There's a scale and you put your height in it and stuff like that and there's a way that it measures your fat level, and then there's this like a high blood pressure machine that you put around and it's an electro field.
+A: Well, the Green Star, you know, this machine is four and a half feet long, you know, four feet high. It's big. It's like a green power juicer, only it's all stainless steel and big. And then there I bought a machine which can take the husk off of a coconut in ten seconds.
 
-Capacitor.
+Q: Wow.
 
-And it measures the fat level.
+A: They trained me to do it, and the people who make the machinery, they could do it in three seconds, do a whole coconut in three seconds. Shell it. And then there's a machine that grates it, and then the gratings go into the juicer. So we'll have coconut cream available again.
 
-[Attendee]
+Q: Wow.
 
-What about the ones that you hold in your hands.
+Q: So we'll make that available once a month.
 
-[Aajonus]
+A: Probably even a better quality because we're not going to let any moldy coconut get into the mix as the other company did.
 
-Like, I've never tried one of those, so I dunno?
+Q: Wow.
 
-[Attendee #2]
+Q: So the products that we get here, you order on Friday, the first Friday of the month, and they come the next Tuesday. So that will be among them. We get all the products from James, everything that's available up in L.A., which is a lot of great products. And then you'll get the product list. If you're new on this list today, you'll get the product list that says everything that's available.
 
-The health foods, the gyms have them.
+Q: You always have the right price on it for every member.
 
-[Aajonus]
+Q: It's always changing, so I can't keep up with the price list, but don't worry. Pretty much.
 
-Oh yeah.
+Q: Don't get upset.
 
-[Attendee #2]
+A: Okay. Everybody notice how thin I am?
 
-Yeah?
+Q: Yeah.
 
-24 Hour Fitness, LA Fitness.
+A: Okay.
 
-[Aajonus]
+Q: Wasting away.
 
-I don't go to gyms.
+A: No, actually, the fat level is staying high. I'm now 20% fat. I was 22 about three months ago, so I've lost 2% fat because I'm going through a detox and a cold. But I thought that it would be five generations, about 38 to 40 years before I'd have all the old toxic fat molecules out of my body. When you eat a cooked food, the fat molecule has swollen anywhere from 10 to 50 times its normal size. So you can imagine the girth that people have. Only the tribes that eat, like the Fulanis that eat 90% dairy, do they have more girth in their bodies. But the Samburu and Maasai are very tall and very thin, yet their fat level is 18 to 20%. Because the fat molecules are very small. Well, I'm at that point now, so I'm a 30 inch waist, 29 at my low side, 33 top. So I'm a 31 right now. So in the last two years, my body has detoxed a tremendous amount out of the bone. So even my bones have shrunk, but everything's dense.  This will be the ultimate skinny diet, eventually, but I don't want anybody to think that now. 
 
-I don't exercise.
+Q: 35 years or so?
 
-[Attendee #2]
+A: Well, I have to look at... It's been 34 years since I started eating all raw food.
 
-Well, you can walk in there and ask for an evaluation for free.
+Q: With meat?
 
-[Attendee]
+A: So it took me 34 years.
 
-Well, how do you have big muscles.
+Q: Since when were you eating the raw meat?
 
-I'm sorry, I'm just confused?
+A: Well, I started eating the raw meat in 76, so that's 30 years. It'll be 30 years in September since I've been eating raw meat. And then eating raw meat on a daily basis was 82. So, it takes a while. But the raw food, you have to count from the time I started raw food, not raw meat, because that's when I stopped eating the cooked fat.
 
-How do you know it's not bigger muscle.
+Q: Every body's going to be different, too.
 
-How do you know it's fat and not bigger muscle?
+A: Every body will probably be different. There's one lady who's only been on the diet 14 years, and she's trimming down. She's keeping a high fat level, like 24%. But she's really skinny now. So she did it in 14 years. She had breast cancer. So people will do it at different stages. But it took me 34. I'm not used to being thin.
 
-[Aajonus]
+Q: How interesting, because you didn't change anything.
 
-Because the way they've measured it out the electromagnetic, the biofeedback tells the machine, because it has a certain resonance, fat has a certain resonance, so when it comes back, it tells how much resonance is fat?
+A: No, I didn't change anything. Well, there's one thing that I changed. A year and a half ago, I forced myself to get a tape worm. And I had had constipation for 50 some years. Even on a raw diet, I'd move every day. But that first part of my bowel movement would be very dry, and it would rip my rectum. And before I went on a raw food diet, I only went every three to five days. And it would tear my rectum completely, and there was always blood. I bled for 50 some years. And when I forced myself by eating the fermented milk with the maca and the fermented sugar cane juice, I got a tapeworm from it. It kept the tapeworm for about three months. I passed about 80, 85 feet of it. Two separate movements.
 
-How much is bone, how much is muscle.
+Q: 85 foot long tapeworm?
 
-They can differentiate.
+A: Yes, 85 foot long. About 40 feet one time and 45 another time.
 
-[Attendee]
+Q: So you didn't intentionally do it, but it just did it.
 
-Well, you'd think that machine wouldn't be able to tell.
+A: Well, I got a craving for an onion. And I just ate a half of an onion in a sitting. I said, what the hell am I doing? And the next morning, that evacuated 45 feet of the tapeworm. I thought, oh, shit. I worked all this long to get a parasite. I knocked them out with the onion because I could smell them coming out with onion juice. But then I saw a week later, I saw little sections coming out again here and there. And I said, okay, he's still around. So then about a month and a half later, I passed another 40 feet.
 
-[Aajonus]
+Q: Did it take care of your constipation?
 
-Well, the scale for some reason.
+A: Yeah, I haven't had constipation since. They never come out larger than, let's say, that, instead of the size of my fist.
 
-I don't know how they did it, but the scale works almost within a percentage or less than one percentage.
+Q: And what was the mechanism? Why the tapeworm?
 
-[Attendee #2]
+A: The tapeworm just changed the environment.
 
-Well, the old way was different was a caliper measurement that can pinch and you can go on charts.
+Q: How?
 
-So, a lot of people know how to do that, that's pretty simple.
+A: I don't know. It's like Joel Weinstock. He gave the people with inflammatory bowel syndrome who had been suffering from 10 to 32 years, no mitigation from it. And if you know anybody who has inflammatory bowel syndrome, no matter what they eat, even if it's water, they get cramping and severe pain and diarrhea all the time. They live with it every day, every time they eat or drink anything. So it's a miserable disease. And he gave them the whipworm from the pig. Five days later, no digestive problems. It was like that. All the symptoms went away. Not even on a raw diet. They didn't change their diet. They just drank the whipworm and Gatorade, which the Gatorade neutralized the hydrochloric acid so it didn't destroy the eggs. So the eggs incubated, they got the whipworm, and resolved all their problems. Of course, they were back five, six months later asking for more worms. Because they started having problems again because they didn't change their diet. But how does it work? Who knows? There were eight scientists who came out with a report last year that followed up on his work. And they did it for, I think it was 11 years, they did the research on it. And they found that the whipworm produces three chemicals that prevent brain tumors and pancreatic tumors, and a whole plethora of chemicals that protect the body and make the environment good.
 
-But that's less effective than the electronics.
+Q: Why can't they isolate those and just give you those chemicals rather than have to have those worms? [unintelligible]
 
-[Aajonus]
+A: Because the worms...
 
-But when I was getting ill, I like to stay up around 27% fat, so I usually looked about like Kim here.
+Q: It's not infectious to other people?
 
-So, that's where I like to hold my weight, but in the last two years, I've been getting rid of a lot of old fat molecules that has shrunk my bones and everything to where I was when I was a teenager.
+A: No, that's all bullshit.
 
-[Attendee #2]
+Q: So when do you recommend them to people?
 
-Why is that.
+A: Anytime you want. Anytime you want. But it's hard, on a raw diet, it's hard to get them past the hydrochloric acid. So if it's a high alkalinizing environment that they need to be put in, see, I never thought of that. I put them in an alkaline fluid, but I never thought of putting them in vegetable juice or something like that. So alkalinize the hydrochloric acid. So it would probably be a good idea to eat some cheese first if you want to create a parasite. I have some people doing it now with some pigs' intestines to get the whipworm. And one of them did it about six weeks, no, two months ago. So I had him drink the cheese and then eat the intestine with some vegetable juice to alkalinize the system. So he has no intestinal problems within a week after eating. And another man who's 62 years old, who I've been working with for six years on the diet, like me, he's had a constipation problem. I got him to get in touch with that person who had the pigs' intestine. He said ever since he ate that, he has no problem. Just like that, just from eating it one time.
 
-[Aajonus]
+Q: Where are you going to market it?
 
-Because I've gotten rid of all the skeletal structure that was built with old wwollen fat molecules?
+A: It's against the law. It's against the law. It's the small intestine. Not the large intestine.
 
-[Attendee #2]
+Q: [unintelligible] pork rind?
 
-So, you're eating the same and just your body.
+Q: It's cooked.
 
-[Aajonus]
+A: It's cooked. Pork rinds are all cooked.
 
-Yep, absolutely?
+Q: Skin too.
 
-[Attendee #2]
+Q: [unintelligible]
 
-So, you only have five more years and you're totally clean.
+A: Yeah, that's, yeah, the alcohol in it, the acid, will destroy any parasite.
 
-It takes 40 years?
+Q: Wouldn't the health department have a field day with that?
 
-[Aajonus]
+A: Oh, absolutely.
 
-Yeah, it takes 40 years?
+Q: Because they're so paranoid about trichinosis.
 
-Yeah.
+Q: We'll isolate the trichinosis and sell it.
 
-So, I've got six more years.
+A: Well, Joel Weinstock did. He knows how to do it. So if you want to know how he does it, and set up your own pharmaceutical to do it, you know, you're just going to have to do it underground.
 
-No, no, that's, well, let's see.
+Q: Where's he located?
 
-Of eating meat on a daily basis.
+A: Joel Weinstock is at Iowa University.
 
-I say it from the time you start eating meat on a daily basis, but it may be just going raw for me.
+Q: Iowa?
 
-I don't know.
+A: Yeah. University of Iowa. It's in the book, the recipe book. And it quotes, you know, what he found, that experiment with six people.
 
-For raw, I've been eating raw since 72, so 82 92 and that's 30 years.
+Q: But that brings up a good point for new people, you know, when you can't talk about this diet with people because they go freak out, you tell them anything like this, they're going to go report you to the agency.
 
-34 years, so 6 more years to 40.
+A: No, they haven't. Nobody's got you.
 
-But I thought it was eating meat on a daily basis cuz that's when I got the real health and energy when I started eating the raw meat and that was in 76.
+Q: Your relatives think you're crazy. Your friends think you're crazy.
 
-So, that's 30 years, so I really have 10 more years to go, but that's theoretical.
+A: Oh, I don't care. I have the health they don't, you know, so I don't give a shit. And if they say, oh, you're going to get sick and die. I said, I've been doing this for how long now? I'm healthy and you're not? That tells me everything.
 
-[Attendee #2]
+Q: [unintelligible] gonna die. Eventually.
 
-As far as American are concerned.
+A: As long as I die healthfully, I don't care. It doesn't matter how many years I live, as long as I live healthfully. I've been through enough pain and suffering and illness.
 
-I mean, if we stayed on this diet when you're 25, would you look so much younger when you're 75 or versus like you said, I mean, did they not get the wrinkles.
+Q: How did you measure your fat? You said you measured your fat. What did you do to measure it?
 
-[Aajonus]
+A: There are two ways to measure the fat content of your body. There's a scale, and you put your height in it and stuff like that. And there's a way that it measures your fat level. And then there's this like a high blood pressure machine that you put around, and it's an electrofield capacitor.
 
-They don't get the wrinkles?
+Q: Yeah, a capacitive measurer.
 
-They don't look like all dry and wrinkely.
+A: And it measures the fat level.
 
-.
+Q: What about the ones that you hold in your hands?
 
-(2) Aajonus Thin, Cooked Fats Swelling, When Aajonus Started Eating Raw Meat
-[2006],[Aajonus]
+A: I've never tried one of those, so I don't know.
 
-Everybody's noticed how thin I am
+Q: The health food, the gyms have them.
 
-[Attendee]
+A: Oh, yeah?
 
-Yes?
+Q: Yeah. 24-Hour Fitness, LA Fitness.
 
-Wasting away.
+A: I don't go to gyms. I don't exercise.
 
-[Aajonus]
+Q: You can walk in and out for an evaluation for free.
 
-No, actually, the fat level is staying high.
+Q: How do you know it's not a big muscle? I'm sorry, I'm just confused. How do you know it's not a big muscle? How do you know it's fat and not a big muscle?
 
-I'm now 20% fat.
+A: Because the way they've measured it out, they're able to, the electromagnetic, the feedback, the biofeedback tells the machine, because it has a certain resonance. Fat has a certain resonance. So when it comes back, it tells how much resonance is fat, how much is bone, how much is muscle. They can differentiate that.
 
-I was 22% about three months ago, so I've lost 2% fat because I'm going through a detox and a cold.
+Q: But you think that machine wouldn't be able to [unintelligible]?
 
-But I thought that, I thought there would be five generations, about 38 to 40 before I'd had all the old toxic fat molecules out of my body.
+A: Well, the scale, for some reason, I don't know how they did it, but the scale works almost within a percentage or less than 1%.
 
-When you eat a cooked food, the fat molecule has swollen anywhere from 10 - 50 times its normal size.
+Q: Well, the other way was a caliper measurer. You can pinch.
 
-So, you can imagine the girth that people have.
+A: Yeah.
 
-Only the tribes like the Fulani's that eat 90% dairy do they have more girth in their bodies.
+Q: And you can go on turns. A lot of people know how to do that. That's pretty simple. But that's less effective than the electronic.
 
-But the Samburu and Messiah are very tall and very thin, yet their fat level is 18% - 20% cause the fat molecules are very small.
+A: When I was getting ill, I liked to stay up around 27% fat. So I usually looked about like 10 here. So that's the way I like to hold my weight. But in the last two years, I've been getting rid of a lot of old fat molecules that have shrunk my bones and everything to where I was when I was a teenager.
 
-Well, I'm at that point now, so I'm a 30 inch waist, 29 at my low side, 33 top.
+Q: Why is that?
 
-So, I'm a 31 right now.
+A: Because I've gotten rid of all the skeletal structure that was built with old swollen fat molecules.
 
-So, in the last two years, my body has detoxed a tremendous amount out of the bone.
+Q: So you're eating the same, just your body's changing.
 
-So, even my bones have shrunk, but everything's dense.
+A: Absolutely.
 
-No osteoporosis.
+Q: You said it takes 40 years.
 
-So, this will be the ultimate skinny diet eventually, but I don't want anybody to think.
+A: Yeah, it takes 40 years. So I've got six more years. No, no, that's, well, let's see. Of eating meat on a daily basis, I'd say it's from the time you start eating meat on a daily basis. But it may be just going raw for me. I don't know. For raw, I've been eating raw since 72. So 82, 92, that's 30 years. 34 years. 34 years. So six more years to 40. But I thought it was eating meat on a daily basis because that's when I got the real health and energy when I started eating the raw meat. That was in 76. So that's 30 years. So I really have 10 more years to go, but that's theoretical.
 
-[Attendee]
+Q: As far as Americans are concerned, I mean, if we stayed on this diet when you started when you were 25, would you look so much younger when you're 75? Or versus, like you said, people from the tribe, I mean, would they not get the wrinkles?
 
-35 years or so laughs.
+A: They don't get the wrinkles. They don't look like that. They don't get all dry and wrinkled.
 
-[Aajonus]
+Q: Not they, I mean the average American [unintelligible] needs to look younger down the road?
 
-Well, I have to look at, it's been 34 years since I started eating all raw foods, so it took me 34.
+A: Down the road, well, you have to understand that most of the toxins leave through the skin. So the skin is going to take the brunt for a long time. So it will probably be the last thing to repair and heal. However, there are some people whose skin is very important to their body, and they look like miracles. Within months of starting the diet. I mean, especially the Polynesian and the Asian men and women, they start eating this diet, and my God, their skin is just phenomenal.
 
-[Attendee]
+Q: But a lot of them have it genetically.
 
-When did you start eating the raw meat.
+A: Yeah, but you see them in their 40s and 50s, and they're all just shriveled up badly. They age faster than any other culture. When they're in their youth, before they hit 40, no lines anywhere. But boy, when they hit their mid-late 40s, they just shrivel up like a raisin. If they go on this diet, it pops right back out pretty quickly.
 
-[Aajonus]
+Q: Will your skin get better as you get older?
 
-Well, I started eating raw meat in 76, so that's 30 years, it'll be 30 years in September since I have been eating raw meat?
+A: Yeah, definitely. It is. It is already. I don't have all that breakout anymore. And the lines here are getting lighter. Four years ago, I had about 12 layers of skin here. Now I only have about six. So it's half of what it was. When I lived outdoors as a vegetarian traveling on a bicycle, I looked like those Indians. I was dark skinned and had this thick skin. It was wrinkled all over. And eventually it dissolved and went away.
 
-And then eating raw meat on a daily basis was 82, so it takes a while.
+Q: Are those wrinkles toxins?
 
-With the raw food, you have to count from the time I started raw food, not raw meat, cuz that's when I stopped eating the cooked fat.
+A: Pardon?
 
-[Attendee]
+Q: Are those wrinkles toxins?
 
-Well, everybody's gonna be different too.
+A: Well, it's toxins that have buried in the skin. And the skin has killed the cells and mummified the cells, so it's like leather. A lot of the cells aren't alive. You get layers of them. You're supposed to have only three layers of skin. The older you get, the thicker your skin gets often, unless you're doing laser surgery or peels and acid burns. To keep taking the layers off.
 
-[Aajonus]
+Q: I thought old people get that transparency that their skin gets thinner, and that wrinkled skin is thin.
 
-Everybody will probably dig different.
+A: That's when you get up into your 60s. Then it goes the other way. Your body starts eating its own protein. Because people of that age stop digesting proteins and assimilating proteins. So then they start eating their own body, so then the skin gets thinner and thinner. The body starts eating the bones, so they get osteoporosis.
 
-I have one lady who's only been on the diet 14 years, and she's trimming down.
+Q: And why is that again?
 
-She's keeping a high fat level, like 24%, but she's really skinny now, you know.
+A: Because they stop digesting. Digesting food so the body eats itself.
 
-So, she did it in 14 years, she had breast cancer?
+Q: You mean cooked food.
 
-So, people will do it at different stages, but it took me 34.
+A: Yeah, it stops eating cooked food. The intestines stop digesting cooked food. They eat raw food and it changes.
 
-So, get used to me thin.
+Q: [unintelligible]
 
-I'm not used to being thin.
+A: Mine is down to here. After the poison mushroom, mine went like this. I am experimenting with some people now with that. They're putting saliva and honey on their necks and it's working very well.
 
-[Attendee]
+Q: Get rid of a double chin that way?
 
-How interesting.
+Q: Saliva.
 
-You didn't change anything.
+A: Yes, saliva. I tried mixing the honey with water. It denatures it, but the saliva doesn't. And you have ptyalin enzyme in the saliva which helps break down sugars for proper absorption. So that's probably another reason it facilitates the honey. And that way you can put it on so thinly your face isn't sticky all day. Just for maybe an hour.
 
-[Aajonus]
+Q: While I sleep in the ants' kitchen.
 
-No?
+A: It's funny. With the saliva in the honey, the ants don't bother it.
 
-Didn't change it.
+Q: No, but I tried some of that. The problem was the ants got around the honey. Because it's by the bed.
 
-Finally, just, well, there's one thing that I changed year and a half ago.
+A: Yeah, I'm talking about on your body, not the honey next to your bed.
 
-.
+Q: So what kind of percentage saliva?
 
-.
+A: About 50-50. Maybe a little bit more saliva. And it also keeps the lips from drying. Very wonderful. Better than butter or any other.
 
-.
+Q: [unintelligible]
 
-(3) Aluminum Pulling With Rasberrries and Coconut Cream
-[2006],[Aajonus]
+Q: It's a humicant.
 
-Eating raspberries with coconut cream will help pull the aluminum out in a non-toxic way
+A: Yeah, very nice. Okay, we're going to start questions and answers now. So let's begin here.
 
-Hopefully it won't all go out through the scalp.
+Q: Yeah, the question I have is, I see in your book it talks about slowing down a detoxification. It talks about the bath. Do you recommend that me doing the baths? [unintelligible]?
 
-Even with those mixtures at your age, it's going to be difficult not to keep it from turning your hair gray.
+A: Well, the baths, you have to understand that we've eaten vegetable oils. Most of what we've eaten is vegetable oils because of the propaganda. Margarine and all that garbage. Propaganda was that hardening of the arteries and hardening of tissue came from cooked animal fats. Get off of animal fats, have margarine and vegetable oils. Well, your vegetable oils, especially your hydrogenated oils, crystallize. Hydrogenated vegetable oils, the same molecular structure as plastic. That's how plastic is made. So it's absolute bullshit what they've been telling us. Vegetable oils cause hardening of the arteries. Humans' body temperature is about 98.6 or lower. Herbivores who eat vegetables with vegetable oils have body temperature about 101 degrees. We will not stay that warm. So, vegetable oils in the human body have a tendency to dry out at lower temperatures and crystallize. And that's what causes hardening of the arteries and multiple sclerosis, along with iodine and a lot of other problems. So, vegetable oils is the culprit. To get that to melt in the body, to be able to dissolve it by the lymphatic system and discharge it from the body, it takes heat. So you have to get in the bath and stay a minimum of 45 minutes to an hour and a half. Take a walk afterwards, about a 45 minute walk. Before you get in the bath, like I say in the book, you have pineapple, coconut cream and some honey. Drink that mixture with a little bit of butter and cream too, dairy cream. You drink that before you get in and right as you get in. Then you take the 45 minute walk and you're going to feel as limp as a noodle. You're not going to feel like taking any walk when you get out of that bath. So you move very, very slowly because the blood sugar will be very low. Because you melted that stuff and it started perspiring out of the body. So the blood sugar is going to be very low, so you have to move in slow motion. Out of that bathtub, onto the toilet seat or a chair, and it shouldn't be far from the bath. Dry yourself slowly, bundle up in very warm clothes like you're going out to the snow. Just stay very warm for your walk and you take a very mild 45 minute walk.
 
-But my hair was completely gray after chemotherapy.
+Q: Could you get the same results from sweat lodge?
 
-And it goes in, five years ago, I had a whole patch of gray here that stayed there for about a year and a half.
+A: Sweat lodge you have lots of carbon monoxides from burning the ashes and the herbs and burning the rocks. When I do sweat lodges, I lay back flat on the floor, flat on the ground. You've got a 12 inch to 16 inch layer of good air that stays there. The smoke doesn't come down below that. It just seals it. So I'm down there breathing, everybody's up there in that smoke and the steam and suffering. I'm down there on the ground enjoying the better air. But still it doesn't get as hot there so there's not as much sweating. Steam bath, the problem is you've got the steam that goes and burns the mucus membranes. So that's not very good. It causes blisters and all kinds of problems. It thins the mucus too much. Saunas are too dry. They burn the mucus membranes all the way down the system. And because it's dry, when you perspire, the toxins that come out with the perspiration get dried right into the skin. So if you do saunas, you have to go out every three minutes and rinse off thoroughly and then come back in. You can't get the body heated up deeply into the lymph system and the connective tissue unless you stay in that heat for 45 minutes to an hour and a half.
 
-Went back again, goes in and out.
+Q: I have a question on this. [unintelligible] 911, the firemen all got better [unintelligible]
 
-Here this was all gray a year and a half ago.
+A: It helped. Well, they were drinking a lot and discarding a lot, but they weren't on a good diet. And eventually, you know, their skin would have been worse. They got better internally, but their skin would not get better, nor did their sinuses.
 
-It's going back to its color.
+Q: How about [unintelligible]? You get all heated up, you're working out?
 
-[Attendee]
+A: It doesn't... You don't get hot enough. Take your body temperature, and you may get up to 99.5 degrees. But you've got to hit 101 degrees. So that water temperature has to be minimum of 101 to 105. And you have to keep it at that. So you have to let the water out about every 15 to 20 minutes, some of it, about three inches of it. Put scalding hot water in, and also the mixture that I suggest of the milk and the vinegar and the sea salt in there, or epsom salt in the water so it will help pull out the toxins and keep the water warmer for a longer period of time.
 
-It's got a browner look.
+Q: Do you ever go hotter?
 
-I'd swear that you dyed it.
+A: You just can't stay in it that long. If you go really hot, you just can't stay in it. People are out in 35, 45 minutes if they get it too hot.
 
-[Aajonus]
+Q: How long should you stay in it?
 
-Yeah, it's getting dark.
+A: 45 minutes to an hour and a half.
 
-Well, always in the winter it gets darker, and then the summer is lighter.
+Q: I fell asleep in just two hours, just a few nights ago.
 
-[Attendee]
+A: Yeah, but the water cools so much.
 
-So eggs, I have never not eaten eggs every day.
+Q: [unintelligible]
 
-I've always had at least five eggs a day for two and a half years.
+A: Oh, so you have like a jacuzzi.
 
-That's alright.
+Q: No, no. But I just got it out and fell asleep again for another 20 minutes.
 
-[Aajonus]
+A: Oh, I see. And you just kept waking.
 
-That's fine, wonderful?
+Q: So I did two hours.
 
-[Attendee]
+A: Yeah, that's great.
 
-Some days I eat 12, sometimes I have 18.
+Q: [unintelligible]
 
-I have never felt relief for my lungs eating that huge amount of eggs every day for a month and I didn't feel any change in my lung.
+A: No, they absorb the toxicity in the water. If you have well water, you don't have to worry about the milk, but it still helps soothe the skin as the poison, minerals and toxins come out. That little bit of fat in there keeps the skin from being damaged and drying too much. Coconut cream, it is helpful.
 
-I'm not saying it didn't do it, but I didn't feel anything so.
+Q: But if the bath water is absorbing the toxins from the water, when you stand up and it coats your body, are you then putting the toxins on your skin?
 
-[Aajonus]
+A: No. Because it stays in the oil. It doesn't get reabsorbed into the skin.
 
-Well, it's to arrest the poisons.
+Q: So you don't have to shower off, right?
 
-But if you've got fibroids in your lungs, the eggs aren't gonna work that.
+A: No, you don't want to. You don't want to shower off. You just take a... What I suggest that you do is take a silk or a cotton cloth, and after you've been in there, right before you're ready to get out or even while you're in there after every 20 minutes, just wipe the dead skin off. And then when you get out, you might get all down to several layers of the dead skin, so you'll have all fresh, live skin on the surface. And it will have some moisture if you have the coconut cream and the milk in there, so your skin won't be dry.
 
-You need bacteria in the lungs.
+Q: [unintelligible]
 
-You need the foods that are high in bacteria.
+A: Yeah.
 
-[Attendee]
+Q: If your hair's got smelly by then, you really do have to wash it out, Aajonus, don't you? You walk around with it.
 
-I'm always having my clabbered milk.
+A: Well, I don't have that problem anymore, but I did years ago when the perspiration was so toxic coming out of my head. I don't have that kind of foul toxin anymore that causes that moldy, smelly smell in the hair. But that's not from what's in the water. It's from what's in your body. And the milk will attach to that, and it makes it rank. So you need to rinse your hair. But I just dip down in it and wash it thoroughly, even when my hair was rank. If you get out without dipping your head down in there, rinsing your hair out in that water, your hair will be rank.
 
-[Aajonus]
+Q: Thank you very much.
 
-Clabbered milk helps the bacteria in the intestines, but not in the lung.
+A: You're welcome. Do you have a question?
 
-.
+Q: Yeah, I had a question on mercury detox. You told me I had a lot in my body. How would you go about detoxing from mercury?
 
-(4) Amos Chicken, Soy Chicken
-[2006],[Aajonus],[unclear]
+A: Well, you don't want to force detoxification of heavy metals with tremendous amounts of cilantro or anything like that until you've been on the diet a year and a half minimum. If you wanted to detox heavy metals a little bit safer, you can eat oysters almost every day, like six days a week, with some beef. Like for you, it would be a cup of beef with three oysters twice a day. And that will help remove it more quickly, safely. Do you have a question?
 
-Not any different, is the same
+Q: Yeah, what about jacuzzi? I mean, I love my jacuzzi.
 
-It's just that the Rocky Junior's gonna be younger, more tender.
+A: I use a jacuzzi.
 
-The older animal's going to be more tough.
+Q: I'm concerned about the chemical part. What do you use?
 
-[Attendee]
+A: I don't use anything. I use a sand filter in mine. I have a Hayward sand filter. I use a swimming pool-sized filter, so I have to change it every five years. So it's 300 pounds of sand.
 
-Is that the only kind you buy.
+Q: It could fit into a traditional jacuzzi? Do you have to have it specially fitted or what?
 
-[Aajonus]
+A: You'd have to have it specially fitted because that filter is about this big, and it keeps that water crystal clear. It won't stop algae, but I like the algae. I let algae grow in mine. I'll just scrape when it gets... The algae is like velvet. It's like laying on velvet, so it's like wonderful. But when it gets too long, I'll scrape it out and dump it and use it in my garden. Boy, does it make the plants grow. That and raw urine, the nitrogen in raw urine. You see a fern that I planted two years ago. It has grown. It was this small in a pot. And with that algae and my urine and egg shells, it is now as big as that whole area over there of that garden. Just one fern. It's growing everywhere. My roses are like this big when they were originally this big. It really works.
 
-That's the only kind I buy here?
+Q: So you put milk in your jacuzzi or not?
 
-I'll send away when I know I'm going to be in town for a while.
+A: No. Don't need it because I've got well water. But if I did, didn't have well water, I would put coconut cream in it.
 
-I buy the chicken Amos Miller, an Amish guy who feeds the chickens exactly what I want him to feed them.
+Q: That wouldn't foul up the [unintelligible]?
 
-He feeds them high meat as their protein, feeds them nothing, but you know what they peck around in the yards and high meat.
+A: No.
 
-I get meat from them too.
+Q: It wouldn't?
 
-Very tough chicken, but it's very healthy chicken.
+A: It doesn't.
 
-[Attendee #2]
+Q: What about a cup of vinegar?
 
-Chickens eat high meat.
+A: Vinegar would be okay.
 
-[Aajonus]
+Q: That kills it. That knocks down the chlorine and the chemicals, right?
 
-Yep?
+A: Yeah. If you're using regular city water, you need something.
 
-That's what they do best with.
+Q: I know. When I go to [unintelligible], I bring vinegar.
 
-Chickens are real nasty scavengers, so are ducks.
+A: Like I said, you just dump vinegar in. I used to go to those deprivation tanks. And boy, they've got salt and chlorine galore. So I'd take a bottle of vinegar and I'd dump it in there because I'd go for six, eight hours at a time. And they would say, boy, you're really rank. Boy, it smelled like some kind of acid shit in there. I said, well, you clean them out every so often anyway, so clean it out after I get out because I don't tell them I put vinegar in it because I don't want to get in all that chlorinated water. And the vinegar neutralizes the chlorine.
 
-[Attendee]
+Q: So if you go to a friend's house, you bring your vinegar and dump it in?
 
-Have you heard of this stuff called smart chicken.
+A: Well, when I used to go to swimming pools, I would do that. I would take a couple cups of vinegar.
 
-[Aajonus]
+Q: But if you're neutralizing it, then the stuff's going to start growing in it again.
 
-I've heard of it, but I haven't looked into it yet?
+A: No, vinegar stops that from growing. Vinegar stops algae and everything else from growing.
 
-If they feed 'em mostly soy, it's the same garbage as y'know.
+Q: So you could just use vinegar in your [unintelligible], maybe?
 
-[Attendee #3]
+A: Yeah, but it could dry your skin a little bit too much. So you might want to put some coconut cream in there.
 
-How about Shelton.
+Q: So you could just use regular water, city water?
 
-[Aajonus]
+A: If you use just, well, if you're using a sand filter and vinegar, you'll be fine. You just have to neutralize the poisons in the city water. LA has 192 chemicals in the water. San Diego has 168 chemicals in the water.
 
-Shelton?
+Q: So to neutralize the chemicals in the water, the vinegar alone will do that?
 
-Shelton is vegetarian, they're high in soy.
+A: It will help. That's why when you want to neutralize them completely, you need a high calcium and other minerals, and that's what comes with the milk. Or you could use, if you don't want to use that for your jacuzzi, you could use Epsom salt and vinegar.
 
-[Attendee #3]
+Q: Oh.
 
-What about Coleman.
+Q: So the sand filter doesn't have to be in the jacuzzi? Or is it something that you just put on the outside?
 
-[Aajonus]
+A: Put it on the outside. It's like, you know, I got my jacuzzi, it's 10 feet in diameter, it's concrete, poured concrete. I keep it, you know, there's a center section, there's a seat level, if a lot of people are in it. But with just me, you know, I go in it every day, almost every day when I'm in town. I just keep it only just above the seat level. So I'm down in the center section, which is about, you know, five, about five foot diameter. So if the heating bill isn't high and I can heat the thing in an hour, instead of, you know, six, seven hours if I've got it full. It's about a 500 gallon jacuzzi if it's full. But 14 people can fit in. When it's small, three people, four people can fit in comfortably. When I have it on the low level.
 
-Coleman doesn't make chicken, only beef?
+Q: So there's a commercial system.
 
-[Attendee #3]
+A: This, you know, let's say the jacuzzi's here, my whole filter system and heater are in a separate house that was built probably 45 feet away from the jacuzzi itself. But I keep mine outdoors.
 
-Is it good beef.
+Q: So that the commercial chemical things that you can use to treat jacuzzi, but...
 
-[Aajonus]
+A: They're bad for your body.
 
-It's okay.
+Q: They're really...
 
-Yeah, they just go through their cycles.
+A: They're bad for your body.
 
-That's why I like people to eat three meats: chicken, fish, and beef every day.
+Q: What about electronic chlorinators?
 
-[Attendee #3]
+A: Electronic chlorinators work off of turning salt into chlorine. The chlorine that doesn't have a chloroform vapor, those are fine. I will swim in those every day if I had that.
 
-They won't do that, they will only eat one kind at a time.
+Q: What is that?
 
-[Aajonus]
+A: But...
 
-I know, but that's only because they're not well animals.
+Q: Electronic?
 
-Out the wild, they would eat a bird in the morning, a rat in the afternoon and all kinds of different meats.
+A: Yeah. They have... If you put salt in the water, they've got an electronic field that sends a signal through the water. And it turns salt into a more natural chlorine that does not have chloroform vapor. And just use sea salt. If you're going to do that. Those are good for swimming pools. Or, you know, small pools. You know, if you're using a jacuzzi or something like that. It's fine. But if, you know, you've got a lot of chemicals in the water, you're still going to need something to chelate with those chemicals if you're using city water.
 
-But if they had any vaccines they're not well.
+Q: How about daily showers of city water?
 
-[Attendee #3]
+A: Same thing. Same thing. I would never take a shower. I always take baths. When I was living in the city and having the city water, I always took baths only every two, three days. And always put my milk, my vinegar, and my sea salt in the water. I found that putting, you know, two, three tablespoons of coconut cream in there really makes the skin nice. That's what I would use now if I had to do that. But I have my own well, so. Do you have a question, Ken?
 
-So, is that why they get back and forth.
+Q: What about raw, unheated, organic chocolate?
 
-[Aajonus]
+A: It's fine. Cocoa beans and the nibs.
 
-Well, they should give variety?
+Q: You have little nibs.
 
-But you know, if you let get spoiled and let them have their way, they're going to eat only what they want until they satiated with it and then they're going to go to the next and you have to figure out what it is that they're going to to like.
+A: Yeah. I have, you know, I made, I've made chocolate. I've got a chocolate recipe for that. I don't know if it's in, I don't think it's in the book. But I make ice cream with it, you know, orange chocolate ice cream. And that's fine.
 
-But if you train em in the beginning, you're getting this meat in the morning, this is night, the next morning like this, and you rotate it, you know that's the way to do it cuz that's their natural diet.
+Q: What's the recipe?
 
-But they won't have any problems if they eat one meat for a long time.
+A: Just don't do it too often.
 
-.
+Q: What's the recipe?
 
-(5) Asnd Filter
-[2006],[Aajonus]
+A: You'll have to email me for it. I've got it, you know, it's called the orange, I've got an orange ice cream and orange cheesecake. Chocolate orange cheesecake.
 
-I don't use anything, I use a sand filter in mine
+Q: Don't do it too often with the chocolate because why?
 
-I have a Hayward sand filter.
+A: Because it's still high in theobromine and caffeine. It can cause irritability, cause diarrhea, it can cause hyperactivity if you have it too often. But if you're making the chocolate the way I said in the book, if you let it ferment like I suggest, it tastes like rum and chocolate. And I love rum and chocolate.
 
-It's a three.
+Q: [unintelligible]
 
-I use a a swimming pool size filter, so I have to change it every five years, so it's 300 pounds of sand.
+A: No, no, chocolate. The actual cocoa beans, raw cocoa beans. If you have it with the butter, if you make it the way I say to make it, that caffeine's not going to be able to be released from the fat. Nor will the theobromine. And you get the taste of it.
 
-[Attendee]
+Q: That wasn't in your book, though, was it?
 
-It could fit into a traditional size jacuzzi or we have to have it specially fitted or what.
+A: No, this is something I created since, see the cocoa beans weren't available at that time and I wasn't finished with my two years of experimenting.
 
-[Aajonus]
+Q: You didn't get that from him, that recipe?
 
-You'd have to have it specially fit because that filter is about this big and it keeps that water crystal clear?
+A: Like I say, I'm going to email them to Cynthia and then you can get the recipe from her.
 
-It won't stop algae, but I like the algae.
+Q: Thank you. Great.
 
-I let algae grow in mine.
+A: There's a website that will be released this week or next week where I've contracted with this man to make my books available in electronic form, PDF format. So you will be able to search the whole book on your computer instantly so you don't have to go through pages, go through the index, look around. Also on the website itself, all the information that I have, published and not published, will be on that website along with all the books. So if you want to search one thing, it will give you a whole list of hits, come up like that, of information on a disease or a particular thing or a particular subject. So you have all of my knowledge at your fingertips like that. And I think subscription is only $80 a year or something like that.
 
-I'll just scrape when it gets- the algae is like velvet.
+Q: So how will we know about that?
 
-.
+A: I'm going to email it out next week.
 
-(6) Avidin
-[2006],[Aajonus]
+Q: [unintelligible]
 
-Okay
+A: They're selling only the elect... well, they'll sell hardback books, but it's mainly for electronic... my books in the electronic form. I've contracted for them to... that's their exclusive. And they have all of my information searchable on their website. And it's wewant2, the 2 is the numeral 2 live, wewant2live. And that's the website. You can go there now and subscribe, it's already ready. It's just that I haven't proofed it yet. And I was going to do that this week.
 
-If you read the new book, I talk about it in, it's in the old book, but the spell checker changed avidin to albumin.
+Q: That's great. So that means if somebody is asking me about the mercury, and I've said that you've had a test done, you've been to a laboratory and had the animals and the silk, and you've had a test done, that would be on that site, so I can check the mercury.
 
-So, in this book, it's proper.
+A: That will not be on there until I finish the detox book. That information is in the detox book.
 
-Egg white has avidin, the egg yolk has biotin.
+Q: Okay. [unintelligible]
 
-They're scientists that say the avidin binds with biotin and doesn't allow it to be utilized.
+A: Well, it's everything that I can release that isn't part of the book. Because I can't release the information in the detox book because of my contract with the publisher. So then that will go on that website once...
 
-It's utilized in a toxic body by taking biocarbons, it neutralizes biocarbons and removes it from the body.
+Q: But it will be in the book too, then.
 
-[biocarbons are from eating carbohydrates]
+A: Yeah, it will be in the book and the website once it's on the detox book. Once the detox book is published. Hopefully in the fall.
 
-Stop eating cooked foods so you don't have so many freaking biocarbons.
+Q: But what I was trying to get at, and I think others were asking, the information that will be on the website will be more than...
 
-So, you need to eat a lot of eggs because you got a lot of biocarbons.
+A: That's in both books. 
 
-So, the scientists are just looking at "Gee, this happens.
+Q: ...be more than that.
 
-Let's not do that".
+A: Yep.
 
-They're not looking at, "Yeah, this has a good function".
+Q: It will be extra.
 
-[Attendee]
+A: Yeah, there will be interviews, interviews. He has interviews on there. People have interviewed me. The information I've given them and their questions and answers.
 
-So, that's not causing it.
+Q: Okay.
 
-[Aajonus]
+A: I have two years of question and answer sessions like we're having here that were all transcribed. They'll all go on the website. So that, in the next six months, you're going to have a plethora of information there at your fingertips.
 
-No, no?
+Q: Can you look up one, another question about... Can you look it up? Will there be a, for instance, research on where that information comes from? Or is it...
 
-That's always heavy metals.
+A: If I've given that, like in the book, when I've cited it in the book, of course it will come up in the book notes or in the bibliography. You're going to have all that information at your hand without having to leaf through a bunch of books and papers and pages. It will be like going to a law library, an electronic law library, which is a dream. When I was studying law and court law and suing the city of Los Angeles and the police department... I mean, before they put all that stuff digitally, I would spend a week at the law library and get very little done. When they put all of that, all the law books on the websites of the universities, I was able to put the exact words that I wanted. I wouldn't have to read and read and look through all this stuff. The hits would just come up like that. So I was able to write documents in hours instead of weeks. So that way you'll have that information of mine. And it will keep building. And also there's going to be a newsletter that will come out every two months giving you information.
 
-It's usually a aluminum that cause.
+Q: That's great. That's a really good thing.
 
-.
+A: Okay. Ron, questions?
 
-(7) Bacteria To Lungs From High Chicken
-[2006],[Aajonus]
+Q: Dry skin, causes, remedies, commercial lotions.
 
-High meat, especially chicken
+A: I just told you why the skin gets toxic. Poisons perspire out the body. So the skin is going to be dry for the rest of your life probably. So you have to put some kind of lubrication on the outside. Primal facial body care cream is always the best. Nutrient wise, primal facial body care cream, it's on page 145 I believe it is. In the recipe book. Somebody's recorder just clicked off.
 
-High chicken will help bring bacteria to the lungs.
+Q: Lorraine, maybe yours.
 
-No, you don't grind it.
+A: The primal facial body care cream is the best. That's in page 145 in the recipe book. Next would be the coconut oil. If you're getting it from James in Los Angeles, it's the Thailand coconut oil that's made. A friend of mine, a patient of mine on Costa Maria, Thailand, has made. It's been to the home of people who make it. Watch it being made. It's perfect. Also on wildernessfamilynaturals.com they carry a Philippine fermented coconut oil. It's made the same way as we make it in Koh Samui. Which is made in the Philippines. He used to allow the coconut oil to reach about 105, 110 degrees. After talking with him for three months last year, he brought the level down to 96 degrees.
 
-Chop it up.
+Q: Is that wildernessfamilynaturals.com?
 
-Let it get really stinky.
+A: Yes, wildernessfamilynaturals.com.
 
-Foul as can be.
+Q: I have that at my place if you want to get that.
 
-It's just certain bacteria is growing faster than others, the stinky bacteria is growing faster.
+A: So that's the Philippine fermented coconut oil. They have other coconut oils, but that's the only one below temperature.
 
-[Attendee]
+Q: You just rub it in?
 
-I open the jar and I just want to throw up.
+A: Yes, just rub it in and wipe all the excess off after 20 minutes. Put it on very thinly and it goes a long way. You really don't need... That's pure oil. In the primal facial body care cream, you've got nutrients to keep the skin, not just protect it. Oil, if you ever have just a pure oil, it is more detoxifying, but it seals off the dry air. You'll lose less moisture and your skin won't be dry. But it won't nutrify your skin like the primal facial body care cream. Alternating one day with the primal facial, the next day with the coconut oil, that's a good way to do it.
 
-[Aajonus]
+Q: What about commercial lotions?
 
-Yeah, that's just a certain bacteria.
+A: Commercial lotions are all chemical. They're not food. So they poison the cells. Remember, anything that's cooked has heavy metals and toxins in it. And you read the stearates and all that stuff, and you get online, and you search out the side effects of those, they're pretty nasty.
 
-[Attendee]
+Q: So there's no lotion...
 
-So, you're actually inhaling bacteria when you smell it.
+A: There is no lotion that's raw that you can buy in the store. You have to make your own lotion.
 
-[Aajonus]
+Q: And they're not allowed to make them raw.
 
-No, just the vapors from it?
+A: No, it's illegal.
 
-It's gas.
+Q: You said anything that's cooked has heavy metals in it?
 
-It's like you having a fart.
+A: But they're not released. See, when you cook a food, the plants eat strychnine, mercury, lead, iron, all of those elements they make food of. They make biochemical substances. And they're of value when they're in their proper ratios, and they're connected with the vitamins and proteins and minerals and enzymes. They're not a problem. But once you cook the food, you fractionate all those bonds, so then the metals are just like they are in the earth, and they're poisonous. Do you have questions?
 
-I'm not eating you?
+Q: Okay, it relates to myself. Eating raw milk, raw cream, how long will I have to eat it? I'm getting too fat. I love it. How long do you think...
 
-It's just your gas.
+A: Well, the cream will put on more weight than anything.
 
-So, that bacteria off gases, it farts and it creates that odor.
+Q: I'm going exactly by what you're telling me to do.
 
-.
+A: Well, just cut down everything by maybe a tablespoon at a time.
 
-(8) Car Exhaust Toxins
-[2006],[Aajonus]
+Q: I've been doing that. I have two drinks every two, three hours.
 
-Remember, anything that's made from a vegetable oil that's burned, that fat will harden quickly In the human body
+A: Well, just cut it down a little bit more. You know, ratio everything, cut it down.
 
-[Attendee]
+Q: How long do you think I need to have it?
 
-One of the statements they make is that it burns up the CO2 s that it uses.
+A: The rest of your life. I will never stop drinking milk and cream.
 
-Or, the plants feed off CO2's that it produces, it burns back up.
+Q: I want to get back to a size 8.
 
-[Aajonus]
+A: Don't kid. It's not healthy. You know how good you feel now.
 
-They're just talking about one element of the exhaust What about the other elements.
+Q: I feel wonderful.
 
-The heavy metals, the exhaust contamination, they're just talking about one element?
+A: Yeah, so keep it. Who cares what you look like? You look good. I mean, who wants to be skinny and unhappy?
 
-Iit's a big element, but that's just one element.
+Q: I was skinny and unhealthy, but now I'm fatter.
 
-The plants, they'll be fine.
+A: And happy and healthier.
 
-But will we.
+Q: I'd still like to be down to a size 8.
 
-?
+A: Well, when you've been on the diet as long as I have, you'll be skinny.
 
-(9) Cocoa Nibs, Chocoal, Website and Book
-[2006],[Attendee]
+Q: [unintelligible]
 
-What about raw unheated organic chocolate
+A: Maybe 30 years. Well, you didn't have chemo and radiation. You may do it in 15, 20 years. Or less, who knows. Like I said, the one woman that's only been on the diet 14 years. She's thin now. She's very thin. Thinner than I am, but she carries 22, 24% body fat.
 
-[Aajonus]
+Q: Do I still need the cream with the milk? Because I know there's less cream in the milk.
 
-It's fine?
+A: You can cut it down as long as you're not comfortable with your weight. But if you start dropping weight, then I would say, add it back. Because you're in the perfect weight right now for health.
 
-Cocoa beans, cocao nibs.
+Q: I weight more more than I ever was.
 
-I've got a chocolate recipe for that.
+A: You're in the perfect weight for good health. In your condition. So I would say, enjoy that.
 
-I don't think it's in the book, but I make ice cream with it, like orange chocolate ice cream and that's fine.
+Q: Stay with the cream?
 
-Just don't do it too often.
+A: Well, stay with your weight. You can cut out the cream and just drink the milk if you keep gaining. But right now, you don't need gaining anymore. You're in perfect weight. Do you have a question, Mike?
 
-[Attendee #2]
+Q: Yeah, it's kinda broad.
 
-What's the recipe.
+Q: I like broads.
 
-[Aajonus]
+Q: What is a sustainable world look like?
 
-You'll have to email me for it?
+A: Well, a sustainable one is so primitive it has no cars, it has no TV, it has no electricity. That's perfect, the way the natives live. That is perfectly ecological. But the way I'm going to run the health center, we're going to have hydro power, we're going to have sun, solar power.
 
-I've got an orange ice cream and orange cheesecake, chocolate orange cheesecake.
+Q: Nuclear energy.
 
-[Attendee #2]
+A: Pardon?
 
-Don't do it too often because what.
+[laughter]
 
-What's too often?
+A: No, no, no nuclear energy. The machines will be oiled with coconut oil. Everything will be electric, powered by the sun and hydro.
 
-[Aajonus]
+Q: What do you think of these biofuels?
 
-Because it's still high in theobromine and caffeine?
+A: Bio what?
 
-It can cause irritability, cause diarrhea, it can cause hyperactivity if you have to often.
+Q: Biofuels like biodiesel, ethanol.
 
-But if you're making the chocolate the way I said in the book, if you let it ferment like I suggest, tastes like rum chocolate and I love rum chocolate.
+A: They still have toxic vapors and they still have heavy metals in there. So it's still very toxic.
 
-The actual cocoa beans, raw cocoa beans.
+Q: Even if it's it like peanut oil?
 
-.
+A: It's a vegetable oil. It will harden in our systems, it will cause hardening of the lungs.
 
-If you have it with the butter.
+Q: That's a joke, that biodiesel.
 
-If you make it the way I say to make it, that caffeine's not gonna be able to be released from the fat, nor will the theobromine and you get the taste of it.
+A: Well, that's the propaganda that they're putting out there because they want to sell it and make it big. But they're, you know, everybody's looking at us, oh, it's a vegetable oil, it's got to be good. That's insane.
 
-[Attendee]
+Q: Right, because that's still a problem.
 
-That wasn't in your book though, was it.
+A: Yep.
 
-[Aajonus]
+Q: So they're considering that not carcinogenic.
 
-No?
+A: That's bullshit. Absolutely carcinogenic, probably more so.
 
-This was something I created since- see, the coho beans weren't available at that time, and I wasn't finished with my two years experiments with it.
+Q: Than petroleum.
 
-[Attendee]
+A: Than petroleum.
 
-Can get that from you.
+Q: There's that bubble.
 
-[Aajonus]
+A: Remember, anything that's made from the vegetable oil, if it's burned, that will harden quickly in the human body.
 
-Like I say, I'm going to email them to Cynthia and then you can get the recipe from her?
+Q: One of the statements they make is that it burns up the CO2 that it uses. Or, you know, if a plant eats up CO2, so the CO2 that it produces, it burns back up.
 
-There's a website that will be released this week or next week where I've contracted with this to make my books available in electronic form, PDF format.
+A: They're just talking about one element of the exhaust. What about the other elements? The heavy metals, you know, the other exhaust contamination. They're just talking about one element. It's a big element, but that's just one element. The plants, they'll be fine. But will we?
 
-So, you will be able to search the whole book on your computer instantly, so you don't have to go through pages, go through the index and look around.
+Q: They're also having an issue with clear-cutting forests to plant vegetables for it to make the biofuel.
 
-Also on the website itself, all the information that I have published and not published will be on that website along with all the books.
+A: Yeah.
 
-So, if you want to search one thing, then we will give you a whole list of hits come up like that of information on a disease or a particular thing or a particular subject.
+Q: They're doing it to the beef.
 
-So, you have all of my knowledge at your fingertips like that and I think subscription is only $80 a year or something like that.
+A: Yeah. Well, look what they did in Africa. The whole north of Africa is a desert because Egypt over-cultivated. Cut down the trees, so Egypt had a whole north continent of Africa was their agricultural bed. It's a desert because of what they did.
 
-[Attendee]
+Q: You're talking 2,000 years ago?
 
-How will we know about that.
+A: Yeah. Thousands of years ago. Yeah. 2,000 to 10,000 years ago they did it.
 
-[Aajonus]
+Q: At one time that was all lush.
 
-I'm going to email it out next week?
+A: That was all lush. African lush territory.
 
-They'll sell hardback books, but it's mainly for my books in the electronic form.
+Q: There are those who would argue that if you eat beef, you have to produce that many beef, which means beef have to graze on land. How can that be sustainable?
 
-I've contracted for them, that's their exclusive and to have all my information searchable on their website and it's, we want two, the two is the numeral to live.
+A: Well, that's if you're trying to get the cattle to graze unnaturally. You let cattle graze on whatever grows, it's wonderful. Take a look at Hawaii. My God, the grass is growing as green as this, and the cattle don't need much room. You just graze in tropical areas. Sure, you cut down forests, but let me tell you, those forests grow faster than you could cut them. The [unintelligible], they have to cut back every day. Keep that jungle creeping into their growth area. That's a little off, but when you're clearing the land completely, taking out all trees, and use chemicals, you're going to erode the land, and that's the problem. That's the agriculture. If you let grass grow and you've got cattle running around in a jungle, you've got that growing heavily. It's going to grow and grow and grow. It's not going to be a problem.
 
-WeWant2Live and that's the website.
+Q: People say primal diet is not sustainable, living and eating, because you need cows for milk and cream, and you need animals for meat. Do you think this is sustainable as anything else?
 
-You can go there and now and subscribe it's already ready.
+A: Absolutely. Can you imagine? Look at all the fields where they grow rice. Two-thirds of Thailand and Asia and Cambodia and Thailand and Malaysia and Indonesia is rice paddies.
 
-Just thatI haven't proofed it yet, and I was going to do that this week.
+Q: Millions of people.
 
-[Attendee]
+Q: And they've been that way for how long?
 
-So, that means if somebody like was asking me about the mercury, and I've said that you've been to a laboratory and had the animals.
+A: And they've been eating it. If you take a cow, a cow can live off of the same land and feed more people, nourish them and make them healthier. Absolutely.
 
-.
+Q: I didn't realize that. I thought it was the other way around.
 
-that would be on that site.
+Q: John Robbins said [unintelligible] it has to have three and a half acres.
 
-[Aajonus],[never happened]
+A: That's a myth.
 
-That will not be on there until I finish the Detox Book cause that information's in the Detox Book?
+Q: One example is Florida. Florida produces the most incredible meat. Just the wilds of Florida. These little crackers that we're raising out there. Just turn them loose, man.
 
-Well, it's everything that I can release that isn't part of the book because I can't release the information in the Detox Book because of my contract with the publisher.
+A: Yeah, because they can eat that grass.
 
-[Attendee]
+Q: Just incredible beef. And then it came with the dredges. When I started dredging everything, okay, we're going to grow sugarcane.
 
-But it'll be in the book too though.
+A: Just figure it this way. My family, my grandparents had a 55-acre farm. 40 cows, milking cows, and about 200 sheep, about 1,000 chickens. 55 acres.
 
-[Aajonus]
+Q: They had 1,000 sheep out of 55 acres?
 
-Yeah, it'll be in the book and the website once it's on the detox book, once the detox book is published, hopefully in the fall?
+A: No, no, not 1,000 sheep. 1,000 chickens. They had about 200 sheep.
 
-[Attendee]
+Q: And 50 cows?
 
-But what I was trying to get at is, and I think others were asking, the information that will be on the website will be more than the than that's in both books.
+A: And 40 cows. Milking cows.
 
-[Aajonus]
+Q: All on the 55?
 
-Yep.
+A: Yeah. Four Clydesdale horses, plus other horses. And grew corn on 30 acres. 35 acres. That fed all of those animals. All those animals. All year round. So there's a lot of propaganda out there about what is sustainable. People are making arguments. They don't know anything about farming.
 
-[Attendee]
+Q: Before I met you, I thought John Robbins knew what he was talking about.
 
-Will be extra.
+A: No, he's not. He's gotten the information from somebody else, and that person wasn't a farmer.
 
-[Aajonus]
+Q: Yeah.
 
-Yeah?
+A: Or he was a farmer from Texas where it's all desert. And you need thousands of acres for a few cows because there's not much there to eat because it's desert.
 
-There'll be interviews.
+Q: If I could just interject, I grew up in South Dakota. When I grew up, it was just kind of the end of the family farm era. And it's interesting to note that my mother is 92 years old. She's living alone in her own place. And everybody's going to ask mom, what did you grow up on? Eggs, raw milk, raw cattle, all that other stuff. And all her friends, I mean, they're all in their 90s and their 100s and stuff like that. They're still living. The next generation down is dying off at 60. And there's nobody in the.. There's three counties there, there's only one dairy farm left where everybody used to have a milking cow. There's only one farm that even milks. And then of course they use corn. Nobody has enough cattle anymore. I mean, this is the biggest tragedy in the health of this country.
 
-He has interviews on, ppeople have interviewed me, the information I've given them and their questions and answers.
+A: Do you have a question, Lisa?
 
-I have two years of question and answer sessions like we're having here that were all transcribed, they'll all go on the website, so that in the next six months, you're going to have a plethora of information.
+Q: Yeah. I'm wondering about my diet. I'm wondering how, you know, what kind of like, change the diet around? [unintelligible]
 
-[Attendee]
+A: As long as you go with those cravings and you stay balanced, that's fine. But if it starts imbalancing you, it's not the way you should do it. You should go against your instincts.
 
-If I go on there for a question, for instance, it's a research on where that information comes from.
+Q: What about the green juices...
 
-[Aajonus]
+[audio cut]
 
-If I've given that, yeah, like in the book, what I've cited in the book, of course it will come up in the footnote or in the bibliography?
+A: Cause more hunger. They increase digestibility. They clean the system quicker. So the body thinks, oh, I feel better. I can eat more, you know. So, you know, like somebody gave me an ostrich egg for Christmas. I didn't get it until I got back, you know, for New Year's. And there was five cups of eggs in this one egg. Five cups. Three cups of white and two cups of yellow yolk. And I ate it in less than 24 hours. And I was still hungry. I made, you know, sometimes I'll make a shake with 24 eggs in it. And I can eat, you know, that's two quarts about. Or right around a quart and a half depending on the size of the eggs. And I'll still be hungry.
 
-You're gonna have all that information at your hand without having to lead through a bunch of books and papers and pages.
+Q: Yeah. So what about doing it at night? You know, I want something to eat every five hours. So I used to wake up and eat dry and do a few other things. But if I do a dry egg, I still feel [unintelligible].
 
-Will be like going to a electronic law library, which is a dream.
+A: That's fine.
 
-Because when I was studying law, word law and suing the city of Los Angeles, the police department, I mean, before they put all that stuff digitally, I would spend a week at the Law Library and get very little done.
+Q: I have a raw egg [unintelligible].
 
-When they put all the law books on the websites of the universities, I was able to put the exact words that I wanted, I would'nt have to go read and read and look all through all this stuff.
+A: Right, yeah. It depends upon the person.
 
-The hits would just come up like that.
+Q: How many can I eat? I get nauseous.
 
-So, I was able to write, you know documents in hours instead of weeks.
+A: Well just keep eating them until you get, you know, you're really turned on. I've eaten, like I say, I can eat a cup of eggs at a time. And then all of a sudden I start getting nauseous.
 
-So, that way you'll have that information of and it'll keep building and also there's gonna be a newsletter that'll come out every two months giving new information.
+Q: Yeah, nausea is a big problem.
 
-.
+A: And usually a cup of eggs, if they're normal sized eggs, an egg is about an ounce and a half to two ounces, depending upon the size of the medium egg. Some eggs, you know, you get three ounces out of the big eggs. So whatever it takes to make a cup. And then that's all I can drink at a time is one cup. However, I have consumed that sometimes up to two cups at a time with no problem. Especially if I've eaten cheese first.
 
-(10) Commercial Moisturizers, Cooked Food
-[2006],[Aajonus]
+Q: Do you always need to have honey, butter, cream with the eggs?
 
-Commercial moisturizers are all chemicals
+A: No.
 
-They're not food, so they poison the cells.
+Q: [unintelligible]
 
-Remember, anything that's cooked has heavy metals and toxins in it, and you read the stearates and all that stuff, and you get online and you search out the side effects of those.
+A: Well, it's just that the egg has a tendency, because it pulls out a lot of toxins, to dry the mouth. And lips. So put honey on your lips or eat the honey and butter.
 
-They're pretty nasty.
+Q: [unintelligible]
 
-[Attendee]
+A: That's okay. Yeah, the cream is more alkalinizing, the butter is more acidic.
 
-So, there's no lotion.
+Q: [unintelligible]
 
-[Aajonus]
+A: Yeah, well, when I travel, I always take my honey, butter, and cheese. I always take those, because I can always get eggs and raw meat wherever I go.
 
-There is no lotion that's raw, that you can buy in the store?
+Q: What if you go too long without the green juice?
 
-You have to make your own.
+A: Yeah, I can't go long without it, but I can usually get vegetable juice. You know, there are health food stores that make it, and I've got clients or friends that make it for me while I'm traveling. In Bangkok, I get sugar cane juice. Great sugar cane juice. In Cambodia, they make it right on the street.
 
-[Attendee]
+Q: I drink that in Burma, too.
 
-Are they're not allowed to make them raw anymore.
+Q: If you don't have the green juice can you get too acid?
 
-[Aajonus]
+A: Yeah, you get too acid.
 
-No, it's illegal?
+Q: [unintelligible]
 
-[Attendee]
+A: I'm sorry, I couldn't understand.
 
-Is there anything that cooks with heavy metnals in it but they're not released.
+Q: [unintelligible]
 
-[Aajonus]
+A: Right. No. They still need a juice once every five days. You know, whether it's one ounce or two ounces or five ounces, they just need a little bit. But I only put people on pure raw egg diets when they have a severe digestion problem or allergies with food.
 
-See, when you cook a food, the plants eat strychnine, the mercury, the lead, the iron, all of those elements, they make food of?
+Q: [unintelligible]
 
-They make biochemical substances and they're of value when they're in their proper ratios and they're connected with vitamins and proteins and minerals and enzymes, they're not a problem.
+A: No, it has enzymes. It's just they're detoxifying enzymes. Yes, you can drink it, and I do that as a part of the detox. That's going into the detox book. So have one a day if you want. That helps you detox all the cooked vegetables, fats that you've eaten. It helps break them down. The vegetable oils that you've eaten in your lifetime from eating your cooked vegetables that your parents made you eat. If you didn't like it, like me. I eat the fermented juice. Anytime you want to get rid of anything in your body that you've eaten cooked, eat it fermented. Now, Sally Fallon and a lot of those people that go for all this fermented foods, they continue to eat cooked foods, so yeah, they've eaten a lot of fermented foods. And only the tribes like the Hunzas, they cooked goat, and they didn't eat much raw meat. They ate a lot of raw dairy, but they ate a lot of fermented foods to make up for their cooking. They were living in a clean environment, so they didn't get a lot of disease, because the other things that people normally cooked, they weren't eating cooked. But they were having their fermentation. If you're not eating, you know, I said, Sally Fallon, "well, all that fermented food is better for you". I said, yeah, if you're a cooked food eater, definitely. So as long as you eat cooked food, you need to eat a lot of fermented food. It should be a regular part of your diet. It will help your digestion.
 
-But once you cook the food, you fractionate all those bonds.
+Q: Well, we didn't go four days on the green juice, but I can tell when it starts to turn like that? What did I do, I wanted to get [unintelligible]
 
-So, then the metals are just like they are in the earth and they're poison.
+A: I only suggest one a day if you're going to do that, then the others fresh.
 
-.
+Q: Okay, then afterwards, we'll take questions and answer [unintelligible].
 
-(11) Dog Raised On Raw Meat, Dogs Need Bones
-[2006],[Aajonus]
+A: Okay.
 
-It may be a problem for 'em
+Q: I appreciate it.
 
-A friend of mine had a dog who raised from 10 weeks old on the raw foods and eating raw bones and this dog was 230 pounds.
+A: Do you have a question?
 
-His head was this high, this big, and you know, those big femur joints on a cow, this big.
+Q: Yes. [unintelligible]
 
-You put that in his mouth and he would just dissolve it, with one bite, just crumble it with one bite?
+A: No, that's because of the toxins that are moving through the mouth, out the mouth. And remember, I've said that the nervous system and brain use more free radicals than any other part of the body. Remember, nerves function with electricity and light. What is a conductor of electricity and light? Metals. Iron, mercury, aluminum. All of those metals, which are toxic when they're in a non-bioactive form, meaning in a cooked form.
 
-[Attendee]
+[plane flying above]
 
-Was that a young dog or an old dog.
+A: Probably Tom Cruise, doesn't care. 
 
-[Aajonus]
+Q: [unintelligible]
 
-No, that was when he got older?
+A: Well, when those heavy metals leave the brain, where most of them are contained, they leave through the mouth. The gums, the lips, the tongue, the salivary glands. That's why people get dry mouth. It's not dehydration at all. It's that those heavy metals come through and out the mouth, and the fats all from that area are pulled with those toxins to keep those toxins from damaging the body. So that leaves dry lips. But it's not dehydration. It has nothing to do with water. The best thing to do is the oils in the honey absorb into the lips the best, so they keep your lips from drying the best. But as long as you have heavy metals coming out your salivary glands, you're going to have problems on the sides of your mouth. And also those people who have a tendency to send a lot out the lips. I do, so I've always had these scars on the side of my mouth. I don't have the sores I used to. I used to have constant sores on the side. I don't have sores, but I have the scars from it.
 
-But I mean that he grew up on this diet from 10 weeks old, so he had really strong teeth.
+Q: And what is your opinion on contacts or eye [unintelligible]
 
-Can you imagine what he'd do to you if he did that.
+A: It's not a good thing to do. Thimerosal, which is liquid mercury, all kinds of toxins.
 
-I'd be just mangled?
+Q: Because of the pollution? They have all kinds of [unintelligible]
 
-Like a lion.
+A: Pardon? It's still a chemical. They're using glycerin and stuff like that. It's all chemicals. I mean, if you want to try to make a solution, take distilled water and take sea salt and put it in there and use that. Distilled water and sea salt. And what it is, is take about a pinch of finely granulated sun-dried sea salt in eight ounces of distilled water or two grains of the heavier salt, sun-dried sea salt. I just keep it in the, for patients who come who wear contacts, I've got a little thing for them and I use that. I've had that solution last for over a year and a half without any problem. I put it in a small glass Perrier bottle. I don't leave it in plastic.
 
-[Attendee]
+Q: [unintelligible]
 
-When I give him raw meat, five seconds It's down.
+A: Yeah. Yep.
 
-[Aajonus]
+Q: [unintelligible]
 
-Yeah, gone.
+A: I don't know either. I haven't experimented.
 
-Well, it's cuz he needs bones.
+Q: How about sunglasses [unintelligible].
 
-You have to have bones, dogs have to have bones.
+A: I would say, yes, it's causing you headaches or severe, you know, problems, use sunglasses.
 
-[Attendee]
+Q: I know you recommend being in the sun [unintelligible].
 
-Okay, so one pound with meat a day and give him butter and egg occasionally.
+A: Sun gazing and all of that, yeah. Vitamin D is very helpful for the eyes. It keeps them young and alive.
 
-?
+Q: Only if you're very sensitive to the light?
 
-(12) Dont Forc Detox, Oysters For Metals
-[2006],[Aajonus]
+A: Yes.
 
-Well, you don't want to force detoxification of heavy metals with tremendous amounts of cilantro or anything like that, until you've been on the diet a year and a half minimum
+Q: Does that cause cataracts or anything else?
 
-If you want to detox heavy metals a little bit safer, then eat oysters almost every day, like six days a week with some.
+A: The sun or the sunglasses?
 
-Like for you it would be a cup of beef with three oysters twice a day, and that'll help remove it more quickly, safely.
+Q: Either one.
 
-.
+A: No, the sun, well, as long as you have good fats in the body, the sun causes the oils, the fats in the skin to transform into vitamin D, including the cornea and in the retina. So it aids the body. But if you don't have good fats, let's say you're full of vegetable oils and you don't have any good animal fats in the body, it can cause a cancer, cataracts, glaucoma. It can cause all kinds of problems.
 
-(13) Dont Require Ingredients In Well Water
-[2006],[Aajonus]
+Q: [unintelligible] cataracts. So, you know, he's not on a good diet and I don't think it's the same.
 
-No, they absorb the toxicity in the water
+A: I've seen them reverse on this diet in animals, in humans and other animals.
 
-If you have well water, you don't have to worry about the milk, but it still helps soothe the skin as the poison minerals and toxins come out.
+Q: [unintelligible]
 
-That little bit of fat in there keeps the skin from being damaged and drying too much, coconut cream is helpful.
+A: Yeah, I had a pug that was given to me. He was, he had MS, couldn't even stand up or walk, couldn't even have a bowel move or urinate on his own. His keeper used to have to rub him and he was completely crippled and he just shook. And that was his life, he just shook. And they had to hand feed him. I put him on the diet and in six months he was jumping up and down off the couch. His cataracts, he was completely blind from cataracts and deaf. In six months, half of his cataracts were gone. He could see light and enough to see the dog eat or to go where he wanted to go in just six months.
 
-[Attendee]
+Q: Was it on the diet?
 
-But if the bath water is absorbing the toxins from the water, when you stand up and it coats your body, are you then putting the toxins on your skin.
+A: Yeah, on the diet.
 
-[Aajonus]
+Q: What did he eat?
 
-No, because it stays in the oil?
+A: Well, I gave him raw meat, eggs, honey and butter. That's what I fed him, twice a day.
 
-Doesn't get reabsorbed into the skin.
+Q: Can I ask a question? I have a dog that's 13 and he's in good health. I feed him raw meat in between the meals and I'm starting to put raw meat in with his crunchies for breakfast and dinner. Um, what else? Should I be doing this? Because he's not good, he's pretty healthy. Should I be giving him...
 
-[Attendee]
+A: I wouldn't feed him anything but, you know, a dog in the wild is a scavenger but mainly they eat raw meat. That's their diet, raw bones. So, most dogs, is he a small dog or a large dog?
 
-You don't have to shower off.
+Q: No, he's 50, 60 pounds. 
 
-[Aajonus]
+A: 60 pounds, well he should be eating red meat and you know, bones.
 
-No, you don't want to?
+Q: I'm afraid, ok, I noticed the crunchies are wearing his teeth down so I've been putting it in water.
 
-You don't want to shower off.
+A: Well, then he's not good to eat. If he's already getting deterioration of his teeth, he's not in good health.
 
-What I suggest that you do is take a silk or a cotton cloth, and after you've been in there, right before you're ready to get out, or even while you're in there, after you know every 20 minutes, just wipe the dead skin off.
+Q: Really?
 
-And then when you get out, you might get all down to several layers of the dead skin.
+A: He's not in good health. Once they start losing their teeth and his teeth start wearing down, that's a bad sign. Because all dogs in the wild don't wear down their teeth and they eat huge bones. Their teeth, their dentine constantly regenerates.
 
-.
+Q: Because he can barely get up, he has a hard time getting up.
 
-(14) Dry Skin, Primal Facial Cody Care Ceam, Coconut Oil
-[2006],[Aajonus]
+Q: I give him glucosamine twice a day, I forgot...
 
-I just told you why the skin gets toxic
+A: Give it to the vet, shove it up his...
 
-Cuz poisons perspire out the body, so the skin's going to be dry for the rest of your life probably.
+Q: Really? He seems like he's getting up out of his teeth better. He seems like he's walking better.
 
-So, you have to put some kind of lubrication on the outside.
+A: Just give him the raw meat, the eggs, you know, the honey and butter.
 
-Primal Body Care Cream is always the best nutrient wise.
+Q: Instead of the crunchies.
 
-That's on page 145, I believe it is, of The Recipe Book.
+A: The crunchies are garbage, that's not dog food. That's industrial food that tells you it's dog food.
 
-Somebody's recorder just clicked off.
+Q: Can you feed them, for the dogs, can you just buy the regular meat instead of giving them the...
 
-No, Lorraine may.
+A: You give them the worst meat you can get, I mean not the... You should give them the zealand, if you get all the garbage pieces, all the stuff that they throw away.
 
-The Primal Body Care Cream is the best.
+Q: All the organs and everything.
 
-That's in the one page, 145 on The Recipe Book.
+A: All the stuff that they throw away. I have people who have the dogs, they go to these health food stores and say, give me about five pounds of your throw away meat, fat. Yeah, you get them for 50 cents a pound, a dollar a pound.
 
-Next would be the coconut oil if you're getting it from James in Los Angeles, it's the Thailand coconut oil that's made by friend of mine, a patient of mine on Costa Maria Thailand, has made and been to the home of people who make it and watched it be made perfect.
+Q: Are they frozen?
 
-Also, on wildernessfamilynaturals.
+A: Not if it's a health food store.
 
-[no longer made properly] they carry a Philippine fermented coconut oil, and it's made the same as we make it in Ko Samui, but it's made in the Philippines now.
+Q: Yeah, they don't, okay.
 
-He used to allow the coconut and oil to reach about 105° - 110°.
+Q: Oh, health food store, that's a good idea.
 
-After talking with him for three months last year, he brought the level down to 96°.
+A: Okay, do you have a question?
 
-[Attendee]
+Q: Yeah, I was wondering if this [unintelligible].
 
-Is that Wilderness family.
+A: Pardon?
 
-[Aajonus]
+Q: Like, if it helps with internal information, like wrong information, [unintelligible].
 
-Wildernessfamilynaturals?
+A: Well, you have to understand the infection is a good thing. Whether it's bacterial, viral, or parasitical. They are there to break down the toxic tissue and remove it so the body can get rid of the waste products and rebuild it to new. So infection is always important. You just need to supply the body with the proper nutrients to make sure that the detoxification happens properly and that the nutrients are delivered so that the regeneration and healing can occur. And if you've got a lung problem, eggs are the key. Lots of eggs, lots of eggs. Pardon?
 
-com.
+Q: [unintelligible]
 
-Yeah, so that's the Philippine fermented coconut.
+A: In fibrosis, that means the body is not tearing down the toxic tissue, the dead cells. You're mummifying them so they're hardening and getting thicker and thicker. You can't absorb oxygen in tissue like that. And if his lungs are turning into fibrosis, he's not going to live very long unless he does a diet where he can get high bacteria, where he can have a lot of infection to break it down. Stopping the infection just allows the fibrosis to get worse quicker. Eggs, lots of eggs, eggs and eggs and eggs.
 
-They have other coconut oils, but that's the only one below temperature.
+Q: [unintelligible]
 
-Just rub it in and wipe off the excess after 20 minutes.
+A: Well, how big is the person? How large is the person?
 
-Put it on very thinly and it goes a long way.
+Q: [unintelligible]
 
-You really don't need- that's pure oil In the Primal Body Care Cream you've got nutrients to feed the skin, not just protective oil.
+A: 175 and how tall?
 
-When you ever have just a pure oil, it is more detoxifying, but it seals off the dry air, you'll lose less moisture in your skin, it won't dry, but it won't nutrifiy your skin like the Primal Body Care Cream.
+Q: 5'10".
 
-Alternating one day with the primal facial the next day with the coconut oil.
+A: 5'10", so he should be eating about 40 eggs a day, 40, 45 eggs a day. And honey and butter, you know, if he'll take it.
 
-That's a good way to do it.
+Q: How much time?
 
-.
+A: Well, that should get him to a point where he can eat better, maybe in about three months. Honey, butter and eggs, or mostly eggs. Do you have a question?
 
-(15) Electronic Chlorinator
-[2006],[Aajonus]
+Q: Yeah, a question for my sister. [unintelligible]. Do you know what it is, what comes?
 
-Electronic chlorinators work off of turning salt into chlorine, chlorine that doesn't have a chloroform vapor and those are fine
+A: It's coming out at night, it's coming out of the nerves. And it's heavy metals of some kind that's causing welts.
 
-I will swim in those every day if I had that.
+Q: [unintelligible]
 
-If you put salt in the water, they've got an electronic field that sends a signal through the water and it turns salt into a more natural chlorine that does not have chloroform vapor and just use sea salt if you're going to do that.
+A: Well, when I forced the detoxification with the sugar cane juice, I had welts all over. I refused to scratch them, they still turned into scabs. That's how toxic the substance was. So I took one scraping and took it to a lab. It only cost me $200. Here it's $2,300 to $3,200 for the same lab test. So I had it done there, and I had byproducts of penicillin that had been injected to my rear end. So all that was penicillin that was bound with a lot of sugar byproducts from all the sugar. I was a sugar hound because I was diabetic. You know what sugar crisps are? I put four tablespoons of sugar in with my sugar crisps. I wasn't as bad as Hitler putting sugar on top of his cake and icing, but I was pretty bad. So when I got all those injections, I had a lot of sugar products with it. So when I ate the fermented sugar cane juice, it started a massive detoxification of that in the bones, in my hip bones. My spine started getting very sore, and I got these huge welts. And I would take cold slices out of the refrigerator. I was in Vietnam at the time in a hotel, so I got stuck in my hotel for three days, just dealing with the itching. I took slices of the cold tomato and rubbed them all over the spots. And the next hour I would use cucumber, and then I'd get into a bath with lots of salt and tomato in there and soothe it. So every hour I had to do something to keep up with the intense itching so I wouldn't scratch it. But still, even without scratching it, they still scabbed over. That's how toxic it was. When you have penicillin that's from a mold, and you know what molds do to things. They eat it apart and it causes it to dry like the desert. And that's what is happening to the skin as it's coming out through the skin. So those are the things I suggest. You just have to keep treating them every hour. Tomato, cucumber, you know, and a tomato bath like I talk about, in the book. That's all external. Internal, it's the moisturizing lube formula. Lots of eggs.
 
-Those are good for swimming pools or you know, small pools.
+Q: Eggs again.
 
-If you're using something like that, it's fine, but if you know you've got a lot of chemicals in the water, you're still going to need something to chelate with those chemicals if you're using in city water.
+A: Eggs again, yeah, for that. Because the eggs can help start pulling some of it through the intestines. Not sure that everybody wants that because it starts causing welts and that kind of scarring. And the intestines, if somebody doesn't produce enough mucus, they're going to have a problem. So if she has a normal, okay digestive system, doesn't have constipation, then she can eat a lot of eggs. Pardon?
 
-[Attendee]
+Q: I don't think she has okay anything.
 
-How about doing showers or baths with city water.
+A: Oh, then stick with the Eggs and honey and butter.
 
-Same thing?
+Q: I think it's coming out from the brain.
 
-[Aajonus]
+A: Well, it's from the nerves if it's happening at night.
 
-Same thing?
+Q: Is it something like toxic metals?
 
-I would never take a shower, I always take baths.
+A: Toxic heavy metals, could be metals that went along with antibiotics or vaccines. Because they put mercury, aluminum, formaldehyde in 96% of the vaccines.
 
-When I was living in the city and having the city water, I always took baths only every two, three days and always put my milk, my vinegar, and my sea salt in the water.
+Q: [unintelligible]
 
-I found that putting 2 - 3 tablespoons of coconut cream in there really makes the skin nice.
+A: Aluminum usually won't cause welts like that. You have to remember that from the time you take, you have the hives, you have to wait at least a month to take that hair. Because that's what will be thrown off at that time. The new hair coming out, that will hold the key to what you were throwing off. But if you took a sample while you were going through the hives, you would not know what's being thrown off. Just remember your hair's behind what's happening in your body. So you'll have to let the hair grow out for a month and then take that amount. You don't shave it off, you'll let your hair grow long, you'll take a clip of it. Just remember that only that small section that relates to what grew at that time is going to give you the clue of what it was. A lot of practitioners don't think. They'll go take a whole clipping of hair and say, oh well, you got a lot of mercury. Well you're talking about, did it happen last month, did it happen this month, did it happen six months ago. So they don't give you a good picture of the cycles in your body. If you're having a problem now, they're basing the past, the analysis of what your body was throwing off in your hair, from a different time. So they're not getting a proper analysis, giving you a proper diagnosis. And then giving you proper resolution. But the problem is by the time your hair grows out, it's too late. You've got to know a remedy for what's going on with the actual symptom. Joe, do you have a question?
 
-That's what I would use now if I had to do that, but I have my own well.
+Q: Yeah, I'm wondering about those lasers that they use to weigh my food like my celery, and butter, and that sort of cash register. And also I have a printer that is going down. I was recommended to buy a laser printer. Does this laser stuff [unintelligible]?
 
-.
+A: If you're too close, I have a laser printer.
 
-(16) Exercise Isnt Enough For Lymphatic Congestion
-[2006],[Aajonus]
+Q: It's about six feet away, five feet away.
 
-Okay, take your body temperature and you may get up to 99
+A: It's not a problem. If you're within two feet of it while it's on, while you're copying, then it can be a problem.
 
-5°.
+Q: What about the toner machine?
 
-You've got to hit 101°, so that water temperature has to be minimum of 101° - 105°, and you have to keep it at that.
+A: The laser, when you have a laser machine, it seals it into the paper. That's a better machine. You've got a bubble jet, it gets into the air. I have a laser for that reason. I don't want vapors flying in the air and getting into my body.
 
-So, you have to let the water out about every 15 - 20 minutes, some of it, about three inches of it, put scolding hot water in, and also the mixture that I suggest: the milk and the vinegar and the sea salt in there, or epsom salt in the water.
+Q: What about those lasers at the check out stands?
 
-So, they'll help pull out the toxins and uh, keep the water warmer for a longer period of time.
+A: I don't let them scan my food. I say, please don't scan.
 
-[Attendee]
+Q: Do you have them [unintelligible]?
 
-Do you ever go hotter.
+A: If they have to weigh something, I have them put a plastic bag with one end covering this part of the laser. And then the rest of the plastic, I mean the paper bag, covering that brown paper bag. And that seals it in. I personally put it on the scale. The glass is here, the glass is here, and I put it right behind the glass. Even though I've got it covered with the paper, I still put it behind the glass.
 
-[Aajonus]
+Q: [unintelligible]
 
-You just can't stay in it that long if you go really hot, you just can't stay in it?
+A: Oh good.
 
-People are out in 35, 45 minutes if they get it too hot.
+Q: What about the milk and stuff? You don't want that to be laser- 
 
-[Attendee]
+A: I don't let them. I say, please don't scan this. They have to register by hand, so they have to- there's this code number on there, the bar code, and they have to put that in.
 
-How long should you stay in.
+Q: How bad is it if we let them scan?
 
-[Aajonus]
+A: It's not too bad. I have radiation therapy, 10 weeks of radiation therapy. So if I let my food pass over for the week, I get nauseous by the end of the week. So I don't let them scan anything. Not even water.
 
-It should be 45 minutes - 1?
+Q: [unintelligible]
 
-5 hours.
+A: Don't let them scan your meat nor butter. Those are the key things.
 
-[Attendee]
+Q: What about celery?
 
-I've gone in for two hours, just a few nights ago.
+A: Celery is okay, it won't be a problem. Meat, butter, any kind of fat, you don't want to let them scan.
 
-[Aajonus]
+Q: What about the milk then?
 
-Yeah, but the water cools so much.
+A: Cream, you don't want to let them scan. Milk, you don't want to let them scan.
 
-Oh, so you have like a jacuzzi.
+Q: Do they have to type the code?
 
-[Attendee]
+A: Yeah, they just have to type the code in. So I always choose a non-busy time if I'm going to a regular store to shop.
 
-No, but I mean, I just got it out and fell asleep again for another 20 minutes?
+Q: I have another quick question. [unintelligible]
 
-[Aajonus]
+A: Well, when I did experiments with those, I found that sleeping on the pad for about six weeks is okay, no more than five hours a night. Otherwise it starts pulling out too many heavy metals and too many toxins. It causes a high adrenaline and it makes you feel like you have more energy, but it causes massive toxicity in the system. So you're going to use those, you have to use them in small amounts, small periods of time.
 
-Oh, I see.
+Q: So at work, you're putting them on your back for a couple of hours?
 
-You just kept waking two hours.
+A: A couple of hours, yeah. A day, that's it.
 
-Yeah.
+Q: I slept on them for a couple years.
 
-It's great.
+A: You're asking for trouble.
 
-.
+Q: Well, I did already in the past.
 
-(17) Feeding Dogs Raw
-[2006],[Attendee]
+A: It will probably make the skin very poor and very dry, because most of that stuff is going to come out of the skin, heavy metals. Okay, Barbara.
 
-I have a dog that's 13 and he's in good health
+Q: I noticed in the last six months that you're having a lot more hair falling out than usual, and your hair has gone grayer more quickly. It's been going gray, but it's much thinner. Is this from, I've also read that the egg whites are lacking biotin. I have at least four to six eggs a day, and I've never not had an egg.
 
-I, I feed him a raw meat in between the meals and I'm starting to put raw meat in with his crunchies, breakfast and dinner.
+A: Okay, you read the new book, I talked about it. It's in the old book, but the spell checker changed avidin to albumin. So in this book, it's proper. Egg white has avidin, egg yolk has biotin. There are scientists that say the avidin binds with biotin and doesn't allow it to be utilized. It's utilized in a toxic body by taking biocarbons and neutralizes biocarbons and removes it from the body. Stop eating cooked food so you don't have so many fricking biocarbons. So you need to eat a lot of eggs because you've got a lot of biocarbons. So the scientists are just looking at, gee, this happens, let's not do that. They're not looking at, yeah, this has a good function.
 
-What else should I be doing this.
+Q: So that's not causing anything?
 
-Because he's not good, he's pretty healthy?
+A: No, no, that's always heavy metals. It's usually aluminum that causes graying of hair.
 
-Should be giving him anything.
+Q: So how can I either speed it up or...
 
-[Aajonus]
+A: Yeah, eating raspberries with coconut cream will help pull the aluminum out in a non-toxic way. Hopefully it won't all go out through the scalp. Even with those mixtures, you know, at your age, it's going to be difficult not to keep it from turning your hair gray. Well, my hair was completely gray after chemotherapy. So it goes in... Five years ago I had a whole patch of gray here. It stayed there for about a year and a half, went back again. It goes in and out. Here this was all gray a year and a half ago. It's going back to its color.
 
-I wouldn't feed him anything, but?
+Q: So that's going around the top there, looks like you dyed it.
 
-You know, a dog in the wild is a scavenger, but mainly they eat raw meat.
+A: It's going back.
 
-That's their diet, raw bones.
+Q: But that's a sort of browning look, hasn't it? I thought you told [unintelligible], you've dyed that to a browner look.
 
-Is he a small dog or a large dog.
+A: Well, always in the winter my hair gets dark.
 
-[Attendee]
+Q: So the eggs, no way eating eggs white. I have never not eaten eggs every day. I've always had at least five eggs a day, four for two and a half years. Is that right?
 
-No, he's 60 pounds?
+A: That's alright.
 
-[Aajonus]
+Q: Some days I get 12, sometimes I have 18. I have never felt relief from my lungs from eating the eggs myself. I've eaten that huge amount of eggs every day for a month. And I didn't feel any change in my lungs. I'm not saying it didn't do it, but I didn't feel anything.
 
-60 pounds.
+A: Well, it's to arrest the poisons, but if you've got fibroids in your lungs, the eggs aren't going to work that. You need bacteria in the lungs. You need foods that are high in bacteria.
 
-Well, he should be eating red meat and bones.
+Q: I'm always having my next clabbered milk.
 
-[Attendee]
+A: Clabbered milk helps the bacteria in the intestines, not in the lungs. High meat, especially chicken. High chicken will help bring bacteria to the lungs. It helps with the lungs.
 
-Okay.
+Q: How do you get the high chicken?
 
-I noticed the crunchies are wearing his teeth down, so I've been putting it in water.
+A: Same way. No, you don't grind it. You chop it up. Let it, it really stinks. Foul as can be. Pardon?
 
-[Aajonus]
+Q: When it gets stinky fast, [unintelligible]?
 
-Well, if he's already getting deterioration of his teeth, he's not in good health.
+A: It's just certain bacteria is growing faster than others. The stinky bacteria is growing faster.
 
-[Attendee]
+Q: What does it make? I open the jar and I just want to throw up.
 
-Really.
+A: That's just a certain bacteria.
 
-[Attendee #2]
+Q: And so you're actually inhaling bacteria?
 
-Yeah?
+A: No, just the vapors from it. It's gas. It's like you having a fart. I'm not eating you. It's the gas. If I smell your fart, it's not you I'm eating. It's just your gas. So that bacteria off-gases, it farts, and then creates that odor.
 
-You think he's, but he's not.
+Q: How much [unintelligible].
 
-[Aajonus],[Attendee]
+A: Pardon?
 
-Once they start losing their teeth and his teeth-
+Q: How much is that [unintelligible]?
 
-No, his teeth are fine, I see they start wearing down.
+A: I have people eating only high meats. I have one guy, he was depressed all of his life. He started on the diet, off and on, off and on, off and on, because of his depression, his problems. He became a landscape artist so he wouldn't have to deal with people. And after two years, he finally took up some of the high meat. And he got so happy that he only eats high meat. He won't eat any fresh meat. So he eats two pounds of high meat a day. You don't know anybody happier than this guy. And he doesn't have body odor, nor does he have foul breath.
 
-[Aajonus]
+Q: And that would be really difficult to [unintelligible].
 
-That's a bad sign because all dogs in the wild don't wear down their teeth and they eat huge bones.
+A: But he eats that at home.
 
-Their teeth, their dentine, constantly regenerate.
+Q: Outside the home, even?
 
-[Attendee #2]
+A: Yes, he does. He eats it outside the home.
 
-He can barely get up.
+Q: [unintelligible]
 
-He has a hard time getting up.
+A: Even more.
 
-[Attendee]
+Q: It's so entertaining to look at everybody's face when they're talking like this.
 
-I give him glucosamine twice a day.
+Q: Do you eat this with your regular meat?
 
-[Attendees],[Aajonus]
+A: Yes, you should eat it 10 to 15 minutes before your regular meat.
 
-Laughs
+Q: How can you make it palatable? I can't stand that.
 
-Give it to the vet, shove it up his butt.
+A: Just put a nose clip on your nose, and you won't smell it. It melts in your mouth, it's so soft, tender. You had never tried it, obviously.
 
-[Attendee]
+Q: I did try it. Yeah, well I've been on it for five years.
 
-Really.
+A: I know, but that doesn't tell me that you've tried the high meat.
 
-He seems like he's getting up outta his teeth better, he seems like he's walking better?
+Q: And off, and off, and off.
 
-[Attendee #2]
+A: Mostly off.
 
-He's not walking better.
+Q: But look, I'm healthy. 
 
-[Aajonus]
+Q: [unintelligible]
 
-Just give him the raw meat, the eggs, the honey and butter.
+Q: Hey, you think I'm weird? You guys can't say anything about how I let you eat that weird diet.
 
-[Attendee]
+Q: [unintelligible] left it six months or more in the fridge, do I have to throw it out and start again?
 
-Instead of the Crunchies.
+A: No, you don't throw it out, you just have to start opening it.
 
-[Aajonus]
+Q: Do you buy the Rocky Junior, are there any differences?
 
-The Crunchies and Gardens?
+A: Not any differences, they feed them the same. It's just that the Rocky Junior is going to be younger, more tender. The older animal is going to be more tough.
 
-That's not a dog food.
+Q: But you have to buy groceries [unintelligible].
 
-That's industrial food that tells you it's dog food.
+A: That's the only kind I buy here. I mean, I'll send away when I know I'm going to be in town for a while. I buy the chickens from Amos Miller, an Amish guy who feeds the chickens exactly what I want him to feed them. He feeds them high meat as their protein, feeds them nothing, but what they peck around in the yard, and high meat. I get eggs from them too. Very tough chicken, but it's a very healthy chicken.
 
-[Attendee #3]
+Q: He feeds the chickens high meat?
 
-Can you just buy the regular beef instead of getting the good stuff.
+A: Yep. That's what they do best with. Chickens are real nasty scavengers, so are ducks.
 
-[Aajonus]
+Q: Have you heard of the smart chicken?
 
-Get 'em the worst beef you can, I mean, not the, you should get them New Zealand, but get all the garbage pieces, all the stuff that they throw away?
+A: I've heard of it, but I haven't looked into it yet.
 
-[Attendee #2]
+Q: They say [unintelligible].
 
-All the organs and everything.
+A: But that doesn't mean... if they feed them mostly soy, it's the same garbage as...
 
-[Aajonus]
+Q: How about Shelton?
 
-All the stuff that they throw.
+A: What? Shelton? Shelton is vegetarian, high in soy.
 
-I have people who have the dogs they go to these health food stores and say, give me about five pounds of your throwaway meat and fat.
+Q: What about Coleman?
 
-You get 'em for .
+A: Coleman doesn't make chicken. Only beef.
 
-50 cents a pound, a dollar a pound.
+Q: He doesn't make chicken... What about the beef?
 
-.
+A: It's okay.
 
-(18) Fermented Foods, Hadza Eat Cooked Meat
-[2006],[Aajonus]
+Q: [unintelligible] And then all of a sudden they reject the lamb. They eat it for three or four days. Why don't they want the lamb? [unintelligible]
 
-So, I eat the fermented juice
+A: They just go through the cycles.
 
-Anytime you want to get rid of anything in your body that you've eaten cooked, you eat it fermented.
+Q: Is there something specific about each meat?
 
-Now, Sally Fallon and a lot of those people that go for all this fermented foods, they continue to eat cooked foods.
+A: Yeah, there is. That's why I like people who eat three meat. Chicken, fish, and beef every day.
 
-So yeah, they needed a lot of fermented.
+Q: They won't do that, they will only eat one kind at a time.
 
-And only the tribes like the Hunzas, they eat cooked goat and they didn't eat much raw meat.
+A: I know, but that's only because they're not well animals. Out in the wild, they would eat a bird in the morning, a rat in the afternoon, and all kinds of different meat. But if they had any vaccines, they're not well.
 
-They ate a lot of raw dairy, but they ate a lot of fermented foods to make up for their cooking.
+Q: So, is that why they get back and forth?
 
-They were living in a clean environment, so they didn't get a lot of disease because the other things that people normally cooked, they weren't eating cooked.
+A: Well, they should. They should get variety. But if you let them get spoiled and let them have their way, they're going to eat only what they want until they're satiated with it. And then they're going to go to the next, and you have to figure out what it is that they're going to like. But if you train them in the beginning, you're getting this meat in the morning, this at night, the next morning like this, and you rotate it, that's the way to do it, because that's their natural diet. But they won't have any problems if they eat one meat for a long time.
 
-But they were having the fermentation.
+Q: [unintelligible]
 
-Sally Fallon said, "Well that all that fermented food is better for you".
+A: Coconut cream, butter, and dairy cream, and a little honey. And have it in the afternoons.
 
-I said, "Yeah, if you're a cooked food eater", definitely.
+Q: I wanted to ask you what you maybe are still at the least after.
 
-So, as long as you eat cooked food, you need to eat a lot of fermented food.
+A: About?
 
-It should be a regular part of your diet and it'll help your digestion.
+Q: About my dog, because I'm very close to him. What about the flea stuff I was putting on every month, the flea stuff, and the heart worm stuff? Because I saw a man whose dog died of heart worm when I was in Florida. He didn't give him the heart worm thing and the dog died.
 
-[Attendee],[Something about fermented vegetable juice],[Aajonus]
+A: That's probably what killed him.
 
-Yeah, but I only suggest one a day if you're going to do that.
+Q: So as far as flea stuff and hot worm.
 
-The others are fresh.
+A: Yeah, a lot of these vets will say, oh, your dog died of heart worm. And they didn't. They didn't.
 
-.
+Q: So don't give them heart worm, don't give them flea stuff.
 
-(19) Food Cravings, Eggs Dries Mouth Form Pulling Out Toxins
-[2006],[Aajonus]
+A: That's all toxic stuff.
 
-As long as you go with those cravings and you stay balanced, that's fine, but if it starts imbalancing you, it's not the way you should do it
+Q: Do your dogs have fleas?
 
-You should go against your instinct.
+Q: No.
 
-[Attendee]
+A: If you feed them right, they don't have fleas.
 
-What about the green juices.
+Q: Okay, so how much of the protein should I give them each day? 55 pounds.
 
-[audio cuts out so not sure the question],[Aajonus]
+A: You've got several dogs?
 
-Cause more hunger, they increase digestibility, they clean the system quicker?
+Q: One dog.
 
-So.
+A: One dog. He needs about a pound a day if he's indoors. 
 
-all of a sudden the body says, "Oh, I feel better.
+Q: Well, I take him for a walk.
 
-I can eat more".
+A: That's nothing. He lives out in the backyard and he runs around all the time.
 
-Somebody gave me an ostrich egg for Christmas.
+Q: He's an old dog. He doesn't run, he walks.
 
-I didn't eat it until I got back for New Years.
+A: Okay, he's a very sedentary dog. Pound a day would be fine. Pound a day would be fine.
 
-And there was five cups of egg in this one egg.
+Q: One pound, and that's it. That would be all his nutrients. 
 
-Three cups of white and two cups of of yellow yolk.
+A: Well, no, you need to give him a little butter and egg once in a while.
 
-And I ate it in less than 24 hours.
+Q: Butter and egg once in a while?
 
-And I was still hungry.
+A: Yeah, you chop up the meat and mix it around. But he's going to need a lot of bones.
 
-Sometimes I'll make a shake with 24 eggs in it, and that's two quarts about or right around a quart and a half depending on the size of the eggs and I'll still be hungry.
+Q: What kind of bones?
 
-[Attendee]
+Q: What kind of bones? I always thought bones splintered.
 
-So, what about doing it at night because we are supposed to eat every five hours.
+A: Give him chicken bones.
 
-Cause I do raw eggs?
+Q: I always thought bones splintered. I never give him bones.
 
-[Aajonus]
+A: If they're cooked, they turn brittle, and then the acids don't melt it.
 
-That's fine.
+Q: So raw bones.
 
-[Attendee]
+A: All dogs eat all bones in the wild. That's what they live on. They eat more bones than anything else.
 
-How many eggs at a time because sometimes I get nausea.
+Q: So I have to go to a butcher and get bones.
 
-[Aajonus]
+A: Or you get chicken parts, you know, with the bones in them.
 
-It depends upon the person.
+Q: And those bones will not splinter.
 
-Just keep eating them until you get really turned off I've eaten, like I say, I can eat a cup of eggs at a time and then all of a sudden I start getting nauseous.
+Q: Buy a whole chicken and take out the breast for yourself and then the body for the dog.
 
-And usually a cup of eggs, if they're normal sized eggs, an egg is about a 1.
+Q: That's okay.
 
-5 oz - 2 oz, depending upon the size of the medium egg.
+A: That's what I used to do. That's what I'd feed the coyotes.
 
-Some eggs, you get 3 oz out of the big eggs, so whatever it takes to make a cup and then that's all I can drink at a time is one cup.
+Q: Whole raw chicken.
 
-However, sometimes i've consumed up to two cups at a time no problem.
+A: I eat the legs, they get the breast. So I give them the neck and all that other stuff, the weight.
 
-Especially if I've eaten cheese first.
+Q: It's okay, it won't break his teeth.
 
-[Attendee]
+A: I eat the legs.
 
-Do you always need to have honey/butter/cream with the eggs.
+Q: Yeah, he's losing his teeth already.
 
-[Aajonus]
+A: Well, the chicken bones, he's not going to hurt himself. But if you get hard, thick cow bones, then it may be a problem for him. But I had a dog that was raised from ten weeks. A friend of mine had a dog that was raised from ten weeks old on the raw foods and eating raw bones. And this dog was 230 pounds. His head was this high, this big. And you know those big femur joints on a cow, this big? You put that in his mouth and he would just dissolve it. With one bite, just crumble it with one bite.
 
-No?
+Q: Was that a young dog or an old dog?
 
-Well, it's just that egg tendency because it pulls out a lot of toxins to dry the mouth and lips.
+A: No, that was when he got older.
 
-So, put honey on your lip or eat the honey and butter.
+Q: Okay, so he's saying chicken parts.
 
-The cream is more alkanalizing.
+A: Yeah, but he grew up on this diet from ten weeks old. So he had really strong teeth. Can you imagine what he'd do to you if he bit you? You'd be just mangled. Like a lion.
 
-The butter is more acid.
+Q: When I give him raw meat, in five seconds, it's down.
 
-.
+A: Well, it's because he needs bones. You have to have bones. Dogs have to have bones.
 
-(20) Foreced Tapeworms For Constipation
-[2006],[Aajonus]
+Q: So one pound of meat a day and butter and an egg occasionally, you say?
 
-So, I forced myself to get a tapeworm on it and I had had constipation for 57 years
+A: What time is it?
 
-Even on a raw diet, I'd move every day, but that first part of my bowel would be very dry and it would rip my rectum.
+Q: 4.30.
 
-And before I went on a raw food diet, I only went every 3 - 5 days and it would tear my rectum completely and there was always blood.
-
-I bled for 50 some years, and when I forced myself by eating the fermented milk with the mocha and the fermented sugar cane juice, I got a tapeworm from it.
-
-I kept the tapeworm for about three months, passed about 85 feet in two separate movements.
-
-[Attendee]
-
-85 foot long tapeworm.
-
-[Aajonus]
-
-Yes, 85 foot long?
-
-About 45 feet one time at 45 and 40 the other.
-
-[Attendee]
-
-So, you didn't attempt to release it.
-
-It just?
-
-[Aajonus]
-
-No, it just- well, I got a craving for onions and I just ate a half of an onion in a sitting and said the hell am I doing?
-
-And the next morning that evacuated 45 feet of the tapeworm?
-
-I thought, oh shit, I worked all this long to get a parasite and here I knocked them out with the onion because I could smell 'em coming out with onion juice.
-
-So, but then I saw, a week later, I saw little sections coming out again here and there, and I said, okay, he's still around.
-
-So then about a month and a half later, I passed another 40 ft.
-
-[Attendee]
-
-Did it take care of your constipation.
-
-[Aajonus]
-
-Yeah, I haven't had constipation since?
-
-They never come out larger than, let's say that, instead of the size of my fist.
-
-[Attendee #2]
-
-And what was the mechanism and why the tapeworm.
-
-[Aajonus]
-
-Tapeworm just changed the environment.
-
-[Attendee #2]
-
-How?
-
-[Aajonus]
-
-I don't know?
-
-It's like Joel Westock, he gave the people with inflammatory bowel syndrome who'd been suffering from 10 to 32 years no mitigation from it and if you know anybody's had inflammatory bowels syndrome.
-
-.
-
-.
-
-.
-
-(21) Gerenstar Coconut Cream For Sale
-[2006],[Attendee]
-
-Much better than the one we were using at the moment
-
-[Aajonus]
-
-Well, the Green Star, this machine is 4?
-
-5 feet long, four feet high.
-
-It's like a Green Power juicer, but it's all stainless steel and big.
-
-And then there I bought a machine which can take the husk off of coconut in 10 seconds.
-
-They trained me to do it and the people who make the machinery, they could do it in three seconds, do a whole coconut in three seconds.
-
-Shell it, and then there's a machine that grates it, and then the gratings go into the juicer.
-
-So, we'll have coconut cream available again.
-
-Probably even a better quality because we're not gonna let any moldy coconut get into the mix as the other company did.
-
-[Attendee #2]
-
-So, the products that we get here, you order on Friday for the first Friday the month, and they come the next Tuesday, so that will be among them.
-
-We get all the products from James, everything that's available up in LA, which is a lot of great products.
-
-You'll get the product list.
-
-If you're new on this list today, you'll get the product list that says everything that's available.
-
-[Attendee]
-
-You always have the right price on it.
-
-[Aajonus]
-
-It's always changing, so I can't keep up with the price list?
-
-[Attendee]
-
-Don't worry.
-
-.
-
-(22) Hair Testing
-[2006],[Aajonus]
-
-Aluminum usually won't cause welts like that
-
-You have to remember that from the time you have the hives, you have to wait at least a month to take that hair cuz that's what will be thrown off at that time.
-
-The new hair coming out, that will hold the key to what you were throwing off.
-
-But if you took a sample while you were going through the hives, you would not know what's being thrown off.
-
-Just remember, your hair's behind what's happening in your body, so you'll have to let the hair grow out for a month and then take that amount, shave it off.
-
-You'll let your hair grow long and you're gonna take a clip of it.
-
-Just remember that only that small section that relates to what grew at that time is going to give you the clue of what it was, what was involved.
-
-A lot of practitioners don't think, and they'll go take a whole clipping of hair and say, "Oh, well you got a lot of mercury".
-
-Well, you're talking about, did it happen last month.
-
-Did it happen this month?
-
-Did it happened six months ago?
-
-So, they don't give you a good picture of the cycles in your body?
-
-If you're having a problem now, they're basing the past analysis of what your body was throwing off in your hair from a different time.
-
-So, they're not giving a proper analysis, giving improper diagnosis, and then giving improper resolution for it.
-
-But the problem is by the time your hair grows out, it's too late.
-
-You've got to know a remedy for what's going on with the actual.
-
-.
-
-(23) Heavy Metals Leave Through Mouth From Brain
-[2006],[Aajonus]
-
-When those heavy metals leave the brain where most of it them are contained, they leave through the mouth, the gums, the lips, the tongue, the salivary gland
-
-That's why people get dry mouth, it's not dehydration at all.
-
-It's that those heavy metals come through and out the mouth and the fats all from that area are pulled with those toxins to keep those toxins from damaging the body.
-
-So, that leaves dry lips and it's not dehydration.
-
-It has nothing to do with water.
-
-The best thing to do is the oils in the honey absorb into the lips the best, so that keeps your lips from drying the best.
-
-But as long as you have heavy coming out your salivary glands, you're gonna have problems on the sides of your mouth for those people who have the tendency to send a lot out the lips I do, so I've always had these scars on the side of my mouth.
-
-I don't have the sores I used to.
-
-I used to have constant sores on the side.
-
-I don't have sores, but I have the scars from it.
-
-[Attendee],[Something about eyedrops or contacts],[Aajonus]
-
-It's not a good thing to do.
-
-Thimerosal, which is liquid mercury.
-
-All kinds of toxins.
-
-It's still a chemical.
-
-They're using glycerin and stuff like that.
-
-It's all chemical.
-
-I mean, if you want to try to make a solution, take distilled water and take sea salt and put it in there and use that And what it is is take about a pinch of finally granulated sun dried sea salt in eight ounces of distilled water, or two grains of the heavier salt, sun dried sea salt.
-
-I just keep it in the for patients who come to wear contacts, I've got a little thing for them and I use that and I've had that solution last for over a year and a half without any problem.
-
-I put it in a small glass Perrier bottle.
-
-I don't leave it in plastic.
-
-.
-
-(24) Hives, Sugar Cane Detox, Penicillin
-[2006],[Aajonus]
-
-If it's coming out at night, it's coming out of the nerves, and it's heavy metals of some kind
-
-It's causing welts.
-
-Well, when I forced the detoxification with the sugar cane juice, I had welts all over that.
-
-I refused to scratch them, yhey still turned into scabs.
-
-That's how toxic the substance was.
-
-So, I took one scraping and took it to a lab.
-
-It only cost me $200.
-
-Here it's $2,300 - $3,200, the same lab test.
-
-So, I had done there and I had byproducts of penicillin that had been injected into my rear end.
-
-So, all that was penecillin that was bound with a lot of sugar byproducts from all the sugar.
-
-I was a sugar hound cause I was diabetic.
-
-You know what sugar crisps are.
-
-I put four tablespoons of sugar in with my sugar crisps?
-
-I wasn't as bad as Hitler putting sugar on top of his cake, and icing, but I was pretty bad and.
-
-So, when I got all those injections, I had a lot of sugar products with it.
-
-So, when I ate the fermented sugarcane juice, it started a massive detoxification of that in the bones, in my hip bones, and my spine started getting very sore.
-
-I got these huge welts and I would take slices, cold slices outta the refrigerator, and I was in Vietnam at the time in hotels.
-
-I got stuck in my hotel for three just dealing with the itching, I took slices of cold tomato and rubbed them all over the spots.
-
-Then the next hour I would use cucumber and then I'd get into a bath with lots of salt, and tomato in there and soothe it.
-
-So, every hour I had to do something to keep up with the intense itching, so I wouldn't scratch it, but still even without scratching they still scabbed over, that's how toxic it was.
-
-Penicillin is from a mold and you know what molds do to things.
-
-They eat it apart and they cause it to dry like the desert and that's what is happening to the skin as it is coming out through the skin?
-
-So, those are the things I suggest.
-
-She just has to keep treating them every.
-
-Tomato, cucumber, and a tomato bath.
-
-Like I talk about in the book.
-
-That's all external.
-
-Internal.
-
-It's the moisturizing/lube formula.
-
-Lots of eggs.
-
-Because the eggs can help start pulling some of it through the intestines.
-
-I'm not sure that everybody wants that cause then it starts causing welts and that kind of scarring in the intestines and if somebody doesn't produce enough mucus, they're gonna have a problem.
-
-So, if she has a normal, okay digestive system, doesn't have constipation, then she can eat a lot of eggs.
-
-Well, it's from the nerves if it's happening at night.
-
-Heavy metals could be metals that went along with antibiotics or vaccine cause they put mercury, aluminum, formaldehyde in 96% of the vaccines.
-
-.
-
-(25) Is Primal Diet Sustainable
-[2006],[Attendee]
-
-And eating because you need cows for milk and cream and you need animals for meat
-
-I mean, do you think it's a sustainable as anything else.
-
-[Aajonus]
-
-Absolutely?
-
-Can you imagine, look at all the fields where they grow rice, two-thirds of Thailand and Asia and Cambodia and Thailand and Malaysian, Indonesia is rice patties.
-
-When you take a cow, a cow can live off of the same land and feed more people, nourish them and make them healthier.
-
-[Attendee]
-
-Really.
-
-[Aajonus]
-
-Absolutely?
-
-[Attendee]
-
-I didn't realize that.
-
-[Aajonus]
-
-Just figure this way.
-
-My family, my grandparents had a 55 acre farm, 40 milking cows, and about 200 sheep, about 1000 chickens, 4 Clydesdale horses, plus other horses, and grew corn on 35 acres.
-
-That fed all of those animals, all those animals all year round.
-
-So, there's a lot of propaganda out there about what is sustainable.
-
-People are making arguments, they don't know anything about farming.
-
-.
-
-(26) Lung Infection, Eat Eggs, Fibrosis
-[2006],[Aajonus]
-
-Well, you have to understand, the infection is a good thing
-
-Whether it's bacterial, viral, or parasitical, they are there to break down the toxic tissue and remove it so the body can get rid of the waste product and rebuild it to new.
-
-So, infection is always important.
-
-You just need to supply the body with the proper nutrients to make sure that the detoxification happens properly and that the nutrients are delivered so that the regeneration of the healing can occur.
-
-And if you've got a lung problem, eggs are the key.
-
-Lots of eggs.
-
-In fibrosis, that means the body is not tearing down the toxic tissue.
-
-The dead cells, it's mummifying them.
-
-So, they're hardening and getting thicker and thicker.
-
-You can't absorb oxygen in tissue like that and his lungs are turning into fibrosis.
-
-He's not gonna live very long, unless he does the diet where he can get high bacteria, where he can have a lot of infection to break it down.
-
-Stopping the infection just allows the fibrosis to get worse, quicker.
-
-Eggs, lots of eggs.
-
-Eggs and eggs.
-
-Well, how big is the person.
-
-175 pounds, 5' 10''?
-
-So, you should be eating about 40 eggs a day.
-
-40 - 45 eggs a day.
-
-And honey and butter if he'll take it.
-
-[Attendee]
-
-How much time.
-
-[Aajonus]
-
-Well, that should get him to a point where he can eat better maybe it is about three months?
-
-.
-
-(27) Magnetic Bed
-[2006],[Aajonus]
-
-Well, when I did experiments with those, I found that sleeping on the pad for about six weeks is okay, no more than five hours a night
-
-Otherwise, it starts pulling out too many heavy metals and too many toxins.
-
-It causes a high adrenaline and it makes you feel like you have more energy, but it causes massive toxicity in the system.
-
-S,o you're going to use those.
-
-You have to use them in small amounts.
-
-So small periods of time, if you're putting them on your back for a couple hours.
-
-[Attendee]
-
-I slept on them for a couple years.
-
-[Aajonus]
-
-You're asking for trouble.
-
-[Attendee]
-
-Well, I did already.
-
-[Aajonus]
-
-They'll probably make the skin very poor and very dry cause most of this stuffs gonna come out the skin.
-
-.
-
-(28) Main With Ms Healed From Diet
-[2006],[Aajonus]
-
-His keeper used to have to rub him and he was completely crippled and he just shook and that was his life
-
-He just shook and they had to hand feed him.
-
-I put him on the diet and in six months he was jumping up and down off the couch.
-
-His cataracts, he was completely blind from cataracts and deaf.
-
-In six months, half of his cataracts were gone.
-
-He could see light and enough to see the doggy door and, and to go where he wanted to go in just six months.
-
-[Attendee]
-
-Was it from diet.
-
-[Aajonus]
-
-Yeah?
-
-From the diet.
-
-[Attendee]
-
-What did he eat.
-
-[Aajonus]
-
-Well, I gave him raw meat, egg, honey, and butter?
-
-.
-
-(29) Nerves Run On Metals
-[2006],[Aajonus]
-
-No, that's because of the toxins that are moving through the mouth, out the mouth
-
-And remember I've said that the nervous system and brain use more free radicals than any other part of the body.
-
-Remember, nerves function with electricity and light.
-
-What is a conductor of electricity and light.
-
-Metals?
-
-Iron, mercury aluminum; all of those metals which are toxic when they're in a non bioactive form, meaning in a cooked form.
-
-.
-
-(30) Over Cultivation
-[2006],[Aajonus]
-
-Well, look what they did in Africa
-
-You take the whole north of Africa, it's a desert because Egypt over cultivated, cut down trees.
-
-So, Egypt had a whole north continent of Africa was their agricultural bed.
-
-It's a desert because of what they did.
-
-[Attendee]
-
-You're talking 2000 years ago.
-
-[Aajonus]
-
-Yeah, thousands of years ago?
-
-2,000 - 10,000 years ago.
-
-That was all lush.
-
-It was all lush, African lush territories there.
-
-[Attendee]
-
-There are those who would argue that if you eat beef, if we had to produce that we beef, which means to beef after the graze on land.
-
-How can that be sustainable.
-
-[Aajonus]
-
-Well, that's if you're trying to get the cattle to craze unnaturally?
-
-You let cattle graze on whatever, it grows, it's wonderful.
-
-Take a look at Hawaii.
-
-My God, the grass is grown as green as this, and the cattle don't need much room.
-
-You just graze tropical areas.
-
-Sure.
-
-You cut down forest, let me tell you.
-
-Those forests grow faster than then you could cut them.
-
-At Pangaia, they have to cut back every day to keep that junk creeping into their growth area.
-
-So, that's a little off.
-
-But when you're clearing the land completely, taking out all trees and you use chemicals, you're going to erode the land and that's the problem.
-
-But if you let grass grow and you've got cattle running around in a jungle, you've got that growing heavily.
-
-It's going to grow and grow and grow.
-
-It's not going to be a problem.
-
-.
-
-(31) People Only Eating High Meat
-[2006],[Aajonus]
-
-I have people eating only high meats
-
-I have one guy, he was depressed all of his life, he started on the diet off and on, off and on, off and on cuz of his depression, his problems.
-
-He became alandscape artist so he wouldn't have to deal with people and after two years, he finally took of some of the high meat and he got so happy that he only eats high meat.
-
-He won't eat any fresh meat, so he eats two pounds of high meat a day.
-
-You don't know anybody happier than this guy, and he doesn't have body odor nor does he have foul.
-
-[Attendee]
-
-And that would be really difficult Laughs?
-
-[Aajonus]
-
-But he eats that at home.
-
-[Attendee]
-
-Outside the home even laughs.
-
-[Attendee #2]
-
-Can you eat that with your regular meat.
-
-[Aajonus]
-
-Yes, you should eat it 10 to 15 minutes before your regular meat?
-
-[Attendee #2]
-
-How could you make a palatable.
-
-I mean, I can't stand it?
-
-[Aajonus]
-
-Just put a nose clip on your nose, and you won't smell it.
-
-It melts in your mouth, it's so soft and tender.
-
-You had never tried it, obviously.
-
-[Attendee #2]
-
-I did try it.
-
-I've been on it for five years.
-
-[Aajonus]
-
-I know, but that doesn't tell me that you tried the high meat.
-
-[Attendee]
-
-On and off and off and off.
-
-[Aajonus]
-
-Mostly off.
-
-[Attendee #2]
-
-But look, I'm healthy.
-
-[Attendee #3]
-
-I left it six months in the fridge, do I have tt throw out and start over.
-
-[Aajonus]
-
-No, you don't have to throw it out?
-
-You just have to start opening it.
-
-.
-
-(32) Plant Growth From Aglae Urine and Eggshells
-[2006],[Aajonus]
-
-The algae is like velvet, it's like laying on velvet
-
-So, it's like wonderful, but when it gets too long, I'll scrape it out and dump it.
-
-Use it in my garden.
-
-Boy does it make the plants grow, that and raw urine, the nitrogen in raw urine.
-
-You should see a fern that I planted two years ago.
-
-It was this small in a pot and with that algae and my urine and egg shells, it is now as big as that whole area over there of that garden.
-
-Just one fern.
-
-It's growing everywhere.
-
-And my roses are like this big, when they were originally this big, it really works.
-
-[Attendee]
-
-So, do you put milk in your jacuzzi or no.
-
-[Aajonus]
-
-No?
-
-You don't need it because I got well water.
-
-But if I didn't have well water, I would put coconut cream in it.
-
-[Attendee]
-
-What about a cup of vinegar.
-
-[Aajonus]
-
-Be okay, fine?
-
-.
-
-(33) Printers, Scanning Food
-(34) Pure Eggs Diet
-[2006],[Aajonus]
-
-But I only put people on pure raw egg diets when they have a severe digestion problem or allergies with foods
-
-No, it has enzymes, it's just they're detoxifying enzymes.
-
-Yeah, you can drink it and I do that as a part of the detox, that's going into the detox book, so have one a day if you want, and that helps you detox all the cooked vegetable fats that you eating, helps to break them down, the vegetable oils that you've eaten in your lifetime from eating your cooked vegetables that your parents made you eat.
-
-If you didn't like em like me.
-
-.
-
-(35) Skin Last Thing To Heal, Asian Peole Shrivel Up At 50
-[2006],[Aajonus]
-
-Well, you have to understand that most of the toxins leave through the skin, so the skin's gonna take the brunt for a long time, so it'll probably be the last thing to repair and heal
-
-However, there's some people whose skin is very important to their body and they look like miracles, within months of starting the diet.
-
-I mean, especially the Polynesian and the asian men and women, they start eating this diet and my God, their skin is just phenomenal.
-
-[Attendee]
-
-Well, a lot of them have it genetically.
-
-[Aajonus]
-
-Yeah, but you see them in their 40s and 50s and they're all just shriveled up badly.
-
-They age faster than any other culture, when they're in their youth before they hit 40, no lines anywhere but boy, you know when they hit their mid late 40s, they just shrivel up like a raisin, but they go on this diet that pops right back out pretty quickly.
-
-[Attendee]
-
-Can your skin get better as we get older.
-
-[Aajonus]
-
-Yeah, definitely?
-
-It is already.
-
-I don't have all that breakout anymore and the lines here are getting lighter.
-
-Four years ago, I had about 12 layers of skin here.
-
-Now I only have about six, so it's half of what it was.
-
-When I lived outdoors as a vegetarian, traveling on a bicycle, I looked like those Indians.
-
-I was dark skinned and had this thick skin.
-
-It was wrinkled all over, and eventually it dissolved and went away.
-
-[Attendee]
-
-Are wrinkles toxins.
-
-[Aajonus]
-
-Well, it's toxins that are buried in the skin, and the skin has killed the cells and mummified the cells, so it's like leather?
-
-A lot of the cells aren't alive.
-
-You get layers of them.
-
-You're supposed to have only three layers of skin.
-
-The older you get, the thicker your skin gets often, unless you're doing laser surgery or peels and acid burns, keep taking the layers off.
-
-[Attendee]
-
-I thought old people get that little transparent, that their skin gets thinner and that wrinkles are the skin being thin.
-
-[Aajonus]
-
-That's when you get up into your sixties.
-
-Then it goes the other way.
-
-Your body starts eating its own protein because people of that age stop digesting proteins and assimilating cooked proteins.
-
-So, then they start eating their own bodies.
-
-So, then the skin gets thinner and thinner and thinner.
-
-The body starts eating the bones, so they get osteoporosis.
-
-[Attendee]
-
-And why is that again.
-
-[Aajonus]
-
-Because they stopped digesting food, so the body eats itself?
-
-[Attendee]
-
-You mean cooked foods.
-
-[Aajonus]
-
-Yeah?
-
-The intestine stopped digesting cooked food.
-
-Eat raw food, and it changes Mine was down to here after the poison mushroom, mine went like this.
-
-I have been experimenting with some people now with that they're putting saliva and honey on their necks and it's working very well.
-
-I tried mixing the honey with water, it denatures it, but the saliva doesn't, and you have ptyalin enzyme in the saliva, which helps break down sugars, so for proper absorption.
-
-So, that's probably another reason it facilitates honey and that way you can put it on so thinly your face isn't sticky all day, just for maybe an hour.
-
-[Attendee]
-
-Fall asleep and the ants will get you.
-
-[Aajonus]
-
-It's funny, with the saliva in the honey, the ants don't bother it.
-
-[Attendee]
-
-No, but I tried some of that.
-
-The problem was the ants got around the honey, you know.
-
-Next to the bed?
-
-[Aajonus]
-
-Yeah.
-
-I'm talking about over your body, not the honey next to the bed.
-
-[Attendee]
-
-So what percentage saliva.
-
-[Aajonus]
-
-50 50, maybe a little bit more saliva than honey, and it also keeps the lips from dry?
-
-Very wonderful.
-
-Better than butter, any of it.
-
-.
-
-(36) Slowing Down Detox, Bath Formula
-[2006],[Attendee]
-
-I see in your book you talked about slowing down a detoxification and you talked about a bath
-
-Do you recommend me doing the baths.
-
-[Aajonus]
-
-Well, the baths, you have to understand that we eaten vegetable oils?
-
-Most of what we eat is the vegetable oils because of the propaganda, margarine, and all that garbage.
-
-Propaganda was that hardening of the arteries and the heart hardening of tissue came from cooked animal fats from animal fats, get off of animal fats, have margarine and vegetable oils.
-
-Well, your vegetable oils, especially your hydrogenated oils, crystallize.
-
-Hydrogenated vegetable oils are the same molecular structure as plastic.
-
-That's how plastic is made.
-
-So, it's absolute bullshit what they've been telling us.
-
-Vegetable oils cause hardening of the arteries.
-
-Humans body temperature is about 98.
-
-6° or lower.
-
-Herbivores who eat vegetables with vegetable oils have body temperature about 101°.
-
-We will not stay that warm.
-
-So, vegetable oils in the human body have a tendency to dry out at lower temperatures and crystallize, and that's what causes hardening of the arteries and hearts and multiple sclerosis a, along with iodine and a lot of other problems.
-
-But it's vegetable oils that's the culprit.
-
-To get that to melt in the body to be, dissolve it from the lymphatic system and discharge it from the body, it takes heat.
-
-So, you have to get in the bath, stay a minimum of 45 minutes to an hour and a half, take a walk afterwards, about a 45 minute walk.
-
-Before you get in the bath, like I say in the book, you have pineapple, coconut cream, and, and drink that mixture with a little bit of butter and cream too, dairy cream.
-
-You drink that before you get in it, right as you get in.
-
-Then you take the 45 minute walk and you're going to feel as limp as a noodle and not feel like taking any walk when you get out of that bath.
-
-So, you move very, very slowly because the blood sugar will be very low cuz you melted that stuff and started perspiring out of the body.
-
-So, the blood sugar's gonna be very low, so you have to move in slow motion out of that bathtub onto the toilet seat, or a chair.
-
-It shouldn't be far from the bath.
-
-You dry yourself, slowly bundle up in very warm clotheslike you're going out to the snow to stay very warm for your walk, and you take a very mild 45 minute walk.
-
-.
-
-(37) Sunglasses and Vit D, Sun Is Okay Wit Hgood Fats
-[2006],[Aajonus]
-
-I would say if it's causing you headaches or severe problems, then you use sunglasses
-
-Sun gazing and all of that, yeah.
-
-Vitamin D is very helpful for the eyes.
-
-Keeps them young and alive.
-
-[Attendee]
-
-Does the sun causes cataracts or anything like that in the long run.
-
-[Aajonus]
-
-No?
-
-Well, as long as you have good fats in the body, the sun causes the oils, the fats in the skin to transform into vitamin D, including the cornea and in the retina.
-
-So, it aids the body, but if you don't have good fats, let's say you're full of vegetable oils and you don't have any good animal fats in the body.
-
-It can cause a cancer, cataracts, glaucoma can cause all kinds of problems.
-
-[Attendee]
-
-Can cataracts reverse.
-
-[Aajonus]
-
-I've seen them reverse on this diet in animal, and human?
-
-I had a pug that was given to me.
-
-He had MS couldn't even stand up or walk, couldn't even have a bowel mover or urinate on his own.
-
-.
-
-(38) Sustainability
-[2006],[Aajonus]
-
-Well, the sustainable one is so primitive
-
-It has no cars, it has no tv, it has no electricity.
-
-That's perfect the way the natives live.
-
-That is perfectly ecological.
-
-But the way I'm gonna run the health center, we're going to have hydro power, we're gonna have sun solar power.
-
-[Attendee]
-
-Nuclear energy.
-
-[Aajonus]
-
-Laughs no nuclear energy?
-
-The machines will be oiled with coconut oil, everything will be electric that's powered by the sun and hydro.
-
-[Attendee]
-
-What about biofuels like biodiesel and ethanol.
-
-[Aajonus]
-
-They still have toxic vapors and they still have heavy metals there, so they're still very clear?
-
-[Attendee]
-
-What about peanut oil.
-
-[Aajonus]
-
-It's a vegetable oil, It will harden in our systems?
-
-It'll cause hardening of the lungs a joke.
-
-.
-
-(39) Sweat Ldoge, Sauna
-[2006],[Aajonus]
-
-From burning the ashes and the herbs and burning the rocks
-
-Ehen I do sweat lodges, I lay back flat on the floor, flat on the ground, and you got a 12 inch to 16 inch layer of good air that stays there, and the smoke doesn't come down below that, it just seals it.
-
-So, I'm down there breathing at the side, everybody's up there in that smoke and the steam and suffering.
-
-I'm down there on the ground enjoying the better air, but still it doesn't get as hot there, so it's not as much sweating.
-
-Steam baths, the problem is you got the steam that goes and burns the mucus membranes.
-
-So, that causes blisters and all kinds of problems, thins the mucus too much.
-
-Saunas are too dry, they burn the mucus membranes all the way down the system.
-
-And because it's dry when you perspire, the toxins that come out with the first iteration get dried right into the skin.
-
-So, if you do saunas, you have to go out every three minutes and rinse off thoroughly and then come back in.
-
-And you can't get the body heated up deeply into the lypmh system in the connective tissue, unless you stay in that heat for 45 minutes to an hour and a half.
-
-[Attendee]
-
-[Saunas and firemen.
-
-.
-
-.
-
-[Aajonus]
-
-Well, they were drinking a lot and discarding a lot, but they weren't on a good diet and eventually, you know, their skin would've been worse, but they got better internally, but their skin would not get better, nor there sinuses.
-
-.
-
-(40) Tapeworm For Ibs
-[2006],[Aajonus]
-
-No matter what they eat, even if it's water
-
-They get cramping, severe pain and diarrhea all the time.
-
-They live with it every day, every time they eat or drink anything, so it's a miserable disease.
-
-And he gave them the whipworm from the pig, five days later, no digestive problems like that.
-
-All the symptoms went away, not even on a raw diet.
-
-They didn't change their diet.
-
-Drank a whip worm in gatorade, which the Gatorade neutralized the hydrochloric acid, so it didn't destroy the eggs.
-
-So the eggs incubated.
-
-They got the whip worm and resolved all their problems.
-
-Of course, they were back five, six months later asking for more worms cuz they started having problems again cause they didn't change their diet.
-
-But how does it work.
-
-Who knows?
-
-There were eight scientists who came out with a report last year that followed up on his work, and they did it for, I think it was 11 years.
-
-They did the research on it, and they found that the whipworm produces three chemicals that prevent brain tumors and pancreatic tumors and a whole plethora of chemicals that protect the body and make the environment good.
-
-[Attendee]
-
-So, why can't they isolate those and just give you those chemicals rather than have those worms.
-
-[Attendee]
-
-It's not infectious to other people?
-
-[Aajonus]
-
-No, that's all bullshit?
-
-[Attendee]
-
-So, when do you recommend them to people.
-
-[Aajonus]
-
-Anytime you want?
-
-But it's hard on a raw diet, it's hard to get them past the hydrochloric acid.
-
-So, if it's a high alkanalizing environment that they need to be put in, see, I never thought of that.
-
-I put 'em in an alkaline fluid, but I never thought of putting the vegetable juice or something like that to alkanalizing the hydrochloric acid.
-
-So, probably be a good idea to eat some cheese first if you want to create a parasite.
-
-I have some people doing it now with some pigs intestines to get the whipworm and one of them did it about two months ago.
-
-So, I had him eat the cheese and then eat the intestine with some with some vegetable juice to alkanize his system, so he has no intestinal problems within a week after eating them.
-
-And another man who's 62 years old, who I've been working with for six years on the diet, like me he's had the constipation problem.
-
-I got him to get in touch with that person who had the pigs intestine.
-
-He said ever since he ate that, hasn't had constipation.
-
-Just like that, eating it one time.
-
-[Attendee]
-
-Are you gonna market it.
-
-[Aajonus]
-
-It's against the law?
-
-[Attendee #2]
-
-Yeah, I'm sure it is.
-
-[Aajonus]
-
-The small intestine.
-
-Not the large intestine.
-
-[Attendee]
-
-Wouldn't the health department have a field day with that.
-
-Because they're so absolutely paranoid about trichinosis?
-
-[Attendee #2]
-
-Isolate trichinosis and sell it laughs.
-
-[Attendee]
-
-Well, Joel Weinstock did.
-
-He knows how to do it.
-
-So, if you want to know how he does it and set up your own pharmaceutical to do it, you're just gonna have to do it underground.
-
-Joel Weinstock is at Iowa University.
-
-It's in the book, the Recipe Book, and it quotes what he found in that experiment was six people.
-
-[Attendee]
-
-But that brings up a good point for new people, just when you can't talk about this guy with people, cause they go freak out.
-
-You tell 'em anything like this, they're gonna gp report you to the agency.
-
-Your relatives think you're crazy, your friends think you're crazy?
-
-[Aajonus]
-
-I don't care.
-
-I have the health.
-
-They don't, so I don't give a shit.
-
-And if they say, "Oh, you're gonna get sick and die".
-
-I've been doing this for how long now I'm healthy and you're not.
-
-That tells me everything.
-
-As long as I die healthfully, I don't care.
-
-Doesn't matter how many years I live, it's that I live healthfully.
-
-.
-
-(41) Travel Foods
-[2006],[Aajonus]
-
-When I travel, I always take my honey butter and cheese, that's all
-
-Because I can always get eggs and raw meat wherever I go.
-
-[Attendee]
-
-What if you go long without green juice.
-
-I can't go long without it?
-
-[Aajonus]
-
-yeah, I can't go long without it.
-
-I can usually get vegetable juice, there are health food stores that make it, or I've got clients or friends that I make it for me while I'm traveling.
-
-In Bangkok, I get sugarcane juice, fresh, fresh juice, Cambodia, they make it right on the street.
-
-[Attendee]
-
-If you don't have the green juice can you get too acid.
-
-[Aajonus]
-
-Yeah, you can get too acid?
-
-.
-
-(42) Vinegar Neutralizes Chlorine, Hot Tub Setup
-[2006],[Aajonus]
-
-If you're using regular city water, you need something
-
-I used to go to those deprivation tanks and boy, they've got salt and chlorine galore.
-
-So, I take a bottle of vinegar and I'd dump it in there.
-
-Cause I'd go for, you know, six, eight hours at a time.
-
-And they'd even say, "Boy, you're really rank.
-
-It smelled like some kind of acid shit there".
-
-I said, "Well, you clean them out every so often anyways, so clean it out after I get out" because I don't tell 'em I put vinegar in it.
-
-Cause I don't wanna get in all that chlorinated water and the vinegar neutralizes chlorine.
-
-[Attendee],[Aajonus]
-
-So, if you go to a friend's house, you bring your vinegar and dump it in
-
-Well, when I used to go to swimming pools, I would do that.
-
-I would take a couple of cups.
-
-[Attendee]
-
-Well, if you're neutralizing it, then the stuff's gonna start growing.
-
-[Aajonus]
-
-No, vinegar stops that from growing.
-
-[Attendee]
-
-So, you could just use vinegar maybe.
-
-[Aajonus]
-
-Yeah, but it could dry your skin a little bit?
-
-So, you might want to put some coconut cream in there.
-
-[Attendee]
-
-So, you could just use regular water, city water.
-
-[Aajonus]
-
-Iif you're using a sand filter and vinegar, you'll be fine?
-
-You just have to neutralize the poisons in the city water.
-
-LA has 192 chemicals in the water, San Diego's 168 chemicals in the water.
-
-[Attendee]
-
-So, to neutralize the chemicals in the water, the vinegar alone would do that.
-
-[Aajonus]
-
-It will help?
-
-That's why when you want to neutralize them completely, you need a high calcium and other minerals, and that's what comes with the milk.
-
-Or if you don't want to use that for your jacuzzi, you could use epsom salt and vinegar.
-
-[Attendee]
-
-So, does the sand filter have to be in the jacuzzi or can you fit it outside.
-
-[Aajonus]
-
-Fit it on the outside?
-
-I got my jacuzzi, it's 10 feet in diameter.
-
-It's concrete, poured concrete, and I keep it, there's a center section, there's a seat level and a lot of people are in it, but when it's just me I go in it every day, almost every day when I'm in town.
-
-I just keep it only just above the seat level, so I'm down in the center section, which is about, five foot diameter.
-
-So, the heating bill isn't high and I can heat the thing in an hour instead of six, seven hours if I've got it full because it's about a 500 gallon jacuzzi if it's full, but 14 people can fit in it.
-
-When it's small, three, four people can fit in it comfortabley when I have it on the low level.
-
-Let's say the jacuzzi here, my whole filter system and heater are in a separate house that was built probably 45 feet away from the jacuzzi itself, and I keep mine outdoors.
-
-.
-
-(43) Weight Loss, You Will Look Thin, But Be Fat
-[2006],[Attendee]
-
-I'm getting too fat, but I love it
-
-[Aajonus]
-
-Well, the cream will put on more weight than anything.
-
-[Attendee]
-
-Well, I'm doing exactly what you're telling me to do.
-
-[Aajonus]
-
-Yeah.
-
-Well, just cut down everything by maybe a tablespoon at a time.
-
-[Attendee]
-
-I've been doing that.
-
-We'll just cut it down a little bit more, you know, ratio everything.
-
-[Attendee]
-
-How long do you think I need to have it.
-
-[Aajonus]
-
-Rest of your life?
-
-I will never stop drinking milk and cream.
-
-[Attendee]
-
-I wanna get back to a size 8.
-
-[Aajonus]
-
-Don't care.
-
-It's not healthy.
-
-Its how good you feel now.
-
-[Attendee]
-
-I feel wonderful.
-
-[Aajonus]
-
-So, keep it.
-
-Who cares what you look like.
-
-You look good.
-
-Who wants to be skinny and unhappy.
-
-[Attendee #2]
-
-Well, I was skinny and unhealthy, but now I'm fatter?
-
-[Aajonus]
-
-And happy and healthier.
-
-[Attendee]
-
-I'd still like to be down to a size 8.
-
-[Aajonus]
-
-Well, when you've been on the diet as long as I have you'll be skinny.
-
-Maybe 30 years.
-
-Well, you didn't have chemo and radiation, you may do it in 15, 20 years or less, who knows.
-
-Like I said, the one woman that's only been on the diet 14 years, she's thin now.
-
-She's very thin, thinner than I am, but she carries 22%- 24% body fat.
-
-[Attendee]
-
-Do I still need the cream with the milk cause I know less cream in milk.
-
-[Aajonus]
-
-You can cut it down as long as you're not comfortable with your weight, but if you start dropping weight, then I would say add it back?
-
-Because you're in the perfect weight right now for health.
-
-[Attendee]
-
-I weight more more than I ever was.
-
-[Aajonus]
-
-You're in the perfect weight for good health.
-
-Enjoy it.
-
-[Attendee]
-
-Stay with the cream.
-
-[Aajonus]
-
-Well, stay with your weight?
-
-You can cut out the cream and just drink the milk if you keep gaining.
-
-But right now you don't need to gain anymore, you're the perfect weight.
-
-.
-
-(44) What To Feed Dogs, Bones
-[2006],[Attendee]
-
-I wanted to ask you about my dog
-
-What about this flea stuff I was putting on every month, and the heartworm stuff.
-
-Cause I saw a man whose dog died of heartworm when I lived in Florida.
-
-He didn't give him the heartworm thing and the dog died.
-
-[Aajonus]
-
-That's probably what killed him.
-
-A lot of these vets will say, "Oh, your dog died of heartworm".
-
-And they didn't.
-
-[Attendee]
-
-So, don't give 'em heartworm, don't give 'em flee stuff.
-
-.
-
-[Aajonus]
-
-That's all toxic stuff?
-
-If you feed 'em right, they don't have flees.
-
-[Attendee]
-
-Okay.
-
-So much of the protein should I give him each day.
-
-He's 55 pounds?
-
-[Aajonus]
-
-You've got several dogs.
-
-[Attendee]
-
-One dog?
-
-[Aajonus]
-
-One dog.
-
-He needs about a pound of meat a day if he's indoors.
-
-[Attendee]
-
-Well, I take him for a walk.
-
-[Aajonus]
-
-That's nothing.
-
-He lives out in the backyard and he runs around all the time.
-
-[Attendee]
-
-He's like an old dog, he doesn't run, he walks.
-
-[Aajonus]
-
-A very sedentary dog.
-
-Pound a day will be fine.
-
-[Attendee]
-
-And that will be all his nutrients.
-
-[Aajonus]
-
-Well, no, you need to give him a little butter and egg once in a while?
-
-But he's gonna need a lot of bones.
-
-[Attendee]
-
-What kind of bones.
-
-[Aajonus]
-
-Chicken?
-
-[Attendee]
-
-I always thought chicken bones splinter.
-
-[Aajonus]
-
-Yes, if they're cooked.
-
-They turn brittle and then the acids don't melt it.
-
-All dogs eat all bones in the wild, that's what they live on.
-
-They eat more bones than anything else.
-
-[Attendee]
-
-So, raw bones.
-
-So, I have to go to a butcher and get bones.
-
-[Aajonus]
-
-Or you get chicken parts with the bones in them.
-
-[Attendee]
-
-And those bones will not splinter.
-
-[Attendee #2]
-
-Get a whole chicken and take out the breast for yourself and give the bones for your dogs.
-
-[Aajonus]
-
-That's what I used to, that's what I feed the coyotes.
-
-I eat the legs, they get the breast.
-
-I give them the neck and all that other stuff.
+A: Okay, it's time. 

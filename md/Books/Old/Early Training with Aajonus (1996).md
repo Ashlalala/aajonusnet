@@ -108,9 +108,6 @@ _— Sally... she’s addicted to her tea. Non-caffeine, but..._
 Aajonus: However, what she can do is... I have one client who taught
 me this. She would take fresh hot peppers, blend it with some lemon
 and blend it until the blender got warm, the water in the blender got
-
-
-
 warm and the peppers make it seem hot. And they do really the
 same thing. They will heat up the body. The hot peppers with the
 honey and lemon raise the blood pressure and that is mostly what
@@ -496,10 +493,6 @@ them their symptoms as well. She has gained 22 pounds now in
 almost 5 months. She looks 10 years younger. She never gets hungry
 any longer. And that is because she is eating foods that she can
 utilize. But she has this chronic thing about having so much fecal
-
-
-```
-```
 matter pass out of her body every day and those people think there
 is something wrong if it doesn’t.
 
@@ -534,9 +527,6 @@ in there because she has carried that around for 25 years. Doctors
 were never able to find out what it was. And it probably will take a
 full year and a half before all that pain will go, that heaviness will go.
 I set her up for that because it will take that long to get that body
-
-
-
 well. But all of the other problems are gone — all of the other
 symptoms have resolved – and within five months, including the
 headaches, the migraines.
@@ -678,9 +668,6 @@ everything. In any sick person, that’s mainly what I deal with. Always
 give them the fats. Never have them take a juice alone, because then
 you are dealing with a detox that will create pain, and you are
 putting matter in there which will dissolve and break down decay or
-
-
-
 debris without the fats to chelate with and take it out of the body.
 They could have an aneurism, a heart attack. There are many
 different complications that could arise. That’s why doctors lose so
@@ -851,8 +838,7 @@ juice twice a day.
 _— Two eight ounce glasses?_
 
 Aajonus: Yes. Any more than that and they are going to detox too fast
-
-- unless they are a sporty person, athletic person, someone who
+unless they are a sporty person, athletic person, someone who
 perspires a lot and burns up a lot of sugars. If they can burn up, fine.
 They can drink a gallon a day if they are very active. But an
 individual who is not an athletic individual, and who is ill, shouldn’t
@@ -879,9 +865,6 @@ _— You mean the raw Carob Fudge recipe._
 
 Aajonus: Yes. Eat as much as you want. You can pig out on it and all
 of a sudden after a few days, you are losing weight from it, and
-
-
-
 you’ve got no more craving for it. It never returns like that. Never
 returns.
 
@@ -950,9 +933,6 @@ _— Or fruit juice._
 Aajonus: Yes. If they want to eat some fruit by itself, like eating an
 orange by itself, they can have three sections at a time every five
 minutes. Slow it down to that extent. Because I have them eating fats
-
-
-
 with everything else, there is fat in the blood to deal with it in small
 quantities at a time.
 
@@ -1020,9 +1000,6 @@ the thoughts start coming to the right places at the right times, and
 it’s like they don’t have to struggle to remember it. All of a sudden
 the thought pops in at the right moment. Feeding themselves better
 is part of it. The diet itself gets things working. As I said in the book, I
-
-
-
 couldn’t read until I was twenty-two years old when I started
 drinking the carrot juice. My brain just never worked.
 
@@ -1167,9 +1144,6 @@ The butter also seals it. Let’s say you are making a fruit pie, and of
 course there is more moisture in it and the pie crust usually ends up
 mushy. When the crust is cold like that with the butter in it, it
 becomes sealed. So it stays crunchy. I only keep the crust in the
-
-
-
 freezer as long as it takes me to make the fill. When I pull it out, I put
 my fill in and stick it in the refrigerator and let it solidify.
 
@@ -1678,8 +1652,7 @@ _— And Sally is more of a white complexion, light, fair, blond._
 
 Aajonus: She is probably a red meat eater predominantly. With the
 combination type I have them eat both, unless they are very anxious
-
-- then more fish and poultry. If a person is overweight and irritable,
+then more fish and poultry. If a person is overweight and irritable,
 that’s both red and white. The irritability comes from high acid
 content in the body. When they look like they are white and pale,
 pallid and they should be a red meat eater and they are very anxious
@@ -1782,9 +1755,6 @@ to break those sugars down. And if they continue on a bad diet, it just
 keeps storing. And you need the cooked starches combined with the
 raw fats in this diet to bind with those toxins that are forming in the
 blood, digestive tract, and glandular systems. And that puts some of
-
-
-
 those fermenting sugars into the skin. It’s a real difficult one,
 because you are constantly feeding it.
 
@@ -1857,9 +1827,6 @@ _— What about hepatitis C?_
 
 Aajonus: You know hepatitis is really not a difficult thing. I’ve never
 had a problem with that. It’s very easy. It’s just that you have to get
-
-
-
 organic liver. And you put the liver in a food processor with some
 ginger and some horseradish, or, if they don’t like the ginger, then
 just use the horseradish, or, if they don’t like the horseradish, just
@@ -2339,9 +2306,6 @@ oxygenation of the body, more iron._
 
 Aajonus: Yes. Strengthen his system basically all over, help start his
 muscle cells developing again, because he’s got almost no muscle on
-
-
-
 his legs. It’s just skin and bone, and he’s very white. There is a little
 ruddiness in there but he’s too white. And this is somebody who
 should be virulent red.
@@ -2560,9 +2524,6 @@ the tendency to be scattered in thought happens a lot with
 vegetarians. It can be too much sugar in the blood, too much fruit
 sugars in the blood, which stimulates adrenaline. If the brain tries to
 use it, it’s too radical. Sugar. Let’s say one eats too much carrot juice,
-
-
-
 which has a lot of starch sugar, and that goes right to the brain. The
 brain uses that and then one can get dispersed. Because that will
 start firing too many places at once. Too many things going on.
@@ -2635,10 +2596,7 @@ Let’s say I want to stimulate the pancreas. I want to get that person a
 little bit more rooted emotionally, open up their psychic channels,
 because that link is a very emotional link. That I found out in my
 death experience. If you don’t have that emotional link, you don’t
-
-
-
-have that connerction, right to the heart, to that feeling of love or
+have that connection, right to the heart, to that feeling of love or
 anything. You just have no feeling. You are just operating like Dr.
 Spock. So things like jerusalem artichoke, which has natural inulin in
 it, so the insulin gets into effect there and plays out. Any food that
@@ -2897,9 +2855,6 @@ taught us to blame. Something is always to blame. That’s our
 education. So you need to find out their viewpoint and then defuse it
 by giving them permission and saying they are fine. "You are not a
 bad person. You’ve got an adrenal gland that is causing adrenaline to
-
-
-
 go in, and irritate your nervous system, because if it can’t find the fat
 in your blood, it’s going to eat on the myelin." The myelin is ninety
 percent fat basically. It protects the whole nervous system. Now if
@@ -3040,9 +2995,6 @@ _— If you are dried out._
 Aajonus: Yeah. If you have cirrhosed tissue from it. I look at the
 elbows and knees. So if the elbows are dry I would probably find
 cirrhosed tissue in the arms and shoulders and/or maybe in the back
-
-
-
 and chest. It is almost impossible to evaluate the hip areas without
 looking at the rectum and I don’t generally do that.
 
@@ -3761,9 +3713,6 @@ a little here. This lesion is showing... that’s actually a lesion inside the
 nerve wreath. This little line out here he calls the nerve wreath
 which connects it. To me that’s the lacteal system on this side.
 Almost all around it’s the lacteal system. I don’t call it the nerve
-
-
-
 wreath. But you see here you’ve got a lesion in the lining where the
 arrow is going. And there are a lot of little ones.
 
@@ -7118,10 +7067,6 @@ that are sort of benign forms of it that come from more natural
 sources, like Estriol is one.
 And there is an Estriol cream that you can rub in the vagina and it
 brings are certain amount of controlled, natural estrogen to that part_
-
-
-```
-```
 _of the body. And the progesterone the cream is supposed to go in and
 act as a precursor to the body’s producing of its own estrogen. So
 that’s one area I wanted to cover. PMS, menopause and in the men,

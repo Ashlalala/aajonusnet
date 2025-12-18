@@ -168,10 +168,7 @@ It is interesting to note that the diet these Indians lived
 on since birth contained no breads, pasta, grains or
 processed and packaged foods. They ate no frozen
 meats or frozen foods and no bottled or canned foods.
-They have never had any form of injections, vaccines,
-
-
-refined sugar, refined salt, no antibiotics and no
+They have never had any form of injections, vaccines, refined sugar, refined salt, no antibiotics and no
 medications of any kind.
 
 Considering this information, one can say there is
@@ -303,10 +300,7 @@ body once in there?”
 
 The simple answer is NO! They stack up and store in
 the body and cause a myriad of health issues over time.
-This time factor is about 5 to 20 years before the health
-
-
-issues really start to show up. Treating these with
+This time factor is about 5 to 20 years before the health issues really start to show up. Treating these with
 medication and hoping for the magic pill or quick fix is
 just more toxicity. Research has shown that chelation
 therapy does not work to remove toxicity. (See
@@ -431,8 +425,6 @@ In a hot tub from 105 to 110 degrees Fahrenheit, you
 can stay in for as long as 12 to 15 hours and even go to
 sleep if you so desire! Such extended hot tubbing has
 been done successfully by many persons. But normally
-
-
 speaking 90 minutes is a good run of it.
 
 For the normal person, one gets hot and needs to take a
@@ -2079,7 +2071,7 @@ going up the hot tub.
 
 Tighten the bottom ring as well as you can. Take the
 rubber mallet and pound on the ring to tighten the
-wood staves into the floor even more. Then re- tighten
+wood staves into the floor even more. Then re-tighten
 the ring again. Repeat.
 
 Continue on up without the mallet on the upper rings.
@@ -2671,7 +2663,7 @@ chemtrails.
 **Chines:** the support beams under a hot tub that
 supports it.
 
-**Chloramine: a** n organic compound containing a
+**Chloramine:** an organic compound containing a
 chlorine atom bonded to nitrogen used for antiseptics,
 disinfectant and treating water. It is formed when
 ammonia is added to chlorine to treat drinking water.
@@ -2915,8 +2907,7 @@ or “naturally sparkling”, the carbonation is natural
 from the well and has a high level of healthy
 electrolytes. It helps oxygen absorption. Brands of
 naturally carbonated waters are Gerolsteiner, Perrier,
-San Pellegrino, Apollinaris, San Faustino and Raml
-osa.
+San Pellegrino, Apollinaris, San Faustino and Ramlosa.
 
 **NEC:** National Electric Code is a regionally adoptable
 standard for the safe installation of electrical wiring

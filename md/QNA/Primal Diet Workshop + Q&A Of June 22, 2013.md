@@ -3598,6 +3598,8 @@ congestion is when your lymphatic system is jammed: the glands and the nodes and
 the arteries and the veins - passages going to those lymph glands and nodes.
 Remember the tonsils are part of that.
 
+[Highlight: Dangers of Salt]
+
 I just want to make sure that you understand salt is dangerous. Salt is an
 explosive. It is more volatile than nitroglycerin. If you had a pure cake of
 sodium as big as a football it would take out all of New York City. Just like a

@@ -1,388 +1,147 @@
-So this is his liver, is this chicken liver here?
+V = Videographer, M = Mother, F = Father
 
-Chicken and beef.
+V: So this is his liver, this is chicken liver here isn't it?
 
-Put some beef in it.
+M: Chicken and the beef.
 
-Ok, so it's chicken liver, beef liver, organic of course, and raw milk.
+F: Put some beef in it. Okay, so it's chicken liver, beef liver, organic of course, and raw milk. Everything's raw.
 
-Everything's raw.
+M: And the egg.
 
-And the egg.
+F: Oh, a raw egg too.
 
-Oh, a raw egg too.
+V: Egg, oh.
 
-Egg, oh.
+F: A lot of times we throw eggs in there too.
 
-A lot of times we throw eggs in there too.
+V: Yeah, sure.
 
-Yeah, sure.
+F: And this, I tell you what, the first time he had this, I was kind of surprised. I go, what can we, you know, she was starting to run a little bit low on milk, well she was going to Florida for a month or so, and so we needed to come up with something else. And I wrote to Aajonus and got this recipe, and I fixed it, and it's like, I smell it, and I go, that smells so good. And I go, well, you know, I'll give it to him, and I figure, well babies, they decide, whatever you give them, that's what they decide tastes good, you know, to some degree. And I gave him a bottle this size, he was what, eight, nine months old, I think? So he wasn't nearly as big as he is now, and he sucked that thing down in what seemed like 30 seconds.
 
-And this, I tell you what, the first time he had this I was kind of surprised.
+V: Wow.
 
-I go, what can we, you know, she was starting to run a little bit low on milk.
+F: I mean, he took it, and he just started sucking, and it was the most amazing thing.
 
-She was going to Florida for a month or so and so we needed to come up with something
+V: Oh, yeah.
 
-else.
+F: And he just did really well with it. And so, you know, we just, that's 95% of his diet, you know, sometimes he gets a little bit of fruit or, you know, I was giving him vegetable juice, and Aajonus says, don't give it to children, I'm going, I mean, he loves vegetable juice, he likes everything, he loves raw food.
 
-And I wrote to Aajonus and got this recipe and I fixed it and it's like I smell it and
+V: He'll get into it, you know.
 
-I go, that smells so good.
+F: Yeah.
 
-And I go, well, you know, I'll give it to him.
+V: Oh, that's interesting. Well, you know, I, without the bottle and all that, that's one of my favorite things, because we mix up liver, put in onions and honey in milk, so, you know, it's a small amount of liver.
 
-And I figure, well, babies, they decide, whatever you give them, that's what they decide tastes
+F: Onions would help a lot with that. Yeah, because liver and onions is always one of my favorite, you know, I just never had it raw.
 
-good, you know, to some degree.
+V: Yeah. Yeah. I mean, we don't take huge amounts of it, just, but, you know, we probably could. I mean, I love his enthusiasm.
 
-And I gave him a bottle this size, he was what, eight, nine months old I think.
+M: He drinks four bottles so far today.
 
-So he wasn't nearly as big as he is now.
+V: Really?
 
-And he sucked that thing down in the scene like 30 seconds.
+M: Yeah.
 
-Wow.
+F: He'll drink another one or two.
 
-I mean, he took it and he just started sucking.
+M: Another one or two.
 
-And it was the most amazing thing.
+V: Oh, fantastic.
 
-Oh, yeah.
+M: And later, nine o'clock, we'll have one bottle, and the middle night, one bottle. Five or six bottles a day.
 
-And he just did really well with it.
+F: So, you know, it's like, he never gets sick. I mean, he had a runny nose a little bit for an hour or two here, and he had a little bit of diarrhea. I think we had some liver that just didn't look right, and so he had a little diarrhea, but that might just be a detoxing too, some old toxins in his body just coming out, you know, but he's, you know, he's generally pretty cheerful and strong and he's a good boy.
 
-And so, you know, we just, that's 95% of his diet.
+V: Yeah. And I missed at the beginning, I would like you to introduce yourself, give me your name and your permission for this to end up on the internet or something like that.
 
-You know, sometimes he gets a little bit of fruit or, you know.
+F: Okay. Oh, my God. On the internet?
 
-I was giving him vegetable juice and Aajonus says, don't give it to children.
+V: Possibly.
 
-I'm going, he loves vegetable juice.
+F: Okay. So, my name's Jeff Cantley. This is Max Cantley, and this is my beautiful wife, Laine.
 
-He likes everything.
+V: Oh, yeah.
 
-He loves raw food.
+F: And when we found out she was pregnant, we talked about, you know, well, what's the best thing to do? Well, she agreed to try, you know, Aajonus' diet.
 
-He'll get into it.
+M: Yeah, I can understand it. I didn't eat the raw food before, but I heard this idea, I said, I can understand.
 
-Yeah.
+V: Yeah.
 
-Wow, that's interesting.
+M: I want to try.
 
-Well, you know, I, without the bottle and all that, that's one of my favorite things.
+V: So, you did, huh?
 
-Yeah.
+M: I did, yeah.
 
-Because we mix up liver, put in onions and honey and milk.
+F: So, she's very, very healthy the whole time, and, you know, her skin looks great and everything.
 
-Right.
+V: Yeah.
 
-So, you know, it's a small amount of liver for.
+F: I mean, she looks good. So, anyway, so she did that for the whole pregnancy, and then after he's born, she did it the whole time that breastfeeding, and then after that, she goes, I miss my Chinese food too much. And so, any time she starts to feel a little sick, she goes back to it, and she goes, I know this is the right way of eating, and, you know, it's really funny.
 
-Onions would help a lot with that.
+V: Yeah. Yeah. Well, the whole idea that I'm aware of is people make up their own minds, you know what I mean?
 
-Yeah, because liver and onions is always one of my favorite.
+F: Right, right.
 
-And I just never had it raw.
+V: It's the best.
 
-Yeah.
+F: Yeah, it works.
 
-Yeah.
+V: Anyway, so, yeah. How old is he now?
 
-I mean, we don't take huge amounts of it, just, but, you know, we probably could.
+F: Sixteen months. Sixteen. So, he just, he just whacked himself. I mean, another nice thing is he'll climb up on the table, you know, and it's just like he'll fall or something sometimes, and he just gets, I mean, he cries for a little bit, and he just gets up, and you never know what happened. He's really tough.
 
-I mean, I love his enthusiasm.
+V: Yeah.
 
-He drinks four bottles so far today.
+F: With a lot of energy and good nature.
 
-Really?
+V: Was it a natural childbirth then?
 
-Yeah.
+M: Yeah.
 
-He'll drink another one or two.
+F: Yeah. It was actually hard labor. It was two pushes, wasn't it? Two pushes, and he was out.
 
-Another one or two.
+V: Fantastic. Yeah. Well, maybe we'll watch him. He wants to. He wants to.
 
-Oh, fantastic.
+F: Oh, yeah.
 
-And later at 9 o'clock, we'll have one bottle.
+V: He'll be on the other end of this.
 
-In the middle of the night, one bottle.
+F: Oh, yeah.
 
-Oh, wow.
+V: Maybe he can climb up on his little ladder over there. There's somebody you guys have to meet. He's got a baby about maybe two years older than Max, with a natural childbirth, and his whole life, you know, completely raw. Just like he is, you know, just happy, healthy, you know, it looks at you, and you know he's right there. You know what I mean?
 
-Five or six bottles a day.
+F: Well, that's one thing. Aajonus said to, you know, when he wrote me about the formula, he goes, listen, you know, the babies that are like this, he says, like he's got one of them that's five years old in fourth grade. I'm going, well, that's what we want.
 
-So, you know, it's like, he never gets sick.
+V: Yeah. Right. I saw that kid, too. I saw that kid. Yeah. I know which one he's talking about. This kid is amazing.
 
-I mean, he had a runny nose a little bit for an hour or two here.
+F: Right.
 
-He had a little bit of diarrhea.
+V: He lives on the East Coast. We went there. We visited there to get raw milk when we were in Manhattan, and we just took a little bus across to New Jersey, got some raw milk, and I saw this kid sitting there playing, completely content with himself. He was about two then.
 
-I think we had some liver that just didn't look right.
+F: Right.
 
-And so he had a little diarrhea.
+V: Yeah. Yeah. I'm going to have to edit you, Max, because, yeah, it's pretty fun, yeah.
 
-But that might just be detoxing too.
+F: So this is what we have to put up with all the time with this guy. He's just, you know.
 
-Some old toxins in his body just coming out, you know.
+M: He just has so much energy. I just, sometimes I just couldn't make, like, he sleep one or two hours during the day and that's it. All the time running, you know, I have to play with him, I couldn't make up.
 
-But he's generally pretty cheerful and strong and.
+V: Wow. You've had other children before, right?
 
-Yeah.
+M: Yeah. Not as healthy as him.
 
-He's a good boy.
+V: I see.
 
-Well, you know, we missed at the beginning.
+M: I have to say. And my daughter said, okay, now, when I have a baby, I have to feed my baby raw milk, raw liver.
 
-I would like you to introduce yourself.
+V: Yeah. No kidding. All right.
 
-Give me your name and your permission for this to end up on the Internet.
+F: Okay. Back off now. Yeah. That's it. Grab it. You're going to come up here?
 
-Oh, my God.
+V: All right. Well.
 
-On the Internet?
+F: Not getting it?
 
-Possibly.
-
-Okay, so my name is Jeff Cantley.
-
-This is Max Cantley.
-
-And this is my beautiful wife, Lene.
-
-Oh, yeah.
-
-And when we found out she was pregnant, we talked about, you know,
-
-well, what's the best thing to do?
-
-And so she agreed to try, you know, Agenis' diet.
-
-Yeah, I can understand it.
-
-I didn't eat the raw food before, but I heard this idea.
-
-I said, I can understand.
-
-Yeah.
-
-I want to try.
-
-So you did, huh?
-
-I did, yeah.
-
-So she's very, very healthy the whole time.
-
-And, you know, her skin looks great and everything.
-
-Yeah.
-
-I mean, she looks good.
-
-So anyway, so she did that for the whole pregnancy.
-
-And then after he's born, she did it the whole time that. . .
-
-Breastfeeding.
-
-Breastfeeding.
-
-And then after that, she goes, I miss my Chinese food too much.
-
-And so any time she starts to feel a little sick, she goes back to it,
-
-and she goes, I know this is the right way of eating.
-
-It's really funny.
-
-Yeah.
-
-Yeah.
-
-Well, the whole idea that I'm aware of is people make up their own minds,
-
-you know what I mean?
-
-Right.
-
-It's the best.
-
-Yeah, it works.
-
-Anyway, so. . .
-
-How old is he now?
-
-16 months.
-
-So he just whacked himself.
-
-I mean, another nice thing is he'll climb up on the table, you know,
-
-and it's just like he'll fall or something sometimes, and he just gets--I mean,
-
-he cries for a little bit, and he just gets up, and you never know what happened.
-
-He's really tough.
-
-Yeah.
-
-With a lot of energy and good nature.
-
-Was it a natural childbirth?
-
-Yeah.
-
-Yeah, it was a natural childbirth.
-
-Wow.
-
-It was actually hard labor.
-
-It was two pushes, wasn't it?
-
-Wow.
-
-Two pushes, and he was out.
-
-Fantastic.
-
-Yeah.
-
-Well, maybe we'll watch him--he wants to do something on the other end of this.
-
-Oh, yeah.
-
-Maybe he can climb up on his little ladder over there.
-
-Well, yeah.
-
-There's somebody you guys have to meet.
-
-He's got a baby about maybe two years older than Max,
-
-with a natural childbirth, and his whole life, you know, completely raw.
-
-Just like he is, you know, just happy, healthy.
-
-You know, it looks at you, and you know he's right there.
-
-Well, that's one thing.
-
-Ajahn said to--you know, when he wrote me about the formula, he goes,
-
-Listen, you know, the babies that are like this, he says,
-
-Like he's got one of them that's five years old in fourth grade.
-
-I'm going, Well, that's what we want.
-
-Yeah, right.
-
-I saw that kid, too.
-
-I saw that kid.
-
-I know which one he's talking about.
-
-That kid is amazing.
-
-He lives on the East Coast.
-
-We went there.
-
-We visited there to get raw milk when we were in Manhattan.
-
-We just took a little bus across to New Jersey, got some raw milk,
-
-and I saw this kid sitting there playing, completely content with himself.
-
-He was about two then.
-
-Yeah.
-
-[laughter]
-
-I'm going to have to edit you, Max.
-
-Yeah.
-
-It's pretty fun.
-
-Yeah.
-
-So this is what we have to put up with all the time with this guy.
-
-He just has so much energy.
-
-Sometimes I just couldn't make it.
-
-He sleeps one or two hours during the day, and that's it.
-
-All the time running, I have to play with him.
-
-I couldn't make it.
-
-Wow.
-
-You've had other children before, right?
-
-Yeah, I have two children.
-
-Not healthy.
-
-I see.
-
-I have to say that.
-
-My daughter says, Okay, now I have to feed my baby raw milk, raw liver.
-
-Yeah, yeah.
-
-No kidding.
-
-All right.
-
-[baby crying]
-
-Okay, back off now.
-
-[baby crying]
-
-Yeah.
-
-That's it, grab it.
-
-[laughter]
-
-You want to come up here?
-
-All right.
-
-Well--
-
-[baby crying]
-
-Not getting it?
-
-No, I am.
-
-Yeah.
-
-You're the star, my man.
-
-You're the star.
-
-[baby crying]
-
-That's it.
-
-[baby crying]
-
-That's it.
-
-[end]
-
+V: No, I am. Yeah. You're the star, my man. You're the star.
