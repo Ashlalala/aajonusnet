@@ -1171,6 +1171,7 @@ cream should always be refrigerated. As of this publication, only
 olive and flax oils are pressed below 96° F (36° C) and have not
 been solvent extracted. Absolutely no coconut oil or butter is
 produced under 118F (46C), no matter what the labels claim.
+
 **WATER** that is not in raw food has no active ions, electrolytes
 nor minerals bound with nutrients. It must have all 3 properties
 or it is only 10% cellularly utilizable. Water leeches nutrients
@@ -5912,6 +5913,7 @@ vegetables. As stated above, we do not digest vegetables well.
 Germinated seeds contain enzyme suppressors that prevent
 proper protein digestion, utilization and assimilation, causing
 protein deficiency.
+
 Our intestinal shape is like some frugivores (primates) who
 mainly eat fruit. However, when humans eat a lot of fruit they
 incur health problems, such as osteoporosis, tooth degeneration,
@@ -5931,6 +5933,7 @@ results in fungal problems, such as candida and other yeast
 infections. Eating more than a little fruit causes severe fat and
 protein deficiencies. In women, that often causes bloating and
 menstrual cramps.
+
 Carnivores, such as cats and dogs, mainly eat meat. Our
 digestive juices are most similar to carnivores. In their stomachs,
 the hydrochloric acid concentration is 15 times greater than in
@@ -6098,6 +6101,7 @@ absorbable and 8% utilizable. Often, excessive overeating or
 anorexia results because nutrient-deficient food is unsatisfactory
 for our bodies’ requirements. Bio-electromagnetic energies
 within food are lost rather than conveyed cellularly.
+
 The following analogy applies to many nutrients, including
 fats and minerals that are destroyed by cooking and other food-
 treatments: Clay is malleable, pliable, and able to foster growth
@@ -6110,6 +6114,7 @@ may lacerate and embed, causing the animal to choke to death.
 Its saliva cannot penetrate the cauterized bone. If raw bones
 splinter, the animal's saliva dissolves it within minutes and the
 animal does not suffer any significant suffering or damage.
+
 Most often, animals develop disease from being fed cooked
 and processed food, especially food-manufacturing byproducts
 and waste, hormones, antibiotics, vaccines and chemicals. If we
@@ -6262,6 +6267,7 @@ animal fodder. That subject alone is worth a shelf of books. Even
 natural Vitamin E has to be either heat-processed or solvent-
 extracted. Heat-processing destroys Vitamin E and solvent-
 extraction causes destruction and low-grade poisoning.
+
 Consider doctors’ advice to take iron supplements if iron
 level in the blood is below what they think it should be. The
 iron-level concept is a seatbelt of the medical/pharmaceutical
@@ -6273,6 +6279,7 @@ gross toxicity. See Baby Food/Infant Formula, page 43, for a
 case history of an infant who was diagnosed by a medical doctor
 with anemia and retardation and who was prescribed iron,
 mineral and vitamin supplements.
+
 Mineral absorption and utilization depends upon ion and
 electrolyte activity and exchange. When food is cooked or
 processed, ions and electrolytes are neutralized and often
@@ -6286,10 +6293,12 @@ degeneration. The only way to assure that iron is properly
 absorbed and utilized, is to eat raw foods that contain bioactive
 iron. A bioactive iron-rich food is raw meat that strengthens
 blood, liver, adrenals, pancreas, gallbladder, spleen and muscles.
+
 Massive free-radicals and other toxins store extracellularly
 and/or intercellularly. They cannot be converted to cellular food.
 Affected areas of the body malfunction or rupture and become
 sites of disease.
+
 In the case of very debilitating and painful intestinal Crohn's
 disease, several major toxins accumulate in the intestines: Free-
 

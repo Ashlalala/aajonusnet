@@ -1,6 +1,6 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2008-07-20/)
 
-Questions and Answers in San Diego, California
+Location: San Clemente, CA
 
 A: Okay, are we all present?
 

@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Carlsbad, CA
+
 A: Well I'll start it off by saying I'm homeless folks. I got kicked out of my Malibu place. That's a clinic, you know, rehab for wealthy people, and they decided they wanted to make some changes on the property. So they had to have a building inspector come over and approve the changes that they wanted to make. So the building inspector decided to inspect everything on the property. Came to my house and he said, there's no permit for this house, you've got to tear it down. So I just got notice on Tuesday. So everything is going into boxes. So I'm homeless. And they gave me until the 18th, but I'm leaving tomorrow for Thailand, so I had to pack up everything in five days.
 
 Q: Do you have help?

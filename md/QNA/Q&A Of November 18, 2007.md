@@ -1738,7 +1738,7 @@ Q: that will eliminate the chocolate cravings?
 A: yeah it will like I said in the hard book it's usually butter and honey that
 you need, not the chocolate. Butter and honey is what your body is craving.
 
-A: Cathy has an announcement, I don’t know what about.
+A: Kathy has an announcement, I don’t know what about.
 
 Q: Ah yesI just wanted to know.I talked to a producer in Alaska; he went out
 already hunting for some Seal. If there’s anybody on the list...

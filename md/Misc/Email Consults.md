@@ -1,4 +1,6 @@
-These are further email consults Aajonus has done, not featured in the [Questions and Answers](questions-and-answers) book.
+@[Source](docs/email_consults.pdf)
+
+These are further email consults Aajonus has done, which are not included in the [Questions and Answers](questions-and-answers) book.
 
 **Feb 24, 2009**
 > Re: Question

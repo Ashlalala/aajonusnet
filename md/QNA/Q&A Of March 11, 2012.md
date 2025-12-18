@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2012-03-11/)
 
+Location: Marina Del Rey, CA
+
 Transcriber: Arielle - Thank you, Ariella!
 
 A: Okay, we’re just going to talk a little bit about what’s going on

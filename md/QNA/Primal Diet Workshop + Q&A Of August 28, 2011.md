@@ -1,5 +1,9 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Carlsbad, CA
+
+Note: This workshop has been wrongly uploaded by other people as a Q&A under the name "QA_SD_2010_08_28" (28 August 2010).
+
 A: But this was an adult, you know, who was violent.
 
 Q: I didn't know he was violent.

@@ -30,5 +30,5 @@ I was and am the same individual with or without an HONORARY Ph.D. My work stand
 
 I need more evidence other than the word of someone I no longer trust for truth in reporting that my honorary doctorate is not valid. Mine may be valid even through those posted by Adams are admitted frauds. Just because there are counterfeit $100 bills does not mean that they are all counterfeit. Is there anyone who can find the people who know anything about Richmonds University? I suspect we should follow the money.
 
-healthfully and appreciatively,
+Healthfully and appreciatively,
 aajonus  

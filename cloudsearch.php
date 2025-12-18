@@ -1,265 +1,236 @@
 <?php
-// cloudsearch.php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
+// 1) Read the raw query (preserve spaces)
 if (isset($_GET['search'])) {
-    $query = trim(strtolower($_GET['search']));
+    $searchValue = strtolower($_GET['search']);
 } else {
-    // 2. Otherwise, read JSON input from fetch POST
-    $inputJSON = file_get_contents('php://input');
-    $data = json_decode($inputJSON, true);
-
-    // The search query
-    $query = isset($data['query']) ? trim(strtolower($data['query'])) : '';
+    $inputJSON   = file_get_contents('php://input');
+    $data        = json_decode($inputJSON, true);
+    $searchValue = isset($data['query']) ? strtolower($data['query']) : '';
 }
 
-$searchValue = $query;
+// 2) Tokenize and filter out “the”
 $words = preg_split('/\s+/', $searchValue);
-$words = array_filter($words, function($word) {
-    return $word && $word !== 'the';
-});
+$words = array_filter($words, fn($w) => $w !== '' && $w !== 'the');
 
-// If all words are shorter than 3 characters, return nothing.
-if (empty($words) || array_reduce($words, function($carry, $w) { 
-    return $carry && strlen($w) < 3; 
-}, true)) {
-    echo '';
+// If all words are < 3 chars, return empty JSON array
+if (empty($words) || array_reduce($words, fn($c,$w)=> $c && strlen($w) < 3, true)) {
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode([], JSON_UNESCAPED_UNICODE | JSON_PARTIAL_OUTPUT_ON_ERROR);
     exit;
 }
 
-// For snippet extraction, also only use words at least 3 characters long.
-$validWords = array_filter($words, function($word) {
-    return strlen($word) >= 3;
-});
-
-$maxLength = 200; // Maximum number of characters for snippet windows
+$validWords = array_filter($words, fn($w) => strlen($w) >= 3);
+$maxLength  = 200;
 
 // ----------------------------------------------------------------------
-// 1. Build article list by scanning the "md" folder (same as index.php)
+// 3) Build article list by scanning the "md" folder
 // ----------------------------------------------------------------------
-$prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
-$mdFolder = 'md';
-$articles = [];
-$iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS));
-foreach ($iterator as $file) {
+$prioritizeCategories = ['QNA','Newsletters','Books','Books/Old'];
+$mdFolder              = 'md';
+$articles              = [];
+
+$it = new RecursiveIteratorIterator(
+    new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS)
+);
+foreach ($it as $file) {
     if ($file->isDir()) continue;
-    $filePath = $file->getPathname();
-    $filename = $file->getBasename('.md');
-    $category = dirname($filePath);
-    if ($category == $mdFolder) {
-        $category = 'other';
-    } else {
-        $category = str_replace($mdFolder, '', $category);
-        $category = str_replace("\\", "/", $category);
-        $category = ltrim($category, '/');
-    }
-    // Determine link exactly as in your index.php (change $categoryInLinks if needed)
+    $path   = $file->getPathname();
+    $name   = $file->getBasename('.md');
+    $catDir = dirname($path) === $mdFolder
+            ? 'other'
+            : ltrim(str_replace([$mdFolder, "\\"], ['', '/'], dirname($path)), '/');
+
+    // build link (toggle $categoryInLinks if desired)
     $categoryInLinks = false;
     if ($categoryInLinks) {
-        $sanitizedCategory = sanitizeFileName($category);
-        $sanitizedName = sanitizeFileName($filename);
-        $link = "/{$sanitizedCategory}/{$sanitizedName}";
+        $link = '/'.sanitizeFileName($catDir).'/'.sanitizeFileName($name);
     } else {
-        $sanitizedName = sanitizeFileName($filename);
-        $link = "/{$sanitizedName}";
+        $link = '/'.sanitizeFileName($name);
     }
+
     $articles[] = [
-        'filePath' => $filePath,
-        'filename' => $filename,
-        'category' => $category,
-        'link' => $link
+        'filePath' => $path,
+        'filename' => $name,
+        'category' => $catDir,
+        'link'     => $link,
     ];
 }
 
-// Sort articles using the same comparator as before
+// ----------------------------------------------------------------------
+// 4) Sort articles using original comparator
+// ----------------------------------------------------------------------
 usort($articles, function ($a, $b) use ($prioritizeCategories) {
     $catA = explode('/', $a['category']);
     $catB = explode('/', $b['category']);
-    
+
     $mainCatA = $catA[0];
     $mainCatB = $catB[0];
-    
+
     $priorityA = array_search($mainCatA, $prioritizeCategories);
     $priorityB = array_search($mainCatB, $prioritizeCategories);
     $priorityA = $priorityA === false ? PHP_INT_MAX : $priorityA;
     $priorityB = $priorityB === false ? PHP_INT_MAX : $priorityB;
-    
+
     if ($priorityA != $priorityB) {
         return $priorityA - $priorityB;
     }
-    
     if ($mainCatA != $mainCatB) {
         return strcmp($mainCatA, $mainCatB);
     }
-    
-    if ($mainCatA == $mainCatB) {
-if ($mainCatA == 'QNA') {
-    $pattern = '/\b(?:(January|February|March|April|May|June|July|August|September|October|November|December)(?:(?:\s+(\d{1,2})(?:,\s*|\s+))|(?:,\s*))?)?(\d{4})\b/';
-    
-    preg_match($pattern, $a['filename'], $ma);
-    $monthA = !empty($ma[1]) ? $ma[1] : 'January';
-    $dayA   = !empty($ma[2]) ? $ma[2] : '1';
-    $yearA  = isset($ma[3]) ? $ma[3] : '1970';
-    $timestampA = strtotime("$monthA $dayA, $yearA");
-    
-    preg_match($pattern, $b['filename'], $mb);
-    $monthB = !empty($mb[1]) ? $mb[1] : 'January';
-    $dayB   = !empty($mb[2]) ? $mb[2] : '1';
-    $yearB  = isset($mb[3]) ? $mb[3] : '1970';
-    $timestampB = strtotime("$monthB $dayB, $yearB");
-    
-    return $timestampB - $timestampA;  // Newest first
-}
-        
-        $fullCatA = $a['category'];
-        $fullCatB = $b['category'];
-        
-        $subPriorityA = array_search($fullCatA, $prioritizeCategories);
-        $subPriorityB = array_search($fullCatB, $prioritizeCategories);
-        
-        if ($subPriorityA !== false || $subPriorityB !== false) {
-            $subPriorityA = $subPriorityA === false ? PHP_INT_MAX : $subPriorityA;
-            $subPriorityB = $subPriorityB === false ? PHP_INT_MAX : $subPriorityB;
-            if ($subPriorityA != $subPriorityB) {
-                return $subPriorityA - $subPriorityB;
-            }
-        }
-        
-        $subCatA = isset($catA[1]) ? $catA[1] : '';
-        $subCatB = isset($catB[1]) ? $catB[1] : '';
-        
-        if ($subCatA != $subCatB) {
-            if ($subCatA === '' && $subCatB !== '') return -1;
-            if ($subCatA !== '' && $subCatB === '') return 1;
-            return strcmp($subCatA, $subCatB);
+    if ($mainCatA == 'QNA') {
+        $pattern = '/\b(?:(January|February|March|April|May|June|July|August|September|October|November|December)'
+                 . '(?:(?:\s+(\d{1,2})(?:,\s*|\s+))|(?:,\s*))?)?(\d{4})\b/';
+        preg_match($pattern, $a['filename'], $ma);
+        $timestampA = strtotime(
+            ($ma[1] ?? 'January') . ' ' . ($ma[2] ?? '1') . ', ' . ($ma[3] ?? '1970')
+        );
+        preg_match($pattern, $b['filename'], $mb);
+        $timestampB = strtotime(
+            ($mb[1] ?? 'January') . ' ' . ($mb[2] ?? '1') . ', ' . ($mb[3] ?? '1970')
+        );
+        return $timestampB - $timestampA;
+    }
+    $fullCatA = $a['category'];
+    $fullCatB = $b['category'];
+    $subPA    = array_search($fullCatA, $prioritizeCategories);
+    $subPB    = array_search($fullCatB, $prioritizeCategories);
+    if ($subPA !== false || $subPB !== false) {
+        $subPA = $subPA === false ? PHP_INT_MAX : $subPA;
+        $subPB = $subPB === false ? PHP_INT_MAX : $subPB;
+        if ($subPA != $subPB) {
+            return $subPA - $subPB;
         }
     }
-    
+    $subA = $catA[1] ?? '';
+    $subB = $catB[1] ?? '';
+    if ($subA != $subB) {
+        if ($subA === '' && $subB !== '') return -1;
+        if ($subA !== '' && $subB === '') return 1;
+        return strcmp($subA, $subB);
+    }
     return strcmp($a['filename'], $b['filename']);
 });
 
 // ----------------------------------------------------------------------
-// 2. Define helper functions for result–card creation and text highlighting
+// 5) Highlight helper
 // ----------------------------------------------------------------------
-function createResultCard($title, $snippets, $link) {
-    $card = "<div class=\"card\">";
-    $card .= "<h2><a class=\"result-link\" href=\"{$link}\">{$title}</a></h2>";
-    if (!empty($snippets)) {
-        foreach ($snippets as $snippet) {
-            $card .= "<p>{$snippet}</p>";
-        }
-    }
-    $card .= "</div>";
-    return $card;
-}
-
 function highlightTerms($text, $terms) {
-    // Build a regex that matches any of the terms (case–insensitive)
-    $pattern = '/' . implode('|', array_map(function($term) {
-        return preg_quote($term, '/');
-    }, $terms)) . '/i';
+    $pattern = '/'.implode('|', array_map(fn($t)=>preg_quote($t,'/'), $terms)).'/i';
     return preg_replace($pattern, '<span class="highlight">$0</span>', $text);
 }
 
-function findMatches($text, $searchValue, $words, $maxLength, $link) {
-    $exactMatches = [];
-    $partialMatches = [];
-    // Prepare URL query parts similar to the JS version
-    $urlSearchTermsExact = urlencode(implode('+', preg_split('/\s+/', $searchValue)));
-    $urlSearchTermsPartial = urlencode(implode('+', $words));
-    $lastWindowEnd = 0;
-    foreach ($words as $word) {
+// ----------------------------------------------------------------------
+// 6) Find matches
+// ----------------------------------------------------------------------
+function findMatches($body, $searchValue, $words, $maxLen, $link) {
+    $exact   = [];
+    $partial = [];
+    $lastEnd = 0;
+
+    foreach ($words as $w) {
         $offset = 0;
-        while (($pos = strpos($text, $word, $offset)) !== false) {
-            $start = max(0, $pos - $maxLength);
-            $end = min(strlen($text), $pos + $maxLength);
-            if ($start < $lastWindowEnd) {
+        while (false !== ($pos = strpos($body, $w, $offset))) {
+            $start = max(0, $pos - $maxLen);
+            $end   = min(strlen($body), $pos + $maxLen);
+            if ($start < $lastEnd) {
                 $offset = $pos + 1;
                 continue;
             }
-            $windowText = substr($text, $start, $end - $start);
-            $exactMatchPos = strpos($windowText, $searchValue);
-            // Determine if all words exist in this snippet (for a partial match)
-            $allWordsPresent = true;
-            foreach ($words as $w) {
-                if (strpos($windowText, $w) === false) {
-                    $allWordsPresent = false;
-                    break;
-                }
+
+            $win = substr($body, $start, $end - $start);
+            $win = mb_convert_encoding($win, 'UTF-8', 'UTF-8');
+
+            $isExact = strpos($win, $searchValue) !== false;
+            $allWordsPresent = array_reduce(
+                $words,
+                fn($c, $t) => $c && strpos($win, $t) !== false,
+                true
+            );
+
+            // **ONLY** grab the highlighted snippet HTML
+            if ($isExact) {
+                $exact[] = highlightTerms($win, [$searchValue]);
+            } elseif ($allWordsPresent) {
+                $partial[] = highlightTerms($win, $words);
             }
-            $partialMatchPos = $allWordsPresent ? strpos($windowText, $words[0]) : false;
-            $fragment = urlencode($windowText);
-            if ($exactMatchPos !== false) {
-                $highlightedResult = highlightTerms($windowText, [$searchValue]);
-                $exactMatches[] = "<a class='result-link' href='{$link}?s={$urlSearchTermsExact}&search={$fragment}'>{$highlightedResult}</a><br><br><hr>";
-            } else if ($partialMatchPos !== false) {
-                $highlightedResult = highlightTerms($windowText, $words);
-                $partialMatches[] = "<a class='result-link' href='{$link}?s={$urlSearchTermsPartial}&search={$fragment}'>{$highlightedResult}</a><br><br><hr>";
-            }
-            $lastWindowEnd = $end;
-            $offset = $pos + 1;
+
+            $lastEnd = $end;
+            $offset  = $pos + 1;
         }
     }
-    return [$exactMatches, $partialMatches];
+
+    return [$exact, $partial];
 }
 
 // ----------------------------------------------------------------------
-// 3. Loop over articles, perform search on each and build result cards
+// 7) Loop → separate title/exact/partial results
 // ----------------------------------------------------------------------
-$titleResultsHTML = "";
-$exactResultsHTML = "";
-$partialResultsHTML = "";
+$titleResults   = [];
+$exactResults   = [];
+$partialResults = [];
 
-foreach ($articles as $article) {
-    $filePath = $article['filePath'];
-    $filename = $article['filename'];
-    $link = $article['link'];
-    if (!file_exists($filePath)) continue;
-    $content = file_get_contents($filePath);
-    // Replace newlines, tabs, etc. with a space
-    $replaceArray = ["\n", "\r", "\t"];
-    $content = str_replace($replaceArray, ' ', $content);
-    // Use plain–text lowercase content for matching
-    $text = strtolower($content);
-    $titleLower = strtolower($filename);
+foreach ($articles as $a) {
+    if (!file_exists($a['filePath'])) continue;
 
-    list($exactMatches, $partialMatches) = findMatches($text, $searchValue, $validWords, $maxLength, $link);
-    
-    // If the article’s title contains the search query, add a title–result card (with no snippet)
-    if (strpos($titleLower, $searchValue) !== false) {
-        $titleResultsHTML .= createResultCard($filename, [], $link);
+    $raw   = file_get_contents($a['filePath']);
+    $body  = strtolower(str_replace(["\n","\r","\t"], ' ', $raw));
+    $title = $a['filename'];
+    $tLow  = strtolower($title);
+
+    list($ex, $pa) = findMatches(
+        $body,
+        $searchValue,
+        $validWords,
+        $maxLength,
+        $a['link']
+    );
+
+    // title‐only match?
+    $tWords = preg_split('/\s+/', trim($searchValue));
+    $allOk  = array_reduce(
+        $tWords,
+        fn($carry, $w) => $carry && ($w === '' || strpos($tLow, $w) !== false),
+        true
+    );
+    if ($allOk) {
+        $titleResults[] = ['t' => $title, 'l' => $a['link'], 'sn' => []];
     }
-    // Add a card if any exact matches were found
-    if (!empty($exactMatches)) {
-        $exactResultsHTML .= createResultCard($filename, $exactMatches, $link);
+
+    if (!empty($ex)) {
+        $exactResults[] = ['t' => $title, 'l' => $a['link'], 'sn' => $ex];
     }
-    // Add a card if any partial matches were found
-    if (!empty($partialMatches)) {
-        $partialResultsHTML .= createResultCard($filename, $partialMatches, $link);
+    if (!empty($pa)) {
+        $partialResults[] = ['t' => $title, 'l' => $a['link'], 'sn' => $pa];
     }
 }
 
-// If no exact or partial snippet matches were found, show "No results found"
-if (empty($exactResultsHTML) && empty($partialResultsHTML)) {
-    $exactResultsHTML .= "<p>No results found</p>";
-}
-
-// Combine the three groups in order: Title matches, then Exact matches, then (if present) a heading plus Partial matches.
-$outputHTML = $titleResultsHTML . $exactResultsHTML;
-if (!empty($partialResultsHTML)) {
-    $outputHTML .= '<p style="font-style:italic; margin:20px 0 10px;">Partial matches:</p>' . $partialResultsHTML;
-}
-
-// Output the complete HTML
-echo $outputHTML;
+// merge so titles come first
+$results = array_merge($titleResults, $exactResults, $partialResults);
 
 // ----------------------------------------------------------------------
-// 4. Helper function for sanitizing file names (same as in index.php)
+// 8) Output JSON
 // ----------------------------------------------------------------------
-function sanitizeFileName($string) {
-    $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
-    $string = preg_replace('/\s+/', '-', $string);
-    return strtolower($string);
+header('Content-Type: application/json; charset=utf-8');
+$json = json_encode(
+    $results,
+    JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PARTIAL_OUTPUT_ON_ERROR
+);
+if ($json === false) {
+    header('Content-Type: text/plain; charset=utf-8');
+    echo 'JSON encode error: ' . json_last_error_msg();
+} else {
+    echo $json;
 }
-?>
+exit;
+
+// ----------------------------------------------------------------------
+// 9) Filename sanitizer
+// ----------------------------------------------------------------------
+function sanitizeFileName($s) {
+    $s = preg_replace('/[^a-zA-Z0-9\s]/', '', $s);
+    $s = preg_replace('/\s+/', '-', $s);
+    return strtolower($s);
+}

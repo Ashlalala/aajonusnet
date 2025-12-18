@@ -1,6 +1,6 @@
 @[Source](https://www.primaldiet.net/primal-diet-workshop-qa-june-22-2013-in-chicago/)
 
-Location: Chicago
+Location: Wheaton, IL, Chicago.
 
 I'm Aajonus Vonderplanitz and I got into health because I was a very sickly
 individual. I was born into a violent household. One of my brothers was 18

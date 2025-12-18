@@ -1,6 +1,6 @@
-## Does Bacterial Food Safety Equal Health-Giving Food?
-
 @[Source](https://www.primaldiet.net/a-new-theory-of-disease-does-bacterial-food-safety-equal-8/)
+
+## Does Bacterial Food Safety Equal Health-Giving Food?
 
 Have you noticed that almost every “fresh” fruit and vegetable juice you
 consume is no longer fresh, does not taste that good, and is absent of most of

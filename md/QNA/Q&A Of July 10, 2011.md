@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2011-07-10/)
 
+Location: Los Angeles, CA
+
 I made and designed a magnetic pillow because I have a Prius. Every time I
 drive 2½ hours down to San Diego I would get aches in the back of my legs and
 behind my knees, especially the right one that works the gas pedal, because of

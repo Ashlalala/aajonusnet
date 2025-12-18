@@ -1,6 +1,6 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-with-primal-diet-details-august-22-2011/)
 
-Questions and Answers in Omaha, Nebraska
+Location: Omaha, Nebraska
 
 Q: ...talk about colds and flu and how it is not contagious.
 

@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Nevada City
+
 A: I want an applause, I got a cold this year. 
 
 [applause]

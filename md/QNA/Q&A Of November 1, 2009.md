@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Marina Del Rey, CA
+
 A: Halloween must have been a good night last night. 
 
 Q: [laughter] 

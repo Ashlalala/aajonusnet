@@ -240,7 +240,7 @@ The following 2 photo are from April 19th, showing the foot turned purple and 3 
 
 [Show photo 15](/imgs/pdn26_image-15.jpg)
 
-Late in the afternoons of April 19th and 20th, I soaked my feet and legs half way up my shins in 105° F. hot water with 2 ounces coconut cream and 3 ounces raw milk.
+Late in the afternoons of April 19th and 20th, I soaked my feet and legs half way up my shins in 105Â° F. hot water with 2 ounces coconut cream and 3 ounces raw milk.
 
 The next photo is from April 21, after having soaked the foot for 2 consecutive days, for 4 continuous hours each day. It shows a cessation of seepage but very chemically burned and damaged skin.
 
@@ -266,7 +266,7 @@ As in April, all through May, June, July, August until September 7, the detoxifi
 
 Finally, since September 7th, I have not experienced any more rashes, sores, swelling or tumors, including the kaposi sarcoma.
 
-During August and the first week of September, I realized that if I soaked my feet daily in 105-107° F. water with 2 ounces of coconut cream, 1 T. sea salt and 3 ounces raw milk every 2- 3 days for about 2 hours, the detoxification of chemicals exuded out the skin and into the water. The heat caused fluids to pass from lymph and blood into the connective tissue and perspire out the skin with very little skin damage.
+During August and the first week of September, I realized that if I soaked my feet daily in 105-107Â° F. water with 2 ounces of coconut cream, 1 T. sea salt and 3 ounces raw milk every 2- 3 days for about 2 hours, the detoxification of chemicals exuded out the skin and into the water. The heat caused fluids to pass from lymph and blood into the connective tissue and perspire out the skin with very little skin damage.
 
 The following photo was taken September 29th after 3 weeks of no radical detoxification and considerable healing. Notice how the toenails have improved in texture, color and tone.
 
@@ -275,3 +275,4 @@ The following photo was taken September 29th after 3 weeks of no radical detoxif
 Before abduction and forced injections:
 
 ![[pdn26_image-23.jpg]]
+

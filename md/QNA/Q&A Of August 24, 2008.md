@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-a-fascinating-qa-in-malibu-on-august-8-2008/)
 
+Location: Malibu, CA
+
 A: A lot of people think that the Primal Diet™ is a stagnant diet.
 
 Q: Is a what?
@@ -2714,7 +2716,7 @@ A: And I've got a patient at seven o'clock, what time is it?
 
 Q: Quarter to six.
 
-A: okay right. So uh...Cathy do you have a question?
+A: okay right. So uh...Kathy do you have a question?
 
 Q: Oh yeah um...at James' they sell that ah hummus but it's ah...but it has
 some sprouting in it.

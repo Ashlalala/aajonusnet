@@ -1,20 +1,29 @@
 <?php
-  // Get the data from POST request
-  $data = json_decode(file_get_contents('php://input'), true);
-  $ids = $data['ids'];
+error_reporting(E_ERROR | E_PARSE);
 
-  // Initialize the array that will hold the content
-  $contents = [];
+if (ob_get_level()) {
+    ob_end_clean();
+}
 
-  $replaceArray = ["\n", "\r", "\t"];
+$rawInput = file_get_contents('php://input');
+$data = json_decode($rawInput, true);
 
-  foreach ($ids as $filePath) {
+$ids = (isset($data['ids']) && is_array($data['ids'])) ? $data['ids'] : [];
+
+$replaceArray = ["\n", "\r", "\t"];
+$contents = [];
+
+foreach ($ids as $filePath) {
     if (file_exists($filePath)) {
-      $content = file_get_contents($filePath);
-$content = str_replace($replaceArray, ' ', $content);
-$content = htmlentities($content, ENT_QUOTES, "UTF-8");
-$contents[$filePath] = $content;
+        $text = file_get_contents($filePath);
+        $text = str_replace($replaceArray, ' ', $text);
+        $contents[$filePath] = htmlentities($text, ENT_QUOTES, 'UTF-8');
     }
-  }
-  echo json_encode($contents);
-?>
+}
+
+$json = json_encode($contents);
+
+header('Content-Type: application/json');
+header('X-Total-Uncompressed-Length: ' . strlen($json));
+
+echo $json;

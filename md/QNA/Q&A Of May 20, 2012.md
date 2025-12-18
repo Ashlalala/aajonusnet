@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2012-05-20/)
 
+Location: Los Angeles, CA
+
 Q: Are the fluorescent lights in Roxbury Park gym harmful?
 
 A: No, they’re very high. If low, not a good thing. If 10 feet above you,

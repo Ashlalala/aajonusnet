@@ -57,3 +57,5 @@ that change from about this kind of a diet, it is pretty special.
 ===
 
 WS_CH_2009_10_03 02:09:00
+
+@[Source](primal-diet-workshop-qa-of-october-3-2009?s=mental%2Bbehavior&pos=96606)

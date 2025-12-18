@@ -1150,12 +1150,8 @@ lymphatic system) can be done.
 In a nutshell, what was worked out was a three stage
 filter system in the sequence as below:
 
-1. Paper filter which gets down to 5 microns of
-    filtration. This was the first stage of the filter
-    system as the paper itself has toxic properties
-    being chemically produced itself.
-2. Coconut activated carbon filter media. This is a
-    common filter media for drinking water.
+1. Paper filter which gets down to 5 microns of filtration. This was the first stage of the filter system as the paper itself has toxic properties being chemically produced itself.
+2. Coconut activated carbon filter media. This is a common filter media for drinking water.
 3. Sand filtration.
 
 The application of these can be as follows:

@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-2008-12-14/)
 
+Location: Los Angeles, CA
+
 A: Everybody enjoy it getting colder?
 
 Q: Yeah. Yeah, I like it. Yeah.

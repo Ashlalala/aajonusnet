@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2013-02-03/)
 
+Location: Carlsbad, CA.
+
 A: Okay, to make an egg high fast, because you can have an egg a long time. I've
 had eggs up to six months that never went high. If it's in a cool house, so the
 way to get some oxygen gets into it. But you don't wanna break a big crack in it

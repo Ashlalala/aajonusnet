@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2010-05-23/)
 
+Location: Los Angeles, CA
+
 We Want 2 Live Workshop/Q&A
 
 Rather than starting off with some kind of diatribe, we’re going to go
@@ -312,8 +314,7 @@ so I thought I’m going to start doing pushups too. So I started doing them
 rapidly and he said “you’ve got no muscle”, but I’ve got fat in my tissues. I
 don’t look like it but I’m 18% body fat, that’s 7% more than most athletes.
 Think about that. The raw fats - you’re filled with ??? for so many years, it
-takes 40 years to get rid of all the old fats. I’ve been eating raw food since
-1972. I’ve had no cooked fats. So, in 2 years I will be completely free of large
+takes 40 years to get rid of all the old fats. I’ve been eating raw food since 1972. I’ve had no cooked fats. So, in 2 years I will be completely free of large
 fat molecules. When you cook a fat the molecule, it swells anywhere from 1 to 50
 times its normal size. Coconut oil, olive oil, those swell the least - that’s
 why they say they’re good for cooking. The rind of pig is little and thin and it
@@ -1844,7 +1845,7 @@ cancer. The cauterised spine was the main problem there, from the radiation
 therapy. I don’t think it’s necessary to go to chiropractors unless you need
 to, because you can always go to yoga and stretch yourself out and that’s what
 I learned to do. You can’t massage yourself and relax at the same time. Heavy
-massage damages the [?] system too much. Let’s say you have hardened veins,
+massage damages the lymph system too much. Let’s say you have hardened veins,
 varicose veins, any kind of damage - hard massage can cause internal bleeding.
 You can bleed lymph, neurological fluid, blood all throughout your tissues and
 it will cause more toxicity. You have to know what your body is; know the

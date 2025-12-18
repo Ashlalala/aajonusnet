@@ -1,6 +1,6 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Location: NC
+Location: Nevada City
 
 Q: ...people are in for a real treat.
 

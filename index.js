@@ -34,7 +34,14 @@ async function search(input) {
        const title = card.querySelector('h2').textContent.toLowerCase();
        const link = card.querySelector('.read-more').href;
        const dataId = card.querySelector('.data').id;
-       const content = articleData[dataId].text;
+       const dataEntry = articleData[dataId];
+
+       if (!dataEntry || !dataEntry.text) {
+           console.warn(`Missing article data for ID: ${dataId}`);
+           continue;
+       }
+
+       const content = dataEntry.text;
        const [exactResults, partialResults] = await highlightSearchText(content, searchValue, validwords, trimmedSearchValue, link);
 
        const searchTitleWords = trimmedSearchValue.split(/\s+/);
@@ -56,9 +63,9 @@ async function search(input) {
      }
 
      // Display the total number of results
-    //const resultsSummary = document.createElement('p');
-    //resultsSummary.textContent = `There are ${totalResults} results.`;
-    //results_DOM.insertBefore(resultsSummary, results_DOM.firstChild);
+     const resultsSummary = document.createElement('p');
+     resultsSummary.textContent = `There are ${totalResults} results.`;
+     results_DOM.insertBefore(resultsSummary, results_DOM.firstChild);
     
      if (fragmentExact.childElementCount === 0 && fragmentPartial.childElementCount === 0) {
        const noResults = document.createElement('p');
@@ -98,7 +105,7 @@ function createResultCard(card, results, link) {
     return resultCard;
 }
 
-async function highlightSearchText(text, searchValue, words, trimmedSearchValue, link) {
+function highlightSearchText(text, searchValue, words, trimmedSearchValue, link) {
     var maxLength = 200; // Maximum number of characters to display before and after the search value
     
     let exactMatches = [], partialMatches = [];
@@ -110,6 +117,10 @@ async function highlightSearchText(text, searchValue, words, trimmedSearchValue,
 function findMatches(text, searchValue, words, maxLength, link, exactMatches, partialMatches) {
     let urlSearchTermsExact = encodeURIComponent(searchValue.split(" ").join('+'));
     let urlSearchTermsPartial = encodeURIComponent(words.join('+'));
+		
+		const exactRegex = new RegExp(`(${escapeRegExp(searchValue)})`, 'gi');
+    const partialRegex = new RegExp(`(${words.map(escapeRegExp).join('|')})`, 'gi');
+		
 
     let lastWindowEnd = 0;
     words.forEach(word => {
@@ -127,14 +138,15 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
             let exactMatchPos = windowText.indexOf(searchValue);
             let partialMatchPos = words.every(w => windowText.indexOf(w) !== -1) ? windowText.indexOf(words[0]) : -1;
 
-            let se = windowText.substr(0, windowText.length);
-            let fragment = encodeURIComponent(se);
-
             if (exactMatchPos !== -1) {
-                let highlightedResult = highlightTerms(windowText, [searchValue]);
+						    let se = windowText.substr(0, windowText.length);
+                let fragment = encodeURIComponent(se);
+                let highlightedResult = highlightTerms(windowText, exactRegex);
                 exactMatches.push(`<a class='result-link' href=${link}?s=${urlSearchTermsExact}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
             } else if (partialMatchPos !== -1) {
-                let highlightedResult = highlightTerms(windowText, words);
+						    let se = windowText.substr(0, windowText.length);
+                let fragment = encodeURIComponent(se);
+                let highlightedResult = highlightTerms(windowText, partialRegex);
                 partialMatches.push(`<a class='result-link' href=${link}?s=${urlSearchTermsPartial}&search=${fragment}>${highlightedResult}</a><br><br><hr>`);
             }
 
@@ -145,10 +157,10 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
     return;
 }
 
-function highlightTerms(text, terms) {
-    const regex = new RegExp(`(${terms.map(escapeRegExp).join('|')})`, 'gi');
+function highlightTerms(text, regex) {
     return text.replace(regex, '<span class="highlight">$1</span>');
 }
+
 
 function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -300,10 +312,14 @@ document.addEventListener("DOMContentLoaded", function() {
   }
   
   // Check if running as a web app and article is open
-  if (window.navigator.standalone && document.getElementById("share-button")) {
+  if (isPWA() && document.getElementById("share-button")) {
       document.getElementById("share-button").style.display = "inline-block";
   }
 });
+
+function isPWA() {
+    return window.navigator.standalone === true;
+}
 
 function removeHighlights() {
       var removeHighlightsBtn = document.getElementById("removeHighlights");
@@ -429,36 +445,62 @@ function retrieveAllData(callback) {
   };
 }
 
-// Main content loading function
-function loadContentAsync() {
-  // Collect all the IDs for the .data elements
-  const ids = Array.from(document.querySelectorAll(".data")).map(el => el.id);
-  if (ids.length === 0) {
+function getCachedData() {
+  return new Promise(resolve => retrieveAllData(resolve));
+}
+
+async function loadContentAsync() {
+  const ids = Array.from(document.querySelectorAll('.data')).map(el => el.id);
+  if (!ids.length) return;
+
+  const searchEl = document.getElementById('search');
+  searchEl.disabled = true;
+  searchEl.placeholder = 'Loading…';
+
+  const cached = await getCachedData();
+  if (cached) {
+    populateAndEnableSearch(cached);
     return;
   }
 
-  retrieveAllData(function(cachedData) {
-    if (cachedData) {
-      populateAndEnableSearch(cachedData);
-    } else {
-      fetch('/searchloader.php', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ ids: ids }),
-      })
-      .then(response => response.json())
-      .then(data => {
-        storeAllData(data);
-        populateAndEnableSearch(data);
-      })
-      .catch(error => {
-        console.error("Error fetching content:", error);
-      });
-    }
+  searchEl.placeholder = 'Loading… 0%';
+
+  const response = await fetch('/searchloader.php', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ ids })
   });
+
+  const total = parseInt(
+    response.headers.get('X-Total-Uncompressed-Length'),
+    10
+  );
+
+  const reader  = response.body.getReader();
+  const decoder = new TextDecoder('utf-8');
+  let raw = '';
+  let loaded  = 0;
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    const chunk = decoder.decode(value, { stream: true });
+    raw += chunk;
+    loaded += chunk.length;
+
+    const pct = Math.min(100, Math.round((loaded / total) * 100));
+    searchEl.placeholder = `Loading… ${pct}%`;
+  }
+
+  const data = JSON.parse(raw);
+  storeAllData(data);
+  populateAndEnableSearch(data);
 }
+
+
+
+
 
 // Entry point: Wait for the DOM to load before proceeding
 document.addEventListener("DOMContentLoaded", function() {
@@ -496,8 +538,10 @@ function updateFindOnPagePosition() {
         let kbHeight = innerHeight - (vvHeight + offsetTop);
         if (kbHeight < 0) kbHeight = 0;
         findOnPageBar.style.bottom = kbHeight + 'px';
+        if (isPWA()) findOnPageBar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 60px)';
     } else {
         findOnPageBar.style.bottom = '0';
+        if (isPWA()) findOnPageBar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 60px)';
     }
 }
 
@@ -676,7 +720,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (searchClose) {
         searchClose.addEventListener('click', hideFindOnPage);
     }
-    if (window.visualViewport) {
+    if (activateButton && window.visualViewport) {
         window.visualViewport.addEventListener('resize', updateFindOnPagePosition);
         window.visualViewport.addEventListener('scroll', updateFindOnPagePosition);
     }

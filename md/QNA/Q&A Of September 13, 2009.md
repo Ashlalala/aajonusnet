@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Malibu, CA
+
 A: I usually tell about what I'm doing lately, the latest things I'm experimenting with. I guess some of you have noticed these big red spots on my leg.
 
 Q: Oh yes.

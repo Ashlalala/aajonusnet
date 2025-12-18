@@ -890,7 +890,7 @@ A: Yeah, well, you'll be constantly detoxifying. That's okay if you like that. Y
 
 Q: So, what, do you mean just plain butter would replace that?
 
-A: Put butter in your sauce. Instead of olive oil. Okay. Cathy, do you have a question?
+A: Put butter in your sauce. Instead of olive oil. Okay. Kathy, do you have a question?
 
 Q: Oh, yeah. That toe of mine is inflamed and swollen in the left one. Here at the end. And I've been putting the hot water bottle on at night. And at daytime, I'm having trouble walking. You know, it's like needles and pins in your foot. 
 

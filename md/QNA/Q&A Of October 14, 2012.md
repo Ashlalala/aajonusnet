@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Marina Del Rey, CA
+
 A: Does anybody know about the country of Estonia?
 
 Q: Near Finland?

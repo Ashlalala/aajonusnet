@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2011-01-09/)
 
+Location: Los Angeles, CA
+
 A: I’ve been experimenting with pineapple to dissolve dead cells in your
 skin, getting rid of moles and warts and tumors. Rubbing the pineapple on the
 skin over a tumor helps dissolve it. Leave it on for a good 24 hours. Don’t

@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Marina Del Rey, CA
+
 A: This is the first one we've had here in LA since I went to Colby's last week. He's done. I had another motorcycle accident.
 
 Q: Oh no.

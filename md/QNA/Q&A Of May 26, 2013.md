@@ -1,5 +1,9 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: La Jolla, CA
+
+Note: This Q&A has been wrongly uploaded by some people under the date 26 March 2013.
+
 Q: So just don't worry about it.
 
 Q: What about if you put clay on it, can that help?

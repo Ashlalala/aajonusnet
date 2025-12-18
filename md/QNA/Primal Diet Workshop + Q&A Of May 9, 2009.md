@@ -1,6 +1,6 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Location: NJ
+Location: Cherry Hill, NJ
 
 A: ...out of the body. So you need infection. You don't stop infection. If it had just stayed inside of me, it could have caused cancer. So I let it puss out until it stopped. Now it's almost finished, as you can see. But all the skin was gone completely from here to the muscle.
 

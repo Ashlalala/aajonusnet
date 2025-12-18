@@ -1,72 +1,163 @@
-// Global variables to manage debouncing and aborting in-flight fetches
+// debounce + abort management
 let searchTimeout = null;
 let currentSearchController = null;
 
-async function search(input) {
-  const searchValue = input.value.toLowerCase();
-  const trimmedSearchValue = searchValue.trim();
-  const grid = document.querySelector('.grid');
-  const results_DOM = document.querySelector('.results');
-  
-  // Show/hide clear icon as before
-  document.getElementById('clear-icon').style.display = searchValue.length > 0 ? 'block' : 'none';
+// escape helper for exact‑match detection
+function escapeRegExp(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
 
-  // If every word is less than 3 characters, restore the grid and hide results.
-  const words = searchValue.split(/\s+/).filter(word => word && word !== "the");
-  if (words.every(word => word.length < 3)) {
-    grid.style.display = 'block';
-    results_DOM.style.display = 'none';
-    return;
-  }
-  
-  // Hide the grid and show the results area.
-  grid.style.display = 'none';
-  results_DOM.style.display = 'block';
-  
-  // Instead of immediately clearing the results, we display a loading indicator.
-  results_DOM.innerHTML = '<p>Loading...</p>';
+function createResultCard(title, snippets, link, query) {
+  const card = document.createElement('div');
+  card.className = 'card';
 
-  // Debounce: clear the previous timeout (if any) and wait 300ms after the user stops typing.
-  if (searchTimeout) {
-    clearTimeout(searchTimeout);
-  }
-  
-  searchTimeout = setTimeout(() => {
-    // Abort any pending fetch
-    if (currentSearchController) {
-      currentSearchController.abort();
-    }
-    currentSearchController = new AbortController();
-    performCloudSearch(trimmedSearchValue, currentSearchController);
-  }, 300);
+  // Title (only s=…)
+  const h2 = document.createElement('h2');
+  h2.innerHTML = `<a class="result-link" href="${link}?s=${encodeURIComponent(query)}">${title}</a>`;
+  card.appendChild(h2);
+
+  // Snippet links
+  snippets.forEach(htmlSnippet => {
+    // pull out plain text to re‑encode into &search=
+    const tmp = document.createElement('div');
+    tmp.innerHTML = htmlSnippet;
+    const snippetText = tmp.textContent || tmp.innerText || '';
+
+    const a = document.createElement('a');
+    a.className = 'result-link';
+    a.href = `${link}?s=${encodeURIComponent(query)}&search=${encodeURIComponent(snippetText)}`;
+
+    const p = document.createElement('p');
+    p.innerHTML = htmlSnippet;
+    a.appendChild(p);
+
+    card.appendChild(a);
+  });
+
+  return card;
 }
 
 async function performCloudSearch(query, controller) {
-  const results_DOM = document.querySelector('.results');
+  const resultsDOM = document.querySelector('.results');
+
   try {
     const response = await fetch('/cloudsearch.php', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       signal: controller.signal,
-      body: JSON.stringify({ query: query })
+      body: JSON.stringify({ query })
     });
-    // If the fetch was aborted, do nothing.
+
     if (!response.ok) {
-      results_DOM.innerHTML = '<p>Error performing search.</p>';
+      resultsDOM.innerHTML = '<p>Error performing search.</p>';
       return;
     }
-    // Update the results with the returned HTML.
-    const html = await response.text();
-    results_DOM.innerHTML = html;
-  } catch (error) {
-    // If the fetch was aborted, silently ignore.
-    if (error.name === 'AbortError') {
-      return;
+
+    const data = await response.json();
+    // clear old
+    resultsDOM.innerHTML = '';
+
+    // fragments for grouping
+    const fragTitle   = document.createDocumentFragment();
+    const fragExact   = document.createDocumentFragment();
+    const fragPartial = document.createDocumentFragment();
+
+    // count total snippets
+    const totalResults = data.reduce(
+      (sum, item) => sum + (item.sn?.length || 0),
+      0
+    );
+
+    // build regex to detect exact‐phrase highlights
+    const escapedQuery = escapeRegExp(query);
+    const exactRegex   = new RegExp(
+      `<span class="highlight">${escapedQuery}</span>`,
+      'i'
+    );
+
+    // distribute each result into the right fragment
+    data.forEach(item => {
+      const { t: title, l: link, sn: snippets = [] } = item;
+
+      if (snippets.length === 0) {
+        // a pure title match
+        fragTitle.appendChild(createResultCard(title, [], link, query));
+
+      } else {
+        // snippet card: decide exact vs partial by looking for the full phrase‑highlight
+        const isExact = snippets.some(s => exactRegex.test(s));
+        if (isExact) {
+          fragExact.appendChild(createResultCard(title, snippets, link, query));
+        } else {
+          fragPartial.appendChild(createResultCard(title, snippets, link, query));
+        }
+      }
+    });
+
+    // 1) total summary
+    const summary = document.createElement('p');
+    summary.textContent = `There are ${totalResults} results.`;
+    resultsDOM.appendChild(summary);
+
+    // 2) title matches
+    resultsDOM.appendChild(fragTitle);
+
+    // 3) exact matches
+    resultsDOM.appendChild(fragExact);
+
+    // 4) partial heading (if needed)
+    if (fragPartial.childElementCount > 0) {
+      const header = document.createElement('p');
+      header.style.fontStyle = 'italic';
+      header.style.margin    = '20px 0 10px';
+      header.textContent     = 'Partial matches:';
+      resultsDOM.appendChild(header);
     }
-    console.error('Error during cloud search:', error);
-    results_DOM.innerHTML = '<p>Error performing search.</p>';
+
+    // 5) partial matches
+    resultsDOM.appendChild(fragPartial);
+
+  } catch (err) {
+    if (err.name === 'AbortError') return;
+    console.error('Error during cloud search:', err);
+    document.querySelector('.results').innerHTML = '<p>Error performing search.</p>';
   }
 }
+
+function search(input) {
+  const searchValue        = input.value.toLowerCase();
+  const trimmedSearchValue = searchValue.trim();
+  const grid               = document.querySelector('.grid');
+  const resultsDOM         = document.querySelector('.results');
+
+  resultsDOM.innerHTML = '';
+  document.getElementById('clear-icon').style.display =
+    searchValue.length > 0 ? 'block' : 'none';
+
+  const words = searchValue
+    .split(/\s+/)
+    .filter(w => w && w !== 'the');
+
+  // ignore <3‑char queries
+  if (words.every(w => w.length < 3)) {
+    grid.style.display    = 'block';
+    resultsDOM.style.display = 'none';
+    return;
+  }
+
+  grid.style.display      = 'none';
+  resultsDOM.style.display = 'block';
+  resultsDOM.innerHTML     = '<p>Loading...</p>';
+
+  // debounce + abort
+  if (searchTimeout) clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    if (currentSearchController) currentSearchController.abort();
+    currentSearchController = new AbortController();
+    performCloudSearch(searchValue, currentSearchController);
+  }, 300);
+}
+
 
 // Clear button
 function clearSearch() {

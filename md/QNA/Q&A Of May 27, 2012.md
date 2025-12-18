@@ -3,6 +3,7 @@
 Transcriber: Colin - Thank you, Colin!
 
 Question & Answer Session to Attendees of a Primal Potluck
+
 Location: Carlsbad, California
 
 A = Aajonus
@@ -38,7 +39,7 @@ things very sweet too. A lot of times you can have something that’s very
 sweet tasting and not have any sugar in it – that’s because it has the
 alkalizing minerals which have a sweet flavor.
 
-If you have milk that separates like Cathy’s there you can just put it
+If you have milk that separates like Kathy’s there you can just put it
 in a blender for three seconds and it’ll be back in to a thick kefir
 again. And it just takes three seconds. Maybe not even three seconds –
 two to three. If you want an acidophilus or a yogurt that is best for you
@@ -537,7 +538,7 @@ form, so the bacteria’s needs to infiltrate.
 Campylobactor [pylori] which is a prominent bacteria in the stomach –
 and the Health Department says “Oh, Campylobactor – that’s a
 dangerous bacteria”. Bullshit! It isn’t a dangerous bacteria – it’s
-part of the digestive process. Then as it moves down to the lowerr part of
+part of the digestive process. Then as it moves down to the lower part of
 the stomach, the bile secretes it into there - from the bile duct coming
 from the gall bladder - and that helps digest fat. It helps breaks down
 larger molecules of fat so that the bacteria that eat fat can infiltrate it
@@ -866,7 +867,7 @@ A: That’s the only way coconut oil can be truly cold-pressed – below
 
 G: When I bought it –
 
-A: I didn’t look, Cathy – I don’t know.
+A: I didn’t look, Kathy – I don’t know.
 
 G: It has to say fermentation on it?
 
@@ -1931,7 +1932,7 @@ G: Hell, I’ll mix both of them – have one and take a sip of the other.
 
 G: How about coconut water?
 
-A: Cathy, when I’m speaking please don’t interrupt because people
+A: Kathy, when I’m speaking please don’t interrupt because people
 can’t hear what I’m saying.
 
 G: Oh, my god.

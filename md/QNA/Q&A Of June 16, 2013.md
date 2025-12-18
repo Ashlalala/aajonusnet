@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Bel Air, CA
+
 A: You can bring these chairs over there so you′re not so far away if you want. Pardon?
 
 Q: We can hear you.

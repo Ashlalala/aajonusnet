@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/aajonus-qa-2013-01-27/)
 
+Location: Marina Del Rey, CA.
+
 Q: Mercury is causing aching in my right shoulder, from injections.
 
 A: To remove one molecule of mercury, it takes about 50-200 fat cells. The

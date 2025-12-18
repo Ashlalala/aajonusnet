@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Carlsbad, CA
+
 A: dead cells like pineapple. So you just take a thin slice of pineapple and just go like this all over your body.
 
 Q: What about the formula, coconut pineapple formula for the bath?

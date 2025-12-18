@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: Carlsbad, CA
+
 A: The same way we took over the American Indians' land here. Call them savages, kill them, and it's okay to kill them. Too bad.
 
 Q: Well, you'll be happy to know I attended an FDA seminar about supplement regulations, which started last June. And they're going to come down on supplements like, you know, they better make them like pharmaceuticals or else... Shut them down. Which is good in some respects because now they'll be from truth and whether or not the ingredients are what they say on the label.

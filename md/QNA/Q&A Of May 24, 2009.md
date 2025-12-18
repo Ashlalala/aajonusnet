@@ -1,5 +1,7 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
+Location: San Clemente, CA
+
 A: Well folks I had another motorcycle accident six weeks ago.
 
 Q: Oh my God!

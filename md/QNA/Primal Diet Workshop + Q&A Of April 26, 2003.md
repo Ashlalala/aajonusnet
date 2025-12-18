@@ -1,6 +1,6 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Location: NC
+Location: Nevada City
 
 Q: An introduction for this wonderful man. Tell us about raw food and optimal health. And we're really fortunate to have him here. So let's welcome Aajonus Vonderplanitz.
 
