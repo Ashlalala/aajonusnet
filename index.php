@@ -87,7 +87,7 @@ if ($is404) {
     <link rel="canonical" href="<?= htmlspecialchars($canonicalUrl) ?>">
     <?php endif; ?>
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=54">
+    <link rel="stylesheet" href="style.css?v=60">
     <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
@@ -112,28 +112,29 @@ if ($is404) {
     <link rel="manifest" href="manifest.json">
 </head>
 <body>
-    <div class="header">
+    <header>
         <div class="title-container">
             <?php if ($originalFile) { ?>
-                <a href="/" class="back-arrow" onclick="goBack(event)" role="button" aria-label="Go back">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><polyline points="13.42,5.41 4,12 13.41,18.59" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <a href="/" id="back-button" onclick="goBack(event)" aria-label="Go back" tabindex="0">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><polyline points="13.42,5.41 4,12 13.41,18.59" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </a>
             <?php } ?>
             <a class="title" href="/"><h1><?= $dynamicTitle === "Aajonus Vonderplanitz" ? "Aajonus.net" : $dynamicTitle ?></h1>
 </a>
             <?php if ($originalFile) { ?>
                 <div id="share-button" onclick="shareArticle()" role="button" tabindex="0" aria-label="Share">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"/></svg>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 4l-1.42 1.42-1.59-1.59V15h-1.98V3.83L9.42 5.42 8 4l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V9c0-1.11.89-2 2-2h3v2H6v11h12V9h-3V7h3c1.1 0 2 .89 2 2z" fill="currentColor"/>
+</svg>
 </div>
             <?php } ?>
         </div>
-    </div>
+    </header>
     <?php if (!$originalFile && !$is404) { ?>
         <!-- Search Bar -->
         <div class="search-container">
             <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"><g stroke="#757575" stroke-width="1.1" fill="none" stroke-linecap="butt"><circle cx="6" cy="20" r="5"/><line x1="10.039" y1="23.721" x2="13.909" y2="27.591"/></g></svg>
             <input type="text" id="search" class="search-bar" oninput="search(this)" placeholder="Loading..." disabled aria-label="Search website">
-            <div id="clear-icon" class="clear-icon" onclick="clearSearch()">&#10005;</div>
+            <div id="clear-icon" class="clear-icon" role="button" aria-label="Clear search" onclick="clearSearch()">&times;</div>
         </div>
         <!-- Categories -->
         <nav class="categories" aria-label="Categories">
@@ -336,8 +337,8 @@ if ($is404) {
         ?>
         </div>
         <script defer src="/code/findonpage.js?v=8" data-findx-css="/code/findx.css?v=1"></script>
-        <!-- <script defer src="/code/findonpage.js?v=2"></script> --!>
+        <!-- <script defer src="/code/findonpage.js?v=2"></script> -->
     <?php } ?>
-    <script src="/code/<?= $script ?>?v=371"></script>
+    <script src="/code/<?= $script ?>?v=372"></script>
 </body>
 </html>

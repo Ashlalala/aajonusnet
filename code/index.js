@@ -23,15 +23,15 @@ let renderState = {
   summaryEl: null,
 };
 
+const CARDS = document.getElementsByClassName('card-md');
 
 // Map dataId -> { card, title, link }
 const cardIndex = new Map();
 
 function buildCardIndex() {
   if (cardIndex.size) return;
-  const cards = document.querySelectorAll('.card-md');
-  for (let i = 0; i < cards.length; i++) {
-    const card = cards[i];
+  for (let i = 0; i < CARDS.length; i++) {
+    const card = CARDS[i];
     const h2 = card.querySelector('h2');
     const titleText = h2 ? h2.textContent : '';
     const title = titleText.toLowerCase();
@@ -107,7 +107,7 @@ async function search(input) {
   if (!hasValidToken) {
     grid.style.display = 'block';
     results_DOM.style.display = 'none';
-    catBar.style.display = 'flex';
+    catBar.style.display = '';
     results_DOM.innerHTML = '';
     return;
   }
@@ -161,7 +161,7 @@ renderState.partialSection = document.createElement('div');
 
 const heading = document.createElement('p');
 heading.className = 'partial-heading';
-heading.style.cssText = 'font-style:italic; margin:20px 0 10px; display:none;';
+heading.style.display = 'none';
 heading.textContent = 'Partial matches:';
 renderState.partialHeadingEl = heading;
 renderState.partialHeadingShown = false;
@@ -221,14 +221,14 @@ function processQueueItem(r) {
 
   if (r.exact && r.exact.length) {
     const exactStrings = r.exact.map(item =>
-      `<a class='result-link' href="${link}?s=${renderState.urlSearchTermsExact}&search=${item.frag}">${item.html}</a><br><br><hr>`
+      `<a class='result-text' href="${link}?s=${renderState.urlSearchTermsExact}&search=${item.frag}">${item.html}</a><hr>`
     );
     renderState.exactFrag.appendChild(makeCard(exactStrings));
     renderState.totalResults += r.exact.length;
   }
   if (r.partial && r.partial.length) {
     const partialStrings = r.partial.map(item =>
-      `<a class='result-link' href="${link}?s=${renderState.urlSearchTermsPartial}&search=${item.frag}">${item.html}</a><br><br><hr>`
+      `<a class='result-text' href="${link}?s=${renderState.urlSearchTermsPartial}&search=${item.frag}">${item.html}</a><hr>`
     );
     renderState.partialFrag.appendChild(makeCard(partialStrings));
     renderState.totalResults += r.partial.length;
@@ -290,7 +290,7 @@ function createResultCard(titleText, results, link) {
     resultCard.className = 'card';
 
     const resultTitle = document.createElement('h2');
-    resultTitle.innerHTML = `<a class="result-link" href="${link}">${titleText}</a>`;
+    resultTitle.innerHTML = `<a class="result-title" href="${link}">${titleText}</a>`;
     resultCard.appendChild(resultTitle);
 
     if (results.length == 0) {
@@ -298,9 +298,10 @@ function createResultCard(titleText, results, link) {
     }
 
     for (let result of results) {
-        const resultContent = document.createElement('p');
+    resultCard.insertAdjacentHTML('beforeend', result);
+        /*const resultContent = document.createElement('p');
         resultContent.innerHTML = result;
-        resultCard.appendChild(resultContent);
+        resultCard.appendChild(resultContent);*/
     }
 
     return resultCard;
@@ -405,10 +406,8 @@ if (articleRoot) {
 function filterCategory(ev, category, sanitizedCategory, element) {
   if (ev) ev.preventDefault();
   // Deselect all categories
-  const categories = document.querySelectorAll('.categories a');
-  for (let i = 0; i < categories.length; i++) {
-    categories[i].classList.remove('chosen-category');
-  }
+  document.querySelectorAll('.categories a.chosen-category')
+    .forEach(a => a.classList.remove('chosen-category'));
   // Select the category
   element.classList.add('chosen-category');
 
@@ -418,24 +417,20 @@ function filterCategory(ev, category, sanitizedCategory, element) {
   const clearIcon = document.getElementById('clear-icon');
   if (clearIcon) clearIcon.style.display = 'none';
 
-  const cards = document.getElementsByClassName('card-md');
-  for (let i = 0; i < cards.length; i++) {
-    const card = cards[i];
-    const cardCategory = card.getElementsByClassName('category')[0].innerText;
+  const showAll = category === 'All';
 
-    if (category === 'All' || cardCategory.startsWith(category)) {
+  for (let i = 0; i < CARDS.length; i++) {
+    const card = CARDS[i];
+    const cardCategory = card.getElementsByClassName('category')[0].textContent;
+
+    if (showAll || cardCategory.startsWith(category)) {
       card.style.display = '';
     } else {
       card.style.display = 'none';
     }
   }
-
   // Update URL without reloading the page
-  if (category === 'All') {
-    window.history.replaceState({}, '', '/');
-  } else {
-    window.history.replaceState({}, '', `/${sanitizedCategory}/`);
-  }
+  window.history.replaceState({}, '', showAll ? '/' : `/${sanitizedCategory}/`);
 }
 
 document.addEventListener("DOMContentLoaded", function() {
