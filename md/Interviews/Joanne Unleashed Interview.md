@@ -1,5 +1,7 @@
 @[Source](https://web.archive.org/web/20150703025840/http://joanneunleashed.com:80/1181/man-ate-raw-meat-to-die-now-he-eats-it-to-live/)
 
+Date: 18 June 2010
+
 ### Man ate raw meat to die - now he eats it to live
 
 Q: Hello, welcome to Joanne Unleashed. Today's guest is Aajonus

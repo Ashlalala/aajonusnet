@@ -13,10 +13,14 @@ let renderState = {
   results_DOM: null,
   exactFrag: null,
   partialFrag: null,
-  partialHeadingInserted: false,
   totalResults: 0,
   urlSearchTermsExact: '',
   urlSearchTermsPartial: null,
+  exactSection: null,
+  partialSection: null,
+  partialHeadingEl: null,
+  partialHeadingShown: false,
+  summaryEl: null,
 };
 
 
@@ -28,10 +32,12 @@ function buildCardIndex() {
   const cards = document.querySelectorAll('.card-md');
   for (let i = 0; i < cards.length; i++) {
     const card = cards[i];
-    const title = card.querySelector('h2').textContent.toLowerCase();
+    const h2 = card.querySelector('h2');
+    const titleText = h2 ? h2.textContent : '';
+    const title = titleText.toLowerCase();
     const link = card.querySelector('.read-more').href;
-    const dataId = card.querySelector('.data').id;
-    cardIndex.set(dataId, { card, title, link });
+    const dataId = card.dataset.id;
+    cardIndex.set(dataId, { card, title, titleText, link });
   }
 }
 
@@ -58,14 +64,17 @@ searchWorker.onmessage = (e) => {
     return;
   }
   if (msg.type === 'reset') {
+		if (msg.seq !== searchSeq) return;
     startNewRender(msg.seq, msg.searchValue, msg.words, msg.trimmedSearchValue);
     return;
   }
   if (msg.type === 'batch') {
+		if (msg.seq !== searchSeq) return;
     enqueueRenderItems(msg.seq, msg.results);
     return;
   }
   if (msg.type === 'done') {
+		if (msg.seq !== searchSeq) return;
     finishRender(msg.seq, msg.totalResults);
     return;
   }
@@ -88,7 +97,7 @@ async function search(input) {
 
   const searchValue = input.value.replace(EMOJI_VS, '').toLowerCase();
   const trimmedSearchValue = searchValue.trim();
-  const words = searchValue.split(/\s+/).filter(word => word && word !== "the");
+  const words = searchValue.split(/\s+/).filter(word => word);
 
   document.getElementById('clear-icon').style.display = searchValue.length > 0 ? 'block' : 'none';
 
@@ -106,7 +115,6 @@ async function search(input) {
   catBar.style.display = 'none';
   grid.style.display = 'none';
   results_DOM.style.display = 'block';
-  results_DOM.innerHTML = '<p class="results-summary">Searching…</p>';
 
   // ensure indexes and worker are ready
   buildCardIndex();
@@ -141,9 +149,23 @@ function startNewRender(seq, searchValue, words, trimmedSearchValue) {
   summary.textContent = 'Searching…';
   results_DOM.appendChild(summary);
 
+  renderState.summaryEl = summary;
+
   renderState.exactFrag = document.createDocumentFragment();
   renderState.partialFrag = document.createDocumentFragment();
-  renderState.partialHeadingInserted = false;
+	
+
+renderState.exactSection = document.createElement('div');
+renderState.partialSection = document.createElement('div');
+
+
+const heading = document.createElement('p');
+heading.className = 'partial-heading';
+heading.style.cssText = 'font-style:italic; margin:20px 0 10px; display:none;';
+heading.textContent = 'Partial matches:';
+renderState.partialHeadingEl = heading;
+renderState.partialHeadingShown = false;
+
   renderState.totalResults = 0;
   renderState.urlSearchTermsExact = encodeURIComponent(searchValue.split(" ").join('+'));
   renderState.urlSearchTermsPartial = (words.length > 1) ? encodeURIComponent(words.join('+')) : null;
@@ -152,13 +174,16 @@ function startNewRender(seq, searchValue, words, trimmedSearchValue) {
   const titleWords = (trimmedSearchValue || '').split(/\s+/).filter(Boolean);
   if (titleWords.length) {
     const fragmentTitle = document.createDocumentFragment();
-    cardIndex.forEach(({ card, title, link }) => {
+    cardIndex.forEach(({ card, title, titleText, link }) => {
       if (titleWords.every(w => title.includes(w))) {
-        fragmentTitle.appendChild(createResultCard(card, [], link));
+        fragmentTitle.appendChild(createResultCard(titleText, [], link));
       }
     });
     results_DOM.appendChild(fragmentTitle);
   }
+results_DOM.appendChild(renderState.exactSection);
+results_DOM.appendChild(heading);
+results_DOM.appendChild(renderState.partialSection);
 }
 
 function enqueueRenderItems(seq, items) {
@@ -169,13 +194,27 @@ function enqueueRenderItems(seq, items) {
   }
 }
 
+function commitFrags() {
+  if (renderState.exactFrag && renderState.exactFrag.childNodes.length) {
+    renderState.exactSection.appendChild(renderState.exactFrag);
+    renderState.exactFrag = document.createDocumentFragment();
+  }
+  if (renderState.partialFrag && renderState.partialFrag.childNodes.length) {
+    if (!renderState.partialHeadingShown && renderState.partialHeadingEl) {
+      renderState.partialHeadingEl.style.display = '';
+      renderState.partialHeadingShown = true;
+    }
+    renderState.partialSection.appendChild(renderState.partialFrag);
+    renderState.partialFrag = document.createDocumentFragment();
+  }
+}
+
 function processQueueItem(r) {
   const idx  = cardIndex.get(r.id);
   if (!idx) return;
   const link = idx.link;
 
-  const title = idx ? idx.card.querySelector('h2').textContent : (meta ? meta.title : '');
-  const makeCard = (strings) => createResultCard(idx.card, strings, link);
+  const makeCard = (strings) => createResultCard(idx.titleText, strings, link);
 
   if (r.exact && r.exact.length) {
     const exactStrings = r.exact.map(item =>
@@ -206,25 +245,14 @@ while (renderState.queue.length && (performance.now() - start) < BUDGET_MS) {
   processQueueItem(r);
 
   if (++processed % 5 === 0) {
-    if (renderState.exactFrag && renderState.exactFrag.childNodes.length) {
-      renderState.results_DOM.appendChild(renderState.exactFrag);
-      renderState.exactFrag = document.createDocumentFragment();
-    }
-    if (renderState.partialFrag && renderState.partialFrag.childNodes.length) {
-      if (!renderState.partialHeadingInserted) {
-        renderState.results_DOM.insertAdjacentHTML('beforeend', '<p style="font-style:italic; margin:20px 0 10px;">Partial matches:</p>');
-        renderState.partialHeadingInserted = true;
-      }
-      renderState.results_DOM.appendChild(renderState.partialFrag);
-      renderState.partialFrag = document.createDocumentFragment();
-    }
+    commitFrags();
   }
 }
-
-
   // update summary progressively
-  const summaryEl = renderState.results_DOM.querySelector('.results-summary');
-  if (summaryEl) summaryEl.textContent = `There are ${renderState.totalResults} results.`;
+if (renderState.summaryEl) {
+  const txt = `There are ${renderState.totalResults} results.`;
+  if (renderState.summaryEl.textContent !== txt) renderState.summaryEl.textContent = txt;
+}
 
   // Keep going next frame if there’s more
   if (renderState.queue.length) {
@@ -245,34 +273,21 @@ function finishRender(seq, totalResultsFromWorker) {
       if (!renderState.raf) renderState.raf = requestAnimationFrame(flushRenderQueue);
     }
   }
+  commitFrags();
 
-  if (renderState.exactFrag && renderState.exactFrag.childNodes.length) {
-    renderState.results_DOM.appendChild(renderState.exactFrag);
-    renderState.exactFrag = document.createDocumentFragment();
-  }
-  if (renderState.partialFrag && renderState.partialFrag.childNodes.length) {
-    if (!renderState.partialHeadingInserted) {
-      renderState.results_DOM.insertAdjacentHTML('beforeend', '<p style="font-style:italic; margin:20px 0 10px;">Partial matches:</p>');
-      renderState.partialHeadingInserted = true;
-    }
-    renderState.results_DOM.appendChild(renderState.partialFrag);
-    renderState.partialFrag = document.createDocumentFragment();
-  }
-
-  const summaryEl = renderState.results_DOM.querySelector('.results-summary');
   const total = totalResultsFromWorker ?? renderState.totalResults;
-  if (summaryEl) summaryEl.textContent = `There are ${total} results.`;
+  if (renderState.summaryEl) renderState.summaryEl.textContent = `There are ${total} results.`;
 }
 
 
 
-function createResultCard(card, results, link) {
+function createResultCard(titleText, results, link) {
     // Create a new card for the search result
     const resultCard = document.createElement('div');
     resultCard.className = 'card';
 
     const resultTitle = document.createElement('h2');
-    resultTitle.innerHTML = `<a class="result-link" href="${link}">${card.querySelector('h2').textContent}</a>`;
+    resultTitle.innerHTML = `<a class="result-link" href="${link}">${titleText}</a>`;
     resultCard.appendChild(resultTitle);
 
     if (results.length == 0) {
@@ -286,27 +301,6 @@ function createResultCard(card, results, link) {
     }
 
     return resultCard;
-}
-
-function createResultCardMeta(title, results, link) {
-  const card = document.createElement('div');
-  card.className = 'card';
-
-  const h2 = document.createElement('h2');
-  const safeTitle = (title || 'Untitled').trim();
-  const safeLink = link || '#';
-  h2.innerHTML = `<a class="result-link" href="${safeLink}">${safeTitle}</a>`;
-  card.appendChild(h2);
-
-  if (results && results.length) {
-    for (let i = 0; i < results.length; i++) {
-      const p = document.createElement('p');
-      p.innerHTML = results[i];
-      card.appendChild(p);
-    }
-  }
-
-  return card;
 }
 
 function clearSearch() {

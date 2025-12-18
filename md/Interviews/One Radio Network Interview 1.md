@@ -326,7 +326,7 @@ A: Oh, raw chicken, raw beef, any kind of animal. Raw scorpion, raw snake.
 
 P: Chicken is the only thing that seems a little strange to me, but the rest all seem, which I've done. I've eaten raw grass-fed lamb hearts before, and they were really yummy. But the chicken, I don't know why. It seems a bit, I don't know. Why is that?
 
-A: It's our conditioning. You know, it's like pork and chicken are told to carry more disease, and that's only if they're concentrated farm-raised and they're not raised naturally, in their own small cages. You know, they have a lot of disease. They're fed antibiotics and all kinds of problems. But when I was on the island of Morea, which is between Bora Bora and...
+A: It's our conditioning. You know, it's like pork and chicken are told to carry more disease, and that's only if they're concentrated farm-raised and they're not raised naturally, in their own small cages. You know, they have a lot of disease. They're fed antibiotics and all kinds of problems. But when I was on the island of Moorea, which is between Bora Bora and...
 
 P: Oh, what a beautiful place.
 
@@ -340,11 +340,11 @@ P: Oh, yeah, just like the Hawaiians would do fish.
 
 A: Yeah.
 
-P: Yeah, I want to live in Morea when I grow up, Aajonus. What a place that is.
+P: Yeah, I want to live in Moorea when I grow up, Aajonus. What a place that is.
 
 A: It is, it's wonderful.
 
-P: I've just seen, it was in a movie that I really like called Love Affair with Warren Beatty and Annette Bening. And they go to Morea to see Catherine Hepburn, who's their aunt. And it's just amazing, you know. And I said, what goes on out at that island?
+P: I've just seen, it was in a movie that I really like called Love Affair with Warren Beatty and Annette Bening. And they go to Moorea to see Catherine Hepburn, who's their aunt. And it's just amazing, you know. And I said, what goes on out at that island?
 
 A: Well, I haven't been there since 96. I was there in 96. And it's more native than anywhere else. There's a high mountain there. There's lots of waterfalls. Some of those roads are pretty steep. I bicycled around it. I got around on a bicycle there.
 
@@ -362,7 +362,7 @@ A: Tahiti and Bora Bora.
 
 P: Right around in that area.
 
-A: Yeah. Well, Morea is the island between Bora Bora and Tahiti.
+A: Yeah. Well, Moorea is the island between Bora Bora and Tahiti.
 
 P: Aajonus Vonderplanitz. His book, We Want to Live Now. Your latest book is The Recipe for Living Without Disease, right?
 

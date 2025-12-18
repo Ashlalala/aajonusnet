@@ -1,4 +1,4 @@
-/* findonpage.js — self-contained “Find on page” widget */
+/* findonpage.js - self-contained Find on page widget */
 (function (global) {
   'use strict';
 
@@ -131,9 +131,12 @@
     if (!raw.length) return;
 
     const rx = new RegExp(escapeRegExp(raw), 'gi');
+    const isInWidget = (el) => !!el && (el.closest?.('#' + cfg.ids.bar) || el.closest?.('#' + cfg.ids.activate));
 
     function highlightMatches(node) {
-      if (node.nodeType === Node.TEXT_NODE && isElementVisible(node.parentElement)) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        const pe = node.parentElement;
+        if (!pe || isInWidget(pe) || !isElementVisible(pe)) return;
         const text = node.textContent;
         const matches = text.match(rx);
         if (matches) {
@@ -153,11 +156,13 @@
           if (lastIndex < text.length) frag.appendChild(document.createTextNode(text.slice(lastIndex)));
           node.parentNode.replaceChild(frag, node);
         }
-      } else if (
-        node.nodeType === Node.ELEMENT_NODE &&
-        isElementVisible(node) &&
-        !['script', 'style', 'iframe', 'canvas', 'svg'].includes(node.tagName.toLowerCase())
-      ) {
+      } else if (node.nodeType === Node.ELEMENT_NODE) {
+        if (isInWidget(node)) return;
+        const tn = node.tagName.toLowerCase();
+        if (!isElementVisible(node)) return;
+        if (['script','style','iframe','canvas','svg'].includes(tn) ||
+        node.hasAttribute('contenteditable') || node.inert ||
+        node.getAttribute('aria-hidden') === 'true') return;
         // Clone list because we mutate the DOM
         Array.from(node.childNodes).forEach(highlightMatches);
       }
@@ -211,7 +216,7 @@
     if (input) {
       input.addEventListener('input', debounce(performSearch, 300));
       input.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') { e.preventDefault(); moveToNextResult(); }
+        if (e.key === 'Enter') { e.preventDefault(); e.shiftKey ? moveToPreviousResult() : moveToNextResult(); }
         else if (e.key === 'Escape') { e.preventDefault(); hide(); }
       });
     }

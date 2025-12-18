@@ -3,23 +3,16 @@
 //error_reporting(E_ALL);
 //ini_set('display_errors', 1);
 
-$title = "Aajonus Vonderplanitz";
-$description = "Raw Primal Diet: Aajonus Online Archive by Aajonus Vonderplanitz. Complete Aajonus Transcriptions.";
-$keywords = "aajonus, aajonus vonderplanitz, primal diet, raw primal diet, raw meat, raw milk, raw dairy, raw meat diet, raw honey";
-$url = "https://aajonus.net/";
-$sitename = "Aajonus Vonderplanitz";
-$twitterAccount = "@Aajonus";
+// Loads:
+// $siteTitle, $siteDescription, $siteKeywords, $siteName, $twitterAccount, $categoryInLinks
+// $mdFolder, $baseUrl, $prioritizeCategories, $pinnedArticles
+require_once __DIR__ . '/config.php';
 
-$categoryInLinks = false;
-$prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
-$pinnedArticles = ['we-want-to-live'];
-
-$mdFolder = 'md';
 $articleMap = [];
 $categoryMap = [];
 
 $useCloudSearch = array_key_exists('cloudsearch', $_GET);
-$script = $useCloudSearch ? 'index2.js' : 'index.js';
+$script = $useCloudSearch ? 'cloudindex.js' : 'index.js';
 
 function sanitizeFileName($string) {
     $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
@@ -62,7 +55,7 @@ $uriSegments = explode("/", $uri);
 $sanitizedFile = array_pop($uriSegments);
 $originalFile = findOriginalFileName($sanitizedFile);
 
-$dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
+$dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -70,25 +63,25 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta charset="UTF-8">
     <title><?php echo $dynamicTitle; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="<?php echo $url; ?>">
+    <link rel="canonical" href="<?php echo $baseUrl; ?>">
     <base href="/">
     <link rel="stylesheet" href="style.css?v=54">
     <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
     <meta name="title" content="<?php echo $dynamicTitle; ?>">
-    <meta name="description" content="<?php echo $description; ?>">
-    <meta name="keywords" content= "<?php echo $keywords; ?>">
+    <meta name="description" content="<?php echo $siteDescription; ?>">
+    <meta name="keywords" content= "<?php echo $siteKeywords; ?>">
 
     <meta property="og:title" content="<?php echo $dynamicTitle; ?>">
-    <meta property="og:description" content="<?php echo $description; ?>">
-    <meta property="og:url" content="<?php echo $url; ?>">
-    <meta property="og:site_name" content="<?php echo $sitename; ?>">
+    <meta property="og:description" content="<?php echo $siteDescription; ?>">
+    <meta property="og:url" content="<?php echo $baseUrl; ?>">
+    <meta property="og:site_name" content="<?php echo $siteName; ?>">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="<?php echo $url; ?>logos/large-logo.jpg">
+    <meta property="og:image" content="<?php echo $baseUrl; ?>logos/large-logo.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta property="twitter:image" content="<?php echo $url; ?>logos/large-logo.jpg">
+    <meta property="twitter:image" content="<?php echo $baseUrl; ?>logos/large-logo.jpg">
     <meta name="twitter:site" content="<?php echo $twitterAccount; ?>">
     <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
@@ -130,7 +123,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
                     $folderName = $categoryMap[$folderName] ?? null;
                 }
                 foreach ($directories as $dir) {
-                     $category = str_replace('md', '', basename($dir));
+                     $category = basename($dir);
                      $sanitizedCategory = sanitizeFileName($category);
                      $selectedClass = (isset($folderName) && strtolower($category) === strtolower($folderName)) ? 'chosen-category' : '';
                      echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
@@ -280,13 +273,12 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
             $sanitizedName = sanitizeFileName($filename);
             ?>
                 
-            <div class="card-md" 
+            <div class="card-md" data-id="<?php echo htmlspecialchars($filePath, ENT_QUOTES, 'UTF-8'); ?>"
             <?php if (strpos(strtolower($category), $lowerFolderName) === false) 
                 echo ' style="display: none;"'; 
                 $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName; ?>>
                 <span class="category"><?php echo $category;?></span>
                 <h2><a class="read-more" href="/<?php echo $fullUrl; ?>"><?php echo $filename; ?></a></h2>
-                <div class="data" id="<?php echo $filePath; ?>" style="display:none;"></div>
             </div>
         <?php } ?>
         </div>
@@ -388,8 +380,8 @@ $pattern = implode('|', array_map(function ($word) {
                 </div>
             </div>
         </div>
+        <script defer src="/code/findonpage.js"></script>
     <?php } ?>
     <script src="/code/<?php echo $script; ?>?v=371"></script>
-    <script defer src="/code/findonpage.js"></script>
 </body>
 </html>

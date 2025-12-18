@@ -52,6 +52,8 @@ Aajonus and Max Kane:
 
 ![[aajonus_kane2.jpg]]
 
+![[aajonus_kane3.jpg]]
+
 Don, Doug, Dick (Aajonus), Dave:
 
 ![[aajonus_34.jpg]]

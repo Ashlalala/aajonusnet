@@ -50,7 +50,7 @@ something like that...October eighth...somewhere around there. The governor
 signed it in to make the regulations for the raw milk, for the coliform count,
 so strict that the milk will pass no more than fifty percent of the time. That
 way, it will put the raw dairy producers out of business because they won't be
-able to afford to stay in business. The same thing happened to Stuvies here in
+able to afford to stay in business. The same thing happened to Stueve's here in
 Los Angeles. The county health commission did that very same thing. So I took it
 to the legislators; I showed them all of the documentation that raw milk was a
 good thing. Vicky Yun who was the doctor - Vicky Yun who was head of the health

@@ -890,7 +890,7 @@ bacteria grow.
 Q: There is no raw yogurt available?
 
 A: No. Kefir used to be available, however it was made with gelatin. I tried to
-get Stuves over the past 12 years to use agar-agar and they are thinking about
+get Stueve's over the past 12 years to use agar-agar and they are thinking about
 it now that they have a new producer for them. But they may not until they make
 more money and get back into it because they are so much in debt. The kefir you
 would buy has lactobacillus, vulgaris, and acidophilus in their kefir. Those

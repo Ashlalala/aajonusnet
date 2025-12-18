@@ -558,7 +558,7 @@ A: If you can get them to do it. It's very difficult.
 
 Q: Probably more likely than someone starting up one.
 
-A: Yeah. But I tried to get one of the Stewie brothers up in Northern California. You know, Stewie used to be the raw dairy here. And, you know, they kept promising that they would do it, and they do it. And they didn't. And then Mark McAfee came around and got all this money together for him, and he did it, and now he doesn't give a shit about us. Without us, he would have never been in the business.
+A: Yeah. But I tried to get one of the Stueve brothers up in Northern California. You know, Stueve used to be the raw dairy here. And, you know, they kept promising that they would do it, and they do it. And they didn't. And then Mark McAfee came around and got all this money together for him, and he did it, and now he doesn't give a shit about us. Without us, he would have never been in the business.
 
 Q: How much did he need to start?
 

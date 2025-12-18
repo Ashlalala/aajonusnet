@@ -29,10 +29,10 @@ $maxLength  = 200;
 // 3) Build article list by scanning the "md" folder
 // ----------------------------------------------------------------------
 
-$config = require dirname(__DIR__) . '/config.php';
-$mdFolder  = $config['mdFolder'];
+// Loads: $mdFolder, $prioritizeCategories, categoryinLinks
+require_once dirname(__DIR__) . '/config.php';
+$mdFolder = dirname(__DIR__) . '/' . $mdFolder;
 
-$prioritizeCategories = ['QNA','Newsletters','Books','Books/Old'];
 $articles              = [];
 
 $it = new RecursiveIteratorIterator(
@@ -47,7 +47,6 @@ foreach ($it as $file) {
             : ltrim(str_replace([$mdFolder, "\\"], ['', '/'], dirname($path)), '/');
 
     // build link (toggle $categoryInLinks if desired)
-    $categoryInLinks = false;
     if ($categoryInLinks) {
         $link = '/'.sanitizeFileName($catDir).'/'.sanitizeFileName($name);
     } else {
@@ -146,7 +145,7 @@ function findMatches($body, $searchValue, $words, $maxLen, $link) {
             $end = min(strlen($body), $start + ($maxLen * 2));
 
             $win = substr($body, $start, $end - $start);
-            $win = mb_convert_encoding($win, 'UTF-8', 'UTF-8');
+            $win = preg_match('//u', $win) ? $win : @iconv('UTF-8', 'UTF-8//IGNORE', $win);
 
             $isExact = strpos($win, $searchValue) !== false;
             $allWordsPresent = array_reduce(

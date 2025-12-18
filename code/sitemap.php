@@ -3,9 +3,8 @@ declare(strict_types=1);
 
 header('Content-Type: application/xml; charset=utf-8');
 
-$config = require dirname(__DIR__) . '/config.php';
-$mdFolder = $config['mdFolder'];
-$url = $config['baseUrl'];
+require_once dirname(__DIR__) . '/config.php';
+$mdFolder = dirname(__DIR__) . '/' . $mdFolder;
 
 function sanitizeFileName($string) {
     $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
@@ -20,7 +19,7 @@ $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
 
 // Home Page
 $xml .= '<url>';
-$xml .= '<loc>' . $url . '</loc>';
+$xml .= '<loc>' . $baseUrl . '</loc>';
 $xml .= '<changefreq>daily</changefreq>';
 $xml .= '<priority>1.0</priority>';
 $xml .= '</url>';
@@ -31,7 +30,7 @@ foreach ($directories as $dir) {
     $category = str_replace($mdFolder . '/', '', $dir);
     $category = sanitizeFileName($category);
     $xml .= '<url>';
-    $xml .= '<loc>' . $url . $category . '</loc>';
+    $xml .= '<loc>' . $baseUrl . $category . '</loc>';
     $xml .= '<changefreq>daily</changefreq>';
     $xml .= '<priority>0.8</priority>';
     $xml .= '</url>';
@@ -51,7 +50,7 @@ foreach ($files as $file) {
     $sanitizedFileName = sanitizeFileName($filename);
 
     $xml .= '<url>';
-    $xml .= '<loc>' . $url . $sanitizedFileName . '</loc>';
+    $xml .= '<loc>' . $baseUrl . $sanitizedFileName . '</loc>';
     $xml .= '<changefreq>weekly</changefreq>';
     $xml .= '<priority>0.7</priority>';
     $xml .= '</url>';

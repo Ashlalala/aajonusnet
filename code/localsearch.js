@@ -24,8 +24,11 @@ async function runQuery({ seq, searchValue, trimmedSearchValue, words }) {
   const titleWords = trimmedSearchValue.split(/\s+/).filter(Boolean);
 
   let totalResults = 0;
-  // tell main thread to reset UI for this seq
-  self.postMessage({ type: 'reset', seq, searchValue, trimmedSearchValue, words });
+  if (seq === activeSeq) { // tell main thread to reset UI for this seq
+    self.postMessage({ type: 'reset', seq, searchValue, trimmedSearchValue, words });
+  } else {
+	return;
+  }
 
   const batch = [];
 
@@ -33,7 +36,7 @@ async function runQuery({ seq, searchValue, trimmedSearchValue, words }) {
     if (seq !== activeSeq) return; // cancelled
 
     const { id, text, title } = docs[i];
-    const [exact, partials] = findMatches(text, searchValue, words, MAX_WINDOW, exactRegex, partialRegex);
+    const [exact, partials] = findMatches(text, searchValue, words, MAX_WINDOW, exactRegex, partialRegex, seq);
     const titleMatch = titleWords.length > 0 && titleWords.every(w => title.includes(w));
 
     if (titleMatch || exact.length || partials.length) {
@@ -57,7 +60,7 @@ async function runQuery({ seq, searchValue, trimmedSearchValue, words }) {
 }
 
 
-function findMatches(text, searchValue, words, maxLength, exactRegex, partialRegex) {
+function findMatches(text, searchValue, words, maxLength, exactRegex, partialRegex, seq) {
   const wantPartial = words.length > 1;
   const exactMatches = [];
   const partialMatches = [];
@@ -67,6 +70,7 @@ function findMatches(text, searchValue, words, maxLength, exactRegex, partialReg
     const word = words[wi];
     let offset = text.indexOf(word);
     while (offset !== -1) {
+      if (seq !== activeSeq) return [[], []];
       let start = Math.max(0, offset - maxLength);
       if (start < lastWindowEnd) start = lastWindowEnd;
       let end = Math.min(text.length, start + (maxLength * 2));

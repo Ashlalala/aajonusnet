@@ -1,3 +1,6 @@
+// Ignore emoji variation selectors so they don't break matching
+const EMOJI_VS = /[\uFE0E\uFE0F]/g;
+
 // debounce + abort management
 let searchTimeout = null;
 let currentSearchController = null;
@@ -7,41 +10,29 @@ function escapeRegExp(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function createResultCard(title, snippets, link, query) {
-  const card = document.createElement('div');
-  card.className = 'card';
+function createResultCard(titleText, results, link) {
+  const resultCard = document.createElement('div');
+  resultCard.className = 'card';
 
-  // Title (only s=…)
-  const h2 = document.createElement('h2');
-  h2.innerHTML = `<a class="result-link" href="${link}?s=${encodeURIComponent(query)}">${title}</a>`;
-  card.appendChild(h2);
+  const resultTitle = document.createElement('h2');
+  resultTitle.innerHTML = `<a class="result-link" href="${link}">${titleText}</a>`;
+  resultCard.appendChild(resultTitle);
 
-  // Snippet links
-  snippets.forEach(htmlSnippet => {
-    // pull out plain text to re‑encode into &search=
-    const tmp = document.createElement('div');
-    tmp.innerHTML = htmlSnippet;
-    const snippetText = tmp.textContent || tmp.innerText || '';
+  if (results.length === 0) return resultCard;
 
-    const a = document.createElement('a');
-    a.className = 'result-link';
-    a.href = `${link}?s=${encodeURIComponent(query)}&search=${encodeURIComponent(snippetText)}`;
-
+  for (let result of results) {
     const p = document.createElement('p');
-    p.innerHTML = htmlSnippet;
-    a.appendChild(p);
-
-    card.appendChild(a);
-  });
-
-  return card;
+    p.innerHTML = result;
+    resultCard.appendChild(p);
+  }
+  return resultCard;
 }
 
 async function performCloudSearch(query, controller) {
   const resultsDOM = document.querySelector('.results');
 
   try {
-    const response = await fetch('cloudsearch.php', {
+    const response = await fetch('code/cloudsearch.php', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       signal: controller.signal,
@@ -64,9 +55,7 @@ async function performCloudSearch(query, controller) {
 
     // count total snippets
     const totalResults = data.reduce(
-      (sum, item) => sum + (item.sn?.length || 0),
-      0
-    );
+      (sum, item) => sum + ((item.sn && item.sn.length) ? item.sn.length : 0), 0);
 
     // build regex to detect exact‐phrase highlights
     const escapedQuery = escapeRegExp(query);
@@ -74,28 +63,41 @@ async function performCloudSearch(query, controller) {
       `<span class="highlight">${escapedQuery}</span>`,
       'i'
     );
+    const terms = query.trim().split(/\s+/).filter(Boolean);
+const urlSearchTermsExact   = encodeURIComponent(terms.join('+'));
+const urlSearchTermsPartial = (terms.length > 1)
+  ? encodeURIComponent(terms.join('+'))
+  : urlSearchTermsExact;
 
-    // distribute each result into the right fragment
-    data.forEach(item => {
-      const { t: title, l: link, sn: snippets = [] } = item;
+data.forEach(item => {
+  const { t: title, l: link, sn: snippets = [] } = item;
 
-      if (snippets.length === 0) {
-        // a pure title match
-        fragTitle.appendChild(createResultCard(title, [], link, query));
+  if (snippets.length === 0) {
+    // title-only
+    fragTitle.appendChild(createResultCard(title, [], link));
+  } else {
+    // decide exact vs partial by looking for the full phrase highlight
+    const isExact = snippets.some(s => exactRegex.test(s));
+    const sParam  = isExact ? urlSearchTermsExact : urlSearchTermsPartial;
 
-      } else {
-        // snippet card: decide exact vs partial by looking for the full phrase‑highlight
-        const isExact = snippets.some(s => exactRegex.test(s));
-        if (isExact) {
-          fragExact.appendChild(createResultCard(title, snippets, link, query));
-        } else {
-          fragPartial.appendChild(createResultCard(title, snippets, link, query));
-        }
-      }
+    const snippetStrings = snippets.map(htmlSnippet => {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = htmlSnippet;
+      const snippetText = tmp.textContent || tmp.innerText || '';
+      return `<a class="result-link" href="${link}?s=${sParam}&search=${encodeURIComponent(snippetText)}">${htmlSnippet}</a><br><br><hr>`;
     });
+
+    if (isExact) {
+      fragExact.appendChild(createResultCard(title, snippetStrings, link));
+    } else {
+      fragPartial.appendChild(createResultCard(title, snippetStrings, link));
+    }
+  }
+});
 
     // 1) total summary
     const summary = document.createElement('p');
+    summary.className = 'results-summary';
     summary.textContent = `There are ${totalResults} results.`;
     resultsDOM.appendChild(summary);
 
@@ -125,48 +127,54 @@ async function performCloudSearch(query, controller) {
 }
 
 function search(input) {
-  const searchValue        = input.value.toLowerCase();
+  // strip emoji variation selectors, then lowercase (like index.js)
+  const raw = input.value.replace(EMOJI_VS, '').toLowerCase();
+  const searchValue = raw;
   const trimmedSearchValue = searchValue.trim();
-  const grid               = document.querySelector('.grid');
-  const resultsDOM         = document.querySelector('.results');
+
+  const catBar     = document.querySelector('.categories');
+  const grid       = document.querySelector('.grid');
+  const resultsDOM = document.querySelector('.results');
 
   resultsDOM.innerHTML = '';
   document.getElementById('clear-icon').style.display =
     searchValue.length > 0 ? 'block' : 'none';
 
-  const words = searchValue
-    .split(/\s+/)
-    .filter(w => w && w !== 'the');
+  const words = searchValue.split(/\s+/).filter(Boolean);
 
-  // ignore <3‑char queries
-  if (words.every(w => w.length < 3)) {
-    grid.style.display    = 'block';
+  const isAl = /^[a-z]+$/i;
+  const hasValidToken = words.some(word => (!isAl.test(word) || word.length >= 3));
+
+  if (!hasValidToken) {
+    grid.style.display = 'block';
     resultsDOM.style.display = 'none';
+    if (catBar) catBar.style.display = 'flex';
+    if (currentSearchController) currentSearchController.abort();
     return;
   }
 
-  grid.style.display      = 'none';
+  if (catBar) catBar.style.display = 'none';
+  grid.style.display = 'none';
   resultsDOM.style.display = 'block';
-  resultsDOM.innerHTML     = '<p>Loading...</p>';
+  resultsDOM.innerHTML = '<p>Searching…</p>';
 
-  // debounce + abort
+  // debounce + abort (same as before)
   if (searchTimeout) clearTimeout(searchTimeout);
   searchTimeout = setTimeout(() => {
     if (currentSearchController) currentSearchController.abort();
     currentSearchController = new AbortController();
-    performCloudSearch(searchValue, currentSearchController);
+    // send the trimmed query to backend
+    performCloudSearch(trimmedSearchValue, currentSearchController);
   }, 300);
 }
 
 
-// Clear button
 function clearSearch() {
-    const searchEl = document.getElementById('search');
-    searchEl.value = '';
+    const searchInput = document.getElementById('search');
+    searchInput.value = '';
+    search(searchInput);
     document.getElementById('clear-icon').style.display = 'none';
-    document.querySelector('.grid').style.display = 'block';
-    document.querySelector('.results').style.display = 'none';
-    document.querySelector('.results').innerHTML = '';
+    searchInput.focus();
 }
 
 function goBack() {
@@ -180,7 +188,7 @@ function goBack() {
 }
 
 window.onload = function() {
-	var searchInput = document.getElementById('search');
+	const searchInput = document.getElementById('search');
 	if (searchInput){
 		searchInput.focus();
 		search(searchInput) // may be not needed
@@ -195,9 +203,9 @@ window.onload = function() {
 };
 
 function scrollToElement(element) {
-	var viewHeight = window.innerHeight;
-	var elementPosition = element.getBoundingClientRect().top;
-	var scrollPosition = elementPosition - (viewHeight / 2);
+	const viewHeight = window.innerHeight;
+	const elementPosition = element.getBoundingClientRect().top;
+	const scrollPosition = elementPosition - (viewHeight / 2);
 	window.scrollBy({
 		top: scrollPosition,
 		behavior: 'smooth'
@@ -223,7 +231,7 @@ function scrollToPosition() {
 scrollToPosition();
 
 document.body.addEventListener('click', function(e) {
-    var target = e.target;
+    let target = e.target;
     
     // Traverse up to find the anchor tag
     while (target && target.tagName !== 'A') {
@@ -233,10 +241,10 @@ document.body.addEventListener('click', function(e) {
     // If an anchor tag is found and it matches the criteria
     if (target && /\.(jpg|png|gif)$/.test(target.href)) {
         e.preventDefault();
-        var imgSrc = target.href;
-        var previewDiv = document.createElement('div');
+        const imgSrc = target.href;
+        const previewDiv = document.createElement('div');
         previewDiv.className = 'image-preview';
-        var img = document.createElement('img');
+        const img = document.createElement('img');
         img.src = imgSrc;
         img.style.maxWidth = '100%';
         img.style.height = 'auto';
@@ -257,24 +265,24 @@ document.body.addEventListener('click', function(e) {
 function filterCategory(category, sanitizedCategory, element) {
   // Deselect all categories
   event.preventDefault();
-  var categories = document.querySelectorAll('.categories a');
-  for (var i = 0; i < categories.length; i++) {
-    categories[i].classList.remove('chosen-link');
+  const categories = document.querySelectorAll('.categories a');
+  for (let i = 0; i < categories.length; i++) {
+    categories[i].classList.remove('chosen-category');
   }
 
   // Clear search input
-  var searchInput = document.getElementById('search');
+  const searchInput = document.getElementById('search');
   searchInput.value = '';
   search(searchInput);
 
 
   // Select the clicked category
-  element.classList.add('chosen-link');
+  element.classList.add('chosen-category');
 
-  var cards = document.getElementsByClassName('card-md');
-  for (var i = 0; i < cards.length; i++) {
-    var card = cards[i];
-    var cardCategory = card.getElementsByClassName('category')[0].innerText;
+  const cards = document.getElementsByClassName('card-md');
+  for (let i = 0; i < cards.length; i++) {
+    const card = cards[i];
+    const cardCategory = card.getElementsByClassName('category')[0].innerText;
 
     if (category === 'All' || cardCategory.startsWith(category)) {
       card.style.display = '';
@@ -283,7 +291,7 @@ function filterCategory(category, sanitizedCategory, element) {
     }
   }
 
-  var notFoundMessage = document.getElementById('not-found');
+  const notFoundMessage = document.getElementById('not-found');
   if (notFoundMessage) {
     notFoundMessage.style.display = 'none';
   }
@@ -300,28 +308,26 @@ document.addEventListener("DOMContentLoaded", function() {
   const input = document.getElementById('search');
   input.disabled = false;
   input.placeholder = 'Search';
-  var removeHighlightsBtn = document.getElementById("removeHighlights");
+  const removeHighlightsBtn = document.getElementById("removeHighlights");
   
   if (removeHighlightsBtn) {
     removeHighlightsBtn.addEventListener("click", function() {
         removeHighlights();
     });
-  }
-  
-  // Check if running as a web app and article is open
-  if (window.navigator.standalone && document.getElementById("share-button")) {
-      document.getElementById("share-button").style.display = "inline-block";
+    document.querySelectorAll("code, pre").forEach(el => {
+        el.innerHTML = el.innerHTML.replace(/&lt;span class="highlight"&gt;(.*?)&lt;\/span&gt;/g, '<span class="highlight">$1</span>');
+    });
   }
 });
 
 function removeHighlights() {
-      var removeHighlightsBtn = document.getElementById("removeHighlights");
+      const removeHighlightsBtn = document.getElementById("removeHighlights");
       if (!removeHighlightsBtn) {
           return;
       }
       // Remove highlights
-      var highlighted = document.querySelectorAll(".highlight");
-      for (var i = 0; i < highlighted.length; i++) {
+      const highlighted = document.querySelectorAll(".highlight");
+      for (let i = 0; i < highlighted.length; i++) {
         highlighted[i].outerHTML = highlighted[i].innerHTML;
       }
 
@@ -329,7 +335,7 @@ function removeHighlights() {
       removeHighlightsBtn.style.display = "none";
   
       // Update URL
-      var url = window.location.href;
+      let url = window.location.href;
       url = url.split('?')[0];
       window.history.replaceState({}, '', url);
 }
@@ -350,7 +356,7 @@ function shareArticle() {
     } else {
       // Fallback to copying URL to clipboard
       const textArea = document.createElement("textarea");
-      textArea.value = text;
+      textArea.value = url;
       document.body.appendChild(textArea);
       textArea.select();
       document.execCommand("Copy");

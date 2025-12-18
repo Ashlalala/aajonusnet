@@ -1,4 +1,22 @@
 RewriteEngine on
+
+# Force HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,NE,L]
+
+# Remove www. from url
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [R=301,NE,L]
+
+# Set Security Header
+Header always set Strict-Transport-Security "max-age=16070400; includeSubDomains" env=HTTPS
+
+# Brotli compression
+<IfModule mod_brotli.c>
+    SetOutputFilter BROTLI_COMPRESS
+</IfModule>
+
 # Sitemap
 RewriteRule ^sitemap\.xml$ /code/sitemap.php [L,NC]
 
