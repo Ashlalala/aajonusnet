@@ -10,9 +10,9 @@ require_once __DIR__ . '/config.php';
 
 $articleMap = [];
 $categoryMap = [];
+$articles = buildIndex();
 
-$useCloudSearch = array_key_exists('cloudsearch', $_GET);
-$script = $useCloudSearch ? 'cloudindex.js' : 'index.js';
+$script = isset($_GET['cloudsearch']) ? 'cloudindex.js' : 'index.js';
 
 function sanitizeFileName($string) {
     $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
@@ -21,68 +21,86 @@ function sanitizeFileName($string) {
     return strtolower(trim($string, '-'));
 }
 
-function populateArticleMap() {
+function buildIndex() {
     global $articleMap, $categoryMap, $mdFolder;
-    $mdFolderLength = strlen($mdFolder) + 1;
-    $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::SELF_FIRST);
-    foreach ($files as $file) {
-        $filePath = $file->getPathname();
-        if ($file->isDir()) {
-            $category = str_replace($mdFolder . '/', '', $filePath);
-             if ($category === '..' || $category === '.') {
-                continue; // skip parent and current directory markers
-            }
-            $sanitizedCategory = sanitizeFileName($category);
-            $categoryMap[$sanitizedCategory] = $category;
+
+    $rootLen = strlen($mdFolder) + 1;
+    $it = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS),
+        RecursiveIteratorIterator::SELF_FIRST
+    );
+
+    $articles = [];
+    foreach ($it as $f) {
+        $path = $f->getPathname();
+
+        if ($f->isDir()) {
+            $rel = substr($path, $rootLen);
+            if ($rel !== '') $categoryMap[sanitizeFileName($rel)] = $rel;
             continue;
         }
-        $ext=strtolower($file->getExtension());
-        if($ext !== 'md' && $ext !== 'txt') continue;
-        $filename = $file->getBasename('.' . $ext);
-        $sanitizedName = sanitizeFileName($filename);
-        $relativePath = substr($filePath, $mdFolderLength, -(strlen($ext) + 1));
-        $articleMap[$sanitizedName] = $relativePath;
-    }
-}
-populateArticleMap();
-function findOriginalFileName($sanitizedName) {
-    global $articleMap;
-    $sanitizedName = strtolower($sanitizedName);
-    return $articleMap[$sanitizedName] ?? null;
-}
-$uri = parse_url(strtok($_SERVER['REQUEST_URI'], '&'), PHP_URL_PATH);
-$uriSegments = explode("/", $uri);
-$sanitizedFile = array_pop($uriSegments);
-$originalFile = findOriginalFileName($sanitizedFile);
 
+        $ext = strtolower($f->getExtension());
+        if (!in_array($ext, ['md','txt'], true)) continue;
+
+        $relNoExt = substr($path, $rootLen, -(strlen($ext)+1));
+        $filename = $f->getBasename('.'.$ext);
+
+        // derive normalized category with forward slashes
+        $cat = dirname(substr($path, $rootLen));
+        $cat = $cat === '.' ? 'other' : ltrim(str_replace('\\','/',$cat), '/');
+
+        $slug = sanitizeFileName(basename($relNoExt));
+        $articleMap[$slug] = $relNoExt;
+        $articles[] = [
+            'filePath' => $path,
+            'filename' => $filename,
+            'category' => $cat
+        ];
+    }
+    return $articles;
+}
+$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$slug = basename(trim($uri, '/'));
+
+$originalFile = $slug !== '' ? ($articleMap[strtolower($slug)] ?? null) : null;
 $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
+
+$isHome = ($slug === '' || $uri === '/');
+$is404  = !$isHome && !$originalFile && !isset($categoryMap[sanitizeFileName($slug)]);
+if ($is404) {
+    http_response_code(404);
+    header('X-Robots-Tag: noindex, nofollow', true);
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title><?php echo $dynamicTitle; ?></title>
+    <title><?= $dynamicTitle ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="<?php echo $baseUrl; ?>">
+    <?php if (!$is404): ?>
+    <link rel="canonical" href="<?= $baseUrl ?>">
+    <?php endif; ?>
     <base href="/">
     <link rel="stylesheet" href="style.css?v=54">
     <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
-    <meta name="title" content="<?php echo $dynamicTitle; ?>">
-    <meta name="description" content="<?php echo $siteDescription; ?>">
-    <meta name="keywords" content= "<?php echo $siteKeywords; ?>">
+    <meta name="title" content="<?= $dynamicTitle ?>">
+    <meta name="description" content="<?= $siteDescription ?>">
+    <meta name="keywords" content="<?= $siteKeywords ?>">
 
-    <meta property="og:title" content="<?php echo $dynamicTitle; ?>">
-    <meta property="og:description" content="<?php echo $siteDescription; ?>">
-    <meta property="og:url" content="<?php echo $baseUrl; ?>">
-    <meta property="og:site_name" content="<?php echo $siteName; ?>">
+    <meta property="og:title" content="<?= $dynamicTitle ?>">
+    <meta property="og:description" content="<?= $siteDescription ?>">
+    <meta property="og:url" content="<?= $baseUrl ?>">
+    <meta property="og:site_name" content="<?= $siteName ?>">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="<?php echo $baseUrl; ?>logos/large-logo.jpg">
+    <meta property="og:image" content="<?= $baseUrl ?>logos/large-logo.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta property="twitter:image" content="<?php echo $baseUrl; ?>logos/large-logo.jpg">
-    <meta name="twitter:site" content="<?php echo $twitterAccount; ?>">
+    <meta property="twitter:image" content="<?= $baseUrl ?>logos/large-logo.jpg">
+    <meta name="twitter:site" content="<?= $twitterAccount ?>">
     <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -93,11 +111,12 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
     <div class="header">
         <div class="title-container">
             <?php if ($originalFile) { ?>
-                <div class="back-arrow" onclick="goBack()" aria-label="Go back">
+                <div class="back-arrow" onclick="goBack()" role="button" aria-label="Go back">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><polyline points="13.42,5.41 4,12 13.41,18.59" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </div>
             <?php } ?>
-            <a class="title" href="/"><h1><?php echo $dynamicTitle === "Aajonus Vonderplanitz" ? "Aajonus.net" : $dynamicTitle; ?></h1></a>
+            <a class="title" href="/"><h1><?= $dynamicTitle === "Aajonus Vonderplanitz" ? "Aajonus.net" : $dynamicTitle ?></h1>
+</a>
             <?php if ($originalFile) { ?>
                 <div id="share-button" onclick="shareArticle()" role="button" tabindex="0" aria-label="Share">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"/></svg>
@@ -105,7 +124,7 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
             <?php } ?>
         </div>
     </div>
-    <?php if (!$originalFile) { ?>
+    <?php if (!$originalFile && !$is404) { ?>
         <!-- Search Bar -->
         <div class="search-container">
             <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"><g stroke="#757575" stroke-width="1.1" fill="none" stroke-linecap="butt"><circle cx="6" cy="20" r="5"/><line x1="10.039" y1="23.721" x2="13.909" y2="27.591"/></g></svg>
@@ -114,69 +133,27 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
         </div>
         <!-- Categories -->
         <nav class="categories" aria-label="Categories">
-            <a href="#" onclick="filterCategory('All', 'All', this)">All</a>
+            <a href="/" onclick="filterCategory(event, 'All', 'All', this)">All</a>
             <?php 
                 $directories = glob($mdFolder . '/*', GLOB_ONLYDIR);
                 $folderName = '';
                 if (isset($_GET['category'])) {
-                    $folderName = str_replace("/index.php", "", $_GET['category']);
-                    $folderName = $categoryMap[$folderName] ?? null;
+                    $folderName = $categoryMap[sanitizeFileName((string)$_GET['category'])] ?? null;
                 }
                 foreach ($directories as $dir) {
                      $category = basename($dir);
                      $sanitizedCategory = sanitizeFileName($category);
                      $selectedClass = (isset($folderName) && strtolower($category) === strtolower($folderName)) ? 'chosen-category' : '';
-                     echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
+                     echo '<a href="/' . $sanitizedCategory . '/" class="' . $selectedClass . '" onclick="return filterCategory(event, \'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a>';
                 }
             ?>
         </nav>
         <main>
         <div class="grid">
         <?php
-        if (!empty($folderName)) {
-            $fullFolderPath = $mdFolder . "/" . $folderName;
-            $lowerFullFolderPath = strtolower($fullFolderPath);
-            $folderExists = false;
 
-            foreach (glob($mdFolder . "/*", GLOB_ONLYDIR) as $dir) {
-                if (strtolower($dir) == $lowerFullFolderPath) {
-                    $folderExists = true;
-                    $folderName = basename($dir);
-                    break;
-                }
-            }
+        $lowerFolderName = strtolower($folderName);        
 
-            if (!$folderExists && !$originalFile) {
-                echo '<p id="not-found">Page not found.</p>';
-            }
-        }
-
-        $folderName = str_replace("/", "\\", $folderName);
-        $lowerFolderName = strtolower($folderName);
-            
-        $articles = [];
-        $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder));
-
-        foreach ($files as $file) {
-           if ($file->isDir()) {
-                    continue;
-            }
-            $ext=strtolower($file->getExtension());
-            if($ext !== 'md' && $ext !== 'txt') continue;
-            $filePath = $file->getPathname();
-            $filename=$file->getBasename('.' . $ext);
-            $category = dirname($filePath);
-
-            if ($category == $mdFolder) {
-                $category = 'other';
-            } else {
-                $category = str_replace($mdFolder, '', $category);
-                $category = str_replace("\\", "/", $category);
-                $category = ltrim($category, '/');
-            }
-
-            $articles[] = ['filePath' => $filePath, 'filename' => $filename, 'category' => $category];
-        }
         usort($articles, function ($a, $b) use ($prioritizeCategories, $pinnedArticles) {
             $catA = explode('/', $a['category']);
             $catB = explode('/', $b['category']);
@@ -256,29 +233,18 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
             $filePath = $article['filePath'];
             $filename = $article['filename'];
             $category = $article['category'];
-
-            if ($category == $mdFolder) {
-                $category = 'other';
-            } else {
-                $category = str_replace($mdFolder, '', $category);
-                $subCategory = strpos($category, '\\', strpos($category, '/') + 1);
-    
-                if ($subCategory !== false) {
-                    $category = substr($category, 0, $subCategory);
-                }
-                $category = ltrim($category, '/');
-            }
-                
-            $sanitizedCategory = sanitizeFileName($category);
+            $topCategory = explode('/', $category)[0];
+            $sanitizedCategory = sanitizeFileName($topCategory);
+            $lowerCategory = strtolower($category);
             $sanitizedName = sanitizeFileName($filename);
-            ?>
-                
-            <div class="card-md" data-id="<?php echo htmlspecialchars($filePath, ENT_QUOTES, 'UTF-8'); ?>"
-            <?php if (strpos(strtolower($category), $lowerFolderName) === false) 
+        ?>
+        
+        <div class="card-md" data-id="<?= htmlspecialchars($filePath, ENT_QUOTES, 'UTF-8'); ?>"
+        <?php if ($lowerFolderName !== '' && strpos($lowerCategory, $lowerFolderName) !== 0) 
                 echo ' style="display: none;"'; 
                 $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName; ?>>
-                <span class="category"><?php echo $category;?></span>
-                <h2><a class="read-more" href="/<?php echo $fullUrl; ?>"><?php echo $filename; ?></a></h2>
+                <span class="category"><?= $category ?></span>
+                <h2><a class="read-more" href="/<?= $fullUrl ?>"><?= $filename ?></a></h2>
             </div>
         <?php } ?>
         </div>
@@ -291,8 +257,8 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
         $file = file_exists($fileMd) ?$fileMd:(file_exists($fileTxt) ?$fileTxt : null);
 
         if ($file) {
-            require 'code/Parsedown.php';
-            require 'code/ParsedownExtra.php';
+            require_once 'code/Parsedown.php';
+            require_once 'code/ParsedownExtra.php';
             $Parsedown = new ParsedownExtra();  
             $content = trim(file_get_contents($file));
 
@@ -328,14 +294,12 @@ $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
                 $words = explode('+', $s); // Split the words
 
                 $words = array_filter($words, function($word) {
-									  if ($word === '') return false;
-										
+				   if ($word === '') return false;			
                     if (iconv_strlen($word, 'UTF-8') > 1) return true;
-
                     return !preg_match('/^[a-z]$/i', $word);
                 });
 								
-$pattern = implode('|', array_map(function ($word) {
+                $pattern = implode('|', array_map(function ($word) {
                      return preg_quote($word, '/');
                 }, $words)); // Create a pattern that matches any of the words
 								
@@ -353,35 +317,23 @@ $pattern = implode('|', array_map(function ($word) {
             $content = preg_replace('/!\[(.*?)\]\((.*?)\)/', '![$1](imgs/$2)', $content);
             $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](imgs/$1 "Title")', $content);
             $htmlContent = $Parsedown->text($content);
+            
+            // Fix footnote links (because of base href ='/')
+            $htmlContent = preg_replace('/href=(["\'])#([^"\']+)\1/i', 'href=$1' . $uri . '#$2$1', $htmlContent);
 
             echo $htmlContent;
             if (isset($_GET['s'])) {
                 echo '<button id="removeHighlights"><span class="x">×</span>Highlights</button>';
             }
         } else {
-            echo '<p>File not found.</p>';
+            echo '<p id="not-found">Page not found. Go to the <a href="/">homepage</a>.</p>';
+            echo '</div></body></html>';
+            exit;
         }
         ?>
         </div>
-        <button id="activate-find-on-page" class="activate-find-on-page">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <circle cx="11" cy="11" r="8"></circle>
-                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-            </svg>
-        </button>
-        <div id="find-on-page" class="find-on-page">
-            <div class="find-on-page-content">
-                <button id="find-on-page-close">✕</button>
-                <input type="text" id="find-on-page-input" placeholder="Find on Page">
-                <div id="find-on-page-count"></div>
-                <div class="find-on-page-buttons">
-                    <button id="find-on-page-up">▲</button>
-                    <button id="find-on-page-down">▼</button>
-                </div>
-            </div>
-        </div>
-        <script defer src="/code/findonpage.js"></script>
+        <script defer src="/code/findonpage.js?v=2"></script>
     <?php } ?>
-    <script src="/code/<?php echo $script; ?>?v=371"></script>
+    <script src="/code/<?= $script ?>?v=371"></script>
 </body>
 </html>

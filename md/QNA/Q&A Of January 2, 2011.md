@@ -1590,7 +1590,7 @@ A: Yeah.
 
 Q: Do you have a website for that, John Reed?
 
-A: RA Healthy Foods dot com. Now, as of the 15th, there will be a place in Santa Monica, at 27th and the freeway, 10 freeway. And that ARCO station there, on the south side of that station, there's a lot of paved area. So, he's renting that every Saturday so people can come closer to them and let them go all over to Tonga.
+A: RAHealthyFoods.com. [[Note: now, see farmmatch.com] Now, as of the 15th, there will be a place in Santa Monica, at 27th and the freeway, 10 freeway. And that ARCO station there, on the south side of that station, there's a lot of paved area. So, he's renting that every Saturday so people can come closer to them and let them go all over to Tonga.
 
 Q: Where? In Santa Monica?
 

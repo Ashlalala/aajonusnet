@@ -111,7 +111,7 @@ async function search(input) {
     results_DOM.innerHTML = '';
     return;
   }
-
+  
   catBar.style.display = 'none';
   grid.style.display = 'none';
   results_DOM.style.display = 'block';
@@ -325,7 +325,6 @@ window.onload = function() {
 	const searchInput = document.getElementById('search');
 	if (searchInput){
 		searchInput.focus();
-		search(searchInput) // may be not needed
         searchInput.addEventListener('keyup', function(event) {
             // Key code 13 is the "Return" key
             if (event.keyCode === 13) {
@@ -364,7 +363,9 @@ function scrollToPosition() {
 }
 scrollToPosition();
 
-document.body.addEventListener('click', function(e) {
+const articleRoot = document.querySelector('.content');
+if (articleRoot) {
+  document.body.addEventListener('click', function(e) {
     let target = e.target;
     
     // Traverse up to find the anchor tag
@@ -394,24 +395,24 @@ document.body.addEventListener('click', function(e) {
             target.parentNode.insertBefore(previewDiv, target.nextSibling);
         }
     }
-});
+  });
+}
 
-function filterCategory(category, sanitizedCategory, element) {
+function filterCategory(ev, category, sanitizedCategory, element) {
+  if (ev) ev.preventDefault();
   // Deselect all categories
-  event.preventDefault();
   const categories = document.querySelectorAll('.categories a');
   for (let i = 0; i < categories.length; i++) {
     categories[i].classList.remove('chosen-category');
   }
+  // Select the category
+  element.classList.add('chosen-category');
 
   // Clear search input
   const searchInput = document.getElementById('search');
   searchInput.value = '';
-  search(searchInput);
-
-
-  // Select the clicked category
-  element.classList.add('chosen-category');
+  const clearIcon = document.getElementById('clear-icon');
+  if (clearIcon) clearIcon.style.display = 'none';
 
   const cards = document.getElementsByClassName('card-md');
   for (let i = 0; i < cards.length; i++) {
@@ -423,11 +424,6 @@ function filterCategory(category, sanitizedCategory, element) {
     } else {
       card.style.display = 'none';
     }
-  }
-
-  const notFoundMessage = document.getElementById('not-found');
-  if (notFoundMessage) {
-    notFoundMessage.style.display = 'none';
   }
 
   // Update URL without reloading the page
@@ -508,7 +504,12 @@ openRequest.onupgradeneeded = function(event) {
 openRequest.onsuccess = function(event) {
   db = event.target.result;
   // Now that the database is open, load the content
-  loadContentAsync();
+  // Start once, but only after DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadContentAsync, { once: true });
+  } else {
+    loadContentAsync();
+  }
 };
 
 openRequest.onerror = function(event) {
@@ -622,21 +623,3 @@ async function loadContentAsync() {
   storeAllData(data);
   populateAndEnableSearch(data);
 }
-
-
-
-// Entry point: Wait for the DOM to load before proceeding
-document.addEventListener("DOMContentLoaded", function() {
-  if (db) {
-    loadContentAsync();
-  }
-  // If db is not available yet, it will be triggered by openRequest.onsuccess
-});
-
-
-// Fix footnote links
-document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('a[href^="#"]').forEach(a => {
-    a.setAttribute('href', location.pathname + a.getAttribute('href'));
-  });
-});

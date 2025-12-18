@@ -2,7 +2,7 @@ let docs = []; // [{ id, text, title }]
 let activeSeq = 0;
 
 const BATCH_DOCS = 25; // how many cards per message
-const MAX_WINDOW = 200; // Maximum number of characters to display before and after the search value
+const MAX_WINDOW = 200; // Number of characters to display before and after the search value
 
 self.onmessage = ({ data:msg }) => {
   if (msg.type === 'init') {

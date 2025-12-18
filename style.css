@@ -64,7 +64,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     word-wrap: break-word;
 }
 
-.content ol, .content li {
+.content ol {
     padding: 0;
     margin: 0;
 }
@@ -120,6 +120,11 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     text-decoration: underline;
 }
 
+#not-found, #not-found a {
+   color: #fff;
+   text-align: center;
+}
+
 .search-bar {
     width: 100%;
     margin: 1vh auto 2vh;
@@ -165,28 +170,34 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     background-color: yellow;
     color: #000;
 }
+
 .results-summary {
     color: #ccc;
 }
+
 .category {
     color: #ddd;
     font-weight: bold;
     font-size: smaller;
 }
+
 .title {
     word-wrap: break-word;
     margin: 0 auto;
     max-width: calc(100% - 80px);
 }
+
 .title-container {
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 }
+
 .title-container h1 {
     margin-top: 0;
 }
+
 .categories {
     display: flex;
     justify-content: center;
@@ -194,6 +205,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     align-items: center;
     margin-bottom: 20px;
 }
+
 .categories a {
     background-color: #111;
     margin: 5px;
@@ -201,10 +213,12 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     padding: 1vh;
     border-radius: 1vh;
 }
+
 .chosen-category {
     background-color: #fff !important;
     color: #000 !important;
 }
+
 #scrollToThis {
     background-color: rgb(173, 158, 119) !important;
     color: #000;
@@ -230,6 +244,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     user-select: none;
     -webkit-user-select: none;
 }
+
 #removeHighlights .x {
     display: inline-block;
     width: 18px;
@@ -243,111 +258,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     border-radius: 50%;
     background: #505050;
 }
+
 #removeHighlights:hover {
     background-color: #262626;
-}
-
-
-/* FIND ON PAGE */
-
-.find-on-page {
-    display: none;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #303030;
-    color: #fff;
-    padding: 10px 20px;
-    z-index: 1000;
-    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-    user-select: none;
-    -webkit-user-select: none;
-}
-.find-on-page-content {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    max-width: 786px;
-}
-.find-on-page input {
-    flex-grow: 1;
-    flex-shrink: 1;
-    min-width: 100px;
-    margin: 0 10px;
-    padding: 8px;
-    border: 1px solid #444;
-    border-radius: 5px;
-    font-size: 16px;
-    background-color: #222;
-    color: #fff;
-}
-.find-on-page-buttons {
-    display: flex;
-    align-items: center;
-}
-.find-on-page button {
-    background: none;
-    border: none;
-    font-size: 18px;
-    cursor: pointer;
-    padding: 8px;
-    color: #fff;
-    margin: 0 5px;
-    flex-shrink: 0;
-    touch-action: manipulation; /* Prevents double-tap zooming on mobile */
-}
-#find-on-page-count {
-    font-size: 14px;
-    color: #fff;
-    margin: 0 10px;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-body.find-on-page-active {
-    padding-bottom: 60px;
-}
-.find-on-page-highlight {
-    background-color: yellow;
-    color: #000;
-}
-.find-on-page-highlight-current {
-    background-color: orange;
-    color: #000;
-}
-.activate-find-on-page {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #303030;
-    color: #fff;
-    border: none;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    font-size: 14px;
-    cursor: pointer;
-    z-index: 999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-.activate-find-on-page svg {
-    width: 24px;
-    height: 24px;
-}
-@media (max-width: 786px) {
-    .find-on-page {
-        padding: 10px;
-    }
-    .find-on-page-content {
-        width: 100%;
-    }
-    .content {
-        padding-bottom: 60px;
-    }
 }

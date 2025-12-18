@@ -1,4 +1,4 @@
-@[Source](https://www.smilingstars.fi/artikkeli-Vonderplanitz.html)
+@[Source](https://web.archive.org/web/20250830162933/https://www.smilingstars.fi/artikkeli-Vonderplanitz.html)
 
 Date: June 2003
 

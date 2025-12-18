@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-// Absolute filesystem path to your Markdown root
+// Absolute filesystem path to your Markdown / Text files root
 $mdFolder = 'md';
 
 // Your site base URL
@@ -17,8 +17,8 @@ $twitterAccount = "@Aajonus";
 // Should links contain the category? ie website.com/books/we-want-to-live/
 $categoryInLinks = false;
 
-// Prioritize categories in search results
+// Prioritize these categories in search results
 $prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
 
-// Pin articles to the top for its category
+// Pin these articles to the top for its category
 $pinnedArticles = ['we-want-to-live'];

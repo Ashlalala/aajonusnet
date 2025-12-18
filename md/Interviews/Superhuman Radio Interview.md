@@ -2,7 +2,7 @@ Date: 28 April 2009
 
 Transcribed by Aajonus.net & Rawmeatgang
 
-C = Carl (Host), A = Aajonus
+C = Carl Lanore (Host), A = Aajonus
 
 [Intro] Prepare to experience the strongest radio allowable by law. Secrets will be revealed, myths dispelled. From the studio gym where excuses never apply, it's Superhuman Radio with your host, Carl Lanoor.
 

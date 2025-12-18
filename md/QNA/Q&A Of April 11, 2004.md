@@ -1012,7 +1012,7 @@ A: For 25 year olds it's $1,000 an egg.
 
 Q: Wow.
 
-A: Full of black or white mold. This bacteria. And the only people can afford it are these rich octagenarians. It's for real. And they'll eat an egg and they'll be able to have sex every day and ejaculate two or three times a day for a month.
+A: Full of black or white mold. This bacteria. And the only people can afford it are these rich octogenarians. It's for real. And they'll eat an egg and they'll be able to have sex every day and ejaculate two or three times a day for a month.
 
 Q: Really? Oh wow!
 

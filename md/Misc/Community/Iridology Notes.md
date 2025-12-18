@@ -1,4 +1,4 @@
-@[Source](https://pastebin.com/QqV2PUfR)
+@[Source](https://web.archive.org/web/20250830163603/https://pastebin.com/QqV2PUfR)
 
 Note: These notes are from a community member. Not from Aajonus himself.
 

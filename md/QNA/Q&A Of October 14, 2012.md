@@ -1353,7 +1353,7 @@ A: Theirs is always natural. They've got more gas in their well than any other o
 
 Q: [unintelligible]
 
-A: Okay, there's Raw Healthy Foods. Maryland is the head of that one. And then there's Gary Ferry, which is udderlyla.com. U-D-D-E-R-L-Y-L-A-C-O-M. Udderly LA.
+A: Okay, there's Ra Healthy Foods. Maryland is the head of that one. And then there's Gary Ferry, which is udderlyla.com. U-D-D-E-R-L-Y-L-A-C-O-M. Udderly LA.
 
 Q: Is that local?
 

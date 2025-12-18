@@ -12,6 +12,7 @@
       down: 'find-on-page-down',
       close: 'find-on-page-close',
       count: 'find-on-page-count',
+      clear: 'find-on-page-clear',
     },
     highlightClass: 'find-on-page-highlight',
     currentClass: 'find-on-page-highlight-current',
@@ -91,6 +92,23 @@
     }
   }
 
+  const toggleClear = () => {
+    const b = el(cfg.ids.clear), i = el(cfg.ids.input);
+    if (b && i) b.style.display = i.value ? 'block' : 'none';
+  };
+
+  const clearInput = () => {
+    const i = el(cfg.ids.input);
+    if (!i) return;
+    i.value = '';
+    performSearch();
+    toggleClear();
+    i.focus();
+  };
+
+  const prefersReduced = () =>
+  global.matchMedia?.('(prefers-reduced-motion: reduce)')?.matches;
+
   const isKeyboardOpen = () =>
     global.visualViewport && (global.innerHeight - global.visualViewport.height > 100);
 
@@ -103,7 +121,7 @@
     const rect = result.getBoundingClientRect();
     const viewportH = global.visualViewport ? global.visualViewport.height : global.innerHeight;
     const scrollY = global.scrollY + rect.top - viewportH / 2 + rect.height / 2;
-    global.scrollTo({ top: scrollY, behavior: isPWA() ? 'auto' : 'smooth' });
+    global.scrollTo({ top: scrollY, behavior: (isPWA() || prefersReduced()) ? 'auto' : 'smooth' });
     updateCurrentResultHighlight();
   }
 
@@ -160,7 +178,7 @@
         if (isInWidget(node)) return;
         const tn = node.tagName.toLowerCase();
         if (!isElementVisible(node)) return;
-        if (['script','style','iframe','canvas','svg'].includes(tn) ||
+        if (['script','style','iframe','canvas','svg','textarea','input','select','option','button'].includes(tn) ||
         node.hasAttribute('contenteditable') || node.inert ||
         node.getAttribute('aria-hidden') === 'true') return;
         // Clone list because we mutate the DOM
@@ -189,6 +207,7 @@
     const input = el(cfg.ids.input);
     if (input) {
       input.focus();
+      toggleClear();
       if (input.value.trim() !== '') performSearch();
     }
     updateFindOnPagePosition();
@@ -210,17 +229,20 @@
     const up = el(cfg.ids.up);
     const down = el(cfg.ids.down);
     const closeBtn = el(cfg.ids.close);
+    const clearBtn = el(cfg.ids.clear);
 
     if (activator) activator.addEventListener('click', show);
 
     if (input) {
-      input.addEventListener('input', debounce(performSearch, 300));
+      const run = debounce(performSearch, 300);
+      input.addEventListener('input', () => { toggleClear(); run(); });
       input.addEventListener('keydown', (e) => {
         if (e.key === 'Enter') { e.preventDefault(); e.shiftKey ? moveToPreviousResult() : moveToNextResult(); }
         else if (e.key === 'Escape') { e.preventDefault(); hide(); }
       });
     }
 
+    if (clearBtn) clearBtn.addEventListener('click', (e) => { e.preventDefault(); clearInput(); });
     if (up) up.addEventListener('click', moveToPreviousResult);
     if (down) down.addEventListener('click', moveToNextResult);
     if (closeBtn) closeBtn.addEventListener('click', hide);
@@ -241,16 +263,56 @@
     });
   }
 
-  function init(options) {
-    if (options && options.ids) Object.assign(cfg.ids, options.ids);
-    if (options && options.highlightClass) cfg.highlightClass = options.highlightClass;
-    if (options && options.currentClass) cfg.currentClass = options.currentClass;
+  function ensureDom() {
+    if (!el(cfg.ids.activate)) {
+      const btn = document.createElement('button');
+      btn.id = cfg.ids.activate;
+      btn.className = 'activate-find-on-page';
+      btn.type = 'button';
+      btn.setAttribute('aria-label', 'Open Find on Page');
+      btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>';
+      document.body.appendChild(btn);
+    }
+    if (!el(cfg.ids.bar)) {
+      const wrap = document.createElement('div');
+      wrap.id = cfg.ids.bar;
+      wrap.className = 'find-on-page';
+      wrap.style.display = 'none';
+      wrap.setAttribute('role', 'search');
+      wrap.innerHTML = `
+        <div class="find-on-page-content">
+          <button id="${cfg.ids.close}" type="button" aria-label="Close find on page">✕</button>
+          <div class="find-on-page-input-wrap">
+            <input id="${cfg.ids.input}" type="text" placeholder="Find on Page" role="searchbox" aria-label="Find text on page" autocomplete="off" spellcheck="false">
+             <button id="${cfg.ids.clear}" type="button" class="fop-clear" aria-label="Clear search">✕</button>
+          </div>
+          <div id="${cfg.ids.count}" aria-live="polite" aria-atomic="true"></div>
+          <div class="find-on-page-buttons">
+            <button id="${cfg.ids.up}" type="button" aria-label="Previous result">▲</button>
+            <button id="${cfg.ids.down}" type="button" aria-label="Next result">▼</button>
+          </div>
+        </div>`;
+      document.body.appendChild(wrap);
+    }
+  }
+
+  function ensureCSS() {
+    if (document.getElementById('find-on-page-css')) return;
+    const link = document.createElement('link');
+    link.id = 'find-on-page-css';
+    link.rel = 'stylesheet';
+    link.href = '/code/findonpage.css?v=1';
+    document.head.appendChild(link);
+  }
+
+  function init() {
+    ensureCSS();
+    ensureDom();
     attachListeners();
   }
 
-  // Auto-init if elements exist
+  // Auto-init
   document.addEventListener('DOMContentLoaded', () => {
-    const bar = el(cfg.ids.bar) || el(cfg.ids.activate);
-    if (bar) init();
+    init();
   });
 })(window);

@@ -409,6 +409,7 @@ Plastic leeches phthalate toxins into the water.
 ### 🚫 Very undesirable
 **Avoid treated water**  
 Avoid water that was “ozonated”, or processed to “remove iron”.  
+(Gerolsteiner uses natural sand filtration to remove iron)  
 These processes add toxins to the water.
 
 ---

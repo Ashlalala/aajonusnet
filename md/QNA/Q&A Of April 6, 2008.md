@@ -1158,7 +1158,7 @@ Q: I've got a link to the website for the primal [unintelligible].
 
 A: Oh, oh, you want to go ahead and say that?
 
-Q: Yeah, I've got it written down here. It's a long, complicated website. You'll need a pen and paper. Http://primaldiet.ning.com 
+Q: Yeah, I've got it written down here. It's a long, complicated website. You'll need a pen and paper. primaldiet.ning.com 
 
 Q: Pretty fast.
 

@@ -918,8 +918,8 @@ Saturday. They’re renting the lot of the Arco Station on Cloverfield in Santa
 Monica on Saturdays 11-4. [Note: the location has since changed.] So you order
 and pay online and pick up your packaged food. They have eggs, fruit &
 vegetables. The only thing I’ve ordered every week and not gotten is blue
-cheese. The website is rahealthyfoods.com. Order by Sunday, pick up next
-Saturday. Amos Miller. Chickens are fed barley, oats and meat scraps. We’ve
+cheese. The website is rahealthyfoods.com. [Note: now, see farmmatch.com]
+Order by Sunday, pick up next Saturday. Amos Miller. Chickens are fed barley, oats and meat scraps. We’ve
 been experimenting. I’ve asked him to give me some legs and breasts in whey -
 predigesting chicken in whey instead of lemon. I just received the first batch
 and will try it tomorrow. Lemon is ready in 20 minutes; whey will take a week. I

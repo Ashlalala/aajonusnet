@@ -542,13 +542,14 @@ Q: And what about over a 10-20 year period?
 
 A: You still throw all that off. That's such a minute amount that you can get rid of it every day.
 
-Q: Would there be a material for pulp capping? He wanted to use a dycal and that seemed... He said that if you don't use something right, I guess this is over the nerve.
+Q: Would there be a material for pulp capping? He wanted to use a dycal [Note: Calcium Hydroxide, a pulp-capping protective liner under filling material] and that seemed... He said that if you don't use something right, I guess this is over the nerve.
 
 A: Well, I usually use BioCalex.
 
 Q: What's that?
 
-A: It's a type of calcium. Calcium rock that's powdered. And it's pretty non-toxic, BioCalex.
+A: It's a type of calcium. Calcium rock that's powdered. And it's pretty non-toxic, BioCalex. [Note: Calcium Hydroxide with a setting agent marketed as a
+safer alternate filling material to gutta percha in root canals]
 
 Q: So who's your dentist?
 

@@ -72,7 +72,7 @@ Show notes:
 
 > Vonderplanitz passed away on August 28th, 2013. Both Roach and Ellingson knew him on a more personal basis. We discuss his life, the mysteries surrounding his death and who will carry the torch now that he’s gone.
 
-Link: [Super Human Radio #1269](https://web.archive.org/web/20250423131342/https://superhumanradio.net/shr-1269-the-blueprint-power-hour-plus-we-pay-homage-to-aajonus-vonderplanitz) (September 10th, 2013)
+Link: [Super Human Radio #1269](superhuman-radio-homage) (September 10th, 2013)
 
 ### Obituary by David Gumpert
 
