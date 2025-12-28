@@ -119,7 +119,7 @@ Synonyms: Fear Of Leaving Home, Fear Of Crowds, Panic In Public, Anxiety In Open
 
 ## AIDS
 
-Synonyms: Acquired Immunodeficiency Syndrome, Late-stage Hiv, Advanced Hiv, Immune Deficiency, Opportunistic Infections  
+Synonyms: Acquired Immunodeficiency Syndrome, Late-stage HIV, Advanced HIV, Immune Deficiency, Opportunistic Infections  
 
 
 **Diet Protocol**  
@@ -148,9 +148,9 @@ Synonyms: Alcohol Cravings, Urge To Drink, Alcohol Dependence, Problem Drinking,
 - 🍖 Small amounts of raw meat **with raw fat**, alternating with **very small amounts of fresh fruits (preferably unripe)** **with raw fat** throughout the day.
 
 **Alcohol Craving Formula (all blended together)**  
-- 🍋‍🟩 Lime Juice of 5 Limes 
-- 🥑 Avocado ×1  
-- 🥝 Kiwi ×4 (or 1 cup live pineapple if no fresh kiwi)  
+- 🍋‍🟩 Lime Juice of 5 Limes
+- 🥑 Avocado ×1
+- 🥝 Kiwi ×4 (or 1 cup live pineapple if no fresh kiwi)
 - 🍯 Unheated Honey 4 tbsp
 
 **If cravings are from poor fat digestion**  
@@ -424,13 +424,13 @@ Synonyms: Wheezing, Shortness Of Breath, Breathless, Tight Chest, Asthma Attack,
 
 
 **Avoid**  
-- 🧀 **Processed cheeses** and ☕ **caffein**e (coffee, chocolate, medications, sodas, teas).
+- 🧀 **Processed cheeses** and ☕ **caffeine** (coffee, chocolate, medications, sodas, teas).
 - 🧂 Store‑bought **mayonnaise & mustard**.
 
 **Diet Protocol**  
 - 🐟 Eat **plenty of raw fish**.
 - 🥚 Eat **plenty of raw eggs**.
-- 🍅 Eat **plenty of tomatoes** ( make in to raw juice/sauce if preferred).
+- 🍅 Eat **plenty of tomatoes** (make into raw juice/sauce if preferred).
 - 🥛 When available: **raw milk** with **raw fish** *or* **raw eggs** to speed results.
 - ☀️ Get **sunshine, fresh air**, and enjoy **open spaces**.
 
@@ -482,8 +482,6 @@ Synonyms: Autism Spectrum, ASD, Neurodevelopmental Disorder, Sensory Sensitivity
 
 
 ### From Healthfully
-
-### Autism
 
 - Autism is defined as a disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior. Autism has not only been diagnosed more in recent decades, but cases have increased at a fast rate. It is in great part often caused by toxic metal contamination in the brain.  
 
@@ -631,7 +629,7 @@ Synonyms: Vitamin A Deficiency, Xerophthalmia, Dry Eye Spots, Foamy Eye Patches,
 
 ## Bladder infection
 
-Synonyms: UTI, Urinary Tract Infection, Cystitis, Burning Urination, Frequent Urination, Painful Urination, Bladder Inflammation, Burning Pee,  
+Synonyms: UTI, Urinary Tract Infection, Cystitis, Burning Urination, Frequent Urination, Painful Urination, Bladder Inflammation, Burning Pee  
 
 
 **Flare Protocol**  
@@ -740,7 +738,7 @@ Synonyms: Fracture, Bone Break, Cracked Bone, Bone Injury, Broken Arm, Broken Le
 
 **Diet Protocol**  
 - 🍍 **Unripe pineapple**: 1/2 per day for **1 week**, then **every 3rd day** for **5 more weeks**.
-- 🍽️ Balanced raw diet and **Brittle Bones** protocol in conjuction with this works best.
+- 🍽️ Balanced raw diet and **Brittle Bones** protocol in conjunction with this works best.
 
 
 ---
@@ -1041,7 +1039,7 @@ Synonyms: CFS, ME/CFS, Myalgic Encephalomyelitis, Extreme Fatigue, Post-exertion
 - 🚫 Often lack enzyme-mutation for **cooked green foods** → avoid them.
 
 **Diet Protocol**  
-- 🥩 Eat **raw meat 2–4× daily** within a **balanced raw diet**(referenced in the recipe book).
+- 🥩 Eat **raw meat 2–4× daily** within a **balanced raw diet** (referenced in the recipe book).
 
 
 ---
@@ -1131,7 +1129,7 @@ Synonyms: Heart Failure, CHF, Fluid In Lungs, Weak Heart, Shortness Of Breath, S
 
 ## Conjunctivitis
 
-Synonyms: Pink Eye, Eye Infection, Red Eye, Itchy Eye, Conjunctival Inflammation, Red Eyes, Itchy Eyes, Eye Inflammation, Eye Irritation, Burning Eyes, Dry Eyes    
+Synonyms: Pink Eye, Eye Infection, Red Eye, Itchy Eye, Conjunctival Inflammation, Red Eyes, Itchy Eyes, Eye Inflammation, Eye Irritation, Burning Eyes, Dry Eyes  
 
 **Day Plan (for several days)**  
 - 🍹 Sip **2–3 smoothies** throughout the day, each made of:  
@@ -1584,7 +1582,7 @@ Synonyms: Acupoints, Needle Therapy, Traditional Chinese Medicine, TCM, Electroa
 **Notes**  
 - ✅ Often effective for symptom relief.
 - ⚠️ Needles **lacerate tiny skin/nerve cells**; repeated sessions may **scar** and **desensitize** areas over time.
-- 🔄 Mixed view overall-but generally **preferred over invasive Western approaches** in this framework.
+- 🔄 Mixed view overall - but generally **preferred over invasive Western approaches** in this framework.
 
 
 ---
@@ -1708,7 +1706,7 @@ Synonyms: Labor, Childbirth, Delivery, Giving Birth, Birth Process
 **Notes**  
 - 👶 Skin‑to‑skin in warm bath for **~45 minutes** post‑birth may soothe both mother and baby.
 - 👩🏻‍🦰 Women who were on the Primal Diet for **at least two years** experience much easier birthing (two major contractions).
-- 🚫 Ceaserean sections have **serious side effects** for women and can last a life-time. They are **rarely actually necessary**.
+- 🚫 Cesarean sections have **serious side effects** for women and can last a lifetime. They are **rarely actually necessary**.
 
 
 ---
@@ -1787,8 +1785,8 @@ Synonyms: Infectious, Catching, Spreadable, Transmissible, Contagion
 
 
 **Perspective**  
-- 😰 Contagious is a manipulate word/concept that **incites fear**.
-- 🦠 Natural microbes are **helpers** that respond to toxicity-not attackers of healthy tissue.
+- 😰 Contagious is a manipulative word/concept that **incites fear**.
+- 🦠 Natural microbes are **helpers** that respond to toxicity - not attackers of healthy tissue.
 - ✅ The goal is to **reduce stored toxins** through raw foods and letting natural cleanses run their course.
 
 
@@ -1845,7 +1843,7 @@ Synonyms: Workout, Physical Activity, Fitness, Movement, Training, Exercise Rout
 
 **Guidance**  
 - 🙅🏼‍♂️ Exercise **may not be necessary** for all.
-- 🎯 Move when it **feels appealing**-especially when anxious/restless (spend excess hormones).  
+- 🎯 Move when it **feels appealing** - especially when anxious/restless (spend excess hormones).  
 - 🧘‍♂️ Use **Hatha yoga** for gentle stretching; prioritize **breathing exercises** for whole‑body benefit.
 
 
@@ -2127,7 +2125,8 @@ Synonyms: Swelling, Fluid Retention, Puffy Ankles, Water Retention, Bloated, Ede
 
 ### From Healthfully
 
-Water retention is the retention of fluids in the body. It is sometimes a mineral deficiency or mineral imbalance where cells are unable to utilize water. Or it is dilution of toxins.   
+**Comment**  
+- Water retention is the retention of fluids in the body. It is sometimes a mineral deficiency or mineral imbalance where cells are unable to utilize water. Or it is dilution of toxins.   
 
 **Diet Protocol**  
 - 🍊 **Grapefruit** helps regulate water retention.
@@ -2580,7 +2579,7 @@ Synonyms: Sore Gums, Gum Pain, Swollen Gums, Tender Gums, Bleeding Gums, Gum Inf
 
 ## HIV
 
-Synonyms: Human Immunodeficiency Virus, Hiv Infection, Hiv Positive, Viral Load, Immune System Virus  
+Synonyms: Human Immunodeficiency Virus, HIV Infection, HIV Positive, Viral Load, Immune System Virus  
 
 
 **Frame**  
@@ -2679,7 +2678,8 @@ Synonyms: Connective Tissue Repair, Tendon Healing, Ligament Healing, Soft Tissu
 
 ### From Healthfully
 
-Skin, Joints, Cartilage, ...  
+**Comment**  
+- Skin, Joints, Cartilage, ...  
 
 **Diet Protocol**  
 - 🍗 The type of cells constituting **poultry** is closer to the types of cells of connective tissue than other meats.  
@@ -2716,9 +2716,7 @@ Synonyms: Cardiovascular Disease, Coronary Artery Disease, Heart Problems, Heart
 
 ### From Healthfully
 
-### Heart Palpitations
-
-Fast heartbeat  
+### Heart Palpitations, Fast heartbeat  
 
 **Diet Protocol**  
 - 🧀 **Raw unsalted cheese**.  
@@ -2985,7 +2983,8 @@ Synonyms: Upset Stomach, Heartburn, Gas, Bloating, Stomach Discomfort, Dyspepsia
 
 ### From Healthfully
 
-Bloating, pain, gas, digestion stopped.
+**Comment**  
+- Bloating, pain, gas, digestion stopped.
 
 **Relevant topic**  
 - 🧀 Cheese trains.  
@@ -3109,7 +3108,7 @@ Synonyms: Can't Sleep, Trouble Sleeping, Sleep Problems, Difficulty Falling Asle
 **Diet Protocol**  
 - 🥩 Meat • A whole meal (before sleep). 
 - 🧈 Fat • A decent amount (with the meat).
-- 🥛 Having **3tbsp raw cream** in **1 cup of raw milk** feeds and calms nervous sytem.  
+- 🥛 Having **3tbsp raw cream** in **1 cup of raw milk** feeds and calms nervous system.  
 
 
 ---
@@ -3757,7 +3756,7 @@ Synonyms: Brittle Nails, Nail Fungus, Nail Ridges, Nail Breakage, Nail Health
 
 ### From Healthfully
 
-### Rigged Nails
+### Ridged Nails
 
 - 👉🏻 Caused by accumulated toxins being dumped through the nails. If there is a presence of fungus, mycosis, it is only eating the decayed cells.  
 
