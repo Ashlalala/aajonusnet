@@ -240,6 +240,9 @@ pre, code {
 .search-error::placeholder {
   color: #d6bba7;
 }
+#footer {
+  text-align: center;
+}
 
 /* LIGHT MODE */
 @media (prefers-color-scheme: light) {

@@ -222,6 +222,7 @@ if ($is404) {
             <h2><a class="read-more" href="/<?= $fullUrl ?>"><?= $filename ?></a></h2>
         </div>
         <?php } ?>
+        <p id="footer">Download this entire website & the text files on the <a href="https://archive.org/details/aajonusnet"><b>Internet Archive</b></a> or <a href="https://github.com/aajonusnet/aajonusnet"><b>GitHub</b></a>.</p>
         </div>
     <div id="results"></div>
     </main>
