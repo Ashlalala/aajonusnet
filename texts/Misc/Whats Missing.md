@@ -1,4 +1,4 @@
-The audio/transcripts for these events are missing. Please contact aajonus at ik.me if you have them.
+The audio/transcripts for these events are missing. Please contact aajonusnet at gmail.com if you have them.
 
 (Announcements from [RawPaleoDietForum.com](https://web.archive.org/web/20210125194635/https://www.rawpaleodietforum.com/index.php?topic=184.0))
 

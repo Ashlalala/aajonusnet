@@ -1168,7 +1168,7 @@ A: Uh-huh?
 
 Q: Do you know if [unintelligible]?
 
-A: Oh, you mean for the ex-butter? Uh, it's, it's the Jersey gowns. Yeah. But I don't buy that. It's expensive. I experimented on probably 20, I guess, well, only the ones that reported back to me were about 22 people out of 30. And it didn't give any extra benefits on this diet. That's for people who eat cooked foods.
+A: Oh, you mean for the X-butter? Uh, it's, it's the Jersey gowns. Yeah. But I don't buy that. It's expensive. I experimented on probably 20, I guess, well, only the ones that reported back to me were about 22 people out of 30. And it didn't give any extra benefits on this diet. That's for people who eat cooked foods.
 
 Q: The butter oil?
 

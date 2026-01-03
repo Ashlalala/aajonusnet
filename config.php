@@ -30,7 +30,7 @@ $sortArticlesByDate = ['Q&A'];
 $pinnedArticles = ['we-want-to-live', 'the-recipe-for-living-without-disease'];
 
 // Hours to keep the search index cached in the browser
-$cacheHours = 24;
+$cacheHours = 120;
 
 // Absolute filesystem path to your Markdown / Text files root
 $mdFolder = 'texts';

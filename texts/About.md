@@ -25,4 +25,4 @@ Website Features:
 
 If you have any texts you would like to be added,
 
-please contact **aajonus (at) ik.me**
+please contact **aajonusnet (at) gmail.com**
